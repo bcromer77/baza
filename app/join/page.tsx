@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
 import { Input } from '@/components/ui/input';
@@ -11,10 +11,10 @@ export default function Home() {
   const [brandResults, setBrandResults] = useState<any[]>([]);
 
   const promptToQuery = (prompt: string) => {
-    if (prompt.includes("Portugal") && prompt.includes("Ozempic")) {
+    if (prompt.includes('Portugal') && prompt.includes('Ozempic')) {
       return {
-        topics: ["Ozempic"],
-        location: "Portugal",
+        topics: ['Ozempic'],
+        location: 'Portugal',
         budget: 5000,
         audienceSizeMin: 20000,
       };
@@ -28,7 +28,7 @@ export default function Home() {
     const res = await fetch('/api/brands/search', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(query)
+      body: JSON.stringify(query),
     });
     const data = await res.json();
     setBrandResults(data.results || []);
@@ -44,11 +44,8 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-black text-white p-6">
-      <h1 className="text-4xl font-bold mb-6 text-yellow-400 text-center">
-        Creator Prism
-      </h1>
+      <h1 className="text-4xl font-bold mb-6 text-yellow-400 text-center">Creator Prism</h1>
 
-      {/* Prompt Search */}
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">🧠 Natural Language Brand Search</h2>
         <form onSubmit={handlePromptSubmit} className="space-y-4 max-w-lg">
@@ -57,7 +54,7 @@ export default function Home() {
             placeholder="e.g. Show me creators in Portugal talking about Ozempic"
             className="w-full p-2 rounded text-black"
             value={userPrompt}
-            onChange={e => setUserPrompt(e.target.value)}
+            onChange={(e) => setUserPrompt(e.target.value)}
           />
           <button type="submit" className="w-full bg-yellow-400 text-black p-2 rounded">
             Search Brands
@@ -73,7 +70,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Call to Action */}
       <div className="text-center mt-10">
         <Dialog open={isSignUpOpen} onOpenChange={setIsSignUpOpen}>
           <DialogTrigger asChild>
