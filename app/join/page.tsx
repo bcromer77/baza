@@ -48,7 +48,7 @@ export default function Home() {
 
       <section className="mb-10">
         <h2 className="text-2xl font-semibold mb-4">🧠 Natural Language Brand Search</h2>
-        <form onSubmit={handlePromptSubmit} className="space-y-4 max-w-lg">
+        <form onSubmit={handlePromptSubmit} className="space-y-4 max-w-lg mx-auto">
           <input
             type="text"
             placeholder="e.g. Show me creators in Portugal talking about Ozempic"
