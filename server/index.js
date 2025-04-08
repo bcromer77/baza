@@ -1,21 +1,46 @@
+require('dotenv').config(); // 🧪 Make sure this is at the top
+
 const { MongoClient } = require('mongodb');
 const express = require('express');
 const cors = require('cors');
 const axios = require('axios');
 
 const app = express();
-const uri = 'mongodb://localhost:27017';
-const client = new MongoClient(uri);
-const PHYLLO_CLIENT_ID = '468269e2-08c6-48ff-8109-54c043f793c3';
-const PHYLLO_SECRET_KEY = 'a680f321-7ca0-43f0-b45a-94061a774654';
+// 🔐 Securely pull Mongo URI from .env
+const uri = process.env.MONGODB_URI;
+
+// Debug: Log the URI to verify it's being loaded
+console.log('MONGODB_URI:', process.env.MONGODB_URI);
+
+if (!uri) {
+  console.error('❌ MONGODB_URI is not defined in .env file');
+  process.exit(1);
+}
+
+// Load Phyllo API credentials from .env
+const PHYLLO_CLIENT_ID = process.env.PHYLLO_CLIENT_ID;
+const PHYLLO_SECRET_KEY = process.env.PHYLLO_SECRET_KEY;
 const PHYLLO_API_URL = 'https://api.sandbox.getphyllo.com';
+
+if (!PHYLLO_CLIENT_ID || !PHYLLO_SECRET_KEY) {
+  console.error('❌ PHYLLO_CLIENT_ID or PHYLLO_SECRET_KEY is not defined in .env file');
+  process.exit(1);
+}
+
+const client = new MongoClient(uri);
 
 app.use(express.json());
 app.use(cors());
 
 async function connectDB() {
-  await client.connect();
-  return client.db('creatortorch');
+  try {
+    await client.connect();
+    console.log('✅ Connected to MongoDB');
+    return client.db('creator-torch');
+  } catch (error) {
+    console.error('❌ MongoDB connection error:', error.message);
+    process.exit(1);
+  }
 }
 
 async function createPhylloUser(userId) {
@@ -23,7 +48,7 @@ async function createPhylloUser(userId) {
     `${PHYLLO_API_URL}/v1/users`,
     {
       external_id: userId,
-      name: userId, // Use handle as name
+      name: userId,
     },
     {
       headers: {
@@ -80,7 +105,7 @@ async function fetchCreatorData(userId) {
     };
   } catch (error) {
     console.error('Phyllo fetch error:', error.response?.data || error.message);
-    return null; // Fallback to mock
+    return null;
   }
 }
 
@@ -104,25 +129,22 @@ app.post('/signup', async (req, res) => {
     handle,
     email: require('crypto').createHash('sha256').update(email).digest('hex'),
     consent,
-    followers: 1000, // Default mock
+    followers: 1000,
     topVideoViews: 5000,
   };
 
   try {
-    // Create a user in Phyllo
     const userId = await createPhylloUser(handle);
     creatorData.userId = userId;
 
-    // Generate SDK token
     const sdkToken = await getPhylloToken(userId);
     creatorData.sdkToken = sdkToken;
 
-    // Fetch live data from Phyllo
     if (consent) {
       const liveData = await fetchCreatorData(userId);
       creatorData = {
         ...creatorData,
-        followers: liveData ? liveData.followers : 2000000, // Gigantes fallback
+        followers: liveData ? liveData.followers : 2000000,
         topVideoViews: liveData ? liveData.topVideoViews : 500000,
         platform: liveData ? liveData.platform : platform,
       };
@@ -159,6 +181,54 @@ app.get('/creator/:handle', async (req, res) => {
   res.json(creator || { error: 'Creator not found' });
 });
 
+// Temporary endpoint to match frontend expectations
+app.get('/api/creators/:id/dashboard', async (req, res) => {
+  res.json({
+    audienceInsights: [
+      {
+        geography: { Portugal: 60 },
+        intent: { Health: 45 },
+        behavior: { Engaged: 70 },
+        engagementTimes: { peak: '18:00-20:00' },
+        sentiment: { Ozempic: { sentiment: 'Positive', score: 0.8 } },
+      },
+    ],
+    monetizationPrompts: [{ text: 'Create a post about Ozempic' }],
+    brandOffers: [
+      { id: 1, brand: 'Lumi', offer: 'Lisbon Brunch Collab' },
+      { id: 2, brand: 'Ozempic', offer: 'Trend Series, €7K' },
+      { id: 3, brand: 'EcoBrand', offer: 'Galway Eco Routine, €3K' },
+    ],
+  });
+});
+
+app.post('/api/creators/:id/query', async (req, res) => {
+  res.json({
+    matches: 1500,
+    totalAudience: 20000,
+  });
+});
+
+app.post('/api/brands/search', async (req, res) => {
+  res.json([
+    {
+      handle: 'Creator1',
+      location: 'Portugal',
+      audienceSize: 25000,
+      matchPercentage: 85,
+      sentiment: { Ozempic: { sentiment: 'Positive' } },
+    },
+    {
+      handle: 'Creator2',
+      location: 'Portugal',
+      audienceSize: 30000,
+      matchPercentage: 90,
+      sentiment: { Ozempic: { sentiment: 'Neutral' } },
+    },
+  ]);
+});
+
+// Boot the server + seed data
 preloadData().then(() => {
-  app.listen(3000, () => console.log('Server on port 3000'));
+  app.listen(5000, () => console.log('🚀 Server running on http://localhost:5000'));
 });
