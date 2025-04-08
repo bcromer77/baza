@@ -1,106 +1,222 @@
-"use client";
+'use client';
 
-import Link from "next/link";
-import { ArrowRight, Users, BarChart2, Zap } from "lucide-react";
+import { useEffect, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 
-export default function Home() {
+function promptToQuery(prompt: string) {
+  if (prompt.toLowerCase().includes("portugal") && 
+prompt.toLowerCase().includes("ozempic")) {
+    return {
+      topics: ["Ozempic"],
+      location: "Portugal",
+      budget: 5000,
+      audienceSizeMin: 20000
+    };
+  }
+  return {
+    topics: [],
+    location: "",
+    budget: 0,
+    audienceSizeMin: 0
+  };
+}
+
+type Insight = {
+  geography: Record<string, number>;
+  intent: Record<string, number>;
+  behavior: Record<string, number>;
+  engagementTimes: Record<string, string>;
+  sentiment: Record<string, { sentiment: string; score: number }>;
+};
+
+type Prompt = { text: string };
+
+type DashboardData = {
+  audienceInsights: Insight[];
+  monetizationPrompts: Prompt[];
+  brandOffers: { id: number; brand: string; offer: string }[];
+};
+
+export default function CreatorDashboard() {
+  const searchParams = useSearchParams();
+  const creatorId = searchParams.get('id');
+
+  const [dashboardData, setDashboardData] = useState<DashboardData | 
+null>(null);
+  const [query, setQuery] = useState({ location: '', topic: '', sentiment: 
+'', minEngagement: '' });
+  const [queryResult, setQueryResult] = useState<any>(null);
+  const [prompt, setPrompt] = useState('');
+  const [brandResults, setBrandResults] = useState<any[]>([]);
+
+  useEffect(() => {
+    if (!creatorId) return;
+    fetch(`http://localhost:5000/api/creators/${creatorId}/dashboard`)
+      .then(res => res.json())
+      .then(data => setDashboardData(data))
+      .catch(err => console.error('Dashboard Error:', err));
+  }, [creatorId]);
+
+  const handleQuerySubmit = async (e: any) => {
+    e.preventDefault();
+    const response = await 
+fetch(`http://localhost:5000/api/creators/${creatorId}/query`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(query),
+    });
+    const data = await response.json();
+    setQueryResult(data);
+  };
+
+  const runBrandSearch = async () => {
+    const searchQuery = promptToQuery(prompt);
+    const response = await 
+fetch('http://localhost:5000/api/brands/search', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(searchQuery)
+    });
+    const data = await response.json();
+    setBrandResults(data);
+  };
+
+  if (!dashboardData) return <div className="text-white p-10">Loading 
+dashboard...</div>;
+
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Navigation */}
-      <nav className="max-w-7xl mx-auto px-4 py-6 flex justify-between items-center">
-        <div className="flex items-center">
-          <span className="text-2xl font-bold text-gray-900">CreatorTorch🔥</span>
-        </div>
-        <div className="flex items-center space-x-6">
-          <Link href="/demo" className="text-gray-600 hover:text-blue-500 transition-all duration-300 hover:glow">
-            Demo
-          </Link>
-          <Link href="/creator-dashboard" className="text-gray-600 hover:text-blue-500 transition-all duration-300 hover:glow">
-            Creator Dashboard
-          </Link>
-          <Link
-            href="/join"
-            className="bg-blue-500 text-white py-2 px-4 rounded-lg font-medium transition-all hover:bg-blue-600 hover:glow"
-          >
-            Get Started
-          </Link>
-        </div>
-      </nav>
+    <div className="min-h-screen bg-black text-white p-6">
+      <h1 className="text-4xl font-bold mb-6 text-yellow-400 
+text-center">Your Creator Dashboard</h1>
 
-      {/* Hero Section */}
-      <div className="max-w-7xl mx-auto px-4 pt-16 pb-24 text-center">
-        <h1 className="text-5xl font-bold text-gray-900 mb-6">Connect Brands with the Perfect Creators</h1>
-        <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-6">
-          CreatorTorch is the world’s first influencer platform that connects brands and creators based on what creators are actually saying, not likes or follows.
-        </p>
-        <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-10">
-          We’re building a new standard of influence—one that puts authentic voice first.
-        </p>
-        <div className="flex justify-center space-x-4">
-          <Link
-            href="/join"
-            className="bg-blue-500 text-white py-3 px-8 rounded-lg font-medium transition-all hover:bg-blue-600 hover:glow flex items-center"
-          >
-            Join as a Creator <ArrowRight size={16} className="ml-2" />
-          </Link>
-          <Link
-            href="/find-creators"
-            className="bg-white text-gray-800 border border-gray-300 py-3 px-8 rounded-lg font-medium transition-all hover:shadow-lg"
-          >
-            Find Creators
-          </Link>
-        </div>
-      </div>
+      {/* 🔍 Audience Insights */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4">Audience Insights</h2>
+        {dashboardData.audienceInsights.map((insight, index) => (
+          <div key={index} className="bg-gray-900 p-4 rounded-lg mb-4">
+            <p>📍 Location: {Object.entries(insight.geography)[0]?.join(': 
+')}%</p>
+            <p>🎯 Intent: {Object.entries(insight.intent)[0]?.join(': 
+')}%</p>
+            <p>📊 Behavior: {Object.entries(insight.behavior)[0]?.join(': 
+')}%</p>
+            <p>⏰ Engagement: {insight.engagementTimes.peak}</p>
+            <p>🧠 Sentiment:</p>
+            <ul className="ml-4">
+              {Object.entries(insight.sentiment).map(([topic, data]) => (
+                <li key={topic}>
+                  {topic}: {data.sentiment} (score {data.score})
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </section>
 
-      {/* Features Section */}
-      <div className="max-w-7xl mx-auto px-4 py-16">
-        <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">How CreatorTorch Works</h2>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <div className="bg-white p-6 rounded-xl shadow-sm">
-            <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center mb-4">
-              <Users size={24} className="text-blue-500" />
+      {/* 🔥 Hot Opportunities */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-semibold text-yellow-400 mb-4">🔥 Hot 
+Opportunities</h2>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+          {[
+            { title: 'Lisbon Brunch Collab', desc: 'Sponsored by Lumi' },
+            { title: 'Ozempic Trend Series', desc: '3 creators, €7K' },
+            { title: 'Galway Eco Routine', desc: '€3K, Zero-Waste theme' 
+},
+          ].map((item, i) => (
+            <div key={i} className="bg-gray-800 p-4 rounded-lg">
+              <p className="font-bold">{item.title}</p>
+              <p>{item.desc}</p>
             </div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Speak Your Truth</h3>
-            <p className="text-gray-600">
-              Creators: Connect once and get discovered for what you actually say, not tags or algorithms.
+          ))}
+        </div>
+      </section>
+
+      {/* 💬 Query Your Audience */}
+      <section className="mb-10">
+        <h2 className="text-2xl font-semibold mb-4">Run a Query</h2>
+        <form onSubmit={handleQuerySubmit} className="space-y-4 max-w-md">
+          <input
+            type="text"
+            placeholder="Location (e.g. Dublin)"
+            className="w-full p-2 rounded text-black"
+            value={query.location}
+            onChange={e => setQuery({ ...query, location: e.target.value 
+})}
+          />
+          <input
+            type="text"
+            placeholder="Topic (e.g. Ozempic)"
+            className="w-full p-2 rounded text-black"
+            value={query.topic}
+            onChange={e => setQuery({ ...query, topic: e.target.value })}
+          />
+          <select
+            className="w-full p-2 rounded text-black"
+            value={query.sentiment}
+            onChange={e => setQuery({ ...query, sentiment: e.target.value 
+})}
+          >
+            <option value="">Select Sentiment</option>
+            <option value="positive">Positive</option>
+            <option value="neutral">Neutral</option>
+            <option value="negative">Negative</option>
+          </select>
+          <input
+            type="number"
+            placeholder="Min Engagement %"
+            className="w-full p-2 rounded text-black"
+            value={query.minEngagement}
+            onChange={e => setQuery({ ...query, minEngagement: 
+e.target.value })}
+          />
+          <button type="submit" className="w-full bg-yellow-400 text-black 
+p-2 rounded">
+            Run Query
+          </button>
+        </form>
+        {queryResult && (
+          <div className="mt-4 bg-gray-900 p-4 rounded-lg">
+            <p>
+              🎯 <strong>{queryResult.matches}</strong> out of 
+<strong>{queryResult.totalAudience}</strong> followers matched
             </p>
           </div>
-          <div className="bg-white p-6 rounded-xl shadow-sm">
-            <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center mb-4">
-              <BarChart2 size={24} className="text-blue-500" />
-            </div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Real Voice Matching</h3>
-            <p className="text-gray-600">
-              Brands: Find creators based on their real voice, across languages, cities, and vibes.
-            </p>
-          </div>
-          <div className="bg-white p-6 rounded-xl shadow-sm">
-            <div className="w-12 h-12 bg-blue-50 rounded-lg flex items-center justify-center mb-4">
-              <Zap size={24} className="text-blue-500" />
-            </div>
-            <h3 className="text-xl font-bold text-gray-900 mb-2">Automatic Connections</h3>
-            <p className="text-gray-600">
-              Get matched automatically with the right brands or creators, with no endless searching.
-            </p>
-          </div>
-        </div>
-      </div>
+        )}
+      </section>
 
-      {/* CTA Section */}
-      <div className="max-w-7xl mx-auto px-4 py-16">
-        <div className="bg-blue-500 rounded-2xl p-12 text-center text-white">
-          <h2 className="text-3xl font-bold mb-4">Ready to Find Your Perfect Match?</h2>
-          <p className="text-xl max-w-2xl mx-auto mb-8">
-            Join CreatorTorch today and connect based on authentic voice.
-          </p>
-          <Link
-            href="/join"
-            className="bg-white text-blue-500 py-3 px-8 rounded-lg font-medium transition-all hover:shadow-lg hover:glow inline-block"
-          >
-            Get Started Now
-          </Link>
-        </div>
-      </div>
+      {/* 🧠 Smart Brand Search */}
+      <section>
+        <h2 className="text-2xl font-semibold text-yellow-400 mb-4">🧠 
+Smart Brand Search</h2>
+        <input
+          type="text"
+          placeholder="Show me creators in Portugal talking about Ozempic"
+          className="w-full p-2 rounded text-black"
+          value={prompt}
+          onChange={(e) => setPrompt(e.target.value)}
+        />
+        <button
+          className="mt-2 bg-yellow-400 text-black px-4 py-2 rounded"
+          onClick={runBrandSearch}
+        >
+          Search
+        </button>
+        {brandResults.length > 0 && (
+          <div className="mt-4">
+            {brandResults.map((result, i) => (
+              <div key={i} className="bg-gray-800 p-4 rounded mb-2">
+                <p>👤 {result.handle}</p>
+                <p>📍 {result.location}</p>
+                <p>📣 Followers: {result.audienceSize}</p>
+                <p>📈 Match Score: {result.matchPercentage}%</p>
+                <p>🧠 Sentiment: 
+{result.sentiment?.Ozempic?.sentiment}</p>
+              </div>
+            ))}
+          </div>
+        )}
+      </section>
     </div>
   );
 }
