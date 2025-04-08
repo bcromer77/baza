@@ -1,15 +1,5 @@
-# Ignore node_modules (dependencies)
-node_modules/
-
-# Ignore environment variables file
+node_modules
+.next
 .env
-
-# Ignore Next.js build output
-.next/
-
-# Ignore build artifacts
-dist/
-build/
-
-# Ignore macOS system files
+.env.local
 .DS_Store
