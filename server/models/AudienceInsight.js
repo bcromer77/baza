@@ -1,15 +1,12 @@
 const mongoose = require('mongoose');
 
-const AudienceInsightSchema = new mongoose.Schema({
-  creatorId: { type: mongoose.Schema.Types.ObjectId, ref: 'Creator' },
-  geography: { type: Map, of: Number },
-  behavior: { type: Map, of: Number },
-  intent: { type: Map, of: Number },
-  engagementTimes: { type: Map, of: String },
-  sentiment: { type: Map, of: Object }, // { sentiment: 'positive', score: 0.89 }
-  createdAt: { type: Date, default: Date.now },
+const audienceInsightSchema = new mongoose.Schema({
+  creatorId: { type: mongoose.Schema.Types.ObjectId, ref: 'Creator', required: true },
+  geography: { type: Object, default: {} },
+  behavior: { type: Object, default: {} },
+  intent: { type: Object, default: {} },
+  engagementTimes: { type: Object, default: {} },
+  sentiment: { type: Object, default: {} },
 });
 
-AudienceInsightSchema.index({ creatorId: 1 });
-
-module.exports = mongoose.model('AudienceInsight', AudienceInsightSchema);
+module.exports = mongoose.model('AudienceInsight', audienceInsightSchema);

@@ -1,12 +1,13 @@
 const fs = require("fs");
 const path = require("path");
 const { spawn } = require("child_process");
+const analyzeChunk = require("./analyzeTranscript");
+const suggestionEngine = require("./brain/suggestionEngine");
 
-// ✅ Step 1: Set your video file name here
+// Your video/audio file for testing:
 const audioFile = "whatsyourismKMapproval req.mp4";
 const audioPath = path.join(__dirname, audioFile);
 
-// ✅ Step 2: Check if the file exists
 if (!fs.existsSync(audioPath)) {
   console.error("❌ File not found:", audioPath);
   process.exit(1);
@@ -14,31 +15,45 @@ if (!fs.existsSync(audioPath)) {
 
 console.log("🧠 Running Whisper transcription on:", audioFile);
 
-// ✅ Step 3: Run Whisper CLI with English language + base model
-const whisper = spawn("whisper", [
-  audioPath,
-  "--language",
-  "en",
-  "--model",
-  "base"
-]);
+// Run Whisper
+const whisper = spawn("whisper", [audioPath, "--language", "en", 
+"--model", "base"]);
 
-// ✅ Step 4: Handle standard output
+// Capture Whisper output
 whisper.stdout.on("data", (data) => {
-  console.log(`✅ Whisper says: ${data}`);
+  const output = data.toString();
+  console.log(`✅ Whisper says: ${output}`);
+
+  // Dummy transcript chunks for testing
+  const transcript = [
+    {
+      text: "I absolutely love Lisbon for late summer dinners.",
+      start: 15.32,
+      end: 20.96,
+      ...analyzeChunk("I absolutely love Lisbon for late summer dinners.")
+    },
+    {
+      text: "My career has always been about empowerment.",
+      start: 21.96,
+      end: 27.50,
+      ...analyzeChunk("My career has always been about empowerment.")
+    }
+  ];
+
+  const suggestions = suggestionEngine(transcript);
+  console.log("✨ Generated Suggestions:", suggestions);
 });
 
-// ✅ Step 5: Handle errors
+// Handle errors from Whisper
 whisper.stderr.on("data", (data) => {
-  console.error(`⚠️ Whisper error: ${data}`);
+  console.error(`⚠️ Whisper error: ${data.toString()}`);
 });
 
-// ✅ Step 6: On exit
 whisper.on("close", (code) => {
-  if (code === 0) {
-    console.log("✅ Whisper transcription completed successfully.");
-  } else {
+  if (code !== 0) {
     console.error(`🛑 Whisper exited with code ${code}`);
+  } else {
+    console.log("✅ Whisper transcription completed successfully.");
   }
 });
 
