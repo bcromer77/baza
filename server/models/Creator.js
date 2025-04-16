@@ -1,10 +1,13 @@
 const mongoose = require('mongoose');
 
 const creatorSchema = new mongoose.Schema({
-  email: { type: String, required: true, unique: true },
-  channels: [{ platform: String, accessToken: String }],
-  stripeAccountId: { type: String },
-  audienceInsights: [{ type: mongoose.Schema.Types.ObjectId, ref: 'AudienceInsight' }],
+  name: String,
+  email: String,
+  videos: [String],
+  stats: {
+    views: Number,
+    subscribers: Number,
+  },
 });
 
-module.exports = mongoose.model('Creator', creatorSchema);
+module.exports = mongoose.models.Creator || mongoose.model('Creator', creatorSchema);

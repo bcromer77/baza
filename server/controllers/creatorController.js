@@ -4,6 +4,8 @@ const phylloService = require('../services/phylloService');
 const sentimentService = require('../services/sentimentService');
 const stripeService = require('../services/stripeService');
 const queryService = require('../services/queryService');
+const Transcript = require('../models/Transcript');
+const fetch = require('node-fetch');
 
 const signup = async (req, res) => {
   const { email, channels } = req.body;
@@ -41,12 +43,28 @@ const signup = async (req, res) => {
 
       await insight.save();
       audienceInsights.push(insight._id);
+
+      // Auto-trigger batch Whisper transcription for this channel
+      if (channel.videoUrls && channel.videoUrls.length > 0) {
+        await fetch('http://localhost:5000/api/whisper/batch-transcribe', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            creatorId: creator._id,
+            videoUrls: channel.videoUrls.slice(0, 50)
+          })
+        });
+      }
     }
 
     creator.audienceInsights = audienceInsights;
     await creator.save();
 
-    res.status(201).json({ message: 'Creator signed up successfully', creatorId: creator._id, stripeAccountLink: accountLink });
+    res.status(201).json({
+      message: 'Creator signed up successfully',
+      creatorId: creator._id,
+      stripeAccountLink: accountLink
+    });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
@@ -59,15 +77,29 @@ const getDashboard = async (req, res) => {
 
     const monetizationPrompts = await queryService.generateMonetizationPrompts(creator._id);
 
+    const transcripts = await Transcript.find({ creatorId: req.params.id });
+    const topics = transcripts.flatMap(t => t.transcript.split(' '))
+      .filter(w => w.length > 4)
+      .reduce((acc, word) => {
+        acc[word] = (acc[word] || 0) + 1;
+        return acc;
+      }, {});
+
+    const mostSpokenTopics = Object.entries(topics)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 10)
+      .map(([topic, count]) => ({ topic, count }));
+
     res.json({
       audienceInsights: creator.audienceInsights.map(insight => ({
         ...insight._doc,
         sentiment: Object.fromEntries(insight.sentiment),
       })),
       monetizationPrompts,
+      mostSpokenTopics,
       brandOffers: [
         { id: 1, brand: 'A Sustainable Skincare Brand', offer: '€5,000 for a 3-part GRWM video series' },
-      ],
+      ]
     });
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -87,3 +119,4 @@ const queryAudience = async (req, res) => {
 };
 
 module.exports = { signup, getDashboard, queryAudience };
+
