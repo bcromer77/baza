@@ -1,0 +1,249 @@
+from keybert import KeyBERT
+import sys
+import os
+import logging
+from pymongo import MongoClient
+import time
+
+# Set up logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+# Load Whisper and KeyBERT models
+try:
+    model = whisper.load_model("base")
+    kw_model = KeyBERT()
+except Exception as e:
+    logger.error(f"Failed to load models: {e}")
+    sys.exit(1)
+
+# MongoDB setup for caching
+try:
+    mongo_client = MongoClient(os.getenv("MONGODB_URI", 
+"mongodb://localhost:27017"))
+    db = mongo_client["creator_studio"]
+    cache_collection = db["cache"]
+except Exception as e:
+    logger.error(f"Failed to connect to MongoDB: {e}")
+    sys.exit(1)
+
+# Keyword extraction helper
+def extract_keywords(text, top_n=10):
+    try:
+        keywords = kw_model.extract_keywords(
+            text, keyphrase_ngram_range=(1, 2), 
+stop_words="english", top_n=top_n
+        )
+        return [kw[0] for kw in keywords]
+    except Exception as e:
+        logger.error(f"Keyword extraction failed: {e}")
+        return []
+
+# Cache transcription in MongoDB
+def cache_transcription(video_id, transcript, keywords):
+    try:
+        cache_collection.insert_one({
+            "video_id": video_id,
+            "type": "transcriptions",
+            "transcript": transcript,
+            "keywords": keywords,
+            "cacheExpires": {"$date": (int(time.time()) + 7 * 24 * 
+60 * 60) * 1000}  # 7-day TTL
+        })
+        logger.info(f"Cached transcription for video {video_id}")
+    except Exception as e:
+        logger.error(f"Failed to cache transcription: {e}")
+
+# Check cached transcription
+def get_cached_transcription(video_id):
+    try:
+        cached = cache_collection.find_one({
+            "video_id": video_id,
+            "type": "transcriptions",
+            "cacheExpires": {"$gt": {"$date": int(time.time()) * 
+1000}}
+        })
+        return cached if cached else None
+    except Exception as e:
+        logger.error(f"Failed to check cache: {e}")
+        return None
+
+# Main function
+def main():
+    # Ensure a file path was passed
+    if len(sys.argv) < 2:
+        logger.error("No file path provided")
+        print("Usage: python transcribe_and_extract.py 
+<path_to_video_or_audio_file>")
+        sys.exit(1)
+
+    file_path = sys.argv[1]
+
+    # Validate file path
+    if not os.path.exists(file_path):
+        logger.error(f"File '{file_path}' does not exist")
+        print(f"Error: File '{file_path}' does not exist")
+        sys.exit(1)
+
+    # Validate file format
+    valid_extensions = [".mp3", ".mp4", ".wav", ".m4a"]
+    if not any(file_path.lower().endswith(ext) for ext in 
+valid_extensions):
+        logger.error(f"Unsupported file format: {file_path}")
+        print(f"Error: File must be one of {valid_extensions}")
+        sys.exit(1)
+
+    # Generate a video ID (e.g., based on file name)
+    video_id = os.path.basename(file_path)
+
+    # Check cache
+    cached = get_cached_transcription(video_id)
+    if cached:
+        logger.info(f"Using cached transcription for {video_id}")
+        print("\n📝 Transcript:\n", cached["transcript"])
+        print("\n🏷 Keywords:\n", cached["keywords"])
+        return
+
+    # Transcribe with Whisper
+    logger.info("Transcribing...")
+    try:
+        result = model.transcribe(file_path)
+        transcript = result["text"]
+        logger.info("Transcription complete")
+        print("\n📝 Transcript:\n", transcript)
+    except Exception as e:
+        logger.error(f"Transcription failed: {e}")
+        print(f"Error: Transcription failed: {e}")
+        sys.exit(1)
+
+    # Extract keywords
+    logger.info("Extracting keywords...")
+    keywords = extract_keywords(transcript)
+    if not keywords:
+        logger.warning("No keywords extracted")
+        print("\n🏷 Keywords: None")
+    else:
+        logger.info(f"Extracted keywords: {keywords}")
+        print("\n🏷 Keywords:\n", keywords)
+
+    # Cache results
+    cache_transcription(video_id, transcript, keywords)
+
+if __name__ == "__main__":
+    main()import 
+whisper
+from keybert import KeyBERT
+import sys
+import os
+import time
+from pymongo import MongoClient
+import logging
+
+# Set up logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - 
+%(levelname)s - %(message)s")
+logger = logging.getLogger(__name__)
+
+# Load Whisper and KeyBERT models
+try:
+    model = whisper.load_model("base")
+    kw_model = KeyBERT()
+except Exception as e:
+    logger.error(f"Failed to load models: {e}")
+    sys.exit(1)
+
+# MongoDB setup for caching
+mongo_client = MongoClient(os.getenv("MONGODB_URI", 
+"mongodb://localhost:27017"))
+db = mongo_client["creator_studio"]
+cache_collection = db["cache"]
+
+# Keyword extraction helper
+def extract_keywords(text, top_n=10):
+    try:
+        keywords = kw_model.extract_keywords(
+            text, keyphrase_ngram_range=(1, 2), 
+stop_words="english", top_n=top_n
+        )
+        return [kw[0] for kw in keywords]
+    except Exception as e:
+        logger.error(f"Keyword extraction failed: {e}")
+        return []
+
+# Cache transcription in MongoDB
+def cache_transcription(video_id, transcript, keywords):
+    try:
+        cache_collection.insert_one({
+            "video_id": video_id,
+            "type": "transcriptions",
+            "transcript": transcript,
+            "keywords": keywords,
+            "cacheExpires": time.time() + 7 * 24 * 60 * 60  # 7-day 
+TTL as timestamp
+        })
+        logger.info(f"Cached transcription for video {video_id}")
+    except Exception as e:
+        logger.error(f"Failed to cache transcription: {e}")
+
+# Check cached transcription
+def get_cached_transcription(video_id):
+    try:
+        cached = cache_collection.find_one({
+            "video_id": video_id,
+            "type": "transcriptions",
+            "cacheExpires": {"$gt": time.time()}
+        })
+        return cached if cached else None
+    except Exception as e:
+        logger.error(f"Failed to check cache: {e}")
+        return None
+
+# Main function
+def main():
+    if len(sys.argv) < 2:
+        logger.error("No file path provided")
+        print("Usage: python transcribe_and_extract.py 
+<path_to_video_or_audio_file>")
+        sys.exit(1)
+
+    file_path = sys.argv[1]
+
+    if not os.path.exists(file_path):
+        logger.error(f"File '{file_path}'_
+import 
+whisper
+from keybert import KeyBERT
+import sys
+
+# Load Whisper and KeyBERT models
+model = whisper.load_model("base")
+kw_model = KeyBERT()
+
+# Keyword extraction helper
+def extract_keywords(text, top_n=10):
+    keywords = kw_model.extract_keywords(text, keyphrase_ngram_range=(1, 
+2), stop_words="english", top_n=top_n)
+    return [kw[0] for kw in keywords]
+
+# Ensure a file path was passed
+if len(sys.argv) < 2:
+    print("Usage: python transcribe_and_extract.py 
+<path_to_video_or_audio_file>")
+    sys.exit(1)
+
+file_path = sys.argv[1]
+
+# Transcribe with Whisper
+print("⏱ Transcribing...")
+result = model.transcribe(file_path)
+transcript = result["text"]
+print("\n📝 Transcript:\n", transcript)
+
+# Extract keywords
+print("\n🔍 Extracting keywords...")
+keywords = extract_keywords(transcript)
+print("\n🏷 Keywords:\n", keywords)
+

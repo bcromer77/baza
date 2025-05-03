@@ -1,0 +1,394 @@
+.
+├── app
+│   ├── #
+│   ├── DashboardContent.tsx
+│   ├── api
+│   │   ├── auth
+│   │   └── phyllo
+│   ├── app
+│   │   ├── invest
+│   │   ├── page.tsx
+│   │   └── privacy-policy
+│   ├── card
+│   ├── creator-dashboard
+│   │   ├── DashboardContent.tsx
+│   │   └── page.tsx
+│   ├── demo
+│   │   ├── creator-connect.tsx
+│   │   └── page.jsx.save
+│   ├── exists
+│   ├── find-creators
+│   ├── folder
+│   ├── globals.css
+│   ├── join
+│   │   └── page.tsx
+│   ├── layout.tsx
+│   ├── make
+│   ├── mcp
+│   │   └── page.tsx
+│   ├── page.tsx
+│   ├── page.tsx.bak
+│   ├── signup
+│   │   └── page.tsx
+│   └── sure
+├── backup.sh
+├── branddashboard
+│   ├── app
+│   │   ├── api
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── booking-modal.tsx
+│   │   ├── brand-community.tsx
+│   │   ├── brand-score.tsx
+│   │   ├── brand-studio.tsx
+│   │   ├── budget-optimizer.tsx
+│   │   ├── campaign-goals.tsx
+│   │   ├── campaign-insights.tsx
+│   │   ├── case-study.tsx
+│   │   ├── content-approval.tsx
+│   │   ├── cross-platform-insights.tsx
+│   │   ├── dashboard-layout.tsx
+│   │   ├── global-reach.tsx
+│   │   ├── influencer-search.tsx
+│   │   ├── mode-toggle.tsx
+│   │   ├── performance-benchmarking.tsx
+│   │   ├── smart-campaign-suggestions.tsx
+│   │   ├── theme-provider.tsx
+│   │   ├── ui
+│   │   └── yc-ready-steps.tsx
+│   ├── components.json
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── lib
+│   │   ├── data.ts
+│   │   └── utils.ts
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── chic-french-bob.png
+│   │   ├── confident-gaze.png
+│   │   ├── curly-haired-contemplation.png
+│   │   ├── eco-conscious-style.png
+│   │   ├── placeholder-logo.png
+│   │   ├── placeholder-logo.svg
+│   │   ├── placeholder-user.jpg
+│   │   ├── placeholder.jpg
+│   │   ├── placeholder.svg
+│   │   ├── serene-asian-portrait.png
+│   │   ├── serene-indian-woman.png
+│   │   └── vibrant-street-market.png
+│   ├── styles
+│   │   └── globals.css
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── cache
+│   └── phyllo
+├── components
+│   ├── Header.tsx
+│   ├── Slider.tsx
+│   ├── footer.tsx
+│   ├── phyllo-connect.tsx
+│   ├── theme-provider.tsx
+│   ├── try-creator-match-button.tsx
+│   └── ui
+│       ├── accordion.tsx
+│       ├── alert-dialog.tsx
+│       ├── alert.tsx
+│       ├── aspect-ratio.tsx
+│       ├── avatar.tsx
+│       ├── badge.tsx
+│       ├── breadcrumb.tsx
+│       ├── button.tsx
+│       ├── calendar.tsx
+│       ├── card.tsx
+│       ├── carousel.tsx
+│       ├── chart.tsx
+│       ├── checkbox.tsx
+│       ├── collapsible.tsx
+│       ├── command.tsx
+│       ├── context-menu.tsx
+│       ├── dialog.tsx
+│       ├── drawer.tsx
+│       ├── dropdown-menu.tsx
+│       ├── form.tsx
+│       ├── hover-card.tsx
+│       ├── input-otp.tsx
+│       ├── input.tsx
+│       ├── label.tsx
+│       ├── menubar.tsx
+│       ├── navigation-menu.tsx
+│       ├── pagination.tsx
+│       ├── popover.tsx
+│       ├── progress.tsx
+│       ├── radio-group.tsx
+│       ├── resizable.tsx
+│       ├── scroll-area.tsx
+│       ├── select.tsx
+│       ├── separator.tsx
+│       ├── sheet.tsx
+│       ├── sidebar.tsx
+│       ├── skeleton.tsx
+│       ├── slider.tsx
+│       ├── sonner.tsx
+│       ├── switch.tsx
+│       ├── table.tsx
+│       ├── tabs.tsx
+│       ├── textarea.tsx
+│       ├── toast.tsx
+│       ├── toaster.tsx
+│       ├── toggle-group.tsx
+│       ├── toggle.tsx
+│       ├── tooltip.tsx
+│       ├── use-mobile.tsx
+│       └── use-toast.ts
+├── components.json
+├── creator-dashboard
+│   └── components
+│       └── TranscriptionOptIn.js
+├── creator-prism (2)
+│   ├── app
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── loading.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── theme-provider.tsx
+│   │   └── ui
+│   ├── components.json
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── lib
+│   │   └── utils.ts
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── placeholder-logo.png
+│   │   ├── placeholder-logo.svg
+│   │   ├── placeholder-user.jpg
+│   │   ├── placeholder.jpg
+│   │   └── placeholder.svg
+│   ├── styles
+│   │   └── globals.css
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── creator-signal
+│   ├── app
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── theme-provider.tsx
+│   │   └── ui
+│   ├── components.json
+│   ├── creator-signal-demo.tsx
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── lib
+│   │   └── utils.ts
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── adventurous-explorer.png
+│   │   ├── global-explorer.png
+│   │   ├── placeholder-logo.png
+│   │   ├── placeholder-logo.svg
+│   │   ├── placeholder-user.jpg
+│   │   ├── placeholder.jpg
+│   │   ├── placeholder.svg
+│   │   └── urban-explorer.png
+│   ├── styles
+│   │   └── globals.css
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── creatordashboard
+│   ├── app
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components
+│   │   ├── analytics-section.tsx
+│   │   ├── audience-insights-section.tsx
+│   │   ├── creator-score-section.tsx
+│   │   ├── dashboard-header.tsx
+│   │   ├── dashboard-nav.tsx
+│   │   ├── dashboard-shell.tsx
+│   │   ├── geo-opportunities-section.tsx
+│   │   ├── main-nav.tsx
+│   │   ├── model-control-section.tsx
+│   │   ├── opportunities-section.tsx
+│   │   ├── outreach-section.tsx
+│   │   ├── payment-history-section.tsx
+│   │   ├── smart-suggestions-section.tsx
+│   │   ├── social-media-analytics-section.tsx
+│   │   ├── theme-provider.tsx
+│   │   ├── twilio-segment-section.tsx
+│   │   ├── ui
+│   │   ├── user-nav.tsx
+│   │   └── workflows-section.tsx
+│   ├── components.json
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── lib
+│   │   └── utils.ts
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── abstract-geometric-shapes.png
+│   │   ├── confident-blonde-analyst.png
+│   │   ├── converging-leaders.png
+│   │   ├── cosmic-artist.png
+│   │   ├── diverse-women-innovating.png
+│   │   ├── innovative-workspace.png
+│   │   ├── microsoft-campus-overview.png
+│   │   ├── placeholder-logo.png
+│   │   ├── placeholder-logo.svg
+│   │   ├── placeholder-user.jpg
+│   │   ├── placeholder.jpg
+│   │   ├── placeholder.svg
+│   │   ├── professional-networking.png
+│   │   └── web-summit-crowd.png
+│   ├── styles
+│   │   └── globals.css
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── find-creators
+├── hooks
+│   ├── use-mobile.tsx
+│   └── use-toast.ts
+├── join
+├── lib
+│   ├── db.ts
+│   ├── models
+│   │   └── User.ts
+│   └── utils.ts
+├── next-env.d.ts
+├── next.config.mjs
+├── package-lock.json
+├── package.json
+├── payload.json
+├── phyllo-connect-web
+│   ├── README.md
+│   ├── dist
+│   │   └── phylloAPIHelper.js
+│   ├── index.html
+│   ├── phyllo-connect-web-fresh
+│   │   ├── README.md
+│   │   ├── dist
+│   │   ├── index.html
+│   │   └── static
+│   └── static
+│       ├── favicon_64x64.svg
+│       └── style.css
+├── postcss.config.mjs
+├── prism
+│   ├── Perfect.mp4
+│   ├── analyzeTranscript.js
+│   ├── app
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   ├── loading.tsx
+│   │   └── page.tsx
+│   ├── brain
+│   │   └── suggestionEngine.js
+│   ├── chunkTranscript.js
+│   ├── components
+│   │   ├── theme-provider.tsx
+│   │   └── ui
+│   ├── components.json
+│   ├── hooks
+│   │   ├── use-mobile.tsx
+│   │   └── use-toast.ts
+│   ├── lib
+│   │   └── utils.ts
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   │   ├── placeholder-logo.png
+│   │   ├── placeholder-logo.svg
+│   │   ├── placeholder-user.jpg
+│   │   ├── placeholder.jpg
+│   │   └── placeholder.svg
+│   ├── styles
+│   │   └── globals.css
+│   ├── tailwind.config.ts
+│   ├── transcribe-test.js
+│   ├── tsconfig.json
+│   ├── whatsyourismKMapproval req.json
+│   ├── whatsyourismKMapproval req.mp4
+│   ├── whatsyourismKMapproval req.srt
+│   ├── whatsyourismKMapproval req.tsv
+│   ├── whatsyourismKMapproval req.txt
+│   ├── whatsyourismKMapproval req.vtt
+│   └── whisper-env
+│       ├── bin
+│       ├── include
+│       ├── lib
+│       ├── pyvenv.cfg
+│       └── share
+├── public
+│   ├── placeholder-logo.png
+│   ├── placeholder-logo.svg
+│   ├── placeholder-user.jpg
+│   ├── placeholder.jpg
+│   ├── placeholder.svg
+│   └── videos
+├── sentiment_analysis.py
+├── server
+│   ├── cache
+│   │   └── phyllo
+│   ├── controllers
+│   │   └── creatorController.js
+│   ├── index.js
+│   ├── invoices
+│   ├── lib
+│   │   └── models
+│   ├── models
+│   │   ├── AudienceInsight.js
+│   │   ├── Creator.js
+│   │   ├── Invoices.js
+│   │   └── Transcript.js
+│   ├── mongoClient.js
+│   ├── routes
+│   │   ├── brandRoutes.js
+│   │   ├── creatorRoutes.js
+│   │   ├── invoiceRoutes.js
+│   │   ├── utilsRoutes.js
+│   │   └── whisperRoutes.js
+│   ├── seed.js
+│   ├── server
+│   │   └── controllers
+│   ├── server.js
+│   ├── services
+│   │   ├── matchingService.js
+│   │   ├── phylloCacheService.js
+│   │   ├── phylloService.js
+│   │   ├── queryService.js
+│   │   ├── sentimentService.js
+│   │   ├── stripeService.js
+│   │   └── whisperService.js
+│   └── utils
+│       └── pdfGenerator.js
+├── structure.txt
+├── styles
+│   └── globals.css
+├── tailwind.config.ts
+├── tsconfig.json
+└── vercel.json
+
+99 directories, 293 files

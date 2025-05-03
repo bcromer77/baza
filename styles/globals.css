@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom right, #111827, #000000);
+  color: white;
+  font-family: 'Inter', sans-serif;
+}
+
+input, textarea {
+  background: #374151;
+  border: none;
+  outline: none;
+  color: white;
+}
+
+button {
+  transition: all 0.3s ease;
+}
+
+.backdrop-blur-md {
+  backdrop-filter: blur(10px);
+}
+
