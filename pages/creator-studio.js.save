@@ -1,0 +1,63 @@
+import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
+import Sidebar from "../components/CreatorStudio/Sidebar";
+import CampaignsTab from "../components/CreatorStudio/CampaignsTab";
+import EventsTab from "../components/CreatorStudio/EventsTab";
+import AffiliatesTab from "../components/CreatorStudio/AffiliatesTab";
+import SuggestionsTab from "../components/CreatorStudio/SuggestionsTab";
+
+export default function CreatorStudio() {
+  const [activeTab, setActiveTab] = useState("campaigns");
+  const [creator, setCreator] = useState(null);
+
+  useEffect(() => {
+    // Fetch creator data (replace with real Phyllo or auth logic)
+    const fetchCreator = async () => {
+      const response = await fetch("/api/creator", {
+        headers: { "x-phyllo-user-id": "user-id" },
+      });
+      if (!response.ok) return setCreator(null);
+      const data = await response.json();
+      setCreator(data);
+    };
+    fetchCreator();
+  }, []);
+
+  if (!creator)
+    return (
+      <div className="min-h-screen flex items-center justify-center 
+bg-black text-white">
+        Loading...
+      </div>
+    );
+
+  return (
+    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-black 
+text-white flex">
+      {/* Sidebar */}
+      <Sidebar activeTab={activeTab} setActiveTab={setActiveTab} 
+creator={creator} />
+
+      {/* Main Content */}
+      <div className="flex-1 p-8">
+        <motion.h1
+          initial={{ opacity: 0, y: -20 }}
+          animate={{ opacity: 1, y: 0 }}
+          className="text-4xl font-bold mb-8 bg-clip-text text-transparent 
+bg-gradient-to-r from-blue-400 to-purple-500"
+        >
+          Welcome to Your Creator Studio, {creator.username}!
+        </motion.h1>
+
+        {/* Tabs */}
+        {activeTab === "campaigns" && <CampaignsTab creator={creator} />}
+        {activeTab === "events" && <EventsTab creator={creator} />}
+        {activeTab === "affiliates" && <AffiliatesTab creator={creator} 
+/>}
+        {activeTab === "suggestions" && <SuggestionsTab creator={creator} 
+/>}
+      </div>
+    </div>
+  );
+}
+

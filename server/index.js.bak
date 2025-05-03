@@ -1,0 +1,207 @@
+// index.js — Google Cloud Function entry for Audiantix APIs
+
+// Cloud Functions/Express setup
+const functions = require("@google-cloud/functions-framework");
+const express = require("express");
+const cors = require("cors");
+require("dotenv").config(); // Load env variables for secrets
+
+const Stripe = require("stripe")(process.env.STRIPE_SECRET_KEY);
+const axios = require("axios");
+
+// MongoDB models (assumed Mongoose)
+const {
+  Creator, Campaign, Event, Ticket, AffiliateAccount, AffiliateEarning, 
+Suggestion
+} = require("./db");
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+// --- Middleware: Authenticate Phyllo user (simple) ---
+const authenticateUser = async (req, res, next) => {
+  const userId = req.headers["x-phyllo-user-id"];
+  if (!userId) return res.status(401).json({ error: "Unauthorized" });
+  const creator = await Creator.findOne({ userId });
+  if (!creator) return res.status(404).json({ error: "Creator not found" 
+});
+  req.creator = creator;
+  next();
+};
+
+// --- Whisper API: Transcribe audio or text to plain text for AI ---
+const extractContentData = async (content) => {
+  const response = await axios.post(
+    "https://api.openai.com/v1/audio/transcriptions",
+    {
+      file: content, // Raw audio file, or adapt as needed for your input
+      model: "whisper-1",
+    },
+    {
+      headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}` },
+    }
+  );
+  return response.data.text;
+};
+
+// --- AI Suggestions: Business logic for content suggestions ---
+const generateSuggestions = async (creatorId, content) => {
+  const text = await extractContentData(content);
+  const suggestions = [];
+
+  // Simple triggers, adapt for real AI!
+  if (text.includes("supper club")) {
+    suggestions.push({
+      creatorId,
+      type: "event",
+      content: "Host a supper club on Nov 15—earn $950!",
+    });
+  }
+  if (text.includes("travel")) {
+    suggestions.push({
+      creatorId,
+      type: "affiliate",
+      content: "Promote this Amazon backpack link!",
+    });
+  }
+
+  await Suggestion.insertMany(suggestions);
+  return suggestions;
+};
+
+// --- Campaigns API ---
+app.get("/api/campaigns", authenticateUser, async (req, res) => {
+  const campaigns = await Campaign.find({ creatorId: req.creator.userId 
+});
+  res.json(campaigns);
+});
+
+// --- Events API: Create & Publish ---
+app.post("/api/events", authenticateUser, async (req, res) => {
+  const { title, description, date, location, ticketPrice, capacity, 
+hotelId } = req.body;
+  const event = new Event({
+    creatorId: req.creator.userId,
+    title,
+    description,
+    date,
+    location,
+    ticketPrice,
+    capacity,
+    hotelId,
+  });
+  await event.save();
+  res.json({ eventId: event._id, status: "draft" });
+});
+
+app.put("/api/events/:id/publish", authenticateUser, async (req, res) => {
+  const event = await Event.findById(req.params.id);
+  if (!event || event.creatorId !== req.creator.userId)
+    return res.status(403).json({ error: "Unauthorized" });
+  event.status = "live";
+  await event.save();
+  res.json({
+    eventId: event._id,
+    status: "live",
+    url: `https://audiantix.com/events/${event._id}`,
+  });
+});
+
+// --- Ticket Purchase API (Stripe Payments) ---
+app.post("/api/tickets", authenticateUser, async (req, res) => {
+  const { eventId, attendeeId, quantity } = req.body;
+  const event = await Event.findById(eventId);
+  if (!event || event.status !== "live")
+    return res.status(400).json({ error: "Event not available" });
+  if ((event.ticketsSold || 0) + quantity > event.capacity)
+    return res.status(400).json({ error: "Sold out" });
+
+  const totalPrice = event.ticketPrice * quantity;
+  const fee = totalPrice * 0.05; // 5% platform fee
+
+  const paymentIntent = await Stripe.paymentIntents.create({
+    amount: Math.round(totalPrice * 100),
+    currency: "usd",
+    metadata: { eventId, attendeeId },
+  });
+
+  const ticket = new Ticket({
+    eventId,
+    attendeeId,
+    quantity,
+    price: totalPrice,
+  });
+  await ticket.save();
+
+  event.ticketsSold = (event.ticketsSold || 0) + quantity;
+  await event.save();
+
+  // Stripe payout to creator (simplified; real world: use webhooks)
+  if (req.creator.stripeAccountId) {
+    await Stripe.transfers.create({
+      amount: Math.round((totalPrice - fee) * 100),
+      currency: "usd",
+      destination: req.creator.stripeAccountId,
+    });
+  }
+
+  res.json({ ticketId: ticket._id, paymentIntent });
+});
+
+// --- Affiliate APIs ---
+app.post("/api/affiliates/connect", authenticateUser, async (req, res) => 
+{
+  const { platform, apiKey } = req.body;
+  const account = new AffiliateAccount({
+    creatorId: req.creator.userId,
+    platform,
+    apiKey, // ⚠️ Store securely/encrypt in prod!
+  });
+  await account.save();
+  res.json({ accountId: account._id, status: "active" });
+});
+
+app.get("/api/affiliates/earnings", authenticateUser, async (req, res) => 
+{
+  const accounts = await AffiliateAccount.find({ creatorId: 
+req.creator.userId });
+  const earnings = await AffiliateEarning.find({
+    accountId: { $in: accounts.map(a => a._id) }
+  });
+  // Tier-based fee logic
+  const feeRate =
+    req.creator.tier === "pro"
+      ? 0
+      : req.creator.tier === "premium"
+      ? 0.01
+      : 0.02;
+  const totalEarnings = earnings.reduce((sum, e) => sum + e.amount, 0);
+  const fee = totalEarnings * feeRate;
+  res.json({ earnings, totalEarnings, fee });
+});
+
+app.get("/api/affiliates/linkhub", authenticateUser, async (req, res) => {
+  const accounts = await AffiliateAccount.find({ creatorId: 
+req.creator.userId });
+  const links = accounts.map(account => ({
+    platform: account.platform,
+    url: `https://${account.platform}.com/affiliate-link`, // Placeholder
+  }));
+  res.json({
+    url: `https://audiantix.com/${req.creator.username}/links`,
+    links,
+  });
+});
+
+// --- Suggestions API (Get AI-generated suggestions) ---
+app.get("/api/suggestions", authenticateUser, async (req, res) => {
+  const suggestions = await Suggestion.find({
+    creatorId: req.creator.userId,
+  }).sort({ createdAt: -1 });
+  res.json(suggestions);
+});
+
+// --- Mount the Express app as a Google Cloud Function ---
+functions.http("api", app);
+

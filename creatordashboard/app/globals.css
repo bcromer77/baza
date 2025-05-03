@@ -1,0 +1,102 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 98%;
+    --foreground: 0 0% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 10%;
+    --primary: 0 0% 0%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 0 0% 96%;
+    --secondary-foreground: 0 0% 10%;
+    --muted: 0 0% 96%;
+    --muted-foreground: 0 0% 45%;
+    --accent: 0 0% 96%;
+    --accent-foreground: 0 0% 10%;
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 0% 90%;
+    --input: 0 0% 90%;
+    --ring: 0 0% 0%;
+    --radius: 0.75rem;
+
+    /* Apple-inspired color palette */
+    --apple-blue: 211 100% 50%;
+    --apple-pink: 340 82% 59%;
+    --apple-green: 142 69% 58%;
+    --apple-orange: 32 100% 56%;
+    --apple-purple: 262 83% 58%;
+    --apple-yellow: 48 100% 50%;
+    --apple-gray: 240 5% 96%;
+  }
+
+  .dark {
+    --background: 0 0% 7%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 10%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 10%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 100%;
+    --primary-foreground: 0 0% 0%;
+    --secondary: 0 0% 15%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+    --accent: 0 0% 15%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 0 0% 100%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "ss01" 1, "ss02" 1, "cv01" 1, "cv03" 1;
+    font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "SF Pro Display", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer components {
+  .apple-card {
+    @apply rounded-xl border border-[#E5E5E5] bg-white shadow-sm;
+  }
+}
+
+.apple-gradient-blue {
+  background: linear-gradient(to right, #007aff, #5ac8fa);
+}
+
+.apple-gradient-pink {
+  background: linear-gradient(to right, #ff2d55, #ff9500);
+}
+
+.apple-gradient-green {
+  background: linear-gradient(to right, #34c759, #5ac8fa);
+}
+
+.apple-gradient-purple {
+  background: linear-gradient(to right, #af52de, #5856d6);
+}

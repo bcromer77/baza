@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/phyllo/accounts/route": "app/api/phyllo/accounts/route.js",
+  "/api/phyllo/save-account/route": "app/api/phyllo/save-account/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/seed/route": "app/api/seed/route.js",
+  "/api/phyllo/token/route": "app/api/phyllo/token/route.js",
+  "/api/phyllo/disconnect/route": "app/api/phyllo/disconnect/route.js",
+  "/creator-dashboard/page": "app/creator-dashboard/page.js",
+  "/brand-join/page": "app/brand-join/page.js",
+  "/creator-studio/page": "app/creator-studio/page.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/invest/page": "app/invest/page.js",
+  "/brand-studio/page": "app/brand-studio/page.js",
+  "/join/page": "app/join/page.js",
+  "/page": "app/page.js",
+  "/verify/page": "app/verify/page.js",
+  "/brand-dashboard/page": "app/brand-dashboard/page.js",
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/signup/page": "app/signup/page.js",
+  "/mcp/page": "app/mcp/page.js"
+}

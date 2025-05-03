@@ -1,0 +1,5 @@
+server/scripts/venv/
+node_modules/
+*.dylib
+*.node
+prism/Perfect.mp4
