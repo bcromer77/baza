@@ -3,3 +3,5 @@ node_modules/
 *.dylib
 *.node
 prism/Perfect.mp4
+whisper-env/
+youtube_audio.mp3
