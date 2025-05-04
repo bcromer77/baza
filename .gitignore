@@ -1,7 +1,7 @@
-server/scripts/venv/
-node_modules/
-*.dylib
-*.node
-prism/Perfect.mp4
-whisper-env/
-youtube_audio.mp3
+.env
+.env.local
+.env.*.local
+.env.*.dev
+*.env
+server/apis/
+
