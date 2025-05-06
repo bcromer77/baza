@@ -1,32 +1,30 @@
-// server/routes/search.js
 const express = require('express');
 const router = express.Router();
-const Creator = require('../models/creator'); // Assumes you have a 
-Mongoose model set up
+const Transcript = require('../models/Transcript'); // Adjust if path differs
 
-// Example route: GET /api/search?query=surf portugal
+// GET /api/search?term=example
 router.get('/', async (req, res) => {
-  const { query } = req.query;
+  const term = req.query.term;
 
-  if (!query) return res.status(400).json({ error: 'Missing query param' 
-});
+  if (!term || term.trim() === '') {
+    return res.status(400).json({ success: false, message: 'Search term is required' });
+  }
 
   try {
-    const regex = new RegExp(query, 'i'); // case-insensitive search
+    const regex = new RegExp(term, 'i'); // case-insensitive
+    const matches = await Transcript.find({ raw: regex }).limit(20);
 
-    const matches = await Creator.find({
-      $or: [
-        { 'voiceHighlights.quote': regex },
-        { 'voiceHighlights.topic': regex },
-        { 'voiceHighlights.tone': regex },
-        { 'voiceHighlights.sentiment': regex }
-      ]
-    });
+    const results = matches.map(match => ({
+      creatorId: match.creatorId,
+      videoUrl: match.videoUrl,
+      createdAt: match.createdAt,
+      lines: match.lines.filter(line => line.includes(term)),
+    }));
 
-    res.json(matches);
+    res.status(200).json({ success: true, results });
   } catch (err) {
-    console.error('Search error:', err);
-    res.status(500).json({ error: 'Internal server error' });
+    console.error('❌ Search error:', err);
+    res.status(500).json({ success: false, message: 'Search failed', error: err.message });
   }
 });
 

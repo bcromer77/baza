@@ -1,0 +1,33 @@
+// server/routes/search.js
+const express = require('express');
+const { MongoClient } = require('mongodb');
+const router = express.Router();
+
+const MONGO_URI = process.env.MONGODB_URI || 'your-mongodb-uri';
+const client = new MongoClient(MONGO_URI);
+
+router.get('/search', async (req, res) => {
+  const { term } = req.query;
+  if (!term) return res.status(400).json({ error: 'Missing search term' });
+
+  try {
+    await client.connect();
+    const db = client.db('audiantix');
+    const collection = db.collection('transcripts');
+
+    const results = await collection.find({
+      'segments.text': { $regex: term, $options: 'i' },
+    }).toArray();
+
+    const matches = results.flatMap(doc =>
+      doc.segments.filter(s => s.text.toLowerCase().includes(term.toLowerCase()))
+    );
+
+    res.json({ term, results: matches });
+  } catch (err) {
+    res.status(500).json({ error: 'Search failed' });
+  }
+});
+
+module.exports = router;
+
