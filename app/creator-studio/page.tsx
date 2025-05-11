@@ -1,51 +1,84 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
+import { useSearchParams } from "next/navigation";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from 
+"@/components/ui/tabs";
+import MonetizeMe from "@/components/creator-studio/MonetizeMe";
+import DiscoveryFeed from "@/components/creator-studio/DiscoveryFeed";
+import EventsDashboard from "@/components/creator-studio/EventsDashboard";
+import InsightsPanel from "@/components/creator-studio/InsightsPanel";
+import EarningsCenter from "@/components/creator-studio/EarningsCenter";
 
 export default function CreatorStudioPage() {
-  const [creator, setCreator] = useState<any>(null);
+  const searchParams = useSearchParams();
+  const [userId, setUserId] = useState<string | null>(null);
+  const [loading, setLoading] = useState(true);
 
-  // Fetch creator data when component mounts
   useEffect(() => {
-    setTimeout(() => {
-      setCreator({
-        name: "Ana Silva",
-        avatar: "/avatars/ana.png",
-        followers: "22k",
-        niche: "Travel",
-        quote: "Surfing Nazaré changed my life—let’s make magic on the beach.",
-        matchedBrands: [
-          { name: "SnapGear", logo: "/brands/snapgear.png" },
-          { name: "ExploreNazaré", logo: "/brands/explorenazare.png" }
-        ],
-      });
-    }, 800);
-  }, []);
+    const returnedUserId = searchParams.get("user_id");
+    const localUserId = localStorage.getItem("phyllo_user_id");
 
-  if (!creator) return <div className="text-center mt-12 text-xl text-gray-400">Loading...</div>;
+    if (returnedUserId) {
+      localStorage.setItem("phyllo_user_id", returnedUserId);
+      setUserId(returnedUserId);
+    } else if (localUserId) {
+      setUserId(localUserId);
+    }
+
+    setLoading(false);
+  }, [searchParams]);
+
+  if (loading) return <div className="p-10 text-lg text-white">Loading 
+your studio...</div>;
+
+  if (!userId) {
+    return (
+      <div className="min-h-screen bg-black text-white flex flex-col 
+items-center justify-center">
+        <h1 className="text-3xl font-bold mb-4">Authentication 
+Required</h1>
+        <p className="text-zinc-400 mb-6">We couldn’t detect your creator 
+ID. Please go through the onboarding flow again.</p>
+        <a href="/">
+          <button className="bg-gradient-to-r from-amber-400 to-pink-500 
+text-black px-6 py-3 rounded-full">
+            Go Back Home
+          </button>
+        </a>
+      </div>
+    );
+  }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 to-black text-white p-8">
-      <div className="max-w-xl mx-auto">
-        <div className="bg-white/10 p-6 rounded-lg shadow-lg flex flex-col items-center">
-          <img src={creator.avatar} alt={creator.name} className="w-32 h-32 rounded-full border-4 border-blue-500/50 object-cover mb-4" />
-          <h2 className="text-2xl font-bold mb-1">{creator.name}</h2>
-          <p className="mb-2 text-gray-400">{creator.followers} Followers</p>
-          <span className="px-3 py-1 rounded-full bg-blue-600 text-white text-xs font-semibold mb-3">{creator.niche}</span>
-          <blockquote className="italic text-gray-200 mb-4">"{creator.quote}"</blockquote>
-          <div className="flex gap-3 mb-4">
-            {creator.matchedBrands.map((brand: any, idx: number) => (
-              <div key={idx} className="flex items-center gap-2 bg-gray-700 rounded-full px-3 py-1">
-                <img src={brand.logo} alt={brand.name} className="w-6 h-6 object-contain" />
-                <span className="text-sm text-white">{brand.name}</span>
-              </div>
-            ))}
-          </div>
-          <button className="mt-4 px-5 py-2 bg-amber-500 rounded-full text-lg font-semibold hover:bg-amber-600 transition">
-            Create Opportunity
-          </button>
-        </div>
-      </div>
+    <div className="container mx-auto px-4 py-12">
+      <h1 className="text-4xl font-bold mb-6 text-white">Creator 
+Studio</h1>
+      <Tabs defaultValue="monetize">
+        <TabsList className="bg-zinc-800 border border-zinc-700 
+text-white">
+          <TabsTrigger value="monetize">💡 Monetize Me</TabsTrigger>
+          <TabsTrigger value="discover">🔍 Discovery</TabsTrigger>
+          <TabsTrigger value="events">📅 Events</TabsTrigger>
+          <TabsTrigger value="insights">📊 Insights</TabsTrigger>
+          <TabsTrigger value="earnings">💰 Earnings</TabsTrigger>
+        </TabsList>
+        <TabsContent value="monetize">
+          <MonetizeMe />
+        </TabsContent>
+        <TabsContent value="discover">
+          <DiscoveryFeed />
+        </TabsContent>
+        <TabsContent value="events">
+          <EventsDashboard />
+        </TabsContent>
+        <TabsContent value="insights">
+          <InsightsPanel />
+        </TabsContent>
+        <TabsContent value="earnings">
+          <EarningsCenter />
+        </TabsContent>
+      </Tabs>
     </div>
   );
 }

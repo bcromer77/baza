@@ -1,73 +1,113 @@
 "use client";
 
-import { useSearchParams } from "next/navigation";
-import { useEffect, useState } from "react";
-import { Card, CardContent } from "@/components/ui/card";
-import { motion } from "framer-motion";
+import React from "react";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from 
+"@/components/ui/tabs";
+import SearchCreators from "@/components/brand-studio/SearchCreators";
+import SmartCampaigns from "@/components/brand-studio/SmartCampaigns";
+import Shortlist from "@/components/brand-studio/Shortlist";
+import Bookings from "@/components/brand-studio/Bookings";
+import ROINexus from "@/components/brand-studio/ROINexus";
 
-export default function BrandStudioResults() {
-  const searchParams = useSearchParams();
-  const query = searchParams.get("query") || "";
-  const [results, setResults] = useState([]);
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    if (!query) return;
-    fetch(`/api/search?query=${encodeURIComponent(query)}`)
-      .then((res) => res.json())
-      .then((data) => setResults(data))
-      .catch((err) => console.error("Search error:", err))
-      .finally(() => setLoading(false));
-  }, [query]);
-
+export default function BrandStudioPage() {
   return (
-    <main className="min-h-screen bg-black text-white p-6">
-      <h1 className="text-3xl font-bold mb-6 text-amber-400">
-        Results for: "{query}"
-      </h1>
+    <div className="container mx-auto px-4 py-12">
+      <h1 className="text-4xl font-bold mb-6 text-white">Brand Studio</h1>
+      <Tabs defaultValue="search">
+        <TabsList className="bg-zinc-800 border border-zinc-700 
+text-white">
+          <TabsTrigger value="search">🔍 Search Creators</TabsTrigger>
+          <TabsTrigger value="campaigns">🧠 Smart Campaigns</TabsTrigger>
+          <TabsTrigger value="shortlist">📋 Shortlist</TabsTrigger>
+          <TabsTrigger value="bookings">🧾 Bookings</TabsTrigger>
+          <TabsTrigger value="roi">📈 ROI Nexus</TabsTrigger>
+        </TabsList>
+        <TabsContent value="search">
+          <SearchCreators />
+        </TabsContent>
+        <TabsContent value="campaigns">
+          <SmartCampaigns />
+        </TabsContent>
+        <TabsContent value="shortlist">
+          <Shortlist />
+        </TabsContent>
+        <TabsContent value="bookings">
+          <Bookings />
+        </TabsContent>
+        <TabsContent value="roi">
+          <ROINexus />
+        </TabsContent>
+      </Tabs>
+    </div>
+  );
+}
 
-      {loading ? (
-        <p className="text-gray-400">Listening for creators...</p>
-      ) : results.length === 0 ? (
-        <p className="text-red-400">No matching creators found.</p>
-      ) : (
-        <div className="grid gap-6 grid-cols-1 sm:grid-cols-2 
-md:grid-cols-3">
-          {results.map((creator, i) => (
-            <motion.div
-              key={creator._id || i}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.4, delay: i * 0.05 }}
-            >
-              <Card className="bg-zinc-900 border border-zinc-700 
-shadow-md">
-                <CardContent className="p-6 space-y-3">
-                  <p className="text-lg font-semibold">{creator.name}</p>
-                  {creator.voiceHighlights?.map((vh, idx) => (
-                    <div
-                      key={idx}
-                      className="bg-zinc-800 p-3 rounded-md text-sm 
-space-y-1"
-                    >
-                      <p>“{vh.quote}”</p>
-                      <p className="text-gray-400">Topic: {vh.topic}</p>
-                      <p className="text-gray-400">Tone: {vh.tone}</p>
-                      <p className="text-gray-400">Sentiment: 
-{vh.sentiment}</p>
-                    </div>
-                  ))}
-                  <button className="mt-2 bg-amber-500 text-black px-4 
-py-2 rounded-md hover:bg-amber-600">
-                    Turn Into Campaign
-                  </button>
-                </CardContent>
-              </Card>
-            </motion.div>
-          ))}
-        </div>
-      )}
-    </main>
+// File: components/brand-studio/SearchCreators.tsx
+import React from "react";
+
+export default function SearchCreators() {
+  return (
+    <div className="text-white">
+      <h2 className="text-2xl font-semibold mb-4">Voice-First Creator 
+Search</h2>
+      <p>🗣️ Try: “Mentions Bali wellness retreats with excited tone”</p>
+      <p>🎯 Filter by: Sentiment, Topics, Engagement Rate</p>
+    </div>
+  );
+}
+
+// File: components/brand-studio/SmartCampaigns.tsx
+import React from "react";
+
+export default function SmartCampaigns() {
+  return (
+    <div className="text-white">
+      <h2 className="text-2xl font-semibold mb-4">AI Campaign Builder</h2>
+      <p>🤖 Campaign Idea: “10 creators mentioned Tulum this week. Want to 
+offer a surf + villa package?”</p>
+      <p>📦 Click to package + generate ROI estimate</p>
+    </div>
+  );
+}
+
+// File: components/brand-studio/Shortlist.tsx
+import React from "react";
+
+export default function Shortlist() {
+  return (
+    <div className="text-white">
+      <h2 className="text-2xl font-semibold mb-4">Your Saved Creators</h2>
+      <p>📍 Lena – Food Tourism | Lisbon | Passionate</p>
+      <p>📍 Jamal – Cultural Explorer | Marrakech | Adventurous</p>
+    </div>
+  );
+}
+
+// File: components/brand-studio/Bookings.tsx
+import React from "react";
+
+export default function Bookings() {
+  return (
+    <div className="text-white">
+      <h2 className="text-2xl font-semibold mb-4">Your Active 
+Bookings</h2>
+      <p>✅ Tulum Retreat with Sophia — €4,800 paid</p>
+      <p>🔄 Lisbon Villa with Elena — In progress</p>
+    </div>
+  );
+}
+
+// File: components/brand-studio/ROINexus.tsx
+import React from "react";
+
+export default function ROINexus() {
+  return (
+    <div className="text-white">
+      <h2 className="text-2xl font-semibold mb-4">ROI & Campaign 
+Performance</h2>
+      <p>📈 Tulum Retreat ROI: 3.4x | CTR: 9% | Sentiment Shift: +21%</p>
+      <p>📊 Brand Mentions Trend: “Bali” up 47% last 10 days</p>
+    </div>
   );
 }
 

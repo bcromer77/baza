@@ -1,7 +1,4 @@
 .env
-.env.local
-.env.*.local
-.env.*.dev
-*.env
-server/apis/
-
+node_modules/
+.DS_Store
+*.log

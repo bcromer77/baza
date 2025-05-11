@@ -1,0 +1,508 @@
+.
+├── Creatorowl
+│   ├── landing
+│   └── server
+├── Dockerfile
+├── README.md
+├── app
+│   ├── 404.tsx
+│   ├── DashboardContent.tsx
+│   ├── Dockerfile
+│   ├── api
+│   ├── app
+│   ├── brain.js
+│   ├── brand-dashboard
+│   ├── brand-join
+│   ├── brand-studio
+│   ├── card
+│   ├── components
+│   ├── components.json
+│   ├── creator-dashboard
+│   ├── creator-studio
+│   ├── demo
+│   ├── find-creators
+│   ├── globals.css
+│   ├── hooks
+│   ├── invest
+│   ├── join
+│   ├── layout.tsx
+│   ├── lib
+│   ├── loading.tsx
+│   ├── mcp
+│   ├── next-env.d.ts
+│   ├── next.config.mjs
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── page.tsx
+│   ├── pages
+│   ├── postcss.config.js
+│   ├── postcss.config.mjs
+│   ├── pricing
+│   ├── privacy-policy
+│   ├── public
+│   ├── server.js
+│   ├── signup
+│   ├── styles
+│   ├── tailwind.config.js
+│   ├── tailwind.config.ts
+│   ├── tsconfig.json
+│   └── verify
+├── audiantix-travel
+│   ├── audiantix-travel
+│   ├── client
+│   ├── cloudbuild.yaml
+│   ├── functions
+│   ├── mobile
+│   └── server
+├── backend_tree.txt
+├── backup.sh
+├── branddashboard
+│   ├── app
+│   ├── components
+│   ├── components.json
+│   ├── hooks
+│   ├── lib
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   ├── styles
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── cache
+│   └── phyllo
+├── client
+│   └── src
+├── components
+│   ├── CreatorStudio
+│   ├── Header.tsx
+│   ├── Slider.tsx
+│   ├── badge.tsx
+│   ├── brain
+│   ├── brand-demo.tsx
+│   ├── brand-interface.tsx
+│   ├── button.tsx
+│   ├── card.tsx
+│   ├── creator-card.tsx
+│   ├── discovery-carousel.tsx
+│   ├── footer.tsx
+│   ├── partnership-flow.tsx
+│   ├── phyllo-connect.tsx
+│   ├── testimonial-section.tsx
+│   ├── testimonial-slider.tsx
+│   ├── theme-provider.tsx
+│   ├── timeline-step.tsx
+│   ├── try-creator-match-button.tsx
+│   ├── ui
+│   ├── voice-card.tsx
+│   └── waveform-animation.tsx
+├── components.json
+├── creator-dashboard
+│   └── components
+├── creator-signal
+│   ├── app
+│   ├── components
+│   ├── components.json
+│   ├── creator-signal-demo.tsx
+│   ├── hooks
+│   ├── lib
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   ├── styles
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── creatordashboard
+│   ├── app
+│   ├── components
+│   ├── components.json
+│   ├── hooks
+│   ├── lib
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── public
+│   ├── styles
+│   ├── tailwind.config.ts
+│   └── tsconfig.json
+├── find-creators
+├── fix.txt
+├── generate_terms_csv.py
+├── hooks
+│   ├── use-creators.ts
+│   ├── use-mobile.tsx
+│   ├── use-packages.ts
+│   ├── use-search.ts
+│   └── use-toast.ts
+├── join
+├── lib
+│   ├── db.ts
+│   ├── models
+│   ├── phyllo.ts
+│   └── utils.ts
+├── models
+│   ├── CreatorAccount.ts
+│   └── Transcript.js
+├── nano
+├── new-audiantix-backend
+├── next-auth.d.ts
+├── next-env.d.ts
+├── next.config.js
+├── next.config.mjs
+├── node_modules
+│   ├── @alloc
+│   ├── @fastify
+│   ├── @firebase
+│   ├── @google-cloud
+│   ├── @grpc
+│   ├── @isaacs
+│   ├── @jridgewell
+│   ├── @js-sdsl
+│   ├── @mongodb-js
+│   ├── @next
+│   ├── @nodelib
+│   ├── @opentelemetry
+│   ├── @pkgjs
+│   ├── @protobufjs
+│   ├── @radix-ui
+│   ├── @swc
+│   ├── @tootallnate
+│   ├── @types
+│   ├── abort-controller
+│   ├── agent-base
+│   ├── ansi-regex
+│   ├── ansi-styles
+│   ├── any-promise
+│   ├── anymatch
+│   ├── arg
+│   ├── arrify
+│   ├── async-retry
+│   ├── asynckit
+│   ├── autoprefixer
+│   ├── axios
+│   ├── balanced-match
+│   ├── base64-js
+│   ├── bignumber.js
+│   ├── binary-extensions
+│   ├── brace-expansion
+│   ├── braces
+│   ├── browserslist
+│   ├── bson
+│   ├── buffer-equal-constant-time
+│   ├── busboy
+│   ├── call-bind-apply-helpers
+│   ├── camelcase-css
+│   ├── caniuse-lite
+│   ├── chokidar
+│   ├── class-variance-authority
+│   ├── client-only
+│   ├── cliui
+│   ├── clsx
+│   ├── color-convert
+│   ├── color-name
+│   ├── combined-stream
+│   ├── commander
+│   ├── cross-spawn
+│   ├── cssesc
+│   ├── csstype
+│   ├── date-fns
+│   ├── debug
+│   ├── delayed-stream
+│   ├── didyoumean
+│   ├── dlv
+│   ├── dotenv
+│   ├── dunder-proto
+│   ├── duplexify
+│   ├── eastasianwidth
+│   ├── ecdsa-sig-formatter
+│   ├── electron-to-chromium
+│   ├── emoji-regex
+│   ├── end-of-stream
+│   ├── es-define-property
+│   ├── es-errors
+│   ├── es-object-atoms
+│   ├── es-set-tostringtag
+│   ├── escalade
+│   ├── event-target-shim
+│   ├── extend
+│   ├── farmhash-modern
+│   ├── fast-deep-equal
+│   ├── fast-glob
+│   ├── fast-xml-parser
+│   ├── fastq
+│   ├── faye-websocket
+│   ├── fill-range
+│   ├── firebase
+│   ├── firebase-admin
+│   ├── follow-redirects
+│   ├── foreground-child
+│   ├── form-data
+│   ├── fraction.js
+│   ├── framer-motion
+│   ├── fsevents
+│   ├── function-bind
+│   ├── functional-red-black-tree
+│   ├── gaxios
+│   ├── gcp-metadata
+│   ├── get-caller-file
+│   ├── get-intrinsic
+│   ├── get-proto
+│   ├── glob
+│   ├── glob-parent
+│   ├── google-auth-library
+│   ├── google-gax
+│   ├── google-logging-utils
+│   ├── gopd
+│   ├── graceful-fs
+│   ├── gtoken
+│   ├── has-symbols
+│   ├── has-tostringtag
+│   ├── hasown
+│   ├── html-entities
+│   ├── http-parser-js
+│   ├── http-proxy-agent
+│   ├── https-proxy-agent
+│   ├── idb
+│   ├── inherits
+│   ├── is-binary-path
+│   ├── is-core-module
+│   ├── is-extglob
+│   ├── is-fullwidth-code-point
+│   ├── is-glob
+│   ├── is-number
+│   ├── is-stream
+│   ├── isexe
+│   ├── jackspeak
+│   ├── jiti
+│   ├── jose
+│   ├── js-tokens
+│   ├── json-bigint
+│   ├── jsonwebtoken
+│   ├── jwa
+│   ├── jwks-rsa
+│   ├── jws
+│   ├── kareem
+│   ├── lilconfig
+│   ├── limiter
+│   ├── lines-and-columns
+│   ├── lodash.camelcase
+│   ├── lodash.clonedeep
+│   ├── lodash.includes
+│   ├── lodash.isboolean
+│   ├── lodash.isinteger
+│   ├── lodash.isnumber
+│   ├── lodash.isplainobject
+│   ├── lodash.isstring
+│   ├── lodash.once
+│   ├── long
+│   ├── loose-envify
+│   ├── lru-cache
+│   ├── lru-memoizer
+│   ├── lucide-react
+│   ├── math-intrinsics
+│   ├── memory-pager
+│   ├── merge2
+│   ├── micromatch
+│   ├── mime
+│   ├── mime-db
+│   ├── mime-types
+│   ├── minimatch
+│   ├── minipass
+│   ├── mongodb-connection-string-url
+│   ├── mongoose
+│   ├── motion-dom
+│   ├── motion-utils
+│   ├── mpath
+│   ├── mquery
+│   ├── ms
+│   ├── mz
+│   ├── nanoid
+│   ├── next
+│   ├── node-fetch
+│   ├── node-forge
+│   ├── node-releases
+│   ├── normalize-path
+│   ├── normalize-range
+│   ├── object-assign
+│   ├── object-hash
+│   ├── once
+│   ├── p-limit
+│   ├── package-json-from-dist
+│   ├── path-key
+│   ├── path-parse
+│   ├── path-scurry
+│   ├── picocolors
+│   ├── picomatch
+│   ├── pify
+│   ├── pirates
+│   ├── postcss
+│   ├── postcss-import
+│   ├── postcss-js
+│   ├── postcss-nested
+│   ├── postcss-selector-parser
+│   ├── postcss-value-parser
+│   ├── proto3-json-serializer
+│   ├── protobufjs
+│   ├── proxy-from-env
+│   ├── punycode
+│   ├── queue-microtask
+│   ├── react
+│   ├── react-day-picker
+│   ├── react-dom
+│   ├── react-swipeable
+│   ├── read-cache
+│   ├── readable-stream
+│   ├── readdirp
+│   ├── require-directory
+│   ├── resolve
+│   ├── retry
+│   ├── retry-request
+│   ├── reusify
+│   ├── run-parallel
+│   ├── safe-buffer
+│   ├── scheduler
+│   ├── semver
+│   ├── shebang-command
+│   ├── shebang-regex
+│   ├── sift
+│   ├── signal-exit
+│   ├── source-map-js
+│   ├── sparse-bitfield
+│   ├── stream-events
+│   ├── stream-shift
+│   ├── streamsearch
+│   ├── string-width
+│   ├── string-width-cjs
+│   ├── string_decoder
+│   ├── strip-ansi
+│   ├── strip-ansi-cjs
+│   ├── strnum
+│   ├── stubs
+│   ├── styled-jsx
+│   ├── sucrase
+│   ├── supports-preserve-symlinks-flag
+│   ├── tailwind-merge
+│   ├── tailwindcss
+│   ├── teeny-request
+│   ├── thenify
+│   ├── thenify-all
+│   ├── to-regex-range
+│   ├── tr46
+│   ├── ts-interface-checker
+│   ├── tslib
+│   ├── typescript
+│   ├── undici-types
+│   ├── update-browserslist-db
+│   ├── util-deprecate
+│   ├── uuid
+│   ├── web-vitals
+│   ├── webidl-conversions
+│   ├── websocket-driver
+│   ├── websocket-extensions
+│   ├── whatwg-url
+│   ├── which
+│   ├── wrap-ansi
+│   ├── wrap-ansi-cjs
+│   ├── wrappy
+│   ├── y18n
+│   ├── yallist
+│   ├── yaml
+│   ├── yargs
+│   ├── yargs-parser
+│   └── yocto-queue
+├── package-lock.json
+├── package.json
+├── pages
+│   ├── _app.js
+│   └── creator-studio.js.save
+├── payload.json
+├── phyllo-connect-web
+│   ├── README.md
+│   ├── dist
+│   ├── index.html
+│   ├── phyllo-connect-web-fresh
+│   └── static
+├── populateCreators.js
+├── postcss.config.js
+├── postcss.config.mjs
+├── prism
+│   ├── brain
+│   ├── components.json
+│   ├── engine
+│   ├── hooks
+│   ├── next.config.mjs
+│   ├── package.json
+│   ├── pnpm-lock.yaml
+│   ├── postcss.config.mjs
+│   ├── testfiles
+│   ├── transcribe-test.js
+│   ├── transcribe_and_extract.py.bak
+│   └── transcribe_and_extract.pyimport whisper
+├── public
+│   ├── avatars
+│   ├── brands
+│   ├── placeholder-logo.png
+│   ├── placeholder-logo.svg
+│   ├── placeholder-user.jpg
+│   ├── placeholder.jpg
+│   ├── placeholder.svg
+│   ├── test-gradient.png
+│   └── videos
+├── scripts
+│   └── transcribe.py
+├── sentiment_analysis.py
+├── server
+│   ├── Dockerfile
+│   ├── Dockerfile.save
+│   ├── api
+│   ├── cache
+│   ├── config
+│   ├── controllers
+│   ├── db.js
+│   ├── firebase
+│   ├── index.js
+│   ├── index.js.bak
+│   ├── invoices
+│   ├── lib
+│   ├── middleware
+│   ├── models
+│   ├── mongoClient.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── page.tsx
+│   ├── prismEngine.js
+│   ├── prismrag
+│   ├── routes
+│   ├── scripts
+│   ├── seed
+│   ├── seed.js
+│   ├── seed.js.save
+│   ├── server.js
+│   ├── services
+│   ├── testFirestore.js
+│   ├── travel_prismrag_engine.py
+│   └── utils
+├── structure.txt
+├── styles
+│   └── globals.css
+├── tailwind.config.js
+├── tailwind.config.ts
+├── terms.csv
+├── tsconfig.json
+├── types
+│   └── index.ts
+├── uploads
+├── vercel.json
+├── whisper-env
+│   ├── bin
+│   ├── include
+│   ├── lib
+│   ├── pyvenv.cfg
+│   └── share
+└── youtube_audio.mp3
+
+371 directories, 135 files

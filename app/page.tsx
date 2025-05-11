@@ -1,15 +1,13 @@
 "use client"
 
 import type React from "react"
-
 import { useState, useEffect, useRef } from "react"
 import { motion } from "framer-motion"
-import { Search, Headphones, Globe, Mic, MapPin, Volume2, ArrowRight } from "lucide-react"
+import { Search, Headphones, Mic, ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import Link from "next/link"
 import Image from "next/image"
-import WaveformAnimation from "@/components/waveform-animation"
 
 const creators = [
   {
@@ -80,16 +78,6 @@ export default function Home() {
     }, 2000)
   }
 
-  const playAudio = (index: number) => {
-    if (audioRef.current) {
-      audioRef.current.pause()
-    }
-    setActiveCreator(index)
-    setTimeout(() => {
-      setActiveCreator(null)
-    }, 3000)
-  }
-
   return (
     <div className="min-h-screen bg-black text-white overflow-hidden">
       <audio ref={audioRef} className="hidden" />
@@ -100,18 +88,16 @@ export default function Home() {
             <Headphones className="h-8 w-8 text-amber-400" />
             <span className="text-2xl font-bold tracking-tight">Audiantix</span>
           </div>
-          <nav className="hidden md:flex items-center gap-8">
-            <Link href="#how-it-works" className="text-sm font-medium text-zinc-400 hover:text-white transition-colors">How It Works</Link>
-            <Link href="/pricing" className="text-sm font-medium text-zinc-400 hover:text-white transition-colors">Pricing</Link>
-            <Link href="#destinations" className="text-sm font-medium text-zinc-400 hover:text-white transition-colors">Destinations</Link>
+          <nav className="hidden md:flex items-center gap-6 text-sm text-zinc-400">
+            <Link href="#how-it-works" className="hover:text-white transition-colors">How It Works</Link>
+            <Link href="/pricing" className="hover:text-white transition-colors">Pricing</Link>
+            <Link href="/creator-studio" className="hover:text-white transition-colors">Creator Studio</Link>
+            <Link href="/brand-studio" className="hover:text-white transition-colors">Brand Studio</Link>
+            <Link href="/agency-hq" className="hover:text-white transition-colors">Agency HQ</Link>
           </nav>
           <div className="flex items-center gap-4">
-            <Link href="/join">
-              <Button variant="ghost" className="text-zinc-400 hover:text-white">Sign In</Button>
-            </Link>
-            <Link href="/join">
-              <Button className="bg-gradient-to-r from-amber-400 to-pink-500 text-black hover:opacity-90 transition-opacity">Get Started</Button>
-            </Link>
+            <Link href="/join"><Button variant="ghost" className="text-zinc-400 hover:text-white">Sign In</Button></Link>
+            <Link href="/join"><Button className="bg-gradient-to-r from-amber-400 to-pink-500 text-black hover:opacity-90 transition-opacity">Get Started</Button></Link>
           </div>
         </div>
       </header>
@@ -121,51 +107,40 @@ export default function Home() {
           <div className="absolute -top-40 -left-40 w-80 h-80 bg-amber-500/20 rounded-full blur-3xl" />
           <div className="absolute top-1/2 -right-40 w-80 h-80 bg-pink-500/20 rounded-full blur-3xl" />
           <div className="absolute -bottom-40 left-1/3 w-80 h-80 bg-amber-500/20 rounded-full blur-3xl" />
-          <div className="absolute inset-0 opacity-10">
-            <div className="w-full h-full bg-[url('/world-map-dots.png')] bg-center bg-no-repeat bg-contain" />
-          </div>
         </div>
 
         <div className="container mx-auto px-4 relative z-10">
-          <div className="max-w-5xl mx-auto">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.8 }}
-              className="text-center mb-12"
-            >
-              <motion.h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
-                Listen. <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-pink-500">Own the Moment.</span>
-              </motion.h1>
-              <motion.p className="text-xl md:text-2xl text-zinc-400 mb-12 max-w-3xl mx-auto">
-                Before you spend a cent on marketing, hear what creators are already saying. Audiantix listens — and helps you act.
-              </motion.p>
-              <motion.div className="relative max-w-2xl mx-auto mb-12">
-                <form onSubmit={handleSearch} className="relative">
-                  <div className={`bg-zinc-900/80 border-zinc-700 border h-16 pl-12 pr-32 text-lg rounded-full shadow-md ${isSearchFocused ? 'ring-2 ring-amber-400' : ''}`}>
-                    <Input
-                      type="text"
-                      value={searchQuery}
-                      onChange={(e) => setSearchQuery(e.target.value)}
-                      placeholder={isListening ? "Listening..." : placeholders[placeholderIndex]}
-                      onFocus={() => setIsSearchFocused(true)}
-                      onBlur={() => setIsSearchFocused(false)}
-                      className="bg-transparent text-white placeholder-zinc-500 w-full h-full focus:outline-none"
-                    />
-                    <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-zinc-400" />
-                    <div className="absolute right-2 top-1/2 transform -translate-y-1/2 flex items-center gap-2">
-                      <Button type="button" onClick={simulateVoiceSearch} variant="ghost" size="icon" className={`rounded-full ${isListening ? "text-amber-400 animate-pulse" : "text-zinc-400"}`}>
-                        <Mic className="h-5 w-5" />
-                        <span className="sr-only">Voice Search</span>
-                      </Button>
-                      <Button type="submit" className="bg-gradient-to-r from-amber-400 to-pink-500 text-black rounded-full px-6">
-                        Search
-                      </Button>
-                    </div>
-                  </div>
-                </form>
-              </motion.div>
-            </motion.div>
+          <div className="max-w-5xl mx-auto text-center">
+            <motion.h1 className="text-5xl md:text-7xl font-bold mb-6 tracking-tight">
+              Listen. <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-400 to-pink-500">Own the Moment.</span>
+            </motion.h1>
+            <motion.p className="text-xl md:text-2xl text-zinc-400 mb-12 max-w-3xl mx-auto">
+              Before you spend a cent on marketing, hear what creators are already saying. Audiantix listens — and helps you act.
+            </motion.p>
+
+            <form onSubmit={handleSearch} className="relative max-w-2xl mx-auto mb-12">
+              <div className={`bg-zinc-900/80 border-zinc-700 border h-16 pl-12 pr-32 text-lg rounded-full shadow-md ${isSearchFocused ? 'ring-2 ring-amber-400' : ''}`}>
+                <Input
+                  type="text"
+                  value={searchQuery}
+                  onChange={(e) => setSearchQuery(e.target.value)}
+                  placeholder={isListening ? "Listening..." : placeholders[placeholderIndex]}
+                  onFocus={() => setIsSearchFocused(true)}
+                  onBlur={() => setIsSearchFocused(false)}
+                  className="bg-transparent text-white placeholder-zinc-500 w-full h-full focus:outline-none"
+                />
+                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-zinc-400" />
+                <div className="absolute right-2 top-1/2 transform -translate-y-1/2 flex items-center gap-2">
+                  <Button type="button" onClick={simulateVoiceSearch} variant="ghost" size="icon" className={`rounded-full ${isListening ? "text-amber-400 animate-pulse" : "text-zinc-400"}`}>
+                    <Mic className="h-5 w-5" />
+                    <span className="sr-only">Voice Search</span>
+                  </Button>
+                  <Button type="submit" className="bg-gradient-to-r from-amber-400 to-pink-500 text-black rounded-full px-6">
+                    Search
+                  </Button>
+                </div>
+              </div>
+            </form>
           </div>
         </div>
       </section>
@@ -181,9 +156,7 @@ export default function Home() {
         </div>
         <div className="relative z-10 flex flex-col justify-center items-center text-center h-full">
           <h2 className="text-3xl font-bold mb-4">Global Creator Hotspots</h2>
-          <p className="text-zinc-400 mb-8 max-w-xl">
-            Discover trending destinations and the creators talking about them
-          </p>
+          <p className="text-zinc-400 mb-8 max-w-xl">Discover trending destinations and the creators talking about them</p>
           <Link href="/destinations">
             <Button className="bg-white/10 backdrop-blur-md hover:bg-white/20 border border-white/20">
               Explore All Destinations
