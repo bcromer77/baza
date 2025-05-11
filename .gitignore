@@ -2,3 +2,9 @@
 node_modules/
 .DS_Store
 *.log
+__pycache__/
+*.pyc
+.cache/
+*.weights
+Docker.raw
+*.pkg
