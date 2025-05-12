@@ -1,0 +1,19 @@
+[
+  {
+    "id": "madeira-retreat-001",
+    "title": "Madeira Wellness Retreat",
+    "location": "Madeira",
+    "keywords": ["retreat", "yoga", "healing", "wellness"],
+    "tone": "inspiring",
+    "basePayout": 420
+  },
+  {
+    "id": "lisbon-confidence-boost",
+    "title": "Confidence Workshop in Lisbon",
+    "location": "Lisbon",
+    "keywords": ["confidence", "public speaking", "mindset"],
+    "tone": "empowering",
+    "basePayout": 380
+  }
+]
+

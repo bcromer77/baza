@@ -1,48 +1,40 @@
 const express = require('express');
+const mongoose = require('mongoose');
+const dotenv = require('dotenv');
 const cors = require('cors');
-const bodyParser = require('body-parser');
-require('dotenv').config();
+
+// Load environment variables
+dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 5000;
+const MONGO_URI = process.env.MONGODB_URI;
+
+app.use("/api/suggested-event", require("./routes/suggestedEvent"));
+
 
 // Middleware
 app.use(cors());
-app.use(bodyParser.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json());
 
-// ROUTE IMPORTS - match filenames exactly
-const creatorRoutes = require('./routes/CreatorRoutes'); // Capital C!
-const brandRoutes = require('./routes/brandRoutes');
-const brainRoutes = require('./routes/brainRoutes');
-const invoiceRoutes = require('./routes/invoiceRoutes');
-const transcribeRoutes = require('./routes/transcribeRoutes');
-const whisperRoutes = require('./routes/whisperRoutes');
-const searchRoutes = require('./routes/search');
-const utilsRoutes = require('./routes/utilsRoutes');
-
-// Health check
-app.get('/', (req, res) => {
-  res.send('Audiantix backend listening!');
-});
+// MongoDB Connection
+mongoose.connect(MONGO_URI, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+})
+.then(() => console.log('✅ MongoDB connected'))
+.catch(err => console.error('❌ MongoDB error:', err));
 
 // Routes
-app.use('/api/creators', creatorRoutes);
-app.use('/api/brands', brandRoutes);
-app.use('/api/brain', brainRoutes);
-app.use('/api/invoices', invoiceRoutes);
-app.use('/api/transcribe', transcribeRoutes);
-app.use('/api/whisper', whisperRoutes);
-app.use('/api/search', searchRoutes);
-app.use('/api/utils', utilsRoutes);
+app.use('/api/matches', require('./routes/match'));
 
-// 404
-app.use((req, res) => {
-  res.status(404).json({ error: "Route not found" });
+// Test Route
+app.get('/', (req, res) => {
+  res.send('🎧 Audiantix backend is running.');
 });
 
-// Start server
+// Start Server
 app.listen(PORT, () => {
-  console.log(`Audiantix backend listening on port ${PORT}`);
+  console.log(`🚀 Server listening at http://localhost:${PORT}`);
 });
 
