@@ -3,11 +3,6 @@
 import React, { useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import MonetizeMe from "@/components/creator-studio/MonetizeMe";
-import DiscoveryFeed from "@/components/creator-studio/DiscoveryFeed";
-import EventsDashboard from "@/components/creator-studio/EventsDashboard";
-import InsightsPanel from "@/components/creator-studio/InsightsPanel";
-import EarningsCenter from "@/components/creator-studio/EarningsCenter";
 import { motion } from "framer-motion";
 
 export default function CreatorStudioPage() {
@@ -19,7 +14,6 @@ export default function CreatorStudioPage() {
   useEffect(() => {
     const returnedUserId = searchParams.get("user_id");
     const localUserId = localStorage.getItem("phyllo_user_id");
-
     const finalUserId = returnedUserId || localUserId || "demo123";
     localStorage.setItem("phyllo_user_id", finalUserId);
     setUserId(finalUserId);
@@ -58,7 +52,6 @@ export default function CreatorStudioPage() {
     <div className="container mx-auto px-4 py-12 text-white">
       <h1 className="text-4xl font-bold mb-6">Your Creator HQ</h1>
 
-      {/* ✨ Smart Assistant Highlights */}
       <div className="bg-zinc-900 border border-zinc-700 p-6 rounded-2xl mb-8 space-y-4 shadow-lg">
         <h2 className="text-2xl font-semibold">✨ Today’s Highlights</h2>
         <p className="text-sm text-zinc-400">
@@ -75,7 +68,6 @@ export default function CreatorStudioPage() {
         </p>
       </div>
 
-      {/* 💳 Stripe Connect */}
       <div className="bg-white text-black p-6 rounded-2xl mb-10 shadow-xl space-y-3">
         <h2 className="text-2xl font-bold">Get Paid for Being You</h2>
         <p className="text-sm text-zinc-600">
@@ -98,11 +90,6 @@ export default function CreatorStudioPage() {
       <Tabs defaultValue="opportunities" className="text-white">
         <TabsList className="mb-6">
           <TabsTrigger value="opportunities">My Opportunities</TabsTrigger>
-          <TabsTrigger value="monetize">Monetize Me</TabsTrigger>
-          <TabsTrigger value="discovery">Discovery</TabsTrigger>
-          <TabsTrigger value="events">Events</TabsTrigger>
-          <TabsTrigger value="insights">Insights</TabsTrigger>
-          <TabsTrigger value="earnings">Earnings</TabsTrigger>
         </TabsList>
 
         <TabsContent value="opportunities">
@@ -136,9 +123,7 @@ export default function CreatorStudioPage() {
                     </p>
                     <p className="text-xs text-amber-500 mb-3">✨ Fit Score: {match.score}/10</p>
                     <button
-                      onClick={() =>
-                        alert(`We've flagged your interest in ${match.title}. We’ll handle the outreach.`)
-                      }
+                      onClick={() => alert(`We've flagged your interest in ${match.title}. We’ll handle the outreach.`)}
                       className="mt-auto px-4 py-2 rounded-xl bg-black text-white hover:bg-zinc-800 transition"
                     >
                       View Deal
@@ -148,26 +133,6 @@ export default function CreatorStudioPage() {
               })
             )}
           </div>
-        </TabsContent>
-
-        <TabsContent value="monetize">
-          <MonetizeMe />
-        </TabsContent>
-
-        <TabsContent value="discovery">
-          <DiscoveryFeed />
-        </TabsContent>
-
-        <TabsContent value="events">
-          <EventsDashboard />
-        </TabsContent>
-
-        <TabsContent value="insights">
-          <InsightsPanel />
-        </TabsContent>
-
-        <TabsContent value="earnings">
-          <EarningsCenter />
         </TabsContent>
       </Tabs>
     </div>
