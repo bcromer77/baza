@@ -2,6 +2,7 @@ const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
+const mentionsIndexRoute = require("./routes/mentionsIndex");
 
 // Load environment variables
 dotenv.config();
@@ -11,6 +12,8 @@ const PORT = process.env.PORT || 5000;
 const MONGO_URI = process.env.MONGODB_URI;
 
 app.use("/api/suggested-event", require("./routes/suggestedEvent"));
+app.use("/api", mentionsIndexRoute);
+app.use("/api/image-card", require("./routes/imageCard"));
 
 
 // Middleware
