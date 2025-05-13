@@ -46,3 +46,38 @@ Docker.raw
 audiantix-codebase.zip
 audiantix-clean.zip
 .next
+# Node / Backend
+node_modules/
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Data & Cache
+.cache/
+.next/
+dist/
+.DS_Store
+
+# Whisper / AI Assets
+*.mp3
+*.wav
+*.mp4
+*.m4a
+whisper-models/
+scripts/__pycache__/
+__pycache__/
+
+# MongoDB / Dump files
+*.bson
+*.gz
+*.zip
+
+# Editor & OS junk
+*.swp
+*.swo
+.idea/
+.vscode/
+

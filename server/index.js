@@ -1,30 +1,39 @@
-require('dotenv').config({ path: '../.env' });
+require('dotenv').config({ path: '.env.local' });
+console.log("🚨 ROUTES BEING USED:");
+console.log("🔍 auditRoutes path:", require.resolve('./routes/auditRoute.js'));
 
 const express = require('express');
-const mongoose = require('mongoose');
-
-const pricingRoutes = require('./routes/pricingRoutes');
-const prismRoutes = require('./routes/prismRoutes');
-const subscriptionRoutes = require('./routes/subscriptionRoutes');
-const stripeRoutes = require('./routes/stripe');
-const phylloRoutes = require('./routes/phyllo');
-
+const bodyParser = require('body-parser');
 const app = express();
-app.use(express.json());
 
-// Basic route for Cloud Run health check
-app.get('/', (req, res) => res.send('Audiantix backend is live 🚀'));
+app.use(bodyParser.json());
 
-// Routes
-app.use('/api/pricing', pricingRoutes);
-app.use('/api/prism', prismRoutes);
-app.use('/api/subscription', subscriptionRoutes);
-app.use('/api/stripe', stripeRoutes);
+// ✅ ROUTES
+const auditRoutes = require(__dirname + '/routes/auditRoute.js'); // NEW ROUTE
+const transcribeUrls = require('./routes/transcribeUrls');
+const phylloRoutes = require('./routes/phyllo');
+const auditFetchRoutes = require('./routes/auditFetch');
+
+// ✅ MOUNT ROUTES
+app.use('/api/audit', auditRoutes);
+console.log("🧪 Route registered: /api/audit");
+
+app.use('/api/transcribe-urls', transcribeUrls);
+console.log("🧪 Route registered: /api/transcribe-urls");
+
 app.use('/api/phyllo', phylloRoutes);
+console.log("🧪 Route registered: /api/phyllo");
 
-// ✅ Critical line to start server
-const PORT = process.env.PORT || 8080;
+app.use('/api', auditFetchRoutes);
+console.log("🧪 Route registered: /api/creator/:id/audits");
+
+app.use((req, res) => {
+  res.status(404).send(`❌ Path attempted: ${req.path}`);
+});
+
+
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
-  console.log(`✅ Audiantix backend running on port ${PORT}`);
+  console.log(`✅ Server listening on port ${PORT}`);
 });
 
