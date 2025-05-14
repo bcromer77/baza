@@ -1,24 +1,30 @@
-import { NextResponse } from 'next/server';
-import { createPhylloUser } from '@/lib/phyllo';
+import { NextResponse } from "next/server";
+import connectToDatabase from "@/lib/db";
+import Creator from "@/models/Creator";
+import { createPhylloUser } from "@/lib/phyllo";
 
 export async function POST(req: Request) {
-  const { email, password } = await req.json();
-
-  if (!email || !password) {
-    return NextResponse.json({ message: 'Missing fields' }, { status: 400 
-});
-  }
-
   try {
-    const phylloUser = await createPhylloUser(email);
+    const { name, email, persona } = await req.json();
+
+    if (!name || !email || !persona) {
+      return NextResponse.json({ message: "Missing fields" }, { status: 400 });
+    }
+
+    await connectToDatabase();
+
+    const creator = await Creator.create({ name, email, persona });
+
+    const { phylloUserId, sdk_token } = await createPhylloUser(email);
+
     return NextResponse.json({
-      message: 'User created successfully',
-      phylloUserId: phylloUser.id,
+      message: "User created",
+      phylloUserId,
+      sdk_token,
     });
   } catch (err) {
-    console.error('Phyllo error:', err);
-    return NextResponse.json({ message: 'Phyllo failed' }, { status: 500 
-});
+    console.error("Signup error:", err);
+    return NextResponse.json({ message: "Signup failed" }, { status: 500 });
   }
 }
 

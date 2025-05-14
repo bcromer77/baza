@@ -8,8 +8,9 @@ import { motion } from "framer-motion";
 export default function CreatorStudioPage() {
   const searchParams = useSearchParams();
   const [userId, setUserId] = useState<string | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [creator, setCreator] = useState<any>(null);
   const [matches, setMatches] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const returnedUserId = searchParams.get("user_id");
@@ -17,20 +18,27 @@ export default function CreatorStudioPage() {
     const finalUserId = returnedUserId || localUserId || "demo123";
     localStorage.setItem("phyllo_user_id", finalUserId);
     setUserId(finalUserId);
-    setLoading(false);
   }, [searchParams]);
 
   useEffect(() => {
-    async function fetchMatches() {
-      const res = await fetch("/api/matches/demo123");
-      const data = await res.json();
-      setMatches(data);
-    }
-    fetchMatches();
-  }, []);
+    async function fetchData() {
+      if (!userId) return;
+      const res = await fetch(`/api/creators/${userId}`);
+      const creatorData = await res.json();
+      setCreator(creatorData);
 
-  if (loading)
+      const matchRes = await fetch("/api/matches/demo123");
+      const matchData = await matchRes.json();
+      setMatches(matchData);
+      setLoading(false);
+    }
+
+    fetchData();
+  }, [userId]);
+
+  if (loading) {
     return <div className="p-10 text-lg text-white">Loading your studio...</div>;
+  }
 
   if (!userId) {
     return (
@@ -51,6 +59,12 @@ export default function CreatorStudioPage() {
   return (
     <div className="container mx-auto px-4 py-12 text-white">
       <h1 className="text-4xl font-bold mb-6">Your Creator HQ</h1>
+
+      {creator && (
+        <p className="text-sm text-zinc-400 mb-6">
+          Logged in as <strong>{creator.name}</strong> ({creator.persona})
+        </p>
+      )}
 
       <div className="bg-zinc-900 border border-zinc-700 p-6 rounded-2xl mb-8 space-y-4 shadow-lg">
         <h2 className="text-2xl font-semibold">✨ Today’s Highlights</h2>
@@ -87,7 +101,7 @@ export default function CreatorStudioPage() {
         </button>
       </div>
 
-      <Tabs defaultValue="opportunities" className="text-white">
+      <Tabs defaultValue="opportunities">
         <TabsList className="mb-6">
           <TabsTrigger value="opportunities">My Opportunities</TabsTrigger>
         </TabsList>
@@ -116,14 +130,17 @@ export default function CreatorStudioPage() {
                     <h3 className="text-xl font-bold">{match.title}</h3>
                     <p className="text-sm text-zinc-500 mb-1">{match.location}</p>
                     <p className="text-sm">
-                      You earn: <span className="text-green-600 font-semibold">€{creatorEarnings}</span>
+                      You earn:{" "}
+                      <span className="text-green-600 font-semibold">€{creatorEarnings}</span>
                     </p>
                     <p className="text-xs text-zinc-400 mb-1">
                       Audiantix fee: €{platformFee} (includes matching + support)
                     </p>
                     <p className="text-xs text-amber-500 mb-3">✨ Fit Score: {match.score}/10</p>
                     <button
-                      onClick={() => alert(`We've flagged your interest in ${match.title}. We’ll handle the outreach.`)}
+                      onClick={() =>
+                        alert(`We've flagged your interest in ${match.title}. We’ll handle the outreach.`)
+                      }
                       className="mt-auto px-4 py-2 rounded-xl bg-black text-white hover:bg-zinc-800 transition"
                     >
                       View Deal

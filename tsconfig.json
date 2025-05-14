@@ -1,19 +1,19 @@
 {
   "compilerOptions": {
-    "target": "es2017",
+    "target": "es2020",
     "lib": ["dom", "dom.iterable", "esnext"],
+    "module": "commonjs",                            // ✅ Needed for ts-node scripts
+    "moduleResolution": "node",
     "allowJs": true,
-    "skipLibCheck": true,
-    "strict": false,
-    "strictNullChecks": false,
+    "checkJs": false,
+    "strict": true,
     "forceConsistentCasingInFileNames": true,
     "noEmit": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "module": "esnext",
-    "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
+    "skipLibCheck": true,
     "jsx": "preserve",
     "incremental": true,
     "baseUrl": ".",
@@ -22,7 +22,7 @@
     },
     "plugins": [{ "name": "next" }]
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", 
-".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+
