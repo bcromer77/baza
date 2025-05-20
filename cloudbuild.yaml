@@ -9,11 +9,11 @@ steps:
     entrypoint: gcloud
     args:
       [
-        'run', 'deploy', 'baza',
-        '--image', 'gcr.io/$PROJECT_ID/baza',
-        '--region', 'europe-west8',
-        '--platform', 'managed',
-        '--allow-unauthenticated'
+        "run", "deploy", "baza",
+        "--image", "gcr.io/$PROJECT_ID/baza",
+        "--region", "us-central1",
+        "--platform", "managed",
+        "--allow-unauthenticated"
       ]
 
 images:
