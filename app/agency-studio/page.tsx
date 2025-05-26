@@ -1,5 +1,6 @@
 "use client";
-import { useState, useEffect, useContext } from "react";
+
+import { useState, useContext } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card } from "@/components/ui/card";
@@ -32,11 +33,11 @@ const dummyCreators = [
 export default function AgencyStudioPage() {
   const [showCreatorModal, setShowCreatorModal] = useState(false);
   const [showTeamModal, setShowTeamModal] = useState(false);
-  const [tab, setTab] = useState<'overview' | 'intelligence'>('overview');
+  const [tab, setTab] = useState<"overview" | "intelligence">("overview");
   const [showSentiment, setShowSentiment] = useState(false);
 
   const { user } = useContext(AuthContext);
-  const premium = user?.tier === 'premium';
+  const premium = user?.tier === "premium";
 
   const proximityResults = [
     {
@@ -67,21 +68,33 @@ export default function AgencyStudioPage() {
       <h1 className="text-4xl font-bold mb-6">Agency Studio</h1>
 
       <div className="flex gap-4 mb-6">
-        <Button onClick={() => setTab('overview')} variant={tab === 'overview' ? 'default' : 'outline'}>
+        <Button
+          onClick={() => setTab("overview")}
+          variant={tab === "overview" ? "default" : "outline"}
+        >
           Overview
         </Button>
-        <Button onClick={() => setTab('intelligence')} variant={tab === 'intelligence' ? 'default' : 'outline'}>
+        <Button
+          onClick={() => setTab("intelligence")}
+          variant={tab === "intelligence" ? "default" : "outline"}
+        >
           Intelligence
         </Button>
       </div>
 
-      {tab === 'overview' && (
+      {tab === "overview" && (
         <>
           <div className="flex gap-4 mb-8">
-            <Button onClick={() => setShowCreatorModal(true)} className="bg-gradient-to-r from-yellow-400 to-pink-500 text-black">
+            <Button
+              onClick={() => setShowCreatorModal(true)}
+              className="bg-gradient-to-r from-yellow-400 to-pink-500 text-black"
+            >
               + Add New Creator
             </Button>
-            <Button onClick={() => setShowTeamModal(true)} className="bg-gradient-to-r from-teal-400 to-green-500 text-black">
+            <Button
+              onClick={() => setShowTeamModal(true)}
+              className="bg-gradient-to-r from-teal-400 to-green-500 text-black"
+            >
               + Add Team Member
             </Button>
           </div>
@@ -89,23 +102,32 @@ export default function AgencyStudioPage() {
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {dummyCreators.map((creator, idx) => (
               <Card key={idx} className="bg-zinc-900 p-4 rounded-xl">
-                <img src={creator.image} alt={creator.name} className="rounded-lg mb-3 w-full h-48 object-cover" />
+                <img
+                  src={creator.image}
+                  alt={creator.name}
+                  className="rounded-lg mb-3 w-full h-48 object-cover"
+                />
                 <h3 className="text-xl font-semibold mb-1">{creator.name}</h3>
                 <p className="text-sm text-zinc-300 mb-2">{creator.summary}</p>
-                <p className="text-sm text-zinc-400">Opportunities: {creator.opportunities}</p>
+                <p className="text-sm text-zinc-400">
+                  Opportunities: {creator.opportunities}
+                </p>
               </Card>
             ))}
           </div>
         </>
       )}
 
-      {tab === 'intelligence' && (
+      {tab === "intelligence" && (
         <div className="mt-6 space-y-10">
           <VideoTrendIntelligence />
 
           <div className="mt-4">
-            <Button onClick={() => setShowSentiment(prev => !prev)} variant="outline">
-              {showSentiment ? 'Hide' : 'Show'} Contextual Sentiment Analysis
+            <Button
+              onClick={() => setShowSentiment((prev) => !prev)}
+              variant="outline"
+            >
+              {showSentiment ? "Hide" : "Show"} Contextual Sentiment Analysis
             </Button>
           </div>
 
@@ -131,8 +153,15 @@ export default function AgencyStudioPage() {
             <Input placeholder="Instagram / TikTok Link" className="mb-3" />
             <Input placeholder="Niche or Tags" className="mb-3" />
             <div className="flex justify-end gap-2">
-              <Button onClick={() => setShowCreatorModal(false)} variant="outline">Cancel</Button>
-              <Button className="bg-gradient-to-r from-yellow-400 to-pink-500 text-black">Add Creator</Button>
+              <Button
+                onClick={() => setShowCreatorModal(false)}
+                variant="outline"
+              >
+                Cancel
+              </Button>
+              <Button className="bg-gradient-to-r from-yellow-400 to-pink-500 text-black">
+                Add Creator
+              </Button>
             </div>
           </div>
         </div>
@@ -149,8 +178,15 @@ export default function AgencyStudioPage() {
               <option value="viewer">Brand Liaison (View Only)</option>
             </select>
             <div className="flex justify-end gap-2">
-              <Button onClick={() => setShowTeamModal(false)} variant="outline">Cancel</Button>
-              <Button className="bg-gradient-to-r from-teal-400 to-green-500 text-black">Send Invite</Button>
+              <Button
+                onClick={() => setShowTeamModal(false)}
+                variant="outline"
+              >
+                Cancel
+              </Button>
+              <Button className="bg-gradient-to-r from-teal-400 to-green-500 text-black">
+                Send Invite
+              </Button>
             </div>
           </div>
         </div>
