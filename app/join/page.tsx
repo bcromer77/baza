@@ -1,92 +1,98 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
-import Link from "next/link";
-import { motion } from "framer-motion";
-import { CheckCircle, ArrowRight } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import PhylloConnect from "@/components/phyllo-connect";
 
 export default function JoinPage() {
+  const [name, setName] = useState("");
+  const [email, setEmail] = useState("");
+  const [persona, setPersona] = useState<"creator" | "brand">("creator");
+  const [sdkToken, setSdkToken] = useState("");
+  const [phylloReady, setPhylloReady] = useState(false);
   const router = useRouter();
-  const [isSuccess, setIsSuccess] = useState(false);
 
-  useEffect(() => {
-    // Simulate Stripe onboarding or success flag
-    const timer = setTimeout(() => {
-      setIsSuccess(true);
-    }, 1000);
-    return () => clearTimeout(timer);
-  }, []);
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+
+    try {
+      const res = await fetch("http://localhost:5000/api/auth/signup", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ name, email, persona })
+      });
+
+      const data = await res.json();
+
+      if (res.ok) {
+        localStorage.setItem("phyllo_user_id", data.userId);
+        setSdkToken(data.sdk_token || "mock_sdk_token");
+        setPhylloReady(true);
+
+        setTimeout(() => {
+          router.push(`/creator-studio?user_id=${data.userId}`);
+        }, 3000);
+      } else {
+        alert(data.message || "Signup failed");
+      }
+    } catch (err) {
+      console.error("Signup error:", err);
+      alert("Something went wrong while signing up.");
+    }
+  };
 
   return (
-    <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center p-6">
-      <motion.div
-        initial={{ opacity: 0, y: 40 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.6 }}
-        className="w-full max-w-md"
+    <div className="min-h-screen bg-black text-white flex items-center justify-center px-4">
+      <form
+        onSubmit={handleSubmit}
+        className="bg-zinc-900 p-6 rounded-2xl shadow-xl w-full max-w-md space-y-4"
       >
-        {isSuccess ? (
-          <Card className="w-full bg-zinc-900/80 backdrop-blur-sm border border-zinc-800 shadow-xl overflow-hidden">
-            <div className="h-2 bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500" />
-            <CardContent className="p-8 space-y-6 text-center">
-              <motion.div
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ type: "spring", stiffness: 200, damping: 15 }}
-                className="mx-auto w-16 h-16 rounded-full bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 flex items-center justify-center"
-              >
-                <CheckCircle className="h-8 w-8 text-white" />
-              </motion.div>
+        <h1 className="text-2xl font-bold text-center">Join Audiantix</h1>
 
-              <div className="space-y-2">
-                <h1 className="text-2xl font-bold">Welcome to Audiantix!</h1>
-                <p className="text-zinc-400">Your creator account has been created successfully.</p>
-              </div>
+        <input
+          type="text"
+          placeholder="Your name"
+          value={name}
+          onChange={(e) => setName(e.target.value)}
+          required
+          className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
+        />
 
-              <div className="space-y-4">
-                <p className="text-sm text-zinc-300">
-                  We've opened Stripe Connect in a new tab to set up your payments.
-                </p>
-                <p className="text-sm text-zinc-300">You'll be redirected to your Creator Studio in a moment...</p>
-              </div>
+        <input
+          type="email"
+          placeholder="you@example.com"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+          className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
+        />
 
-              <div className="pt-4">
-                <Button
-                  onClick={() => router.push("/creator-studio")}
-                  className="bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 hover:opacity-90 text-black font-medium"
-                >
-                  Go to Creator Studio <ArrowRight className="ml-2 h-4 w-4" />
-                </Button>
-              </div>
-            </CardContent>
-          </Card>
-        ) : (
-          <Card className="w-full bg-zinc-900/80 backdrop-blur-sm border border-zinc-800 shadow-xl overflow-hidden">
-            <div className="h-2 bg-gradient-to-r from-amber-400 to-pink-500" />
-            <CardContent className="p-8 text-center">
-              <h1 className="text-xl font-semibold mb-4">Join Audiantix</h1>
-              <p className="text-zinc-400 text-sm">Complete your setup to begin discovering opportunities.</p>
-              {/* Placeholder for sign-up form, OAuth, etc. */}
-            </CardContent>
-          </Card>
-        )}
-      </motion.div>
+        <select
+          value={persona}
+          onChange={(e) => setPersona(e.target.value as any)}
+          className="w-full p-3 rounded bg-zinc-800 text-white"
+        >
+          <option value="creator">I'm a Creator</option>
+          <option value="brand">I'm a Brand</option>
+        </select>
 
-      <div className="w-full max-w-md mt-8 flex justify-between text-xs text-zinc-600">
-        <Link href="/terms" className="hover:text-zinc-400">
-          Terms of Service
-        </Link>
-        <Link href="/privacy" className="hover:text-zinc-400">
-          Privacy Policy
-        </Link>
-        <Link href="/help" className="hover:text-zinc-400">
-          Help Center
-        </Link>
-      </div>
-    </main>
+        <button
+          type="submit"
+          className="w-full py-3 bg-gradient-to-r from-amber-400 to-pink-500 text-black rounded-lg font-semibold"
+        >
+          Join Now
+        </button>
+      </form>
+
+      {phylloReady && (
+        <PhylloConnect
+          sdkToken={sdkToken}
+          onSuccess={() => console.log("Phyllo success")}
+        />
+      )}
+    </div>
   );
 }
 

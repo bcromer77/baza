@@ -11,7 +11,7 @@ export default async function handler(req, res) {
   try {
     await connectToDatabase();
 
-    const creator = await Creator.findById(id);
+ const creator = await Creator.findOne({ phylloUserId: id })
 
     if (!creator) {
       return res.status(404).json({ message: "Creator not found" });
