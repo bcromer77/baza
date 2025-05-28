@@ -37,7 +37,9 @@
   }
 
   * {
-    @apply border-border;
+    /* Remove this as `border-border` is not a Tailwind default class */
+    /* @apply border-border; */
+    border-color: hsl(var(--border) / 0.2); /* fallback border color */
   }
 
   body {
