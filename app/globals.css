@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Base layer: CSS variables for dark theme */
 @layer base {
   :root {
     --background: 0 0% 0%;
@@ -34,12 +35,11 @@
 
     --radius: 0.5rem;
   }
-}
 
-@layer base {
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
@@ -49,6 +49,7 @@
   }
 }
 
+/* Utility layer: hide scrollbars */
 @layer utilities {
   .hide-scrollbar::-webkit-scrollbar {
     display: none;
@@ -59,3 +60,4 @@
     scrollbar-width: none;
   }
 }
+

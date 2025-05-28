@@ -4,8 +4,7 @@ import { useState, useContext } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Card } from "@/components/ui/card";
-import VideoTrendIntelligence from "../../video-trend-intelligence/page";
-import { PremiumContextualSentiment } from "@/components/PremiumContextualSentiment";
+import PremiumContextualSentiment from "@/components/PremiumContextualSentiment";
 import UpsellCard from "@/components/premium/UpsellCard";
 import { AuthContext } from "@/context/AuthContext";
 
@@ -36,8 +35,8 @@ export default function AgencyStudioPage() {
   const [tab, setTab] = useState<"overview" | "intelligence">("overview");
   const [showSentiment, setShowSentiment] = useState(false);
 
-  const { user } = useContext(AuthContext);
-  const premium = user?.tier === "premium";
+  const authContext = useContext(AuthContext);
+  const premium = authContext?.user?.tier === "premium";
 
   const proximityResults = [
     {
@@ -120,7 +119,10 @@ export default function AgencyStudioPage() {
 
       {tab === "intelligence" && (
         <div className="mt-6 space-y-10">
-          <VideoTrendIntelligence />
+          {/* Replace with your real intelligence component */}
+          <div className="bg-zinc-800 p-6 rounded-xl">
+            <p>Intelligence module placeholder.</p>
+          </div>
 
           <div className="mt-4">
             <Button
@@ -170,13 +172,9 @@ export default function AgencyStudioPage() {
       {showTeamModal && (
         <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50">
           <div className="bg-zinc-800 p-6 rounded-xl w-full max-w-md">
-            <h2 className="text-xl font-bold mb-4">Add Team Member</h2>
-            <Input placeholder="Email Address" className="mb-3" />
-            <select className="w-full bg-zinc-900 text-white p-2 rounded mb-3">
-              <option value="admin">Admin</option>
-              <option value="campaign">Campaign Manager</option>
-              <option value="viewer">Brand Liaison (View Only)</option>
-            </select>
+            <h2 className="text-xl font-bold mb-4">Add a Team Member</h2>
+            <Input placeholder="Team Member Name" className="mb-3" />
+            <Input placeholder="Role" className="mb-3" />
             <div className="flex justify-end gap-2">
               <Button
                 onClick={() => setShowTeamModal(false)}
@@ -185,7 +183,7 @@ export default function AgencyStudioPage() {
                 Cancel
               </Button>
               <Button className="bg-gradient-to-r from-teal-400 to-green-500 text-black">
-                Send Invite
+                Add Member
               </Button>
             </div>
           </div>

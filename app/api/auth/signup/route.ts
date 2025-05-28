@@ -13,12 +13,19 @@ export async function POST(req: Request) {
 
     await connectToDatabase();
 
+    // Create MongoDB record
     const creator = await Creator.create({ name, email, persona });
 
+    // Create Phyllo user
     const { phylloUserId, sdk_token } = await createPhylloUser(email);
+
+    // Save Phyllo user ID
+    creator.phylloUserId = phylloUserId;
+    await creator.save();
 
     return NextResponse.json({
       message: "User created",
+      userId: creator._id,
       phylloUserId,
       sdk_token,
     });

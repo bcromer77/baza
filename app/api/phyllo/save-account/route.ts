@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server';
 import mongoose from 'mongoose';
-import { connectToDatabase } from '@/lib/db';
+import  connectToDatabase  from '@/lib/db';
 import CreatorAccount from '@/models/CreatorAccount';
 
 export async function POST(request: Request) {
