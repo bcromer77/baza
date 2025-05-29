@@ -1,17 +1,18 @@
-import { useState } from "react"
-import { motion } from "framer-motion"
-import { Search } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import Link from "next/link"
+import { useState } from "react";
+import { motion } from "framer-motion";
+import { Search } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
+import Link from "next/link";
 
 export default function Hero() {
-  const [query, setQuery] = useState("")
-  const [mode, setMode] = useState<"brand" | "creator">("brand")
+  const [query, setQuery] = useState("");
+  const [mode, setMode] = useState<"brand" | "creator">("brand");
 
   return (
-    <section className="min-h-screen bg-black text-white flex flex-col 
-justify-center items-center px-6 text-center">
+    <section
+      className="min-h-screen bg-black text-white flex flex-col justify-center items-center px-6 text-center"
+    >
       <motion.h1
         className="text-5xl md:text-7xl font-bold"
         initial={{ opacity: 0, y: -20 }}
@@ -28,19 +29,15 @@ justify-center items-center px-6 text-center">
         transition={{ delay: 0.4, duration: 0.8 }}
       >
         {mode === "brand"
-          ? "See what creators are already talking about before you spend 
-a cent."
-          : "Audiantix scans your voice content so the right brands find 
-you."}
+          ? "See what creators are already talking about before you spend a cent."
+          : "Audiantix scans your voice content so the right brands find you."}
       </motion.p>
 
-      <div className="mt-8 w-full max-w-xl bg-zinc-900 rounded-xl border 
-border-zinc-700 shadow-xl">
+      <div className="mt-8 w-full max-w-xl bg-zinc-900 rounded-xl border border-zinc-700 shadow-xl">
         <div className="flex items-center px-4 py-3">
           <Search className="text-yellow-400 mr-2" />
           <Input
-            className="flex-grow bg-transparent border-none text-white 
-placeholder-gray-400"
+            className="flex-grow bg-transparent border-none text-white placeholder-gray-400"
             placeholder={
               mode === "brand"
                 ? "Find creators talking about: Lisbon surf houses"
@@ -49,13 +46,12 @@ placeholder-gray-400"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
-          <Button className="ml-2 bg-gradient-to-r from-yellow-400 
-to-pink-500 text-black">
+          <Button className="ml-2 bg-gradient-to-r from-yellow-400 to-pink-500 text-black">
             {mode === "brand" ? "Reveal Creators" : "Join Now"}
           </Button>
         </div>
-        <div className="flex justify-around py-3 border-t 
-border-zinc-800">
+
+        <div className="flex justify-around py-3 border-t border-zinc-800">
           <Button
             variant={mode === "creator" ? "default" : "ghost"}
             className="rounded-full px-4"
@@ -81,10 +77,9 @@ border-zinc-800">
       >
         {mode === "brand"
           ? "Powered by /server/routes/search.js and Prism Engine"
-          : "Your voice connects to opportunities via /transcribe + 
-/stripe"}
+          : "Your voice connects to opportunities via /transcribe + /stripe"}
       </motion.div>
     </section>
-  )
+  );
 }
 
