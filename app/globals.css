@@ -2,64 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Base layer: CSS variables for dark theme */
-@layer base {
-  :root {
-    --background: 0 0% 0%;
-    --foreground: 0 0% 100%;
-
-    --card: 240 10% 3.9%;
-    --card-foreground: 0 0% 98%;
-
-    --popover: 240 10% 3.9%;
-    --popover-foreground: 0 0% 98%;
-
-    --primary: 0 0% 98%;
-    --primary-foreground: 240 5.9% 10%;
-
-    --secondary: 240 3.7% 15.9%;
-    --secondary-foreground: 0 0% 98%;
-
-    --muted: 240 3.7% 15.9%;
-    --muted-foreground: 240 5% 64.9%;
-
-    --accent: 240 3.7% 15.9%;
-    --accent-foreground: 0 0% 98%;
-
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 0 0% 98%;
-
-    --border: 240 3.7% 15.9%;
-    --input: 240 3.7% 15.9%;
-    --ring: 240 4.9% 83.9%;
-
-    --radius: 0.5rem;
-  }
-
-  * {
-    /* Remove this as `border-border` is not a Tailwind default class */
-    /* @apply border-border; */
-    border-color: hsl(var(--border) / 0.2); /* fallback border color */
-  }
-
-  body {
-    @apply bg-background text-foreground;
-  }
-
-  html {
-    scroll-behavior: smooth;
+/* Custom global utilities */
+@layer utilities {
+  .bg-background {
+    @apply bg-white dark:bg-black; /* Example: light/dark background switch */
   }
 }
 
-/* Utility layer: hide scrollbars */
-@layer utilities {
-  .hide-scrollbar::-webkit-scrollbar {
-    display: none;
-  }
+/* Example of adding some global styles (optional!) */
+body {
+  @apply text-gray-800 bg-background; /* Uses your new bg-background class */
+  font-family: system-ui, sans-serif;
+}
 
-  .hide-scrollbar {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
+/* Additional global styles */
+h1, h2, h3, h4, h5, h6 {
+  @apply font-semibold;
+}
+
+a {
+  @apply text-blue-600 underline;
+}
+
+button {
+  @apply px-4 py-2 rounded bg-blue-600 text-white hover:bg-blue-700 transition;
 }
 

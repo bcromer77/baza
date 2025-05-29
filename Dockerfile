@@ -1,4 +1,4 @@
-k# Use official Node.js 18 base image
+# Use official Node.js 18 base image
 FROM node:18
 
 # Set working directory
