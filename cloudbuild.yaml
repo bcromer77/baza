@@ -1,24 +1,23 @@
 steps:
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['build', '-t', 'gcr.io/$PROJECT_ID/baza', '.']
+    args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/baza', '.' ]
 
   - name: 'gcr.io/cloud-builders/docker'
-    args: ['push', 'gcr.io/$PROJECT_ID/baza']
+    args: [ 'push', 'gcr.io/$PROJECT_ID/baza' ]
 
   - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
-    entrypoint: gcloud
+    entrypoint: 'gcloud'
     args:
-      [
-        "run", "deploy", "baza",
-        "--image", "gcr.io/$PROJECT_ID/baza",
-        "--region", "us-central1",
-        "--platform", "managed",
-        "--allow-unauthenticated"
-      ]
-
-images:
-  - 'gcr.io/$PROJECT_ID/baza'
-
-options:
-  logging: CLOUD_LOGGING_ONLY
+      - 'run'
+      - 'deploy'
+      - 'baza'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/baza'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--service-account'
+      - 'cloud-build-deployer@creator-torch.iam.gserviceaccount.com'
+      - '--allow-unauthenticated'
 
