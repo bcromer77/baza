@@ -1,0 +1,380 @@
+1
+00:00:00,000 --> 00:00:06,880
+Hey everyone and welcome back to my Magic Leap series with many of us social distancing and
+
+2
+00:00:06,880 --> 00:00:11,360
+working from home these days, we've found new ways to work and communicate with our friends,
+
+3
+00:00:11,360 --> 00:00:15,920
+families, and co-workers, aka lots of video chats.
+
+4
+00:00:15,920 --> 00:00:21,280
+While these video chats have proven useful, they still don't provide that presence for
+
+5
+00:00:21,280 --> 00:00:24,080
+use to in person, right Max?
+
+6
+00:00:24,080 --> 00:00:25,080
+Right.
+
+7
+00:00:25,080 --> 00:00:29,280
+Today I partnered up with Magic Leap to show you how co-presents in spatial computing,
+
+8
+00:00:29,280 --> 00:00:34,160
+can be an excellent alternative to these flat screen-based communications like video chat,
+
+9
+00:00:34,160 --> 00:00:38,320
+and provide experiences that really are the next best thing to be in person.
+
+10
+00:00:38,320 --> 00:00:43,440
+I think now more than ever, spatial computing shines, and I'm really excited to show you
+
+11
+00:00:43,440 --> 00:00:44,320
+how to be used.
+
+12
+00:00:44,320 --> 00:00:45,280
+So here we go!
+
+13
+00:00:45,280 --> 00:00:51,920
+Let's start with spatial.
+
+14
+00:00:51,920 --> 00:00:56,720
+Spatial is a great option for businesses and colleagues to build a shared workspace where you can
+
+15
+00:00:56,720 --> 00:01:02,800
+meet up as holograms, the app provides the ability to create persistent room so you can save
+
+16
+00:01:02,800 --> 00:01:05,680
+your information and return to it in future meetings.
+
+17
+00:01:05,680 --> 00:01:10,560
+You can even set up social rooms like the office water cooler where people can have conversations
+
+18
+00:01:10,560 --> 00:01:13,840
+about Tiger King and add a nice social break to their day.
+
+19
+00:01:15,039 --> 00:01:19,840
+Now to show you spatial in action, I'm going to meet some Magic Leap members in the series room,
+
+20
+00:01:19,840 --> 00:01:24,960
+and oh my god, it looks like they are there, and I am late, so let's go to the room.
+
+21
+00:01:25,760 --> 00:01:31,440
+Hey, Katie, have a talk, Katie.
+
+22
+00:01:31,440 --> 00:01:34,800
+Hey, thank you, hey, how's it going?
+
+23
+00:01:34,800 --> 00:01:38,000
+Thank you guys for coming over, my place is Taylor.
+
+24
+00:01:38,000 --> 00:01:40,560
+Oh wow, Taylor's right, I'm sorry, I'm sorry.
+
+25
+00:01:41,680 --> 00:01:46,080
+I was legitimately taken a back by how real it felt to have their holograms in my room.
+
+26
+00:01:47,280 --> 00:01:52,400
+Spatial is cross-platform, it could be used on your magically desktop and phone, so even if someone
+
+27
+00:01:52,400 --> 00:01:54,880
+lacks a headset, they can join and follow along.
+
+28
+00:01:54,880 --> 00:01:57,120
+Hey guys, am I late?
+
+29
+00:01:57,120 --> 00:01:59,360
+Yeah, but does Tigerly matter anymore?
+
+30
+00:02:00,080 --> 00:02:01,680
+There are lots of cool features.
+
+31
+00:02:01,680 --> 00:02:05,040
+You can upload media for your computer, if I mean?
+
+32
+00:02:05,040 --> 00:02:08,640
+Yep, there it is, screen share, so that's my desktop.
+
+33
+00:02:08,640 --> 00:02:10,560
+That is way too many tabs.
+
+34
+00:02:10,560 --> 00:02:16,240
+Place notes, photos, and videos on display, view 3D models, and even sketch on them.
+
+35
+00:02:17,200 --> 00:02:21,920
+This meeting only had four of us, but spatial can support up to 30 users and headsets
+
+36
+00:02:21,920 --> 00:02:23,440
+in one room at a time.
+
+37
+00:02:23,440 --> 00:02:27,840
+Taylor explained the benefits of using spatial for company meetings and presentations.
+
+38
+00:02:27,840 --> 00:02:32,480
+You can see the people are more engaged, you can watch the people are actually looking at the
+
+39
+00:02:32,480 --> 00:02:36,560
+presentation versus just like trying their video off and fiddling with something else while you're
+
+40
+00:02:36,560 --> 00:02:37,840
+listening to something in the background.
+
+41
+00:02:37,840 --> 00:02:39,840
+It does feel like you're in the room with me right now.
+
+42
+00:02:41,040 --> 00:02:43,600
+Having a conversation, making eye contact with me?
+
+43
+00:02:43,600 --> 00:02:46,240
+If this could be useful for you, why don't you try it out?
+
+44
+00:02:46,240 --> 00:02:50,080
+Magic Leaf has launched the Quick Start Collaboration Package with Spatial,
+
+45
+00:02:50,080 --> 00:02:54,640
+which allows you to set up four headsets with your company and try it out for 45 days.
+
+46
+00:02:54,640 --> 00:02:57,040
+I placed a link with details in the description.
+
+47
+00:02:58,880 --> 00:03:04,400
+Now, let's head over to Meetings a free native app included on the headset for a bit of a different experience.
+
+48
+00:03:05,280 --> 00:03:08,720
+Magic Leaf has repurposed avatar chat into meetings.
+
+49
+00:03:08,720 --> 00:03:13,120
+You can now invite local and remote users to join your meetings using a code.
+
+50
+00:03:13,120 --> 00:03:17,920
+In meetings, you can chat, share your affiliate web browser screens, and share and collaborate
+
+51
+00:03:17,920 --> 00:03:19,680
+on 2D and 3D content.
+
+52
+00:03:19,680 --> 00:03:23,440
+The app includes beta collaboration features in the gallery app,
+
+53
+00:03:23,440 --> 00:03:27,440
+so attendees can draw and comment on 3D.glb models.
+
+54
+00:03:27,440 --> 00:03:31,200
+You can import these images easily using the desktop companion app.
+
+55
+00:03:31,200 --> 00:03:32,640
+How are your weekends?
+
+56
+00:03:32,640 --> 00:03:36,400
+Well, you might see the grocery store was fun.
+
+57
+00:03:36,400 --> 00:03:42,800
+But as you do just, I played Animal Crossing on my Switch and then ate a lot of food.
+
+58
+00:03:42,800 --> 00:03:46,480
+The avatar's and meetings are much more expressive than Spatials.
+
+59
+00:03:46,560 --> 00:03:49,760
+These avatars have head tracking, hand tracking, and eye tracking,
+
+60
+00:03:49,760 --> 00:03:52,560
+so you can make direct eye contact with others.
+
+61
+00:03:52,560 --> 00:03:54,640
+And you can tell when they're not paying attention.
+
+62
+00:03:54,640 --> 00:04:00,080
+There's also a new dedicated outfit out where you can personalize your avatar's physique and accessories.
+
+63
+00:04:00,880 --> 00:04:02,640
+But there are still no moles.
+
+64
+00:04:02,640 --> 00:04:05,120
+Come on Magic Leaf, help me out here, get it together.
+
+65
+00:04:07,120 --> 00:04:12,320
+And lastly, with the Helio web browser, you can create your own workspace with multiple documents,
+
+66
+00:04:12,320 --> 00:04:14,720
+videos and websites open at a time.
+
+67
+00:04:14,720 --> 00:04:19,040
+You can also throw up video chats like Google Hangouts and make the screen really big.
+
+68
+00:04:19,600 --> 00:04:22,000
+It's me again, I'm still not wearing pants.
+
+69
+00:04:22,960 --> 00:04:28,000
+And you can use that Logitech keyboard I talked about in my last video to toggle between browser screen
+
+70
+00:04:28,000 --> 00:04:33,040
+easily. Best of all, these screens will stay where you left them each time you pick up your headsets.
+
+71
+00:04:33,040 --> 00:04:35,760
+You can easily hop back into your daily routine.
+
+72
+00:04:37,280 --> 00:04:42,800
+You can also personalize your workspace with images uploaded using the desktop companion app.
+
+73
+00:04:42,800 --> 00:04:46,240
+I went into detail on this in my last video and if you guys want to check that out,
+
+74
+00:04:46,240 --> 00:04:47,520
+I place it in the description.
+
+75
+00:04:49,920 --> 00:04:54,800
+In just the last few weeks, we've seen an instantaneous shift to remote work.
+
+76
+00:04:54,800 --> 00:04:59,600
+And evidence that some companies can work just as well if not better.
+
+77
+00:04:59,600 --> 00:05:04,720
+People are realizing they don't need to hop on a plane or physically go to their office for that meeting.
+
+78
+00:05:05,920 --> 00:05:10,160
+Although this shift wasn't voluntary, it may have changed the way we work together
+
+79
+00:05:10,160 --> 00:05:13,520
+and began a completely new era workflow.
+
+80
+00:05:13,520 --> 00:05:19,520
+Spatial computing widens that gap even further and introduces a more life-like way to collaborate
+
+81
+00:05:19,520 --> 00:05:22,560
+in a physical space without actually having to be there.
+
+82
+00:05:22,560 --> 00:05:28,000
+I'm looking at your avatar next to Keyans and like no offense but Keyans' posture looks better than yours.
+
+83
+00:05:28,000 --> 00:05:28,800
+That's the first.
+
+84
+00:05:29,600 --> 00:05:32,320
+I think this technology becomes more well-known.
+
+85
+00:05:32,320 --> 00:05:36,160
+Companies will switch from 2D video chats to 3D holograms.
+
+86
+00:05:37,120 --> 00:05:42,080
+I hope this video has you just as excited as I am about these new ways of collaborating.
+
+87
+00:05:42,080 --> 00:05:44,160
+And if you want to continue this journey with me,
+
+88
+00:05:44,160 --> 00:05:49,120
+one of you guys click that subscribe button down there and click that bell for alerts you don't miss a video.
+
+89
+00:05:49,120 --> 00:05:51,200
+And if you enjoyed this, give it a like.
+
+90
+00:05:51,200 --> 00:05:54,320
+For more magically videos, stay tuned. We have more coming.
+
+91
+00:05:54,320 --> 00:05:57,600
+And if you want to watch my other ones, click that playlist right there.
+
+92
+00:05:57,600 --> 00:05:59,600
+I'm Justin and I'll take you later.
+
+93
+00:06:00,160 --> 00:06:06,160
+Right Max?
+
+94
+00:06:06,160 --> 00:06:08,160
+Right!
+
+95
+00:06:09,200 --> 00:06:11,440
+But I can fart more often now.
+

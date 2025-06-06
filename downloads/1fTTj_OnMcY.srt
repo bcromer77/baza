@@ -1,0 +1,1696 @@
+1
+00:00:00,000 --> 00:00:07,040
+The American Diabetes Association plays a crucial role in shaping diabetes care worldwide.
+
+2
+00:00:07,040 --> 00:00:13,440
+It's standards of care set the gold standard for diabetes treatment and technology recommendations,
+
+3
+00:00:13,440 --> 00:00:20,640
+influencing insurance coverage here in the US, and providing essential guidance for both physicians and patients.
+
+4
+00:00:20,640 --> 00:00:25,920
+These guidelines help ensure that the latest advancements in diabetes management are
+
+5
+00:00:26,000 --> 00:00:30,160
+accessible to those who need it most. Welcome to the show. I'm just and I have
+
+6
+00:00:30,160 --> 00:00:35,280
+typed one diabetes in on here. I tuck off things diabetes tech news and management. Now,
+
+7
+00:00:35,280 --> 00:00:42,080
+one of the most exciting recommendations that has come out of the ADA standards of care most recently
+
+8
+00:00:42,080 --> 00:00:47,760
+is a recommendation that all people with type 2 diabetes were guardless of insulin use
+
+9
+00:00:47,760 --> 00:00:53,520
+should have access to continuous glucose monitors. This shift could have a massive impact on
+
+10
+00:00:53,520 --> 00:01:00,080
+diabetes care, expanding access to a tool that has already transformed management for so many
+
+11
+00:01:00,080 --> 00:01:06,320
+people with diabetes. Today, I'm joined by Dr. Gracia Aleppo, a professor of medicine at
+
+12
+00:01:06,320 --> 00:01:11,600
+Northwestern University's Division of Endocrinology, Metabolism, and Molecular Medicine.
+
+13
+00:01:11,600 --> 00:01:18,800
+With over 23 years as an adult endocrinologist, she has dedicated her career to diabetes care,
+
+14
+00:01:18,800 --> 00:01:25,280
+especially in the realm of diabetes technology. In this episode, we dive into her work at the ADA,
+
+15
+00:01:25,280 --> 00:01:31,280
+how an idea moves through the organization from conception to the standards of care. The rating
+
+16
+00:01:31,280 --> 00:01:37,120
+system behind each new recommendation, we also get into the ADA's recent recommendation that health care
+
+17
+00:01:37,120 --> 00:01:43,360
+providers support patients who are considering DIY. Uncleared algorithms, like those I've talked about
+
+18
+00:01:43,360 --> 00:01:50,640
+on the show, whether it be trio DIY loop or Android APS. Dr. Aleppo is just as passionate about
+
+19
+00:01:50,640 --> 00:01:56,960
+diabetes technology as I am. Maybe even more, and you'll hear that through her voice. Keep in mind that
+
+20
+00:01:56,960 --> 00:02:01,280
+anything you hear on the show or any of my pages is not medical advice and it's for educational
+
+21
+00:02:01,280 --> 00:02:06,480
+purposes, only always consult with a physician before making changes to your health care. Now for the
+
+22
+00:02:06,480 --> 00:02:12,720
+conversation. Gratia, welcome to the show. It's so good to have you here. Thank you so much, Justin
+
+23
+00:02:12,720 --> 00:02:19,040
+for having me here today. I'm excited to be here with you today. So I'm Gratia Leipop, my professor of medicine
+
+24
+00:02:19,040 --> 00:02:24,560
+at the Division of Endocrinology Metabolism Molecular Medicine and Northwestern University in Chicago.
+
+25
+00:02:25,200 --> 00:02:33,680
+I've been working as adult endocrinologists for about 23 years now, and I dedicated my career to diabetes,
+
+26
+00:02:33,680 --> 00:02:39,600
+particular diabetes and technology. For the last three years, I've been working with the ADA Professional
+
+27
+00:02:39,680 --> 00:02:46,079
+Practice Committee to work on the standards of care, and I was assigned to be the lead
+
+28
+00:02:47,359 --> 00:02:53,840
+the chair of the diabetes technology section, which is chapter seven. The ADA is something I hear about
+
+29
+00:02:53,840 --> 00:03:01,920
+all the time, but I don't actually know that much about it. So when the opportunity came about to have
+
+30
+00:03:01,920 --> 00:03:08,320
+you on the show to talk about not just the ADA, but the standards of care, I got super excited and
+
+31
+00:03:09,120 --> 00:03:15,359
+I'm so happy to have you here. So let's start with the biggest news that's come out from the ADA,
+
+32
+00:03:15,359 --> 00:03:23,600
+which is the addition in the 2025 ADA standards of care. It now includes a recommendation for the
+
+33
+00:03:23,600 --> 00:03:29,359
+consideration of continuous glucose monitors for adults with type 2 diabetes, whether they're using
+
+34
+00:03:29,360 --> 00:03:39,200
+insulin or not. Tell us about what led to this addition. Not only that is there was a new recommendation
+
+35
+00:03:39,200 --> 00:03:48,320
+last year for type 2 people and adults that should use CGM when they use basal insulin, but we also decided
+
+36
+00:03:48,320 --> 00:03:56,560
+to look into people with type 2 diabetes, not on insulin. And so the newest recommendation is 7.16,
+
+37
+00:03:57,120 --> 00:04:05,600
+that says consider using CGM in adults with type 2 diabetes, not using insulin or on glucose
+
+38
+00:04:05,600 --> 00:04:12,400
+laboratory medication other than insulin. And this is a level of evidence great beat. So let me explain to
+
+39
+00:04:12,400 --> 00:04:20,000
+what that means. First of all, we felt that we should sort of put together and accumulate the
+
+40
+00:04:20,000 --> 00:04:27,840
+recommendation for CGM for people using insulin with a type 1 type 2 kids adults didn't matter.
+
+41
+00:04:27,840 --> 00:04:34,000
+So that is important because the data is so strong so we want to put that aside in just one and sort of
+
+42
+00:04:35,600 --> 00:04:41,440
+combine a few recommendations. And then we thought we need to do one for type 2, not using insulin. So we
+
+43
+00:04:41,440 --> 00:04:48,880
+had to look in the literature and there is growing evidence that there are benefits for people with type 2 using
+
+44
+00:04:48,880 --> 00:04:56,880
+CGM, not using insulin. And so we had to look into the growing research and growing papers
+
+45
+00:04:56,880 --> 00:05:02,719
+and they were able to say now we feel comfortable that it is efficient evidence to state that yes,
+
+46
+00:05:02,719 --> 00:05:09,920
+we should consider. Now why do we not use recommend? Because right now we don't have large randomized
+
+47
+00:05:09,920 --> 00:05:16,320
+control trials, we have some randomized control trial, a lot of retrospective information and some
+
+48
+00:05:16,320 --> 00:05:23,120
+perspectives. So we needed to make sure we use the right level of recommendation to mirror the
+
+49
+00:05:23,120 --> 00:05:29,040
+evidence that we have. And that's how we came up with the work consider and the evidence level B.
+
+50
+00:05:30,080 --> 00:05:40,480
+So how long were you considering this addition before you actually implemented it? How many trials and studies
+
+51
+00:05:40,480 --> 00:05:46,960
+did you need to see to be like okay we're confident that we're going to recommend to all people
+
+52
+00:05:46,960 --> 00:05:53,600
+with type 2 diabetes on insulin or not? So the challenge is that with the standards of care we have a
+
+53
+00:05:53,600 --> 00:06:00,800
+huge responsibility because it's not just for the US, this recommendation and the guidance I've read by
+
+54
+00:06:00,800 --> 00:06:05,680
+people all over the world. So when you make a statement you need to make sure you can support it with the
+
+55
+00:06:05,680 --> 00:06:10,640
+literature behind it. So I've been looking for the literature for the last two years and I'll remember
+
+56
+00:06:10,640 --> 00:06:16,640
+we prepared their guidelines the year before. So they're published December of let's say 2020,
+
+57
+00:06:16,640 --> 00:06:23,520
+4 for 2020, 5 but we start in March and so we need to accumulate evidence that has been already published
+
+58
+00:06:23,520 --> 00:06:31,840
+or can be published by let's say the deadline whatever changes every year. So we might not get to use it
+
+59
+00:06:31,840 --> 00:06:37,600
+because it was after the deadline. So you need to keep in mind that if you have an idea about what should
+
+60
+00:06:37,600 --> 00:06:45,200
+be put as a new recommendation to start gathering information sometimes it's a year before and so we want to
+
+61
+00:06:45,200 --> 00:06:52,560
+make sure that we wanted to put this recommendation out people need to understand that it doesn't take two days
+
+62
+00:06:52,560 --> 00:06:59,600
+to get this idea this year. So we need to have enough publication that make the recommendation solid.
+
+63
+00:06:59,600 --> 00:07:05,840
+So that's why it takes so long to put a recommendation. And within the standards of care you said like
+
+64
+00:07:05,840 --> 00:07:14,800
+at 16.7 there's a line that says this 7.16. Okay 7.16 okay I remember that oh I was close. So if I wanted to
+
+65
+00:07:14,800 --> 00:07:20,640
+learn more about how that got there is there a way to like click in there and then it shows you all
+
+66
+00:07:20,640 --> 00:07:25,840
+of the studies that were considered or that. Actually the studies are cited. So if you go to
+
+67
+00:07:25,840 --> 00:07:33,039
+the chapter 7 of the standards of care is diabetes technology you can see that every is the recommendation
+
+68
+00:07:33,039 --> 00:07:39,200
+isn't the in the in the in the pink and said but then in the text it tells you exactly what the studies
+
+69
+00:07:39,200 --> 00:07:44,800
+were the supported. So you can go to the reference the biography at the end of the chapter and see which studies
+
+70
+00:07:44,800 --> 00:07:50,800
+were used to make this statement. And there were several we had to sue the come up because again
+
+71
+00:07:50,800 --> 00:07:58,400
+that having two or three large randomized controlled trials we used everything available within the 12 to
+
+72
+00:07:58,400 --> 00:08:06,560
+maybe 12 months or so 18 months or so to bring their recommendation to life. So you need to really
+
+73
+00:08:06,560 --> 00:08:13,360
+dig into the literature and find the as much as possible but also as to be recent it cannot be five
+
+74
+00:08:13,440 --> 00:08:22,240
+years ago obviously. Okay so once these recommendations go into the standards of care what kind of
+
+75
+00:08:22,240 --> 00:08:31,600
+happens next with those who is that signaling how are people hearing about this who is keeping their ears
+
+76
+00:08:31,600 --> 00:08:40,080
+open for something like this. So there is a great amount of um tripidation expectation in December when
+
+77
+00:08:40,080 --> 00:08:45,920
+the guidelines get published online everybody weighs for the days what is doing we try to go
+
+78
+00:08:45,920 --> 00:08:52,080
+through the pages right but also the message is there to for other people's other people to read and we are
+
+79
+00:08:52,080 --> 00:09:00,240
+hoping that by putting the recommendation in the standards of care then there will be a follow-up of payers
+
+80
+00:09:00,240 --> 00:09:07,040
+because you see the job of the recommendation is to put it there is the literature supports it so it's a true
+
+81
+00:09:07,120 --> 00:09:11,120
+statement it's not because when they are woke up or someone's teaching for everybody and I just want to
+
+82
+00:09:11,120 --> 00:09:19,280
+do I can't do that within working at the ADA volunteering that is. So once the evidence is there then we are
+
+83
+00:09:19,280 --> 00:09:28,319
+hoping that they will transform into coverage for example. When there was the recommendation for type two
+
+84
+00:09:28,319 --> 00:09:34,160
+on basal instantly from the mobile trial few years ago that then became that made the care that it
+
+85
+00:09:34,160 --> 00:09:39,439
+covered in CGM for basal instantly instead of you know multiple that injection for type two and then
+
+86
+00:09:39,439 --> 00:09:46,880
+that followed by the insurance the payers. So it starts someplace but you need to again go back to the evidence.
+
+87
+00:09:46,880 --> 00:09:52,319
+So now that we have the evidence and we have put this recommendation we're hoping that with time the
+
+88
+00:09:52,319 --> 00:09:59,120
+payers will read this and understand that they should extend consider like we said the use of CGM and people
+
+89
+00:09:59,120 --> 00:10:05,040
+without taking in so because many people today are able to come off of insulin when they use GLP for
+
+90
+00:10:05,040 --> 00:10:11,360
+example and then they're using the CGM when they are on insulin and GLP whatever the medication is and then
+
+91
+00:10:11,360 --> 00:10:15,680
+when they're off they're faced with the fact that they might not be able to afford there anymore and they
+
+92
+00:10:15,680 --> 00:10:21,200
+becomes really difficult because they really want to see that information so that's my clinical experience.
+
+93
+00:10:22,080 --> 00:10:27,760
+On the guidelines part we are hoping that when we put the information as a new recommendation there will be some
+
+94
+00:10:28,720 --> 00:10:36,319
+sort of a awareness and hopefully coverage in the future. So you mentioned GLP ones in there and I just
+
+95
+00:10:36,319 --> 00:10:43,040
+want to stick with that for a second is that making your recommendations for type two a little more tricky
+
+96
+00:10:43,439 --> 00:10:50,400
+just because of how that's affecting people with type two and how they may not need insulin or CGMs
+
+97
+00:10:50,400 --> 00:10:57,920
+because of that no okay but remember when people are treated today they should receive GLP because it's
+
+98
+00:10:57,920 --> 00:11:06,560
+such a great medication for many benefits cardiovascular unaymen or say but often what happens is that a
+
+99
+00:11:06,560 --> 00:11:14,640
+patient is an insulin that studies in CGM the glucose gets better and they might be able to come off of
+
+100
+00:11:14,640 --> 00:11:20,960
+insulin because it's not just a GLP it's a combination of GLP and CGM and the literature supports that so the
+
+101
+00:11:20,960 --> 00:11:30,319
+combination of those two enhances the benefits so in fact when you add CGM to GLP you make the glucose even better
+
+102
+00:11:30,319 --> 00:11:35,600
+so having that information that immediate feedback enhances their ability to self-manage.
+
+103
+00:11:36,560 --> 00:11:45,920
+When you're adding these recommendations are they always based off of what drugs are indicated for and what I mean
+
+104
+00:11:45,920 --> 00:11:54,000
+by that is many people with type one diabetes are finding success with GLP ones because it stabilizes their
+
+105
+00:11:54,000 --> 00:12:01,440
+blood sugar levels and they have much better control but it's not indicated for that doctors can't
+
+106
+00:12:01,440 --> 00:12:09,120
+prescribe it for type one would the ADA look into that now that's beyond this code it's not
+
+107
+00:12:09,120 --> 00:12:17,840
+part of what the standards of care are they are a way for us to research the literature and bring up
+
+108
+00:12:17,840 --> 00:12:26,160
+new recommendation based on the literature weight now sometimes this my results in approval systems or
+
+109
+00:12:26,240 --> 00:12:33,280
+indication of medication but it's not the role of a DA to promote that totally that makes sense
+
+110
+00:12:34,560 --> 00:12:41,439
+this episode is sponsored by OmniPod as someone with T1D and with an incredibly active lifestyle it's
+
+111
+00:12:41,439 --> 00:12:47,439
+important for me not to get tied up especially with tubes on my insulin pump I love to go swimming
+
+112
+00:12:47,439 --> 00:12:53,439
+lift weights and play kickball with friends and with OmniPod 5 I never have to worry about tubes getting
+
+113
+00:12:53,440 --> 00:12:58,960
+in the way plus not having to disconnect helps me to stay in range during all of my favorite physical
+
+114
+00:12:58,960 --> 00:13:05,600
+activities that includes sexy time too see if you're eligible for a 30 day trial by visiting OmniPod.com
+
+115
+00:13:05,600 --> 00:13:12,400
+slash dive tech on there you'll see full safety and risk information and trial terms that's OmniPod.com slash
+
+116
+00:13:12,400 --> 00:13:20,720
+dive tech you mentioned that the ADA has had an impact on coverage can you kind of tell me about that a
+
+117
+00:13:20,720 --> 00:13:29,600
+little more have you seen direct influence on the CGM world with coverage so it's yes and no so the
+
+118
+00:13:29,600 --> 00:13:37,520
+ADA puts out the information that is available in the literature and by doing so hopes that there will be
+
+119
+00:13:37,520 --> 00:13:45,280
+an impact and some recognition from the payers who then are able to accept that those guidelines are
+
+120
+00:13:45,360 --> 00:13:51,760
+strong enough support enough the literature that there are benefits and therefore patients can take
+
+121
+00:13:51,760 --> 00:13:58,880
+they have benefits of using these tools and they can cover them so they don't specifically drive that but
+
+122
+00:13:58,880 --> 00:14:04,240
+definitely the fact that the guidelines are out there and there are supportive of such a very strict
+
+123
+00:14:04,240 --> 00:14:11,839
+method of vetting the literature shows that if a recommendation isn't the guidelines as merits to consider
+
+124
+00:14:11,920 --> 00:14:19,600
+the coverage from the payers we want to also make the providers aware because you see providers
+
+125
+00:14:19,600 --> 00:14:26,160
+do so much for patients so when you see that there are more evidence there is more information about a specific
+
+126
+00:14:26,160 --> 00:14:32,240
+to in this case CGM and they provide the reads that they are more encouraged than use these systems and by
+
+127
+00:14:32,240 --> 00:14:38,720
+doing so they give more information they give more knowledge so it's not just for payers the ADA guidelines
+
+128
+00:14:38,800 --> 00:14:49,120
+to help people who practice medicine to do better for their patients is ADA leading any type of
+
+129
+00:14:49,120 --> 00:14:58,080
+charge or is anyone to get not just people in the diabetes space like endos and diabetes educators to read this
+
+130
+00:14:58,080 --> 00:15:05,120
+but but primary care because you know my primary care misdiagnosed me for six months with type two
+
+131
+00:15:05,120 --> 00:15:14,240
+diabetes is is there any form of you know education through the ADA to educate people outside there who can
+
+132
+00:15:14,240 --> 00:15:20,640
+also get involved even with insulin pumps right just for their their patients who don't have the ADA is not for
+
+133
+00:15:20,640 --> 00:15:28,000
+endocrinology it is for every person in medicine who wants to understand diabetes and improve their knowledge
+
+134
+00:15:28,160 --> 00:15:35,120
+and in fact the mission is to improve the care prevent and hopefully cure when they diabetes
+
+135
+00:15:35,120 --> 00:15:43,920
+but also expand and others to everybody people with diabetes provider is clinicians nurses medical assistance
+
+136
+00:15:43,920 --> 00:15:50,240
+anyone primary care and especially primary care because there are many more people with diabetes especially
+
+137
+00:15:50,240 --> 00:15:56,720
+type two that they see compared to endocrinologists because there are a few of us so the ADA
+
+138
+00:15:56,720 --> 00:16:01,920
+mission it really expand the knowledge and to take care of people with diabetes so there are a bunch of
+
+139
+00:16:01,920 --> 00:16:08,240
+volunteers that in the families and caregivers and healthcare professionals and also professionals
+
+140
+00:16:08,240 --> 00:16:16,480
+as well but the idea is a family is not just a book that comes once a year truly is an entity that supports the
+
+141
+00:16:16,480 --> 00:16:25,040
+people who have diabetes you mentioned before you use the word volunteering is the work you do at the
+
+142
+00:16:25,040 --> 00:16:31,840
+ADA are you volunteering that time? Absolutely. Strictive volunteers so it is a great privilege to be
+
+143
+00:16:31,840 --> 00:16:40,560
+invited to be in the professional practice committee because the ADA chooses he clinician and so that you get
+
+144
+00:16:40,560 --> 00:16:47,520
+invited is a huge honor because you are a huge responsibility so it's all on a volunteer basis and you
+
+145
+00:16:47,520 --> 00:16:53,200
+spend many months and I did this for three years I was so privileged to be able to do that and offer
+
+146
+00:16:53,200 --> 00:17:00,560
+whatever knowledge I had but also to look for papers, literature, think about new recommendation and to
+
+147
+00:17:00,560 --> 00:17:06,640
+sort of expand the thing that was assigned to which was the chapter seven so yes that's why it's so
+
+148
+00:17:06,720 --> 00:17:12,080
+important because being a volunteer you really have to be engaged and wanted to do it because you
+
+149
+00:17:12,080 --> 00:17:19,280
+to meet over and over again to make sure that these guidelines are voted on that we sort of a
+
+150
+00:17:19,280 --> 00:17:26,000
+wordsmith we adjust every word there is okay it's not a chance that there is a word there that is written
+
+151
+00:17:26,000 --> 00:17:32,080
+because we just didn't realize we had to pick and choose everything the word so that the message is very clear
+
+152
+00:17:33,040 --> 00:17:39,439
+so we have to go through 80% debt to represent the agreement and the voting every single recommendation
+
+153
+00:17:39,439 --> 00:17:48,000
+gets through voting more than one sign one more the one cycle excuse me so it's truly a coming together
+
+154
+00:17:48,000 --> 00:17:55,520
+of the minds and the people who have expertise and then looking into make recommendation to improve the
+
+155
+00:17:56,240 --> 00:18:01,840
+life of a person with diabetes and then the health wow well thank you for all the time you spend on this
+
+156
+00:18:02,400 --> 00:18:10,240
+the ADA standards of care are considered the gold standard why is that because first of all there are
+
+157
+00:18:10,240 --> 00:18:18,960
+really objective there is no industry support it's only funded by the ADA the work is done by volunteers
+
+158
+00:18:18,960 --> 00:18:25,440
+we have to declare a conflict of interest and so when you have so much strict sort of criteria
+
+159
+00:18:25,920 --> 00:18:30,880
+you're not putting a recommendation because you want to help a company or the other it's nothing
+
+160
+00:18:30,880 --> 00:18:35,360
+like that you want to make sure that the data they're available some of the people that done with the
+
+161
+00:18:35,360 --> 00:18:42,320
+this industry government funded NIH fund the studies or foundation like GDRF or breakthrough type one
+
+162
+00:18:42,960 --> 00:18:53,840
+has validation when we have this so much strict criteria that we can say we feel comfortable the
+
+163
+00:18:53,840 --> 00:19:03,439
+we have set truthful information that it can be vetted look up and so there is no it feels like
+
+164
+00:19:03,439 --> 00:19:10,879
+it's really a transparent what would you say are some other pivotal endeavors that the ADA has led
+
+165
+00:19:12,320 --> 00:19:19,040
+up until now things that the ADA has done that you that you're proud of they do so much advocacy
+
+166
+00:19:19,040 --> 00:19:25,920
+it is incredible so much advocacy for just about everything diabetes but also a lot of things
+
+167
+00:19:25,920 --> 00:19:30,480
+programs for the person with diabetes and not just a provider so there are two different components
+
+168
+00:19:30,480 --> 00:19:36,399
+professional ADA component and the person with diabetes if you go to ADA or G they be the
+
+169
+00:19:36,399 --> 00:19:43,200
+store or G excuse me so diabetes that work you see recommendations information resources for people
+
+170
+00:19:43,200 --> 00:19:48,240
+with diabetes and the professional component as well so the ADA doesn't just want to write
+
+171
+00:19:48,240 --> 00:19:53,680
+recommendation for physicians or clinicians it was to write information and support the
+
+172
+00:19:53,680 --> 00:20:00,480
+person with diabetes it even has information on counselors psychologists he has a time and range
+
+173
+00:20:00,480 --> 00:20:06,880
+information to understand what time and range is it tells you about food exam I exam so many things that are
+
+174
+00:20:06,880 --> 00:20:12,320
+for the person with diabetes they also a component of diabetes education that is very important where
+
+175
+00:20:13,120 --> 00:20:20,000
+specific criteria by which a center can have accreditation from the ADA for diabetes education
+
+176
+00:20:20,000 --> 00:20:25,919
+or institution has an accreditation center and it's a specific benchmarks and so it's got a lot of
+
+177
+00:20:25,919 --> 00:20:31,679
+and a lot of work that surrounds the person with diabetes it sort of 360 wraps around the person
+
+178
+00:20:32,399 --> 00:20:40,000
+I can I can just feel and see your passion and your enthusiasm for this and it's it's fun to work on
+
+179
+00:20:40,000 --> 00:20:44,640
+something that you feel so passionate about tell us a little bit about your background what kind of
+
+180
+00:20:44,640 --> 00:20:51,920
+lead to this and how did you get involved so I've been practicing for more than 20 years in Chicago
+
+181
+00:20:51,920 --> 00:20:59,200
+Northwestern University and I have a passion for diabetes that was started when I was a fellow and so I
+
+182
+00:20:59,200 --> 00:21:07,200
+really felt that diabetes technology was the answer and to me when I was a fellow when CGM was initially
+
+183
+00:21:07,920 --> 00:21:13,280
+brought to them at 25 years ago was brought to the market and I thought this is the tool that is
+
+184
+00:21:13,280 --> 00:21:18,560
+going to change the way we treat people with diabetes and I feel that the CGM is the next
+
+185
+00:21:19,440 --> 00:21:25,040
+important thing after insulin discovery because without CGM we wouldn't have anything else like
+
+186
+00:21:25,040 --> 00:21:33,120
+AID system automation integration and nothing like that so that made me truly become so engaged with
+
+187
+00:21:33,600 --> 00:21:38,800
+the person with diabetes the technology in those days they were not even covered my patients
+
+188
+00:21:38,800 --> 00:21:46,640
+would pay before 2008 before the in JDRF study patients would pay because the aha moment
+
+189
+00:21:46,640 --> 00:21:54,000
+the fact that they could reduce hypoglycemia was so important and so and my practice grew because
+
+190
+00:21:54,000 --> 00:22:00,720
+I really was just engaging with with technology from day one and so then I got much more experience
+
+191
+00:22:00,720 --> 00:22:06,240
+I started with some clinical trials I did a lot of clinical trials that really shaped CGM the
+
+192
+00:22:06,240 --> 00:22:13,760
+replace BG was the trial that allowed CGM to become non-agent so you don't have to break your finger anymore
+
+193
+00:22:13,760 --> 00:22:19,760
+and we had to prove that so we did decide to say we know that it's safe we need to prove it to everyone so
+
+194
+00:22:19,760 --> 00:22:26,080
+there was an important study and that in many more studies on other I did the mobile study for CGM and
+
+195
+00:22:26,720 --> 00:22:33,840
+without multiple injections and so forth AID studies so I've gathered some expertise and then the
+
+196
+00:22:33,840 --> 00:22:40,879
+ADA invited me and I thought it was the greatest thing so I thought I felt so honored to be able to participate
+
+197
+00:22:40,879 --> 00:22:46,480
+it's a big responsibility because these guidelines are right by so many people and yet to make sure again
+
+198
+00:22:46,480 --> 00:22:52,480
+it's not just that your way is a lot of the world or whatever you say it's also can be done not just in America
+
+199
+00:22:52,480 --> 00:22:58,880
+but also all the countries so you want to be really smart and you have to be really attended to what you say
+
+200
+00:23:01,440 --> 00:23:06,560
+what would you say is one of your greatest achievements at the ADA
+
+201
+00:23:08,560 --> 00:23:14,400
+that I was able to really work with them for the chapter seven they believe technology and expanded
+
+202
+00:23:15,600 --> 00:23:20,480
+and the people before me did a great job they basically started from scratch and then I felt
+
+203
+00:23:20,480 --> 00:23:26,880
+that my role was to grab the literature now and expand the recommendations so we did over the
+
+204
+00:23:26,880 --> 00:23:33,840
+last three years we've added many recommendations we made many much stronger recommendation and stronger
+
+205
+00:23:33,840 --> 00:23:44,000
+sort of statements to truly say this is here to stay for example AID system now they become preferred
+
+206
+00:23:44,000 --> 00:23:50,000
+because the data is so strong for therapy we type one for example where you know that the amount of
+
+207
+00:23:50,000 --> 00:23:55,840
+diabetes I'm sort of glycemic well nice is so much better with the ADA then we let's say stand
+
+208
+00:23:55,840 --> 00:24:00,400
+upon so multiple the injection but this is because there have been so much data generated so we've
+
+209
+00:24:00,400 --> 00:24:07,040
+been able to grab it and expand it we also what I'm very happy about this past year the this year should
+
+210
+00:24:07,040 --> 00:24:16,640
+say recommendation is the one about the Open APS so used to call it the YI but we call it Open APS so
+
+211
+00:24:16,640 --> 00:24:22,400
+there are these systems that are not necessarily FDA approved but they're out there for people with
+
+212
+00:24:23,120 --> 00:24:29,200
+joined is we're not waiting movement and so now there's more and more evidence that shows that these
+
+213
+00:24:29,200 --> 00:24:37,440
+systems help the patients so even though the algorithm is not approved the other components of the
+
+214
+00:24:37,440 --> 00:24:43,440
+pump and the sensor are approved and it's our job to support the patient into their journey and if they choose
+
+215
+00:24:43,440 --> 00:24:50,880
+to be on a system that needs their needs then my job is to also support them and today we have
+
+216
+00:24:50,880 --> 00:24:57,040
+evidence that is growing it says yeah these systems are actually safe and so some have been approved
+
+217
+00:24:57,040 --> 00:25:02,800
+hopefully more will be approved in the future but nevertheless there was one thing that are so happy to put
+
+218
+00:25:02,800 --> 00:25:09,840
+in this 2025 guidelines that say think about the patient already comes to us with an Open APS know the
+
+219
+00:25:09,840 --> 00:25:16,560
+literature which we explain in the in the narrative and say yeah this can be used you need to support
+
+220
+00:25:16,560 --> 00:25:22,399
+the person with diabetes and that they come with the two pieces there are the sensor and the pump are
+
+221
+00:25:22,399 --> 00:25:28,800
+approved the piece in the middle is not but there are you know safety measure in place you work with your
+
+222
+00:25:28,800 --> 00:25:35,760
+patient and you support the patient to meet them where they're at. Yeah that's very cool and I do a lot of
+
+223
+00:25:35,760 --> 00:25:44,320
+work in the DIY space open APS throughout my channels I talk about it a lot I've I've used many of them
+
+224
+00:25:44,320 --> 00:25:54,560
+and they are they're fantastic and a lot of people swear by them can you tell me more about what has just
+
+225
+00:25:54,560 --> 00:26:01,520
+gone in in that realm they're you're saying there are recommendations for this like what is what is what has
+
+226
+00:26:01,520 --> 00:26:09,760
+the ADA said when it comes to these systems and are they encapsulating like say DIY loop trio
+
+227
+00:26:10,879 --> 00:26:16,320
+AAPS Android APS like all of these are they encapsulated. Well we're not giving names we just
+
+228
+00:26:16,320 --> 00:26:24,160
+say no names what we can't right so what we're trying to say is in the recommendation to support
+
+229
+00:26:24,160 --> 00:26:30,560
+the patient with diabetes they use this this systems because that is growing evidence in the literature that
+
+230
+00:26:30,560 --> 00:26:38,399
+these are safe so it's about supporting the recommendation is to A be aware and be to support the
+
+231
+00:26:38,399 --> 00:26:45,280
+patient and use system so it's really again about the human with diabetes it makes sense yeah
+
+232
+00:26:45,280 --> 00:26:49,919
+we can't say recommend because they're not if they are approved but we need to support the patient
+
+233
+00:26:49,919 --> 00:26:56,000
+who uses them and that's where the recommendation is all about. Yeah and that's what the community wants
+
+234
+00:26:56,080 --> 00:27:00,160
+it's what the patients want the patients when they go into their office talking to their
+
+235
+00:27:00,960 --> 00:27:08,160
+doctor about this system they don't want to just be told no not with me goodbye they want at least be
+
+236
+00:27:08,800 --> 00:27:13,440
+spoken to about it right at least for it to be considered and a lot of people are just shut down
+
+237
+00:27:14,000 --> 00:27:18,800
+well there is a challenge there so some some provider might be familiar with the system so we need to
+
+238
+00:27:18,800 --> 00:27:24,639
+also understand and that's why also there is information and the narrative because once you read the
+
+239
+00:27:24,639 --> 00:27:29,680
+guidelines you have the narrative that tells you this is what the study shows so you have plenty of
+
+240
+00:27:29,680 --> 00:27:35,280
+opportunity to become educated so you want to do with the providers so I can't respect the somebody
+
+241
+00:27:35,280 --> 00:27:40,240
+as infill comfortable because they are not aware or they're not familiar with the system and they
+
+242
+00:27:40,240 --> 00:27:45,440
+will be one of the situation it's so we're hoping that in the future there will be more knowledge and that's
+
+243
+00:27:45,440 --> 00:27:53,040
+why we say support the patient that is there are these tools and sometimes a provider is interested in
+
+244
+00:27:53,040 --> 00:27:58,640
+to try to learn more sometimes they might feel uneasy and you cannot judge the provider either because they
+
+245
+00:27:58,640 --> 00:28:04,000
+feel that the license might be a risk and yet to sort of going to this gray area but if you if you
+
+246
+00:28:04,000 --> 00:28:09,280
+a clinician is comfortable with these systems they're willing to work with the patient that is wonderful
+
+247
+00:28:09,280 --> 00:28:15,280
+that's when they are supporting the patient okay I'm going to put the standards of care in the show
+
+248
+00:28:15,280 --> 00:28:21,440
+notes for this so people can go and find it if they were to go in there where can they find this literature
+
+249
+00:28:22,399 --> 00:28:30,639
+about open APS so in the narrative so in chapter seven with the recommendations a bit about the end
+
+250
+00:28:30,639 --> 00:28:41,440
+after during the AID sub chapters sort of a subsection you read the description of the study that we use to
+
+251
+00:28:41,440 --> 00:28:47,360
+make this statement and there is the references the references you go to the the back of the chapter
+
+252
+00:28:47,360 --> 00:28:54,080
+and you look all the papers that we use to generate the recommendation and to generate the language and
+
+253
+00:28:54,080 --> 00:29:00,480
+explain what this system's Duke now this is not the certification on the open APS because it's within
+
+254
+00:29:01,280 --> 00:29:08,880
+AID cgm it connect the pencil it can just write such a long thing but the paper that were utilized
+
+255
+00:29:08,960 --> 00:29:15,280
+they had the better the basic evidence are reported very so you can go and look at them if you want to
+
+256
+00:29:15,280 --> 00:29:22,160
+look more about it I want to as well so that was just as much for my audience as it was for me because
+
+257
+00:29:22,160 --> 00:29:28,560
+I'd like to to read up on you know what people are reporting about these systems but we also
+
+258
+00:29:28,560 --> 00:29:34,880
+expanded the AID portion because since last year there have been so many more tools that have been approved
+
+259
+00:29:34,880 --> 00:29:40,080
+and more literature available we had to make sure that it was really about what this system do so it's very
+
+260
+00:29:40,080 --> 00:29:46,880
+detail so that's why it's an educational basically a document because you want to learn more about
+
+261
+00:29:47,440 --> 00:29:53,680
+AID system you go to the chapter you have a lot of information on what the studies for what they showed
+
+262
+00:29:53,680 --> 00:30:00,720
+what the results were the population that was what these tools do and don't do and and even we put that
+
+263
+00:30:00,720 --> 00:30:06,240
+that is you know one tool that was approved for type 2 diabetes of course we don't say the name because we don't
+
+264
+00:30:06,240 --> 00:30:14,160
+want to be you know we cannot make specific branding name but we know that before the end of the year one brand was
+
+265
+00:30:14,160 --> 00:30:23,040
+approved for type 2 diabetes of AID and other two so we're trying to again be as up to date as possible to say
+
+266
+00:30:23,040 --> 00:30:28,400
+this is what they are you can educate yourself and learn about how to take care of patients
+
+267
+00:30:28,400 --> 00:30:32,560
+one to use an AID even if you imprimity care why not it's good to know
+
+268
+00:30:33,440 --> 00:30:41,200
+today's episode is sponsored by T1D Exchange you can directly make an impact on diabetes health care
+
+269
+00:30:41,200 --> 00:30:47,760
+treatments and technology by participating in the T1D Exchange registry it starts with the simple
+
+270
+00:30:47,760 --> 00:30:53,760
+survey about your life with T1D and it only takes about 15 minutes after that you'll have a personal portal
+
+271
+00:30:53,760 --> 00:31:00,400
+with ongoing T1D study and survey opportunities plus some of these studies even offer compensation
+
+272
+00:31:00,400 --> 00:31:05,520
+signing up with the link in the show notes help support my channel and it allows me to continue putting
+
+273
+00:31:05,520 --> 00:31:13,760
+out free content you can sign up at t1dxchange.org slash diabetic or click that link in today's show notes
+
+274
+00:31:13,760 --> 00:31:25,680
+who exactly is on the decision making side of the AIDA you were brought on who else is being brought
+
+275
+00:31:25,680 --> 00:31:34,480
+on to this so we have board well it's a different layer so the professional practice committee has several
+
+276
+00:31:35,200 --> 00:31:43,440
+key leader clinicians okay clinicians with a lot of expertise either in diabetes, in hypertension
+
+277
+00:31:44,640 --> 00:31:51,120
+pharmacology, in kidney disease in different areas of the guidelines we all get to pediatrics and adults
+
+278
+00:31:51,120 --> 00:31:58,480
+both in geriatrics all these people get together and we are assigned needed to be the lead of a section
+
+279
+00:31:58,480 --> 00:32:05,360
+or the in the subcommittee for other chapters so we don't just do one thing we do four or five and then
+
+280
+00:32:05,360 --> 00:32:13,360
+we meet very often I'm saying for each chapter that we have assigned and we go over the previous
+
+281
+00:32:13,360 --> 00:32:20,560
+literature we look at the new literature we come up with new recommendations or we say and then we have
+
+282
+00:32:20,560 --> 00:32:26,720
+to vote on this in different stages we vote first as a preliminary vote to see if they can go through
+
+283
+00:32:26,720 --> 00:32:33,360
+if they're my new like a minimal changes then we vote on the minimal changes but the ones that are new
+
+284
+00:32:33,360 --> 00:32:41,440
+need to be presented a yearly meeting so we meet together to the meeting in the AIDA headquarters
+
+285
+00:32:41,440 --> 00:32:49,920
+where we go through the entire new recommendation one by one it's what takes two days and then we have
+
+286
+00:32:49,920 --> 00:32:57,120
+the voting which is the professional practice committee they two chairs people help us with the literature
+
+287
+00:32:58,080 --> 00:33:04,320
+evidence to understand by the evidence epidemiologists and then these go to peer review
+
+288
+00:33:05,440 --> 00:33:11,920
+and then they go to the board so that we get feedback and then well that's happening we need to work on the
+
+289
+00:33:11,920 --> 00:33:19,120
+narrative to report and so in a narrative fashion right what we put into the recommendation and
+
+290
+00:33:19,520 --> 00:33:25,280
+sort of support what we say in the recommendation the values article the support the recommendation
+
+291
+00:33:25,280 --> 00:33:32,560
+with the way to update hundreds and hundreds of references every year then it goes to production
+
+292
+00:33:32,560 --> 00:33:37,280
+they give us the proof we have to go one more time to read them all make sure there is no confusion in the
+
+293
+00:33:37,280 --> 00:33:46,320
+editing and then finally goes to diabetes care for proof proof proof in there for how does a recommendation
+
+294
+00:33:46,320 --> 00:33:52,720
+get you know put on the pedestal is it someone just like you or anyone else that's like I think that
+
+295
+00:33:52,720 --> 00:33:57,680
+this should be something that we start looking at and then it you know goes up the chain how is that
+
+296
+00:33:58,640 --> 00:34:04,000
+starting what depends what you're talking about right so if this it's a new medication you're
+
+297
+00:34:04,000 --> 00:34:09,760
+recommendation for a particular medication it's okay it's time for this new topic to be placed in
+
+298
+00:34:09,760 --> 00:34:16,880
+the guidelines we're proposing so when we meet together for our chapter or section assigned to us we say
+
+299
+00:34:16,880 --> 00:34:22,880
+because we basically know what's going on in the particular area we feel okay this is time to start
+
+300
+00:34:22,880 --> 00:34:29,360
+thinking about this topic and how should we go about it can it actually become a recommendation many times
+
+301
+00:34:29,360 --> 00:34:35,120
+we don't get them they don't make it to the recommendation because it's the premature the restoring
+
+302
+00:34:35,120 --> 00:34:42,480
+of supporting literature it may be controversial it's not ready so we wait and we be waiting for some
+
+303
+00:34:42,480 --> 00:34:49,760
+things like the type two neurons we had to wait to get more literature for example and so and then we
+
+304
+00:34:49,760 --> 00:34:56,240
+present the new recommendation to the entire committee and they can say yes and they can start by vote we
+
+305
+00:34:56,240 --> 00:35:04,240
+need an 80% vote to pass that's a proposal you recommendation need to present it present the papers that I
+
+306
+00:35:04,240 --> 00:35:09,920
+actually chose discuss the papers so I'm not just these are the papers explain what they are
+
+307
+00:35:10,000 --> 00:35:13,920
+what level evidence what kind of side of the are the rocker and the mice and the retrospective
+
+308
+00:35:13,920 --> 00:35:20,880
+perspective so to explain with the entire team what this is about and then we go through the writing of it
+
+309
+00:35:20,880 --> 00:35:26,400
+towards smitting and then the level of evidence we need to decide what what are we going to assign to it
+
+310
+00:35:26,400 --> 00:35:32,480
+and then it goes to voting and sometimes something has to be changed even after it because they might say
+
+311
+00:35:32,480 --> 00:35:37,600
+I approve the language but not the level of evidence so you need to go back and forth to say
+
+312
+00:35:38,400 --> 00:35:44,240
+it's a B is a C it's a B is a A what is it so we need to tell me more about that and you mentioned it earlier
+
+313
+00:35:45,040 --> 00:35:53,600
+the the CGMs for people with type two diabetes without insulin got a B rating and there's an A B and C
+
+314
+00:35:53,600 --> 00:36:00,240
+rating can you kind of walk us through what the differences are between those three so evidence A is the highest one
+
+315
+00:36:00,240 --> 00:36:06,640
+it is from well conducted large randomized control trial can be 20 people it's to be a bigger number
+
+316
+00:36:07,279 --> 00:36:14,000
+and you have to have two arms yet to have the control and the intention right and the experimental
+
+317
+00:36:14,000 --> 00:36:22,319
+arm otherwise there is no it's biased so then B is evidence from less regular study smaller study and then
+
+318
+00:36:22,319 --> 00:36:29,040
+C is observational so retrospective perspective there is no intervention just observe what happened if you
+
+319
+00:36:29,040 --> 00:36:35,279
+put somewhere on CGM this is what happened right but for the for the CGM for people with type two without
+
+320
+00:36:35,280 --> 00:36:43,600
+into there were a couple of randomized control study not big smaller and a lot more small study with less
+
+321
+00:36:43,600 --> 00:36:52,640
+rigorous methods so this is where the B came in do you think that there has been enough studies in the last year
+
+322
+00:36:52,640 --> 00:36:58,960
+to to move it to an A or is there still a lot of work left they don't know they're not published yet right so I don't know
+
+323
+00:36:58,960 --> 00:37:05,520
+that when do they publish we don't know so we are going to ATTD conference in Amsterdam next week
+
+324
+00:37:05,520 --> 00:37:12,240
+they will be ADA so I hope to see more information at those two conferences and so there will be a great place
+
+325
+00:37:12,240 --> 00:37:18,000
+to say okay there is more movement more studies have been done and so once the studies are done and they're
+
+326
+00:37:18,000 --> 00:37:26,240
+published then they can be considered okay okay are you and the other people in the ADA are you going to
+
+327
+00:37:26,240 --> 00:37:33,600
+these conferences and searching out for these new studies and saying oh this one could be used
+
+328
+00:37:33,600 --> 00:37:40,000
+for that and we could maybe get it to an A or you know you're kind of pulling this information out looking at
+
+329
+00:37:40,000 --> 00:37:45,440
+all that stuff yes I go to the conference quite often but that is not sufficient because a conference
+
+330
+00:37:45,440 --> 00:37:52,160
+usually has an abstract okay so that abstract needs to become a publication because if it doesn't go
+
+331
+00:37:52,160 --> 00:37:57,200
+from abstract to publication you can think what happened did they have enough information to be published
+
+332
+00:37:57,200 --> 00:38:02,960
+in peer view journals sometimes you go to a discomfort they present a result and there's a paper that
+
+333
+00:38:02,960 --> 00:38:08,080
+gets released at the same time so you can see there is more information and so we go to the conference we see
+
+334
+00:38:08,080 --> 00:38:15,200
+what's out there we get information about what the what the new things are we hope to see those
+
+335
+00:38:15,839 --> 00:38:21,520
+presentation become manuscript published in the literature so we can then read them and say
+
+336
+00:38:22,160 --> 00:38:32,720
+are they go standard a recommendation studies or not okay is there like an ADA certificate you know
+
+337
+00:38:32,720 --> 00:38:38,960
+how you buy a piece of food and it's like USDA certified or whatever it is like is there a stamp of
+
+338
+00:38:38,960 --> 00:38:46,480
+approval that the ADA gives no no no no no this is again what the standards of care are truly to
+
+339
+00:38:46,480 --> 00:38:53,600
+engage with the clinician to improve their knowledge and by doing so improve the care they deliver to
+
+340
+00:38:53,600 --> 00:38:59,280
+people with diabetes there is no stamp but the guidelines and a live but it would be a cute stamp
+
+341
+00:39:00,560 --> 00:39:05,200
+but you see the guidance and a live document they get updated if so let's say something important
+
+342
+00:39:05,200 --> 00:39:10,480
+happens between now and December there's a live update because you don't want to wait another year to
+
+343
+00:39:10,480 --> 00:39:16,960
+put another update it makes sense so the beauty of the guidance it's a continually it's a dynamic
+
+344
+00:39:16,960 --> 00:39:23,040
+document that's in stay there petrified for years age changes every single year that's a lot of work to
+
+345
+00:39:23,040 --> 00:39:31,200
+change 300 pages of documents be if there are important updates we put them out as a live update so that is also
+
+346
+00:39:31,200 --> 00:39:36,720
+how involved you need to be an up to date to make sure that if some becomes your attention say
+
+347
+00:39:36,720 --> 00:39:41,040
+hey we need to change it because what was said six months ago now is the long goodbye I need to do
+
+348
+00:39:41,040 --> 00:39:50,000
+something else so we updated to make it more current okay okay what are you hearing may come next for the
+
+349
+00:39:50,000 --> 00:39:59,040
+standards of care are there some talkings of upcoming stuff that you think will be exciting
+
+350
+00:40:00,080 --> 00:40:06,640
+so the thing that excites me the most is that I'm waiting for the next version of the guidelines
+
+351
+00:40:06,720 --> 00:40:13,040
+based on what I might see at the conference so there is so much out there but again so much can be
+
+352
+00:40:13,040 --> 00:40:20,320
+just a femurus it happens when they never becomes anything else so once it becomes part of the the
+
+353
+00:40:20,320 --> 00:40:25,920
+guidelines the standards of care that we know that whatever was seen in conference on papers and literature
+
+354
+00:40:25,920 --> 00:40:31,200
+was strong enough to give people the confidence that can become a recommendation we are waiting for so
+
+355
+00:40:31,200 --> 00:40:38,800
+much more stuff miniaturization of systems more data for type 2 diabetes and AID I'm hoping to see more
+
+356
+00:40:38,800 --> 00:40:47,280
+data of this kind of studies because type 2 patients really can use AID system but it's successful and so
+
+357
+00:40:47,280 --> 00:40:54,000
+I'm looking forward to see some presentation at the ATTD they will be presented for a study that was done
+
+358
+00:40:54,000 --> 00:40:58,640
+so I'm looking forward to see what they're going to say and if they will influence the guidelines I don't know
+
+359
+00:40:58,640 --> 00:41:05,600
+but it would be nice to see more data on people with type 2 using technology yeah I was that was my next
+
+360
+00:41:05,600 --> 00:41:14,319
+question was if AIDs for people with type 2 would kind of be next on the docket a lot of pump companies are
+
+361
+00:41:14,319 --> 00:41:23,920
+already pushing their pumps to support that but I'm sure the ADA coming out with a recommendation for that would
+
+362
+00:41:24,560 --> 00:41:31,680
+really push it but but we need the data just as these companies say our products work for these people
+
+363
+00:41:31,680 --> 00:41:38,400
+doesn't necessarily mean that these people need it or it's recommended right the beauty of this is that
+
+364
+00:41:38,400 --> 00:41:45,040
+once you do a study and you publish it they study is be looked at with the fine tooth comb but a bunch of
+
+365
+00:41:45,040 --> 00:41:49,920
+reviewers and not just get published because you wanted to be published it goes back and forth so if there is a
+
+366
+00:41:49,920 --> 00:41:54,960
+publication that really supports strongly but something is that good then the ADA will look at
+
+367
+00:41:54,960 --> 00:42:01,920
+it say hey maybe we should put this in the guidelines because the study was done so well so we're looking so the
+
+368
+00:42:01,920 --> 00:42:07,120
+companies can say whatever they like of course they support their products but we need to at the publication
+
+369
+00:42:07,120 --> 00:42:13,360
+the support their statements as it makes sense so people with type 2 they have been at some point they need
+
+370
+00:42:13,360 --> 00:42:18,800
+insulin and a lot of challenges with multiple that injection because they forget to take four to five
+
+371
+00:42:18,800 --> 00:42:25,840
+injections per day and the absorption can be maybe not super good because they take a lot of insulin but the
+
+372
+00:42:25,840 --> 00:42:32,560
+ADA system some of them do phenomenal for these patients will the literature support it will find out soon
+
+373
+00:42:32,560 --> 00:42:40,400
+we go to the conference next week well so my I'll see you there and this episode I think is releasing on the
+
+374
+00:42:40,400 --> 00:42:48,560
+Monday of next week so we should meet up and be like go watch our episode so I know a lot of
+
+375
+00:42:49,440 --> 00:42:56,240
+tech companies CGM pump companies they put out research they fund research do you
+
+376
+00:42:58,320 --> 00:43:04,320
+scrutinize that any differently than if it were just some research lab do you or do you you know
+
+377
+00:43:04,720 --> 00:43:10,560
+you look at the data that they're providing and it's you know you verify it so if I participate or
+
+378
+00:43:10,560 --> 00:43:17,680
+I'm invited to participate in a study sponsored by an industry a manufacturer I want to make sure
+
+379
+00:43:17,680 --> 00:43:22,960
+the study when I read the protocol that is done the protocol has some weight and if it doesn't I give my
+
+380
+00:43:22,960 --> 00:43:29,280
+feedback but once I participate my job is to do the best that I came to conduct the study in the most
+
+381
+00:43:29,280 --> 00:43:35,840
+rigorous ways when the results are published they are real they're not fake they're real and they make a
+
+382
+00:43:35,840 --> 00:43:42,160
+difference otherwise what why do they study spend so much money because it's not cheap and so I've done and I feel
+
+383
+00:43:42,160 --> 00:43:50,560
+privileged because I get to see firsthand the challenges the things that can become problematic but also work on
+
+384
+00:43:51,120 --> 00:43:55,680
+engaging with the participant and then it's such a beautiful thing the person who does the study the clinical
+
+385
+00:43:56,640 --> 00:44:01,919
+the person that's participating in the study the patient with the partner type too they engage with you
+
+386
+00:44:01,919 --> 00:44:08,319
+for those for many months they are so enthusiastic they are at least in what I practice they're they're
+
+387
+00:44:08,319 --> 00:44:14,240
+they're looking for to say that one of the study with you because they get to try these things first hand I think it's
+
+388
+00:44:14,240 --> 00:44:20,399
+wonderful and so you have a component of yes in the industry sponsor but they make the money the the
+
+389
+00:44:20,400 --> 00:44:26,960
+machine I can't get myself right but then the patient we the participant we use and we engage with them
+
+390
+00:44:26,960 --> 00:44:33,280
+they get so much benefit out of it and I learn the pros and cons and that is presented and that is published
+
+391
+00:44:33,280 --> 00:44:38,400
+and then we can say okay and also depends on what it's published and it makes a big difference because
+
+392
+00:44:39,280 --> 00:44:45,360
+some journalists have a higher standard than other ones right so if you get exposure in a pretty
+
+393
+00:44:45,360 --> 00:44:51,120
+renowned journalist you think okay it was done with the right criteria and you can really sort of
+
+394
+00:44:51,120 --> 00:45:00,000
+look at the data and be comforted what is written it's really what happened the FDA recently released guidance
+
+395
+00:45:00,000 --> 00:45:08,880
+for AI artificial intelligence you have Dexcom who's implemented AI into their stelo cgm for people
+
+396
+00:45:08,880 --> 00:45:17,280
+a type two diabetes is AI something the ADA is already looking at as something you know that could
+
+397
+00:45:17,280 --> 00:45:25,600
+kind of fall into your laps I can't speak to that really what I'm looking forward to seeing is results from
+
+398
+00:45:25,600 --> 00:45:33,760
+study using AI and how we can that help the patient with diabetes in a easier life so my in my in this moment
+
+399
+00:45:33,760 --> 00:45:41,120
+my response would be okay see what's going on are there studies do using AI to help people recognize food for
+
+400
+00:45:41,120 --> 00:45:48,800
+example meal so carbs containing so I'm sorry I should say carbs recognition and it's a taking a picture
+
+401
+00:45:48,800 --> 00:45:55,360
+I'm just making an example if that then is published and there are reports the support the beneficial
+
+402
+00:45:55,360 --> 00:46:00,720
+to patient then the ADA role is to say let's look at the literature so we can do with this to make the
+
+403
+00:46:00,720 --> 00:46:08,000
+patient's life easier you mentioned that you've been doing this for at least 25 years and you said that you've
+
+404
+00:46:08,000 --> 00:46:17,520
+seen cgm grow and become so integral in treatment if the last 25 years of your careers indication of where we may
+
+405
+00:46:17,520 --> 00:46:28,320
+go in the next 10 to 25 years how are you feeling about the future of diabetes treatment and technology
+
+406
+00:46:28,720 --> 00:46:35,520
+so I really see in the birth of technology and the development has been so fantastic to see so many changes
+
+407
+00:46:36,080 --> 00:46:43,280
+I'm thinking about the patient most of all how to make this tool easy to use for people with diabetes of any age
+
+408
+00:46:44,240 --> 00:46:49,200
+you know that's very important we're seeing people with diabetes age beautifully because the survive
+
+409
+00:46:49,200 --> 00:46:56,240
+56 years with diabetes can they still use this system can we make him sample for them to use can we allow them to
+
+410
+00:46:56,240 --> 00:47:03,200
+use when they're getting older so are they smaller do they require more dexterity or less dexterity can
+
+411
+00:47:03,200 --> 00:47:10,560
+they be more automated without they need for intervention so I see as I've seen this moving along the hopefully
+
+412
+00:47:10,560 --> 00:47:17,360
+the decrease of the burden of the person with diabetes in their daily life if you were things to think about
+
+413
+00:47:17,360 --> 00:47:23,840
+if you were buttons to push if you were thoughts about having diabetes because the technology is taking
+
+414
+00:47:23,840 --> 00:47:30,240
+care of that component yeah well you can sign me up for that gratia thank you so much for coming
+
+415
+00:47:30,240 --> 00:47:37,760
+on the show this was such a cool view into a side of diabetes that I never really knew about and it's
+
+416
+00:47:37,760 --> 00:47:44,240
+cool to hear about all of the work that's going on to make this information about treatment and
+
+417
+00:47:44,240 --> 00:47:52,000
+education more accessible to the physicians that then can help you know patients like me so it's very
+
+418
+00:47:52,000 --> 00:48:00,640
+cool I so happy that you invited me to be part of your your podcast and I follow you too so
+
+419
+00:48:00,640 --> 00:48:07,680
+they I'm going to describe to you anyway amazing amazing awesome well thank you so much thank you so much again
+
+420
+00:48:09,760 --> 00:48:14,960
+what are your thoughts on the standards of care is there something that you believe should be on there that
+
+421
+00:48:14,960 --> 00:48:20,960
+isn't let us know in the comments be sure to follow our blog and newsletter with the link in the
+
+422
+00:48:20,960 --> 00:48:26,160
+show notes I've got articles going up there every week a newsletter going out twice a month thanks for
+
+423
+00:48:26,160 --> 00:48:31,760
+listening today show be sure to subscribe on YouTube and give the video a like if you're also watching on
+
+424
+00:48:31,760 --> 00:48:36,960
+YouTube I'm Justin and I'll see you next week
+

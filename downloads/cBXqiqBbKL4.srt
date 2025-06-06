@@ -1,0 +1,344 @@
+1
+00:00:00,000 --> 00:00:07,360
+Hey guys, welcome to my review of the Philips Hue Play HDMI Sync Box. I'm so excited about this thing.
+
+2
+00:00:07,360 --> 00:00:12,800
+I've been waiting for it as we all have and it is finally here and I have so much to tell you.
+
+3
+00:00:12,800 --> 00:00:20,560
+This device will basically take what is playing on your TV screen and have all of your Philips Hue lights in sync with that media.
+
+4
+00:00:20,560 --> 00:00:26,560
+This video is going to cover a lot. I'm going to show you how it works, how to set it up. I'm going to have it play in action
+
+5
+00:00:26,560 --> 00:00:32,880
+and then I'm going to tell you whether or not you should get it. Also, any Philips Hue devices that I bring up in this video,
+
+6
+00:00:32,880 --> 00:00:38,800
+they will be in the description below. So check out that link if you want to check out these devices.
+
+7
+00:00:38,800 --> 00:00:43,200
+And while you're checking it out, why don't you hit that subscribe button and hit it the bell for alerts. That way
+
+8
+00:00:43,200 --> 00:00:48,720
+when I come out with more Philips Hue videos, you see it. All right, without further ado, let's review the Philips Hue
+
+9
+00:00:48,720 --> 00:00:52,160
+Play HDMI Sync Box. A lot of words.
+
+10
+00:00:57,520 --> 00:01:03,040
+The HDMI Sync Box is a sleek looking device that almost looks like a wide Apple TV.
+
+11
+00:01:03,040 --> 00:01:07,840
+There are four HDMI inputs on the back where you can connect devices like Apple TV, Chromecast,
+
+12
+00:01:07,840 --> 00:01:12,480
+a Blu-ray player, or a video game system. Once it's connected, you'll be able to watch any
+
+13
+00:01:12,480 --> 00:01:18,240
+content on your TV and the box will create what I like to call the surround sound of lighting. The box
+
+14
+00:01:18,240 --> 00:01:23,840
+will use the sound and what's on the screen to completely immerse you into the media. The Hue Sync Box
+
+15
+00:01:23,840 --> 00:01:28,560
+is intuitive. It knows when you're switching devices. So right now I have it on Apple TV.
+
+16
+00:01:28,560 --> 00:01:33,520
+When they turn on my Nintendo Switch, it's actually going to act as a switcher and switch over to
+
+17
+00:01:33,520 --> 00:01:41,120
+the Nintendo Switch. And then the lighting is going to match that. There you go.
+
+18
+00:01:41,120 --> 00:01:47,440
+Voila! If you have a receiver, don't fret. All you have to do is have the receivers output go into the
+
+19
+00:01:47,440 --> 00:01:54,960
+HDMI Sync input and then have the output from that go into your TV. So as long as the HDMI Sync
+
+20
+00:01:54,960 --> 00:02:02,000
+Box is the last thing to plug into your TV, you're good. Unfortunately you can't have the smart TV apps
+
+21
+00:02:02,000 --> 00:02:07,200
+from your TV go into the Sync Box and then back into the TV. You'll need to buy an external device
+
+22
+00:02:07,200 --> 00:02:16,160
+like a fire stick or an Apple TV, etc. The HDMI Sync Box supports 4K at 60Hz and HDR10. It does
+
+23
+00:02:16,160 --> 00:02:22,800
+not support HDR10+, Dolby Vision or Dolby Atmos, which I definitely hope they introduce in the future.
+
+24
+00:02:22,800 --> 00:02:27,840
+Phillips Hue has included a couple slots in the power cord to connect lights near the TV to save on
+
+25
+00:02:27,840 --> 00:02:33,200
+outlet space. If you couldn't tell, it came in handy for me. In order to use the Sync Box,
+
+26
+00:02:33,200 --> 00:02:38,079
+you need a bridge and some lights. You can link up to 10 color-capable Phillips Hue lights through the
+
+27
+00:02:38,079 --> 00:02:42,720
+app. I do have to say I have a preference for lighting, so let me show you my lighting setup.
+
+28
+00:02:42,720 --> 00:02:48,960
+Over here, I have a Phillips Hue go right there. Then I also have these Phillips Hue playbars.
+
+29
+00:02:48,960 --> 00:02:53,840
+And this is where my preference comes in. I definitely prefer to have one of these on either side
+
+30
+00:02:53,840 --> 00:02:59,120
+because I really like the stands and the light that they shine off on the TV. So I highly recommend
+
+31
+00:02:59,120 --> 00:03:04,000
+getting those. They also come with an adhesive plate. The adhesive plates really great, especially if you
+
+32
+00:03:04,000 --> 00:03:09,520
+have a wall mounted TV. Then on top here, I have a Phillips Hue light strip that could also be a
+
+33
+00:03:09,520 --> 00:03:15,760
+playbar if you wanted. And over here, I have just your everyday colored light bulb by Phillips Hue
+
+34
+00:03:15,760 --> 00:03:21,360
+in a canister. And I'm going to put that canister in the description below a link for that because I think
+
+35
+00:03:21,360 --> 00:03:27,200
+it's a great thing to have for any smart home lighting enthusiast like me. All right, let's talk about the
+
+36
+00:03:27,200 --> 00:03:33,280
+app. First, you will need to download the Phillips Hue Sync app. It is a separate app from the Phillips Hue
+
+37
+00:03:33,280 --> 00:03:38,080
+app. Once the app is open, you'll need to connect your Hue Sync to the bridge. Then you'll be
+
+38
+00:03:38,080 --> 00:03:43,200
+instructed to open up the normal Phillips Hue app and set up an entertainment area. This is located
+
+39
+00:03:43,200 --> 00:03:47,840
+in the setting section of the main Hue app. After that's created, you can add the lights you want to use.
+
+40
+00:03:48,400 --> 00:03:53,360
+Then you drag around the lights to where they're located in the room and assign the vertical position
+
+41
+00:03:53,360 --> 00:03:58,400
+by tapping on the light. There's ground height, TV height, and ceiling height. I really love that when
+
+42
+00:03:58,400 --> 00:04:03,360
+you're setting up a light, it turns green and flashes. This makes it super easy to know which light
+
+43
+00:04:03,360 --> 00:04:07,760
+you're setting up and it's a great touch. There's also the option to set the behavior of your
+
+44
+00:04:07,760 --> 00:04:13,760
+lights when the sync stops. So when you stop the sync, your lights can go to a certain setting. I love
+
+45
+00:04:13,760 --> 00:04:18,960
+this option. I set my lights to dim because I'm most likely you can be using the sync box at night.
+
+46
+00:04:18,960 --> 00:04:24,000
+Once your entertainment area is set up, it's time to switch back to the Hue Sync app. From there,
+
+47
+00:04:24,000 --> 00:04:30,400
+you'll have the ability to choose the sync mode, the intensity, the brightness, and finally begin the sync.
+
+48
+00:04:30,479 --> 00:04:34,320
+All right. The time has come. Let's see how this thing works. Let's get lit.
+
+49
+00:04:34,320 --> 00:04:39,840
+So there are four intensity modes on the sync box and I'm going to show you all of them side by side.
+
+50
+00:04:39,840 --> 00:04:45,440
+First, we're going to start by playing a video on my Apple TV. I really wanted to play like Marvel
+
+51
+00:04:45,440 --> 00:04:51,280
+Avengers or something like that, but copyrights can be difficult with Disney. So you know what? Why
+
+52
+00:04:51,280 --> 00:04:57,919
+don't we just play some random video on YouTube? This is familiar. We were ready to plug into the virtual world.
+
+53
+00:05:00,400 --> 00:05:09,440
+So for those of you who don't know what this video is, it's a video on the void VR. This awesome
+
+54
+00:05:09,440 --> 00:05:14,880
+VR experience that I checked out. You should totally watch the video of your at all interest. So as you
+
+55
+00:05:14,880 --> 00:05:19,600
+can see, there are a lot of different ways to have your sync box set up. I'd say for me, after watching
+
+56
+00:05:19,600 --> 00:05:24,240
+video content with a box for a week, I found that I liked the moderate setting with half brightness,
+
+57
+00:05:24,240 --> 00:05:30,000
+the best for video content. The mini-games were fun, quirky, and simple yet strategic. At one point,
+
+58
+00:05:30,000 --> 00:05:34,800
+we were shooting pancakes and milkshakes at cats and puppies. Next, let's play some video games.
+
+59
+00:05:35,520 --> 00:05:41,440
+In this clip, I'm playing the game Astral Chain on Nintendo Switch. I was surprised by how much I enjoyed
+
+60
+00:05:41,440 --> 00:05:47,040
+playing the games with the sync box. The colors flow seamlessly as I moved from dark to light areas
+
+61
+00:05:47,040 --> 00:05:54,400
+and truly added to my video game experience. Next up, music. I took a song from my music library and
+
+62
+00:05:54,400 --> 00:05:57,600
+interplayed it to my Apple TV and set the sync box to extreme.
+
+63
+00:06:05,600 --> 00:06:10,240
+I love how the lights interact with the beat of the music. I can absolutely see myself using this
+
+64
+00:06:10,240 --> 00:06:15,440
+when I have parties. What's definitely lacking here is the ability to set the color palette.
+
+65
+00:06:15,440 --> 00:06:20,000
+Here's sync on the computer allows you to do this and I miss it here. I reached out to Philips
+
+66
+00:06:20,000 --> 00:06:24,720
+you and they said they planned to include this in the future. Okay, so now for my final thoughts.
+
+67
+00:06:25,600 --> 00:06:31,280
+With the Philips you play HDMI sync box, you are getting an entire home entertainment lighting
+
+68
+00:06:31,280 --> 00:06:37,520
+ecosystem. You could switch between devices seamlessly, control the mode, brightness, and intensity,
+
+69
+00:06:37,520 --> 00:06:43,120
+and you can set a number of user preferences. Some of what you didn't even know you wanted. I was impressed
+
+70
+00:06:43,120 --> 00:06:49,120
+by how much I enjoyed this box. There's literally no lag between the light and the content on your TV.
+
+71
+00:06:49,120 --> 00:06:56,080
+The Philips you sync box is $230 and I realize that's not cheap. But if you're looking to invest
+
+72
+00:06:56,080 --> 00:07:01,040
+in your Philips view system that you already have built, it's worth it. This is going to greatly
+
+73
+00:07:01,040 --> 00:07:07,040
+enhance your entertainment experience. The lack of HDR10 Plus and Dolby Vision and Dolby Atmos
+
+74
+00:07:07,040 --> 00:07:12,560
+is a disappointment here. But for someone who doesn't have those implemented, this is a no-brainer.
+
+75
+00:07:12,560 --> 00:07:18,320
+This is a sophisticated device and I can't think Philips you enough for putting so much thought into it.
+
+76
+00:07:18,320 --> 00:07:23,200
+Like seriously Philips you, you guys are awesome. This was a great job and I'm excited to see what
+
+77
+00:07:23,200 --> 00:07:27,840
+else you have in store for us. And if you guys feel the same way, then you should subscribe to this channel
+
+78
+00:07:27,840 --> 00:07:32,560
+because I have a lot of Philips you videos coming out and I don't want you to miss them. So subscribe right
+
+79
+00:07:32,560 --> 00:07:37,840
+down there and hit the bell for alerts. Also, if you guys found this video helpful or enjoyed it,
+
+80
+00:07:37,840 --> 00:07:42,320
+why don't you give me a like because that helps other people find this video. Also, I just want to
+
+81
+00:07:42,320 --> 00:07:48,159
+give about a huge thank you to everyone who subscribed to my channel so far and has been supporting
+
+82
+00:07:48,159 --> 00:07:55,120
+me to geek out over technology and tell you what I like and enjoy and maybe find some stuff that you
+
+83
+00:07:55,120 --> 00:08:01,840
+don't know about. That is my dream and you are definitely supporting it. So from the bottom one,
+
+84
+00:08:01,840 --> 00:08:08,000
+blah, so from the bottom of my heart, thank you so much. That's all I've got for you guys today.
+
+85
+00:08:08,000 --> 00:08:13,360
+I hope you enjoyed this video and I can't wait to show you what else I have in store. I'm Justin and I'll
+
+86
+00:08:13,360 --> 00:08:26,720
+take it later. Thank you. Thank you, sink. Well, I'm thinking. Thank you, sink. Is that a copy written for
+

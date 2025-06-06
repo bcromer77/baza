@@ -1,0 +1,1716 @@
+1
+00:00:00,000 --> 00:00:05,200
+Diabetes is a lot to take in, especially after diagnosis.
+
+2
+00:00:05,200 --> 00:00:10,920
+The flood of new terms, tech, and lifestyle changes can feel totally overwhelming.
+
+3
+00:00:10,920 --> 00:00:15,000
+It's like being dropped into a game with a complicated tutorial.
+
+4
+00:00:15,000 --> 00:00:18,440
+And you're expected to beat the boss battle on day one.
+
+5
+00:00:18,440 --> 00:00:23,360
+But what if I told you there was a fun and intuitive tutorial available right now to help
+
+6
+00:00:23,360 --> 00:00:24,360
+with diagnosis?
+
+7
+00:00:24,360 --> 00:00:29,720
+Well, a new smartphone app called Level 1 is aiming to be just that.
+
+8
+00:00:29,720 --> 00:00:36,860
+A fun game-ified way to make Type 1 diabetes education easier to understand for newly diagnosed
+
+9
+00:00:36,860 --> 00:00:38,760
+patients and their families.
+
+10
+00:00:38,760 --> 00:00:39,760
+Welcome to the show.
+
+11
+00:00:39,760 --> 00:00:40,760
+I'm Justin.
+
+12
+00:00:40,760 --> 00:00:41,760
+I have Type 1 diabetes in on here.
+
+13
+00:00:41,760 --> 00:00:42,760
+I talk all things.
+
+14
+00:00:42,760 --> 00:00:46,800
+Diabetes tech, news, and research, and I am a gamer.
+
+15
+00:00:46,800 --> 00:00:51,239
+So I got super excited when I heard about this app, and I played it myself.
+
+16
+00:00:51,240 --> 00:00:56,520
+Today I'm joined by Sam Glassenberg, a veteran video game developer, and father of a child
+
+17
+00:00:56,520 --> 00:00:57,840
+with Type 1.
+
+18
+00:00:57,840 --> 00:01:00,280
+And that's what inspired him to make this game.
+
+19
+00:01:00,280 --> 00:01:06,560
+He created Level 1 to help others navigate the early stages of diabetes management through interactive
+
+20
+00:01:06,560 --> 00:01:13,080
+levels that teach everything from insulin to car ratios to how exercise and fatty foods affect
+
+21
+00:01:13,080 --> 00:01:14,080
+blood sugar.
+
+22
+00:01:14,080 --> 00:01:19,080
+Health care providers and patients are already raving about this app, and now it is available
+
+23
+00:01:19,080 --> 00:01:22,840
+to everyone on the app store, whether it's Google or Apple.
+
+24
+00:01:22,840 --> 00:01:29,000
+And after playing about 10 levels myself, I can confidently say that I wish I had this app when
+
+25
+00:01:29,000 --> 00:01:30,440
+I was first diagnosed.
+
+26
+00:01:30,440 --> 00:01:35,120
+Keep in mind that this show is not medical advice and it's for educational purposes only.
+
+27
+00:01:35,120 --> 00:01:38,440
+Always consult with a physician before making changes to your health care.
+
+28
+00:01:38,440 --> 00:01:39,440
+All right.
+
+29
+00:01:39,440 --> 00:01:41,440
+Let's get into it.
+
+30
+00:01:41,440 --> 00:01:42,440
+Sam, welcome to the show.
+
+31
+00:01:42,440 --> 00:01:43,440
+It's good to have you here.
+
+32
+00:01:43,440 --> 00:01:44,440
+No.
+
+33
+00:01:44,440 --> 00:01:45,440
+Great to be here.
+
+34
+00:01:45,440 --> 00:01:46,440
+Thank you for having me.
+
+35
+00:01:46,520 --> 00:01:51,200
+So little thing about me that you may not know is that I almost went to school for video
+
+36
+00:01:51,200 --> 00:01:57,720
+game design at Northeastern, but it was a last minute decision to not, and I'm glad I didn't
+
+37
+00:01:57,720 --> 00:02:00,800
+because then I probably wouldn't be where I am today.
+
+38
+00:02:00,800 --> 00:02:01,960
+But I love video games.
+
+39
+00:02:01,960 --> 00:02:02,960
+I'm a gamer.
+
+40
+00:02:02,960 --> 00:02:08,360
+I'm playing last of us part one right now, which I'm really enjoying on my PlayStation portal.
+
+41
+00:02:08,360 --> 00:02:09,360
+Yeah.
+
+42
+00:02:09,360 --> 00:02:10,360
+Gamer to gamer.
+
+43
+00:02:10,360 --> 00:02:16,000
+I want to hear all about the work that you've done, but before we get into Level 1, tell
+
+44
+00:02:16,000 --> 00:02:21,080
+me a little bit about your background and how you, you know, I guess your background
+
+45
+00:02:21,080 --> 00:02:22,480
+in video game design.
+
+46
+00:02:22,480 --> 00:02:23,480
+Sure.
+
+47
+00:02:23,480 --> 00:02:26,720
+So I've spent my career in video games.
+
+48
+00:02:26,720 --> 00:02:30,200
+My first job was out of college was at LucasArts.
+
+49
+00:02:30,200 --> 00:02:32,200
+I was hired as an animator.
+
+50
+00:02:32,200 --> 00:02:39,320
+I flew spaceships for cutscene animations in PlayStation to Star Wars games.
+
+51
+00:02:39,320 --> 00:02:43,120
+After that, I used to run a game technology team at Microsoft.
+
+52
+00:02:43,120 --> 00:02:49,040
+I built a company that did games for Hollywood movies, Hunger Games, Mission Impossible,
+
+53
+00:02:49,040 --> 00:02:50,040
+Rocky.
+
+54
+00:02:50,040 --> 00:02:56,040
+And for the last 10 years, I've built a company called Level X, which actually makes video games
+
+55
+00:02:56,040 --> 00:02:57,520
+for doctors.
+
+56
+00:02:57,520 --> 00:02:59,440
+Very cool.
+
+57
+00:02:59,440 --> 00:03:05,880
+I think what I love about video games so much is that they test you, they push you, you need
+
+58
+00:03:05,880 --> 00:03:09,320
+to use critical thinking to get through puzzles.
+
+59
+00:03:09,320 --> 00:03:13,440
+It's not as relaxing or as simple as watching a movie, right?
+
+60
+00:03:13,440 --> 00:03:15,200
+They put you to the test.
+
+61
+00:03:15,200 --> 00:03:25,799
+So I guess why would you say video games are a good tool for teaching and learning?
+
+62
+00:03:25,799 --> 00:03:28,680
+They are the best tool for teaching and learning.
+
+63
+00:03:28,680 --> 00:03:31,120
+Humans have evolved to learn this way.
+
+64
+00:03:31,120 --> 00:03:36,959
+I mean, think about it, when you get a phone or anything, you don't read the manual.
+
+65
+00:03:36,959 --> 00:03:39,280
+I don't even think they've even come with manuals anymore.
+
+66
+00:03:39,280 --> 00:03:41,560
+You go, I need to play with this.
+
+67
+00:03:41,560 --> 00:03:42,880
+Why is this?
+
+68
+00:03:42,880 --> 00:03:45,920
+We have evolved to learn through play.
+
+69
+00:03:45,920 --> 00:03:50,040
+And in the video games industry, we have kind of figured out that neurochemical recipe.
+
+70
+00:03:50,040 --> 00:03:51,920
+For exactly what you describe.
+
+71
+00:03:51,920 --> 00:03:58,600
+How do you hit the right balance of reward and frustration, challenge and skill to keep you
+
+72
+00:03:58,600 --> 00:04:04,720
+in the flow state and literally maximize the release of neurochemicals in the brain to maximize
+
+73
+00:04:04,720 --> 00:04:08,080
+fun, but also maximize learning.
+
+74
+00:04:08,080 --> 00:04:12,760
+Happy to like, I have a lot of examples, sort of the neuroscience of angry birds and things
+
+75
+00:04:12,760 --> 00:04:13,760
+like that sort of explain.
+
+76
+00:04:13,760 --> 00:04:14,760
+Give us that example.
+
+77
+00:04:14,760 --> 00:04:15,760
+That's a cool one.
+
+78
+00:04:15,760 --> 00:04:16,760
+I love angry birds.
+
+79
+00:04:16,760 --> 00:04:17,760
+Oh, yeah.
+
+80
+00:04:17,760 --> 00:04:21,040
+So if you've ever wondered why angry birds are so addicted, I mean, people, the game came out
+
+81
+00:04:21,040 --> 00:04:22,040
+10 years ago.
+
+82
+00:04:22,040 --> 00:04:24,720
+I still see people playing it on airplanes today.
+
+83
+00:04:24,720 --> 00:04:27,120
+We've evolved to play angry birds.
+
+84
+00:04:27,120 --> 00:04:28,680
+What do I mean by that?
+
+85
+00:04:28,680 --> 00:04:32,600
+So just a thing back to the first time you play angry birds probably a while ago.
+
+86
+00:04:32,600 --> 00:04:33,600
+What happened?
+
+87
+00:04:33,600 --> 00:04:35,240
+Angry birds hops in the slingshot.
+
+88
+00:04:35,240 --> 00:04:37,320
+You aim at the tower of pigs.
+
+89
+00:04:37,320 --> 00:04:38,320
+You fired.
+
+90
+00:04:38,320 --> 00:04:39,480
+What happened the first time you played?
+
+91
+00:04:39,480 --> 00:04:42,440
+I killed some pigs.
+
+92
+00:04:42,440 --> 00:04:43,440
+Not the first time.
+
+93
+00:04:43,440 --> 00:04:45,440
+The first time you missed.
+
+94
+00:04:45,440 --> 00:04:46,440
+Yes.
+
+95
+00:04:46,440 --> 00:04:49,040
+And what happens when you miss the piggy's laugh at you?
+
+96
+00:04:49,040 --> 00:04:50,040
+Why?
+
+97
+00:04:50,040 --> 00:04:51,040
+Why?
+
+98
+00:04:51,040 --> 00:04:52,040
+Why?
+
+99
+00:04:52,040 --> 00:04:53,040
+Why?
+
+100
+00:04:53,040 --> 00:04:54,039
+Why?
+
+101
+00:04:54,039 --> 00:04:55,039
+Why?
+
+102
+00:04:55,039 --> 00:04:56,039
+Why?
+
+103
+00:04:56,039 --> 00:04:57,039
+This totally gratuitous.
+
+104
+00:04:57,039 --> 00:04:58,039
+Why?
+
+105
+00:04:58,039 --> 00:04:59,039
+This makes you frustrated.
+
+106
+00:04:59,039 --> 00:05:00,039
+Second bird hops in.
+
+107
+00:05:00,039 --> 00:05:01,039
+You aim a little better.
+
+108
+00:05:01,039 --> 00:05:02,039
+You fire.
+
+109
+00:05:02,039 --> 00:05:03,039
+You get closer to the tower.
+
+110
+00:05:03,039 --> 00:05:04,039
+But you still miss.
+
+111
+00:05:04,039 --> 00:05:06,039
+And you get more frustrated.
+
+112
+00:05:06,039 --> 00:05:07,039
+Third bird.
+
+113
+00:05:07,040 --> 00:05:08,360
+There's glorious.
+
+114
+00:05:08,360 --> 00:05:13,480
+There's explosions and animations and the pigs go flying in the music changes.
+
+115
+00:05:13,480 --> 00:05:18,880
+All of this, all of this, was deliberately designed to trigger a dopamine release in your
+
+116
+00:05:18,880 --> 00:05:24,560
+brain that reinforces those neural connections used on that last successful fire.
+
+117
+00:05:24,560 --> 00:05:26,160
+This is why.
+
+118
+00:05:26,160 --> 00:05:30,560
+An hour later, you're firing that bird between two narrow obstacles at 50 meters.
+
+119
+00:05:30,560 --> 00:05:34,760
+And like 80 hours later, you're still playing the game.
+
+120
+00:05:34,760 --> 00:05:38,200
+Now, we didn't invent this, we didn't invent this in our mechanic in the games industry.
+
+121
+00:05:38,200 --> 00:05:42,240
+It's existed in the mammalian neuron for tens of millions of years.
+
+122
+00:05:42,240 --> 00:05:45,159
+This is how our ancestors learned how to throw a spear.
+
+123
+00:05:45,159 --> 00:05:48,480
+Miss, miss, miss, frustration, frustration, hit, dopamine.
+
+124
+00:05:48,480 --> 00:05:51,440
+Okay, what are the neural connections we used on that last successful throw?
+
+125
+00:05:51,440 --> 00:05:52,320
+We want to make those thicker.
+
+126
+00:05:52,320 --> 00:05:54,159
+We're going to want to use those again.
+
+127
+00:05:54,159 --> 00:05:56,640
+In video games, like what's Angry Birds doing?
+
+128
+00:05:56,640 --> 00:06:00,960
+It's training your brain, how to predict the flight, the parabolic flight of an angry bird.
+
+129
+00:06:00,960 --> 00:06:01,960
+What's seem city doing?
+
+130
+00:06:01,960 --> 00:06:04,640
+It's training your brain to understand how a city works.
+
+131
+00:06:04,640 --> 00:06:05,640
+It's level one doing.
+
+132
+00:06:05,640 --> 00:06:08,719
+It's training your brain, how to manage diabetes.
+
+133
+00:06:08,719 --> 00:06:09,719
+Yeah, yeah.
+
+134
+00:06:09,719 --> 00:06:17,880
+I've played Angry Birds in so many different forms from iPhone, back in maybe that was 2014.
+
+135
+00:06:17,880 --> 00:06:23,159
+And then I played in VR and I even played in augmented reality with the magic leap headset,
+
+136
+00:06:23,159 --> 00:06:28,159
+which was a really cool way to experience it because it's like you put an Angry Birds game
+
+137
+00:06:28,159 --> 00:06:32,120
+on your table and you're playing Angry Birds in your space, which is cool.
+
+138
+00:06:32,120 --> 00:06:34,280
+Box would fall off the table and hit the floor.
+
+139
+00:06:34,280 --> 00:06:36,880
+This was really high tech stuff.
+
+140
+00:06:36,880 --> 00:06:41,120
+And I actually talked all about that on just in tech, which was my, what I was doing before
+
+141
+00:06:41,120 --> 00:06:46,200
+diet, that tech, which was all technology and it was a lot of fun and I love tech.
+
+142
+00:06:46,200 --> 00:06:51,200
+I love gaming and that's now a more private part of my life, which is nice.
+
+143
+00:06:51,200 --> 00:06:52,200
+It's not my work.
+
+144
+00:06:52,200 --> 00:06:54,560
+I get to do diabetes, which is my work now.
+
+145
+00:06:54,560 --> 00:06:55,560
+For me, I'm very lucky.
+
+146
+00:06:55,560 --> 00:06:56,560
+It's both.
+
+147
+00:06:56,560 --> 00:06:57,560
+Yeah, right.
+
+148
+00:06:57,560 --> 00:06:58,560
+Right.
+
+149
+00:06:58,560 --> 00:06:59,560
+It was amazing.
+
+150
+00:06:59,560 --> 00:07:04,080
+We actually, back, you know, level X for, for, for doctors, we have like, we built some
+
+151
+00:07:04,080 --> 00:07:08,360
+bunch of the launch medical content for magic leap and AR core and AR kid and a bunch of these
+
+152
+00:07:08,360 --> 00:07:09,360
+things.
+
+153
+00:07:09,360 --> 00:07:14,520
+So we have, you know, you can, you can do spine surgery, you know, on a spine that's floating
+
+154
+00:07:14,520 --> 00:07:16,800
+and you can actually just do it with the controllers.
+
+155
+00:07:16,800 --> 00:07:17,800
+It's crazy stuff.
+
+156
+00:07:17,800 --> 00:07:18,800
+Yeah.
+
+157
+00:07:18,800 --> 00:07:23,640
+If anyone is interested in seeing, I did a whole five part series with magic leap and talked
+
+158
+00:07:23,640 --> 00:07:30,599
+about all the cool experiences and apps for it were, and the technology still holds
+
+159
+00:07:30,599 --> 00:07:31,599
+up.
+
+160
+00:07:31,599 --> 00:07:35,760
+Like it was very advanced at the time, so it's kind of like now is when it's all kind of happening
+
+161
+00:07:35,760 --> 00:07:37,120
+especially with the Apple Vision Pro.
+
+162
+00:07:37,120 --> 00:07:39,360
+So I'll throw that in the show notes.
+
+163
+00:07:39,360 --> 00:07:45,880
+Your company level X, you, you design games for doctors, tell me a little bit about what those
+
+164
+00:07:45,880 --> 00:07:48,000
+games are and who they're for.
+
+165
+00:07:48,000 --> 00:07:53,599
+So look, the, like, what level X does is they said, make games for medical professionals.
+
+166
+00:07:53,600 --> 00:07:59,000
+So if you think about, so imagine we would really have millions of medical professionals playing
+
+167
+00:07:59,000 --> 00:08:03,920
+video games to, you know, they're earning continuing medical education credit toward renewing
+
+168
+00:08:03,920 --> 00:08:04,920
+their medical license.
+
+169
+00:08:04,920 --> 00:08:05,920
+They play games.
+
+170
+00:08:05,920 --> 00:08:10,840
+We have, when you think about diagnosing rare disease, that's a puzzle game.
+
+171
+00:08:10,840 --> 00:08:16,680
+When you think about managing a complex patient with multiple comorbidities, that's a strategy game.
+
+172
+00:08:16,680 --> 00:08:21,920
+And so we basically bring in the top game developers, designers, artists who worked on everything
+
+173
+00:08:21,920 --> 00:08:29,320
+from mortal combat to diner dash, we team them up with hundreds of physician advisors across
+
+174
+00:08:29,320 --> 00:08:33,920
+every major therapeutic area in medicine to, we say, advance the practice of medicine through
+
+175
+00:08:33,920 --> 00:08:34,920
+play.
+
+176
+00:08:34,920 --> 00:08:39,920
+To use video game tech and video game design to help accelerate the adoption of new techniques,
+
+177
+00:08:39,920 --> 00:08:43,920
+new products, and that's, that's what we do.
+
+178
+00:08:43,920 --> 00:08:47,720
+Now we, with diabetes, have expanded also into games for patients.
+
+179
+00:08:48,720 --> 00:08:53,320
+Yeah, you told me you had to convince your parent company to let you do this.
+
+180
+00:08:53,320 --> 00:08:58,320
+Tell me why, why, why that was so important to you.
+
+181
+00:08:58,320 --> 00:09:02,120
+So this is the, this is sort of the story of how level one came about.
+
+182
+00:09:02,120 --> 00:09:08,120
+In the middle of, you know, I'm halfway into the level X journeys, five years ago, my at the time,
+
+183
+00:09:08,120 --> 00:09:11,320
+five year old daughter was diagnosed with type one.
+
+184
+00:09:11,320 --> 00:09:17,920
+And the onboarding experience was not great.
+
+185
+00:09:17,920 --> 00:09:21,520
+And so on Friday, your life is normal.
+
+186
+00:09:21,520 --> 00:09:27,120
+And then within 24 hours, oh, hey, Sam, you thought your job was running video game companies.
+
+187
+00:09:27,120 --> 00:09:29,120
+Oh, that's your second job.
+
+188
+00:09:29,120 --> 00:09:35,960
+Yeah, primary job is you're now a pancreas and you need to inject what is a lethal drug in
+
+189
+00:09:35,960 --> 00:09:41,760
+insulin into your kid and to precise don't precise doses, you know, dozen times a day.
+
+190
+00:09:41,760 --> 00:09:45,560
+I call it like this one sheet, I call it the guide to not killing your own kid.
+
+191
+00:09:45,560 --> 00:09:50,360
+We're out of the hospital in 48 hours, because my wife's a pediatrician, she caught it early.
+
+192
+00:09:50,360 --> 00:09:52,360
+And we're out of the hospital.
+
+193
+00:09:52,360 --> 00:09:53,760
+They give us a, here's this thing.
+
+194
+00:09:53,760 --> 00:09:59,960
+It's got scribbled out carb ratios, insulin sensitivity factors, you know, all this guidance on how to
+
+195
+00:09:59,960 --> 00:10:10,160
+pre-bullet, it took me a year and it took us a year to actually develop a mental model to understand
+
+196
+00:10:10,160 --> 00:10:11,960
+how to manage this disease.
+
+197
+00:10:11,960 --> 00:10:13,960
+Finally, after you're like, oh, I get it.
+
+198
+00:10:13,960 --> 00:10:17,960
+Yeah, insulin curves and action curves and digestion speeds.
+
+199
+00:10:17,960 --> 00:10:21,960
+Okay, now my brain knows where that curve is going to go.
+
+200
+00:10:21,960 --> 00:10:25,360
+And I was like, well, this is stupid.
+
+201
+00:10:25,360 --> 00:10:27,960
+Like why should you have to do this?
+
+202
+00:10:27,960 --> 00:10:33,960
+We're learning, we're learning how to manage diabetes through play, but the play is trial and error on your own
+
+203
+00:10:33,960 --> 00:10:36,960
+kid, or for many other people, it's on themselves.
+
+204
+00:10:36,960 --> 00:10:38,460
+And this is terrible.
+
+205
+00:10:38,460 --> 00:10:39,460
+So we fixed it.
+
+206
+00:10:39,460 --> 00:10:45,960
+I put together a design and at the time, so a level actually been acquired by a major medical device company
+
+207
+00:10:45,960 --> 00:10:52,960
+and, you know, called BrainLab, they do, you know, all the cool, like neurosurgery hardware and software,
+
+208
+00:10:52,960 --> 00:10:56,960
+but they also do a lot of philanthropic efforts in health care worldwide.
+
+209
+00:10:56,960 --> 00:10:57,960
+I was like, hey, this is super important to me.
+
+210
+00:10:57,960 --> 00:11:05,960
+I want to get this game done and they fund it to their credit and so we built it and launched it two weeks ago.
+
+211
+00:11:05,960 --> 00:11:08,960
+This episode is sponsored by OmniPod.
+
+212
+00:11:08,960 --> 00:11:14,960
+As someone with T1D and with an incredibly active lifestyle, it's important for me not to get tied up,
+
+213
+00:11:14,960 --> 00:11:17,960
+especially with tubes on my insulin pump.
+
+214
+00:11:17,960 --> 00:11:21,960
+I love to go swimming, lift weights and play kickball with friends.
+
+215
+00:11:21,960 --> 00:11:25,960
+And with OmniPod 5, I never have to worry about tubes getting in the way.
+
+216
+00:11:25,960 --> 00:11:31,960
+Plus, not having to disconnect helps me to stay in range during all of my favorite physical activities.
+
+217
+00:11:31,960 --> 00:11:33,960
+That includes sexy time, too.
+
+218
+00:11:33,960 --> 00:11:38,960
+See if you're eligible for a 30 day trial by visiting OmniPod.com slash dive tech on there.
+
+219
+00:11:38,960 --> 00:11:41,960
+You'll see full safety and risk information and trial terms.
+
+220
+00:11:41,960 --> 00:11:45,960
+That's OmniPod.com slash dive tech.
+
+221
+00:11:45,960 --> 00:11:52,960
+So I can imagine as a parent, like it must be really stressful to have to learn all of this new information
+
+222
+00:11:52,960 --> 00:11:55,960
+when your child's diagnosed and have to manage their pancreas.
+
+223
+00:11:55,960 --> 00:11:58,960
+I mean for me, it was so overwhelming.
+
+224
+00:11:58,960 --> 00:12:04,960
+It really did take that full year to feel like I got all of these different areas of diabetes down.
+
+225
+00:12:04,960 --> 00:12:10,960
+And I've always looked at my diabetes as a really annoying game.
+
+226
+00:12:10,960 --> 00:12:16,960
+It really is a game of like, add a little of this, reduce a little of this to keep you in this range.
+
+227
+00:12:16,960 --> 00:12:18,960
+Like, like, flappy bird, right?
+
+228
+00:12:18,960 --> 00:12:19,960
+Yeah.
+
+229
+00:12:19,960 --> 00:12:22,960
+Or that this helicopter game I used to play, which was essentially floppy bird.
+
+230
+00:12:22,960 --> 00:12:29,960
+And I can just imagine someone like you, you were immediately, as you were taking all this information,
+
+231
+00:12:29,960 --> 00:12:32,960
+like, game of fighting in your brain a little bit.
+
+232
+00:12:32,960 --> 00:12:35,960
+Tell me a little bit about these early days of when you were doing this,
+
+233
+00:12:35,960 --> 00:12:38,960
+how you were thinking about all of this.
+
+234
+00:12:38,960 --> 00:12:42,960
+I mean, I'm sure it was so stressful, but like, were you already kind of toying around with things like,
+
+235
+00:12:42,960 --> 00:12:45,960
+Oh, this is like, game of fighting in your head?
+
+236
+00:12:45,960 --> 00:12:50,960
+So not yet, at the very beginning, what's interesting is, so first off, I hardly remember the beginning,
+
+237
+00:12:50,960 --> 00:12:52,960
+because you don't sleep much when you're the parent.
+
+238
+00:12:52,960 --> 00:12:56,960
+But what I did was actually wrote it down, and I wrote a little bit of a diary,
+
+239
+00:12:56,960 --> 00:13:00,960
+because what was interesting was not like thinking about it from the perspective of like,
+
+240
+00:13:00,960 --> 00:13:02,960
+how would I make a game to solve this?
+
+241
+00:13:02,960 --> 00:13:03,960
+I wasn't there yet.
+
+242
+00:13:03,960 --> 00:13:06,960
+But what was interesting for me is coming from video games.
+
+243
+00:13:06,960 --> 00:13:12,960
+We've gotten extremely good at, they're all these rules around video game design.
+
+244
+00:13:12,960 --> 00:13:14,960
+How do you make a game fun?
+
+245
+00:13:14,960 --> 00:13:19,960
+How do you bring people into a video game and introduce them to the game such that,
+
+246
+00:13:19,960 --> 00:13:23,960
+because obviously there's a thousands of games launching in the app store like every month.
+
+247
+00:13:23,960 --> 00:13:24,960
+So how do you make it?
+
+248
+00:13:24,960 --> 00:13:25,960
+So your game stands out.
+
+249
+00:13:25,960 --> 00:13:26,960
+So people start playing it immediately.
+
+250
+00:13:26,960 --> 00:13:29,960
+They start having a good time, and they get into it, and it's engaging.
+
+251
+00:13:29,960 --> 00:13:33,960
+And there's all this neuroscience and design to do this.
+
+252
+00:13:33,960 --> 00:13:42,960
+What I realized was the experience of type 1 diabetes takes all of those rules around how to make a fun and
+
+253
+00:13:42,960 --> 00:13:51,960
+thralling, captivating video game, and flips them all in their head to make the most punishing experience possible.
+
+254
+00:13:51,960 --> 00:13:54,960
+Little things like, there's rules and video games.
+
+255
+00:13:54,960 --> 00:13:56,960
+You always want to give the player an early win.
+
+256
+00:13:56,960 --> 00:13:59,960
+So you notice when you play a new game, there's some little thing you do, and it's like,
+
+257
+00:13:59,960 --> 00:14:01,960
+oh, congratulations, you just beat a boss.
+
+258
+00:14:01,960 --> 00:14:05,960
+There's some early win, diabetes, the exact opposite.
+
+259
+00:14:05,960 --> 00:14:11,960
+Also in video games, it's very important that player understands what they're being scored on and what that score means.
+
+260
+00:14:11,960 --> 00:14:14,960
+So type 1 diabetes, you start already you're losing.
+
+261
+00:14:14,960 --> 00:14:19,960
+If you're, you know, luckily we're in in D.K.A., but like, you know, blood sugar is 550.
+
+262
+00:14:19,960 --> 00:14:20,960
+You don't even know what that means.
+
+263
+00:14:20,960 --> 00:14:22,960
+Like, keep a little bit of anyone else.
+
+264
+00:14:22,960 --> 00:14:23,960
+You don't know what that means.
+
+265
+00:14:23,960 --> 00:14:25,960
+All you know is you have a score.
+
+266
+00:14:25,960 --> 00:14:26,960
+Your score is bad.
+
+267
+00:14:26,960 --> 00:14:29,960
+And the score is really important for gameplay.
+
+268
+00:14:29,960 --> 00:14:30,960
+And then from there, it's just all downhill.
+
+269
+00:14:30,960 --> 00:14:34,960
+Like the, you know, whether it's the instruction manual, which is terrible.
+
+270
+00:14:34,960 --> 00:14:40,960
+Whether it's the, you know, all the different we call the loops of fingerpokes and
+
+271
+00:14:40,960 --> 00:14:48,960
+injections, and it's all, you know, so I actually wrote a blog that I, you know, eventually posted,
+
+272
+00:14:48,960 --> 00:14:54,960
+called worstgameever.org that literally just goes through the sort of day by day as a game,
+
+273
+00:14:54,960 --> 00:14:59,960
+you know, from a game design perspective on why the onboarding experiences terrible.
+
+274
+00:14:59,960 --> 00:15:04,960
+I wrote it because it was therapeutic for me, but a lot of other parents have been reading it like early on.
+
+275
+00:15:04,960 --> 00:15:08,960
+And they're just like, well, it's great to know that others were sufferers, others suffer like you do.
+
+276
+00:15:08,960 --> 00:15:15,960
+Yeah, you know, I'm a pretty competitive person, not a sort of loser, but I like to get super competitive about games.
+
+277
+00:15:15,960 --> 00:15:21,960
+And I like games where you can, there's like real strategy to being good at it.
+
+278
+00:15:21,960 --> 00:15:25,960
+And yes, diabetes, yes, their strategy.
+
+279
+00:15:25,960 --> 00:15:32,960
+Yes, there's different features and modes you can turn on and adjustments and preparation you can do.
+
+280
+00:15:32,960 --> 00:15:38,960
+But no matter how good you are at the game of diabetes, it will always school you.
+
+281
+00:15:38,960 --> 00:15:40,960
+Yep, in a way you don't expect.
+
+282
+00:15:40,960 --> 00:15:43,960
+You cannot perfections impossible.
+
+283
+00:15:43,960 --> 00:15:44,960
+It just is.
+
+284
+00:15:44,960 --> 00:15:48,960
+We, because we move and we eat and we breathe.
+
+285
+00:15:48,960 --> 00:15:52,960
+You know, it was like doing what there was something like doing the same thing.
+
+286
+00:15:52,960 --> 00:15:57,960
+The eating the exact same thing and doing the exact same thing for three days and getting completely different results.
+
+287
+00:15:57,960 --> 00:15:59,960
+That's what type one diabetes.
+
+288
+00:15:59,960 --> 00:16:08,960
+And so in video games, that breaks the rules because in video games you always want the player to know how their actions correlate to their score in the game.
+
+289
+00:16:08,960 --> 00:16:11,960
+And you want it to be consistent and diabetes is not that.
+
+290
+00:16:11,960 --> 00:16:21,960
+So even when we designed level one, like one thing that was very important is you can three star any level without a perfect score without being in range of whole time.
+
+291
+00:16:21,960 --> 00:16:27,960
+Because it's very important that first few days to really internalize like perfection is impossible.
+
+292
+00:16:27,960 --> 00:16:28,960
+Don't try it.
+
+293
+00:16:28,960 --> 00:16:32,960
+If you try it, you will actually just stress yourself out because you can't.
+
+294
+00:16:32,960 --> 00:16:35,960
+As long as you're within range 90% of the time, you're happy.
+
+295
+00:16:35,960 --> 00:16:37,960
+You can three star every level and level one.
+
+296
+00:16:37,960 --> 00:16:42,960
+Because our whole thing is do not like, how do we literally create a game that trains your brain?
+
+297
+00:16:42,960 --> 00:16:44,960
+Like, no, no, no, you don't want it.
+
+298
+00:16:44,960 --> 00:16:45,960
+You don't need to be perfect.
+
+299
+00:16:45,960 --> 00:16:46,960
+Relax.
+
+300
+00:16:46,960 --> 00:16:48,960
+So it's a really pretty looking game.
+
+301
+00:16:48,960 --> 00:16:53,960
+I know that you were inspired by different art types of games.
+
+302
+00:16:53,960 --> 00:16:55,960
+Tell me a little bit about, you know,
+
+303
+00:16:55,960 --> 00:17:01,960
+the inspiration behind the style of the game and what the game style is.
+
+304
+00:17:01,960 --> 00:17:02,960
+Yep.
+
+305
+00:17:02,960 --> 00:17:05,960
+So the, there's the mechanics and the visuals.
+
+306
+00:17:05,960 --> 00:17:07,960
+The mechanics, we call it the gameplay.
+
+307
+00:17:07,960 --> 00:17:08,960
+Super simple.
+
+308
+00:17:08,960 --> 00:17:10,960
+You play the whole game just with one thumb.
+
+309
+00:17:10,960 --> 00:17:11,960
+One handed, one thumb.
+
+310
+00:17:11,960 --> 00:17:13,960
+We don't want you to have to spend an hour learning out of play the game.
+
+311
+00:17:13,960 --> 00:17:18,960
+We want you to know how to play the game intuitively and spend your time learning out of managed diabetes.
+
+312
+00:17:18,960 --> 00:17:20,960
+The game is a particle, fundamentally a particle puzzle.
+
+313
+00:17:20,960 --> 00:17:21,960
+It's a particle game.
+
+314
+00:17:21,960 --> 00:17:25,960
+If you've ever played feed meat oil, wears my water, a world of goo,
+
+315
+00:17:25,960 --> 00:17:27,960
+like these games are played by a billion people.
+
+316
+00:17:27,960 --> 00:17:28,960
+They're super fun.
+
+317
+00:17:28,960 --> 00:17:32,960
+You have thousands of particles on screen that interact in interesting ways.
+
+318
+00:17:32,960 --> 00:17:33,960
+It's gorgeous.
+
+319
+00:17:33,960 --> 00:17:34,960
+Our brain delights in it.
+
+320
+00:17:34,960 --> 00:17:36,960
+That's why we love playing with sand.
+
+321
+00:17:36,960 --> 00:17:39,960
+And so I humans love playing with water and magnetic sand and things.
+
+322
+00:17:39,960 --> 00:17:42,960
+Because we delight in complex particle interactions.
+
+323
+00:17:42,960 --> 00:17:44,960
+So the game is just gorgeous.
+
+324
+00:17:44,960 --> 00:17:46,960
+And what you're doing is in the game.
+
+325
+00:17:46,960 --> 00:17:48,960
+You're also, it's also a rhythm game.
+
+326
+00:17:48,960 --> 00:17:54,960
+So if you're familiar with, like, I think guitar hero is that genre.
+
+327
+00:17:54,960 --> 00:17:56,960
+So what is dosing diabetes?
+
+328
+00:17:56,960 --> 00:18:06,960
+It's making sure to time your doses with whatever's going on with the food with your current blood glucose level.
+
+329
+00:18:06,960 --> 00:18:09,960
+And so the game is just like it's super simple to play.
+
+330
+00:18:09,960 --> 00:18:11,960
+All you're doing is tapping with your thumb, dosing insulin.
+
+331
+00:18:11,960 --> 00:18:16,960
+Once a while if you go low, you move your thumb a centimeter to the left and you dose some juice.
+
+332
+00:18:16,960 --> 00:18:18,960
+And the game just represents everything.
+
+333
+00:18:18,960 --> 00:18:20,960
+So there's 60 levels.
+
+334
+00:18:20,960 --> 00:18:23,960
+There's food that's just moving in on a conveyor belt.
+
+335
+00:18:23,960 --> 00:18:25,960
+Dropping into your digestive system.
+
+336
+00:18:25,960 --> 00:18:28,960
+Getting broken down to these gorgeous glucose particles.
+
+337
+00:18:28,960 --> 00:18:30,960
+You inject insulin.
+
+338
+00:18:30,960 --> 00:18:32,960
+It comes in off the side.
+
+339
+00:18:32,960 --> 00:18:36,960
+Activates the cells and just sucks in the, sucks in the glucose.
+
+340
+00:18:36,960 --> 00:18:38,960
+It's gorgeous.
+
+341
+00:18:38,960 --> 00:18:39,960
+It's captivating.
+
+342
+00:18:39,960 --> 00:18:42,960
+The visual style is super light and casual.
+
+343
+00:18:42,960 --> 00:18:44,960
+Kind of think candy crush.
+
+344
+00:18:44,960 --> 00:18:50,960
+Because we really wanted to make something that was going to be, you know, a visual style, like everyone plays candy crush.
+
+345
+00:18:50,960 --> 00:18:54,960
+So we picked visual styles that are like very casual, very friendly.
+
+346
+00:18:54,960 --> 00:18:58,960
+You're usually already under a lot of stress when you're trying to learn about this.
+
+347
+00:18:58,960 --> 00:19:07,960
+So the whole theme is just very, the soundtrack is very zen and you just play the game for two hours.
+
+348
+00:19:07,960 --> 00:19:12,960
+And you've mastered every major topic that you need for the first six months of MDI.
+
+349
+00:19:12,960 --> 00:19:18,960
+Yeah, it's a really pretty looking game and somewhat relaxing playing it.
+
+350
+00:19:18,960 --> 00:19:24,960
+Like you can take in all of this information and enjoy yourself and not feel like too stressed.
+
+351
+00:19:24,960 --> 00:19:32,960
+Sam, so during development, how are you making sure that what you were doing was correct.
+
+352
+00:19:32,960 --> 00:19:41,960
+Like were you working with other people, doctors, HCPs to play levels and things like that to make sure that the information you were putting out was correct.
+
+353
+00:19:41,960 --> 00:19:47,960
+Yes, so this is level X is what we do all the time, right.
+
+354
+00:19:47,960 --> 00:19:50,960
+So we work with hundreds of physician advisors and contributors.
+
+355
+00:19:50,960 --> 00:19:53,960
+We have biomedical engineers and MDs on staff.
+
+356
+00:19:53,960 --> 00:19:56,960
+So obviously making games for doctors, it's going to be.
+
+357
+00:19:56,960 --> 00:20:02,960
+So we know how to make really games that are accurate and that are peer reviewed and so forth.
+
+358
+00:20:02,960 --> 00:20:13,960
+We started out, you know, with obviously all the publications, the peer reviewed papers around, you know, insulin action curves and glucose and, you know, all the glucose dynamics.
+
+359
+00:20:13,960 --> 00:20:27,960
+So it's modeled after real science, but then of course we ran a beta for I think over a year or not a year where we had hundreds of endocrinologists, diabetes, educators, camp counselors, newly diagnosed parents.
+
+360
+00:20:27,960 --> 00:20:31,960
+Everybody and we're just internalizing all the feedback on the game.
+
+361
+00:20:31,960 --> 00:20:39,960
+Just like you would in any game, you know, make sure it's balanced, but also make sure that it's that it's not only like medically accurate in terms of the glucose behavior.
+
+362
+00:20:39,960 --> 00:20:45,960
+Fine, got it, but even just making sure that like all the messaging and all the.
+
+363
+00:20:45,960 --> 00:20:50,960
+You know, we weren't doing anything that might sort of nudge somebody in the wrong direction.
+
+364
+00:20:50,960 --> 00:20:56,960
+Yeah, I can imagine there are things you could say that could hurt someone, you know, if it's said the wrong way.
+
+365
+00:20:56,960 --> 00:21:05,960
+Yeah, or even just subtly like one of the things I remember in the game we had for a while, like really slow digesting foods.
+
+366
+00:21:05,960 --> 00:21:10,960
+We would actually be had a level where it taught you how to do multiple injections.
+
+367
+00:21:10,960 --> 00:21:19,960
+Like you with, you know, we put the pump, you might, you know, have multiple boluses or, you know, you might actually do an injection later if you have a really slow digesting food.
+
+368
+00:21:19,960 --> 00:21:26,960
+And the feedback that we got from it is, yes, it's correct, but such a small percentage of the population will actually ever do that.
+
+369
+00:21:26,960 --> 00:21:31,960
+Don't even try like it's too much for people and we pull those levels out.
+
+370
+00:21:31,960 --> 00:21:48,960
+Yeah, so I've played this game. I played at least the first 10 levels and I plan to play through all of them because I'm really curious to see myself how each level changes and there's some interesting levels that I do want to get into with you to just hear more about them.
+
+371
+00:21:48,960 --> 00:21:59,960
+So that everyone can hear too, but who is this game for? Like, obviously when I was playing and I was like, I know a lot of this, but I was only really in the first 10 levels. I see how it complex this is getting.
+
+372
+00:21:59,960 --> 00:22:14,960
+Who do you see using this? Is this someone who a parent, a person with diabetes who is just diagnosed or is this could this even be for people that are like, I want to brush up on this or things that maybe people never even learned, you know, maybe in there.
+
+373
+00:22:14,960 --> 00:22:17,960
+Yes, and yes, so the primary audience is the newly diagnosed and their caregivers.
+
+374
+00:22:18,960 --> 00:22:25,960
+Because that was my personal experience. What we're seeing over time is that actually the audience for this is much bigger.
+
+375
+00:22:25,960 --> 00:22:34,960
+So the design point again is, you know, the newly diagnosed and their caregivers and, you know, you can even see that like the reading level is as low as possible, which is make it.
+
+376
+00:22:34,960 --> 00:22:36,960
+So the broadest audience can play.
+
+377
+00:22:36,960 --> 00:22:44,960
+I needed it because, you know, camp counselors like, I don't let babysitters babysit my daughter unless they've played at least through level 10.
+
+378
+00:22:44,960 --> 00:22:54,960
+There's just, that's interesting. That's very cool. Right? Think of all the people that need to know how to manage this disease, grandparents and camp counselors.
+
+379
+00:22:54,960 --> 00:23:00,960
+So it's for all of them, but we're also starting to realize is the audience is even even bigger than that.
+
+380
+00:23:00,960 --> 00:23:08,960
+So you can just look at the comments and feedback people are like, I've had this disease for five years and I learned like something I didn't know in level 20.
+
+381
+00:23:09,960 --> 00:23:16,960
+Especially things like how ketones work and exercise like there's a bunch of it gets fairly complex.
+
+382
+00:23:16,960 --> 00:23:24,960
+And the other thing that we've also seen is the importance actually of educating medical professionals.
+
+383
+00:23:24,960 --> 00:23:31,960
+There's a huge percentage like half of diabetics in this country are managed like they're in a rural environment like they don't have it. There's no endo.
+
+384
+00:23:31,960 --> 00:23:37,960
+They're managed by primary care anesthesiologists are putting patients under who are on pumps.
+
+385
+00:23:37,960 --> 00:23:44,960
+And they're like all of these doctors that actually, and nurses and other things that might not be endos, but actually need to understand this disease.
+
+386
+00:23:44,960 --> 00:23:48,960
+So we've actually been getting pressure. Hey, can we get to certified for CME credit?
+
+387
+00:23:48,960 --> 00:23:53,960
+So doctors can get CME credit toward renewing their medical license from playing level 1.
+
+388
+00:23:53,960 --> 00:24:06,960
+Today's episode is sponsored by T1D Exchange. You can directly make an impact on diabetes health care treatments and technology by participating in the T1D Exchange registry.
+
+389
+00:24:06,960 --> 00:24:11,960
+It starts with the simple survey about your life with T1D and it only takes about 15 minutes.
+
+390
+00:24:11,960 --> 00:24:17,960
+After that, you'll have a personal portal with ongoing T1D study and survey opportunities.
+
+391
+00:24:17,960 --> 00:24:20,960
+Plus, some of these studies even offer compensation.
+
+392
+00:24:20,960 --> 00:24:26,960
+Signing up with the link in the show notes helps support my channel and it allows me to continue putting out free content.
+
+393
+00:24:26,960 --> 00:24:34,960
+You can sign up at t1dxchange.org slash diabetic or click that link in today's show notes.
+
+394
+00:24:34,960 --> 00:24:42,960
+Tell me about when you open up this app, what are the mechanics, what is the player doing, what are they seeing and what are they controlling?
+
+395
+00:24:42,960 --> 00:24:52,960
+So the game is super simple. You come in and there's a nurse who's the non-player character, the NPC and she just talks you through everything.
+
+396
+00:24:52,960 --> 00:24:58,960
+The first step is actually the first experience you usually have with diabetes, which is you come in and you're high.
+
+397
+00:24:58,960 --> 00:25:04,960
+And you can see the, you can see the CGM view at the top and she has your high. You got a dose insulin to bring it down.
+
+398
+00:25:04,960 --> 00:25:12,960
+And all you do is you, it shows you exactly how to do it. You take your thumb and you just tap the, there's an insulin needle to bottom screen. You tap it.
+
+399
+00:25:12,960 --> 00:25:20,960
+Drag over. I think to like two units or something goes in. You watch the insulin go in. You watch it activate the cells. You watch the glucose get sucked in.
+
+400
+00:25:20,960 --> 00:25:23,960
+It's like great. Now you just learn how to do insulin.
+
+401
+00:25:23,960 --> 00:25:29,960
+Okay. Let's go from here. So she starts now. You have to deal with a few highs and how to correct.
+
+402
+00:25:29,960 --> 00:25:41,960
+Then food starts appearing. Then you have to start learning about pre-bolicing. Initially the foods just tell you, oh, for this, you know, food you're going to need right now a unit of insulin or two units of insulin.
+
+403
+00:25:41,960 --> 00:25:50,960
+Just a little tag above the food. But eventually that goes away and it just shows you the carb count and you have the carb ratio in the top of the screen.
+
+404
+00:25:50,960 --> 00:25:55,960
+Or you start with the carb ratio of 10. It's like now you got to divide by 10, figure out how many units.
+
+405
+00:25:55,960 --> 00:26:02,960
+You go. Now later on in the game, the carb ratio changes throughout the day. You have to keep an eye on it. You have to change what you're dividing by.
+
+406
+00:26:02,960 --> 00:26:10,960
+So the whole time this is happening, but your interface never changes. All you're doing is just tapping, like tapping the phone, dragging the insulin pen.
+
+407
+00:26:10,960 --> 00:26:13,960
+It's just you literally just on the phone with you thumb, twist the insulin pen, dose.
+
+408
+00:26:13,960 --> 00:26:18,960
+Wow. That gets me even more excited about playing through all of it too and seeing how the levels progress.
+
+409
+00:26:18,960 --> 00:26:26,960
+Let's talk about some of the levels. I scroll through into future chapters of the game that I haven't gotten to yet.
+
+410
+00:26:26,960 --> 00:26:34,960
+So I want to hear more about them. Let's start with sick days. Tell me about what that chapter is bringing into the game.
+
+411
+00:26:34,960 --> 00:26:36,960
+Keytones.
+
+412
+00:26:36,960 --> 00:26:44,960
+So this is this was confounding for me the first time, right? Because you're like, well, blood sugars normal.
+
+413
+00:26:44,960 --> 00:26:51,960
+But that's because you're not eating. And when you're so when you're sick, right? Your blood sugars often normal. You're not eating.
+
+414
+00:26:51,960 --> 00:26:57,960
+And what's happening is keytones are still forming in your bloodstream. So you can still go into, you can still start throwing up.
+
+415
+00:26:57,960 --> 00:27:03,960
+You can have like keytones levels. You can even go in a D.K. Without with being actually in range or fairly close to range.
+
+416
+00:27:03,960 --> 00:27:10,960
+And so what we do is we present a scenario where there's no food coming in the conveyor belt. You're not eating your sick. And keytones are forming.
+
+417
+00:27:10,960 --> 00:27:16,960
+And so you have to now, now we don't change the interface. Now you still have to play with those two buttons, juice and insulin.
+
+418
+00:27:16,960 --> 00:27:24,960
+But you have to keep introducing juice and insulin into the system because you watch, you need that insulin in the system to break up the ketones that start forming.
+
+419
+00:27:24,960 --> 00:27:31,960
+And then of course there's a giant yellow vortex that appears and sucks all the ketones out because you peed them out.
+
+420
+00:27:31,960 --> 00:27:38,960
+And so now what about fast food? Fast food is just training your brain on how to do.
+
+421
+00:27:38,960 --> 00:27:47,960
+So we've introduced carb counting. We've introduced carb ratios. You've introduced like a bunch of different concepts. Fast food is just training your brain. How to do that math quickly.
+
+422
+00:27:47,960 --> 00:27:52,960
+Well, does it, does it introduce like glycemic index and how that changes?
+
+423
+00:27:52,960 --> 00:27:59,960
+Because I think that that's something a lot of people don't fully understand is the difference between a cheeseburger and an apple.
+
+424
+00:27:59,960 --> 00:28:08,960
+And the way it will affect you at different times does the fast food address longer times to wait, you know, for it to go into the bloodstream.
+
+425
+00:28:08,960 --> 00:28:21,960
+Yes, so different foods you see it shows you they digest the different speeds and we actually visualize that. So you'll notice like when there's juice or an apple it just kind of falls the glucose those glucose particles the sugar particles is fall through the gears.
+
+426
+00:28:21,960 --> 00:28:28,960
+And then when you have a slow digesting food like a cheeseburger, it's very, very, it's breaking up very, very slowly.
+
+427
+00:28:28,960 --> 00:28:37,960
+And so that helps your brain develop this mental model of like, oh, I really need to think about that insulin curve and how that's going to interact with the food that I'm eating.
+
+428
+00:28:38,960 --> 00:29:06,960
+Yeah, what I love so much about all these different chapters addressing different aspects of diabetes is that when you're first diagnosed, when you're a parent who has a kid who's diagnosed, you don't have enough time to learn in that once every other week, once every week 30 minute meet appointment you have with a diabetes educator, it's simply impossible to to soak in all that information and to take it all in and.
+
+429
+00:29:06,960 --> 00:29:07,960
+Like.
+

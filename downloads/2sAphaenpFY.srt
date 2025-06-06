@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:07,600
+Huge news in diabetes tech has arrived for the first time ever an implantable continuous glucose monitor will
+
+2
+00:00:07,600 --> 00:00:13,120
+integrate with an insulin pump to provide automated insulin delivery. Here's what you need to know.
+
+3
+00:00:13,120 --> 00:00:20,400
+Sequel MedTech has announced that the EverSense 365 1 year CGM will integrate with its twist
+
+4
+00:00:20,400 --> 00:00:25,600
+insulin pump. The twist pump is releasing right now with people already starting to use it.
+
+5
+00:00:25,600 --> 00:00:32,160
+The EverSense 365 joins its initial CGM partner, the Libre3 Plus. Here's how EverSense works.
+
+6
+00:00:32,160 --> 00:00:38,000
+There is an implantable CGM put under the skin through a short procedure. Then the user wears an
+
+7
+00:00:38,000 --> 00:00:44,720
+exterior transmitter that has on-board vibrational arts. The transmitter can be removed whenever you want.
+
+8
+00:00:44,720 --> 00:00:50,080
+You just won't get readings while it's off. Twist is a tube insulin pump. It uses advanced
+
+9
+00:00:50,080 --> 00:00:56,640
+occlusion technology and it's the only FDA cleared system to support Apple Watch control. If you want to
+
+10
+00:00:56,640 --> 00:01:01,920
+learn more about this partnership and both devices, make sure you head over to my blog,
+
+11
+00:01:01,920 --> 00:01:06,400
+dieofettech.info or you can access that with the link in the bio and follow this page for more
+
+12
+00:01:06,400 --> 00:01:08,400
+diabetes tech tips and news.
+

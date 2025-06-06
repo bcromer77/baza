@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:05,840
+Hey guys, welcome to my channel, this is a very special episode because I am announcing that
+
+2
+00:00:05,840 --> 00:00:12,320
+I have partnered up with Magic Leap to create a series of six videos I am elated to be working
+
+3
+00:00:12,320 --> 00:00:18,720
+with such an awesome company that has the Magic Leap 1 Creator Edition. This is the headset
+
+4
+00:00:18,720 --> 00:00:24,000
+or Lightware's Magic Leap calls it. And this is the light pack, the computer powering the device.
+
+5
+00:00:24,000 --> 00:00:29,360
+It is a spatial computing device that takes in your entire surroundings, tracks your hands,
+
+6
+00:00:29,360 --> 00:00:35,360
+your eye movement, where your eyes are focused. Today's episodes all about their brand new Spotify
+
+7
+00:00:35,360 --> 00:00:40,640
+app on this. Spotify is bringing music streaming to spatial computing. This is a first for Spotify,
+
+8
+00:00:40,640 --> 00:00:46,000
+and then this is also a first for Magic Leap having an app that can play music with their
+
+9
+00:00:46,000 --> 00:00:50,960
+background music service. So without further ado, let's take a hop, skip, and a Magic Leap
+
+10
+00:00:52,160 --> 00:00:53,200
+into this video.
+
+11
+00:00:53,200 --> 00:01:02,560
+So I got my main menu right here, and as you can see it's just levitating in my living room,
+
+12
+00:01:02,560 --> 00:01:08,160
+and I'm going to open up the Spotify app. So the first thing Spotify is going to have me do is
+
+13
+00:01:08,160 --> 00:01:15,280
+place it somewhere in my room. It wants to be on a surface on the ground. Once the app is placed, Spotify
+
+14
+00:01:15,280 --> 00:01:21,360
+comes alive in a life-size layout, right in your living space. On top you have your recently played songs,
+
+15
+00:01:21,360 --> 00:01:26,240
+playlists, and artists. In the middle is a cube-like Spotify player, and that the bottom are
+
+16
+00:01:26,240 --> 00:01:32,400
+stacks of recommendations. The app is intuitive and the controls are natural. At the bottom you can hold
+
+17
+00:01:32,400 --> 00:01:37,280
+the trigger and move the controller side to side to search through the stacks, kind of like looking at
+
+18
+00:01:37,280 --> 00:01:43,280
+records at a record store. The app allows users to curate and decorate their augmented reality with their
+
+19
+00:01:43,280 --> 00:01:47,920
+favorite playlists, songs, and artists. I'm using a Magic Leap account for copyright issues,
+
+20
+00:01:47,920 --> 00:01:52,480
+so this isn't the music I listen to. I'm going to take my editing jams, right? I'm going to hold
+
+21
+00:01:52,480 --> 00:01:58,800
+the trigger, and I'm going to put it right by my computer. There it is right there. On the wall by my
+
+22
+00:01:58,800 --> 00:02:03,680
+editing station, and then it gives me the options to delete it, or I can play it. So let's play it.
+
+23
+00:02:05,680 --> 00:02:09,840
+And there it is. The music is playing right from the speakers right here.
+
+24
+00:02:10,720 --> 00:02:19,120
+And then if I want to pause it, there we go. Pause it. And there it is in the main player.
+
+25
+00:02:19,120 --> 00:02:25,840
+Okay, so I'm going to decorate my apartment a little more with my recently played. I got a dinner party
+
+26
+00:02:25,840 --> 00:02:34,720
+playlist right here. I'm going to put that right on this wall. As I placed the playlist around my apartment,
+
+27
+00:02:34,720 --> 00:02:39,440
+I felt like I was in a Spotify playground. Watching the artwork navigate my walls as I moved
+
+28
+00:02:39,440 --> 00:02:43,840
+them around was a true testament to how precise the room tracking is on the headset.
+
+29
+00:02:44,640 --> 00:02:50,079
+The music art also acts as your own art pieces. I could see myself creating some abstract collages.
+
+30
+00:02:50,720 --> 00:02:55,440
+By default, the playlist are these four square images, but if you go on to Spotify through the
+
+31
+00:02:55,440 --> 00:03:01,040
+computer, you can change them to any image you want. Love that for me. So now that I've decorated my
+
+32
+00:03:01,040 --> 00:03:06,160
+living room in my kitchen, I'm going to take this to the bedroom. I was impressed by how smooth and seamless
+
+33
+00:03:06,320 --> 00:03:11,359
+it was to move this Spotify player to another room. Next, I placed some artists above my bed,
+
+34
+00:03:11,359 --> 00:03:17,280
+so I could have some smooth jams to serenade me before bed. Artist tiles resemble vinyl records,
+
+35
+00:03:17,280 --> 00:03:22,000
+so you can save that trip to the record store and throw up some Spotify art. The cube-like
+
+36
+00:03:22,000 --> 00:03:28,079
+player is aesthetically pleasing as it rotates between songs. I never imagined I'd be Spotify running in
+
+37
+00:03:28,079 --> 00:03:34,960
+such a tangible way. So if you want a little more control over Spotify, you can use your phone to
+
+38
+00:03:34,960 --> 00:03:39,600
+control it. Right now I have the app open. You see right there, it's connected to the magically
+
+39
+00:03:39,600 --> 00:03:45,040
+over Bluetooth. Now that it's connected, I'm going to press play. And look, I've played my song.
+
+40
+00:03:46,080 --> 00:03:50,800
+In landscape mode, you can access the overtrapped, which allows you to control Spotify using the
+
+41
+00:03:50,800 --> 00:03:56,640
+background music service. The music will pause once you open up an immersive app.
+
+42
+00:03:58,320 --> 00:04:01,120
+Once you leave the immersive app, the music will start up again.
+
+43
+00:04:01,120 --> 00:04:09,440
+All right, so now I want to show you how you can have different apps open in landscape mode
+
+44
+00:04:09,440 --> 00:04:15,600
+and still have the music playing. Right here I have my overtrapped, I opened up a bunch of windows. I had my
+
+45
+00:04:15,600 --> 00:04:21,120
+YouTube video playing, Google open, and a gallery piece on the counter. The music would sometimes
+
+46
+00:04:21,120 --> 00:04:26,080
+be spotty and that's probably because I was working it really hard. I'm sure this will get better with
+
+47
+00:04:26,800 --> 00:04:32,479
+time. So this is really exciting. The fact that we now have the ability to have apps playing music
+
+48
+00:04:32,479 --> 00:04:36,719
+and then we can have them run in the background with overtrapped and the background music service.
+
+49
+00:04:36,719 --> 00:04:41,919
+And this spotify app really is just the beginning of what this technology's going to be. I mean, think
+
+50
+00:04:41,919 --> 00:04:46,080
+about it. You can put your podcast that you listen to every morning you cook breakfast, sitting in
+
+51
+00:04:46,080 --> 00:04:50,640
+staying in your kitchen and just click it and then it starts playing as you're cooking. If there's an
+
+52
+00:04:50,640 --> 00:04:54,560
+audio book you're reading, it could be in your bedroom on the wall when you're going to go to bed,
+
+53
+00:04:54,560 --> 00:04:59,360
+you click it and then it starts reading your book. Maybe even a corner of your home that you like to
+
+54
+00:04:59,360 --> 00:05:06,480
+meditate in can have some really nice ambient sounds. I mean, the potential is incredible and I can
+
+55
+00:05:06,480 --> 00:05:13,520
+not wait to see where this technology goes. Stay tuned for a bunch of videos coming out on magic leap.
+
+56
+00:05:13,520 --> 00:05:19,760
+I cannot wait to explore this innovative headset more and I have so much in store, just you wait.
+
+57
+00:05:19,760 --> 00:05:24,400
+So make sure you subscribe right down there, hit the bell for alerts for more. And also if you guys
+
+58
+00:05:24,400 --> 00:05:29,600
+found this video helpful, you should like it because that will help other people find it. I'm just in,
+
+59
+00:05:29,600 --> 00:05:32,960
+and I'll take you later.
+
+60
+00:05:40,880 --> 00:05:44,640
+Okay. Enough fun. Back to work, Justin.
+

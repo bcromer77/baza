@@ -1,0 +1,40 @@
+1
+00:00:00,000 --> 00:00:09,000
+the newest recommendation is 7.16 that says consider using CGM in adults with type 2 diabetes,
+
+2
+00:00:09,000 --> 00:00:14,000
+not using insulin or glucose laboratory medication other than insulin.
+
+3
+00:00:14,000 --> 00:00:20,000
+So we had to look in the literature and there is growing evidence that there are benefits
+
+4
+00:00:20,000 --> 00:00:25,000
+for people with type 2 using CGM, not using insulin.
+
+5
+00:00:25,000 --> 00:00:31,000
+And so we had to look into the growing research and growing papers and they were able to say,
+
+6
+00:00:31,000 --> 00:00:37,000
+now we feel comfortable that it is sufficient evidence to state that yes, we should consider.
+
+7
+00:00:37,000 --> 00:00:39,000
+Now, why do we not use recommend?
+
+8
+00:00:39,000 --> 00:00:44,000
+Because right now we don't have large randomized control trials.
+
+9
+00:00:44,000 --> 00:00:50,000
+We have some randomized control trial, a lot of retrospective information and some perspectives.
+
+10
+00:00:50,000 --> 00:00:57,000
+We needed to make sure we use the right level of recommendation to mirror the evidence that we have.
+

@@ -21,3 +21,6 @@ steps:
       - 'cloud-build-deployer@creator-torch.iam.gserviceaccount.com'
       - '--allow-unauthenticated'
 
+options:
+  logging: CLOUD_LOGGING_ONLY
+

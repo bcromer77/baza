@@ -1,0 +1,128 @@
+1
+00:00:00,000 --> 00:00:16,000
+Hey, it's Justin Tech, and I'm at Pepcom's Digital Experience at CES 2020, and right now I'm joined by Aaron Amy, the CEO and founder of Brilliant.
+
+2
+00:00:16,000 --> 00:00:23,000
+So, Aaron, what is Brilliant? Brilliant is a whole home controller for all of the smart devices in your house.
+
+3
+00:00:23,000 --> 00:00:29,000
+Today we have two new products. We have a smart dimmer switch. It has a little touch groove, and you can dim the lights. You can turn the lights off on with a tap.
+
+4
+00:00:29,000 --> 00:00:34,000
+You also have a motion detector, so you can do occupancy based lighting, save energy.
+
+5
+00:00:34,000 --> 00:00:40,000
+And it also has a really unique capability where you can run scenes just by double tapping on it.
+
+6
+00:00:40,000 --> 00:00:45,000
+You can say, I'm going to watch a movie, and adjust the lighting just the way you want it. It turns off the stereo.
+
+7
+00:00:45,000 --> 00:00:51,000
+And the ability to just kind of do that and have it automatically happen from a light switch is really unique and different.
+
+8
+00:00:51,000 --> 00:00:57,000
+The other device they announced was a smart plug. Both the plug and the new light switch will work alongside one main brilliant switch,
+
+9
+00:00:57,000 --> 00:01:01,000
+which acts as a hub. Why should someone go with Brilliant?
+
+10
+00:01:01,000 --> 00:01:05,000
+Well, as you add smart devices in your house, it gets a little cumbersome to control them.
+
+11
+00:01:05,000 --> 00:01:11,000
+You find that you're running a bunch of different apps on your phone, and if you're not the homeowner or you don't have your ringer on,
+
+12
+00:01:11,000 --> 00:01:15,000
+you might miss someone who's at the door with a video doorbell. It's brilliant.
+
+13
+00:01:15,000 --> 00:01:22,000
+Build right into the walls of the house and allows you to control all of your smart devices and now provide all of them smart lighting.
+
+14
+00:01:22,000 --> 00:01:24,000
+Who are some notable companies that Brilliant works with?
+
+15
+00:01:24,000 --> 00:01:31,000
+We work with, for example, the ring video doorbell. We have Amazon Alexa voice services built into it.
+
+16
+00:01:31,000 --> 00:01:39,000
+We work with Honeywell Home and ECOB on the smart thermostat space, Schlag and August and Yale in smart locks.
+
+17
+00:01:39,000 --> 00:01:45,000
+We work with Sonos in a really nice way where you see all of your playlists and favorites and you can control zones and everything from it.
+
+18
+00:01:45,000 --> 00:01:49,000
+Pretty much most of the smart devices out there that are popular that we work with.
+
+19
+00:01:49,000 --> 00:01:51,000
+Can you tell me a little bit about the functionality?
+
+20
+00:01:52,000 --> 00:01:57,000
+If someone rings a ring doorbell, you see the video stream on the screen and you can unlock the door right from that.
+
+21
+00:01:57,000 --> 00:02:02,000
+It's room to room, video, intercom capabilities, and you can do remote camera viewing from your app.
+
+22
+00:02:02,000 --> 00:02:08,000
+You can actually take pictures and upload those onto your wall, so that's a sort of digital picture frame built in.
+
+23
+00:02:08,000 --> 00:02:13,000
+It's very intuitive. One of the things that's been a lot of time doing, trying to make it really easy to use, how to simplify it.
+
+24
+00:02:13,000 --> 00:02:16,000
+Are there any other features coming in the near future?
+
+25
+00:02:16,000 --> 00:02:21,000
+We do automatic over the air updates, so we're constantly rolling out new features.
+
+26
+00:02:21,000 --> 00:02:27,000
+Since we've launched just a year ago, we've rolled out over a dozen new integration, it just gets better and better over time.
+
+27
+00:02:27,000 --> 00:02:32,000
+Keep your eyes open for more videos on Brilliant, especially as I start unveiling smart home in Palm Springs.
+
+28
+00:02:32,000 --> 00:02:38,000
+That's right. We're building a smart home of your dreams and you can rent it. Brilliant.
+
+29
+00:02:38,000 --> 00:02:45,000
+There you have it. That is brilliant. It sounds like it could be a brilliant solution for your smart home.
+
+30
+00:02:45,000 --> 00:02:49,000
+If you want to check out their Instagram, it's brilliant, underscore tech. Yeah, they're my cousin.
+
+31
+00:02:49,000 --> 00:02:55,000
+Justin underscore tech. Brilliant underscore tech. I love that. I have a lot more C.S. coverage coming.
+
+32
+00:02:55,000 --> 00:03:01,000
+Make sure you subscribe right down there. Click a like if you enjoyed this. I'm Justin, and I'll take you later.
+

@@ -1,0 +1,723 @@
+with the rates of cancer rising in younger patients.
+Now, it just seems like more and more that age number
+that's been used forever.
+It just doesn't necessarily seem like the most accurate
+thing to use anymore.
+Yeah, it's like many things in health care.
+It just told people doing their best,
+the very limited information, if they're limited
+effort. The ARC breast cancer screening trials were like all in the 90s.
+And that was what technology that looks like it was the
+mountainous of those days.
+Nothing like the mountainous of today.
+And now we have this fancy,
+almost sent us a super-sensitive stuff that we didn't have back then.
+How we read, like, everything has changed.
+What do we do? And, like, it's really hard.
+It's not like there's an ongoing new trial all the time
+to make me have a heat off of.
+And I don't think that the current system of, like,
+people get in a room, look at a bunch of papers,
+and say, here's the best thing today, and every
+people set a different address, a different small thing,
+no one's doing the actual full thing.
+Like, we should never get to get something
+in a person like that.
+At best, it's like a different one's has to follow that line.
+I think our only way out,
+it'd be to make it a technology.
+It's like always evolving and it's like a platform thing.
+Hi, I'm Bismat.
+And you're listening to the other seaboard,
+a podcast about all things cancer from a stage
+for breast cancer warrior.
+We cover health, and wellness, mind, body, and soul.
+Plan to leave each episode with hopefully
+some new insights and inspiration.
+Let's get into this week's episode.
+Hi, everyone.
+I want to give some background before we get into today's episode
+on how artificial intelligence is
+revolutionizing breast cancer screenings.
+There's a great article recently written on this
+and wired magazine on how this all started at
+Massachusetts General Hospital also known as MGH
+during the pandemic.
+So, at the height of the pandemic,
+fewer women were coming in for their annual mammograms.
+This created an urgent need for better screening methods.
+And that's when Adam Yala, who is our guest today,
+and his team put their AI algorithm to the test.
+The algorithm day developed was able to flag women who were three times
+more likely to develop breast cancer within five years,
+compared to current available methods of prediction.
+What I think is particularly impressive is that when they
+compared this AI to historical patient data,
+42% of women who went on to develop breast cancer within five years
+were flagged as high risk by the algorithm,
+while the best existing model only flag 23%.
+So, this represents a huge step forward
+in how we can assess and manage breast cancer risk,
+potentially leading to earlier interventions and overall better outcomes.
+So, in this episode, I'll be talking with Adam about how this AI
+driven technology is reshaping breast cancer screenings,
+the challenges they're facing, and what the future holds for this groundbreaking work.
+Welcome back, everyone.
+Today, we have a truly fascinating episode for you,
+joining us for the conversation is Adam Yala.
+Adam is an assistant professor at UC Berkeley
+and a leading researcher in the field of artificial intelligence,
+particularly focused on breast cancer screenings.
+Adam's work is pushing the boundaries of how we are using AI
+to detect and treat cancer earlier and more effectively.
+You might have seen Adam's work featured recently in Wired Magazine,
+where they highlighted how AI is changing the landscape of breast cancer
+screenings.
+We're so excited to dig deeper into this topic with him today.
+Adam, welcome to the plot.
+Thank you so much for being here.
+Yeah, thanks for having me.
+Absolutely.
+So, AI artificial intelligence, it's a term that's
+being thrown around a lot these days and definitely more and more
+in the health care space.
+But what I'm coming to learn is that when it comes to detecting and treating cancer,
+it's not just a buzzword that's being used.
+It's a real potential game changer.
+So, Adam, to kick things off, could you tell us a little bit about your journey
+on how you got here and what led you to focus on AI and health care
+and specifically in breast cancer screenings?
+Yeah, so I did my undergraduate education computer science at MIT.
+And after you're studying abroad, I was feeling really existential about like,
+you know, what am I supposed to be doing with my life?
+I felt like the engineer track I was on.
+I didn't feel like it was pushing me enough.
+I didn't feel like right for the level of sacrifices for my family.
+I regret here.
+So, I reached out to a lot of faculty looking for research opportunities.
+And the things I was most intellectually interested about,
+to opportunities in AI and at the time we're looking at language stuff,
+things more like what has later become like a GPT code assistance type of stuff.
+And one of the fact that I got back to me was again a varsity
+who eventually became both my master's and my PhD advisor.
+But I was originally working a language project,
+but she actually was diagnosed with a cancer about a year or so before I joined the group.
+And when she started tackling cancer as a scientist again,
+and after some of her oncologists reached out for help,
+there was an opportunity and I volunteered to help me some of the work there
+and kind of this led to me leading a lot of cancer work at her lab at MIT.
+In sorens to look at healthcare as an algorithm problem,
+which is really easy when you're completing an outsider.
+Like I didn't go through some pre-med track.
+It was never truly the plan.
+It was all done to computer science track.
+And like, it's all looking at healthcare as a computer science problem.
+It's kind of shocking how ancient many things are.
+You know, like some of the very first work I did when I was still
+more of a language-focused person was just looking at information extraction.
+So there is, let's say you just want to ask at a very famous hospital like MGH.
+How many people had this at the top of cancer in the last five years
+who got what's treatment and what happened to them.
+This isn't like a breakthrough question.
+Right? You want to say like, what happened here in the last five years?
+No, I can tell you about it.
+It's all free.
+You know, it would take a huge amount of effort and labor to read all of that.
+It's just not in any way you can even structure that.
+And so when, uh, incidentally, we'll probably tell you right now,
+but the first part that I did also then is AI tools to help structure that information.
+So even the very simple questions are been hard to answer.
+If you look at the way we think about, like, hotwood would define the way we get cancer
+diagnosed today.
+That is an algorithm.
+Like, we have an algorithm that says you're 40.
+That's a classifier and it's predicts your should benefit from screening now.
+Well, that algorithm like any other is not perfect.
+Like, for some people, it does too much.
+It's going to be a lot of fun.
+For many people, it's not merely enough.
+And like, there's versions of this, like, everything we experience today
+as outcomes to health care process is an algorithm.
+And we don't treat it like such enough.
+And there's a lot of opportunities to improve upon it.
+So there's kind of literally a huge deep type of work.
+Originally, it's called collaborations at MGA,
+and, like, as I got into this space, I mean, it's just,
+I truly believe that we can make a big difference.
+And then I feel a big sense of responsibility.
+And there's just a lot of work to do.
+So it's an exciting time as always.
+Yeah, that's amazing.
+Um, so do you think that, so the intersection of AI and health care
+I'm sure it comes with it's like, unique set of challenges.
+Like, what are some of those challenges that you've seen?
+Is it, you know, does it come from like a data privacy issue?
+Or does it come more from the technology aspect?
+Uh, I think there's, challenge is the entire pipeline.
+Uh, so to walk through some of that in state is like,
+there is a huge amount of data in cancer.
+Like, massive.
+This is not a, like, breast cancer is not a rare disease.
+Like, it's not like a super rare event in the country.
+You know, to like chase if I find the one case in the 50,000 people,
+it's super common.
+But despite that, the public data sets you find the work on this is like next to nothing.
+So if you just interested in the problem,
+what to do something about it and make it better,
+there's, there's no really useful public resource to do that kind of thing.
+Uh, and there's very, if you work within a hospital system,
+I'm about to build their clean UCSF and I'm very lucky to have
+strong collaborations with the UC system.
+You have some access, but that's a huge bear of entry.
+And even that, like UCSF has a tiny fraction of the data available
+of A, the Bay Area or B, the country.
+But it's not a local problem.
+It's a global problem.
+And so there's a massive disparity in terms of what's possible in terms of the data that's there.
+And the ratio you could build, you can imagine like,
+GPT4 levels, specification, investments, and billets,
+contact knowledge, it's just not there.
+Uh, so once you have the data, which is hard for most people,
+and very few people have and takes a lot of time to get to,
+the algorithms are for persons, cancer, screening journey, every image is human
+guess. You have many of them over time.
+There are solutions like 4,000 by 4,000 by 4.
+And then you have 10 years of screening, then you can see,
+add biopsies, whatever, it gets super, super rich.
+And on an AI slide, we're not getting modeling stuff that's like 10,000 times bigger
+than the inputs and the biggest hello.
+We're just not.
+And so that requires like whole new tools of like, how do you make algorithms?
+A work at that giant scale, new kinds of neural networks,
+whose clouds of learning algorithms, so that you can actually use everything.
+To better understand what's going to happen to people.
+Now, once you've resolved that problem, which is an ongoing area of expression in my lab,
+there's still hard stuff to do. Like, even thinking about what to do about it.
+Like, if you know some of the high risk, there's clear things that like, well,
+maybe she get in a MRI, maybe she's super friendly to measure.
+Like, there's clear ideas, but proving stuff, like showing here's the home benefit
+for intervention and health care, which is the hard thing.
+Raising money for clinical trials is hard, running these things is hard,
+and by the time it's trial is done, you have a new AI model.
+So even the way we do evidence generation is a little bit too slow.
+It's not designed for evolving products of today's design for like frozen drugs.
+And the last bit, even when you have all of that, regulatory and financial models make sustainable,
+also hard, everything is hard.
+Uh, yeah. So, hey, so for those people who are not familiar, like,
+can you explain how the current process is?
+I think I believe there's like four images used for our four views for a mammogram.
+Yeah. Like, how is AI taking that data and using it for AI purposes?
+Yeah. So first of all, actually, let me start off with the problem,
+and then why the images are actually useful for the problem.
+The first place is how we use AI to then solve that problem with those images and how that works.
+Perfect.
+Problem we're trying to solve is we want to reduce the absolute rates of advanced cancer,
+happening in a population. Right. So if we want to do that,
+we need to figure out before the image is taken, who should you get an image in one?
+Right. Because if you're early, show for the image at this point,
+you know, time has happened, either you have it or you don't.
+So we need to pre-empt that event. So do that pre-emptient need for a site.
+Do you need to understand who is likely to get disease in one?
+So you can do something about it, the pre-empt that's better than from happening.
+So that problem is called putting cancer risk. And if you're familiar with the area,
+you might think like, okay, we know age matters, we know family history matters,
+you know, these kind of rough things. When you really look into the details,
+there's enough fantastic predictors. They're like, better than random.
+But not like a huge margin. But that's all the clinical elements we have today.
+We know imaging matters. Like people want to be familiar with breast density.
+There is national reporting elements where breast density makes cancer horror
+of a catch. They increase someone's risk. Yeah. Even breast density,
+folded into the best clinical colliders you have today,
+aren't that accurate? They just don't give you that much sophistication.
+And so even with all of that, it's really hard to say who should get screens sooner or later
+with what modality to do something about it. So that's what AI comes in.
+Instead of saying, we know the things called breast density that someone eyeballed back in the
+sixties, we're going to try to learn what's actually predictive of that future event.
+So to do that, okay, we're going to look at data in the past that we didn't diagnose all the time.
+What was it imaging? Because it's there. What happened four or five years later,
+or whatever it did happen? What was the kind of stage of that? And so let's predict
+what's the pattern? If humans are perfect, we had a recovered breast density as the measure.
+Humans are not. We also have room to improve. We can only handle so much.
+And so what we've shown is that by learning that pattern automatically as an AI,
+I probably can do much, much better than the clinical colliders that are using practice today.
+And there's room to do better than what we've done so far. So right now,
+like the basic setup is like you have the standard pixels per person and a mammogram.
+You have an outcome. Because it's all that in hindsight. Learn that pattern. But that box
+to linkage can be better because we expect that of our AI systems every year. But even that,
+you actually have them. We got them over time. You have mammograms and so on. You have a
+more over time. And we live in tapping all that's possible.
+Yeah. So what about, so I guess this, this is looking at people who have gotten mammograms,
+which traditionally is like age starting at 40 and then once a year. What about, um,
+like do you have any data on younger patients that are getting it?
+This is something I'm so deeply interested in. The data's hard to come by and there's
+something we're working on. So there's a student visiting my lab now, collaboration with faculty
+in Denmark, in Mads, Neil Sen, who's, uh, so it's still just coming in Denmark. They have a really
+nice national health system that has data across everything, everything. So to step back, I think
+the way we predict is not off imaging. How's the image is not there yet? You want to predict
+using everything you do have. And what do you have? Well, you have health events over the
+lifetime through the medical record. In the context of the mark in national health systems,
+don't just have family history. You don't have the health events of your family,
+in a very detailed way. You have the health events of your neighborhood. So you can kind of get
+a sense of like environmental exposures with happening to community. And therefore we're trying
+to do is how do you take all of that to understand who is the kind of cancer risk for them
+for a mammograms to be worthwhile. And it's not just a breast cancer problem. I mean, like in
+pancreatic cancer, you don't have any screening because it's all too rare. So we just don't know
+how to allocate. It's not that early detection can't help, which our trains are on good enough
+even make it possible. So both early age breast cancer, pancreatic cancer, non-smoking lung cancer,
+all of the same type of problem. We don't know enough to not give it to just everyone. And then
+just cause a lot of and needed and needed biopsies and stuff. So it's like, like, how do we know
+who's actually going to benefit enough to say actually this is a good idea for you? That's
+predict a problem. And I think we should do a kitchensing approach. That's why everything we have
+to resolve that, to make it a restriction possible for this population. Do you ask it not
+really well set up for it? Because we're like so fragmented, getting data any one hospital's hard,
+people don't stay in one place very long. So it's hard to get this like longitudinal section.
+So we're starting with data sets in Denmark. Because if it works there,
+at least even though it's possible. And if it's possible, we can try to make it work here.
+Right. And we'll see how things go. But like, it's something that I really want to do. It's just
+it's harder. But something we have to do. Okay. What about Denmark specifically?
+Made you, you know, want to start it there? They simply have organized national health data.
+So if even though I know what happened to me across my lifetime in the US, I have no idea
+every health record that's happened. I have no idea. Let alone, like, we very fragmented.
+There's some places in the US that could do some of this. Like a Kaiser has a lot of longitudinal
+data that in many places where people are just moving, switching health systems.
+There are a lot of records that'll talk to each other. Getting your health record over decades is
+really hard. And getting health records of your family and looking at all of all the
+one coherent place that this kind of workers are also really hard. And some places,
+basically, like, if it, if it doesn't work, it didn't work. And a bit of capacity, there's
+really low. Then we know that approach isn't getting enough. Maybe invested in like other
+type of modalities, like more blood stuff or whatever. But if it works there, then we know, like
+a regular care is enough. So it's conceptually easy to test there because they're the data
+that's just clean. Whereas our data is like chaos. Yeah. And it seems like a lot of our data is
+really based on like the amount of information that the patient themselves has about their
+family. So it's like, if I don't know much about my family history or my ancestors, like,
+I won't be able to tell a doctor and then that may not not flag me for like an early screening.
+So it's really, it feels like it's dependent on me as a patient.
+Yeah. And there's a lot of like confounders in the American health system, because how much
+data you generate depends on like what's your insurance policy? Do you have insurance? Like what's
+your access to care? And that that could make it if we tried of the quality today, just here first,
+you could think it doesn't work even though a can work. It just it's just the current health
+graph that you're dealing with is a little too complicated. So it's easier to kind of like prove
+the concept somewhere kind of simple where things are kind of organized. And then go from
+there to a larger setting. But maybe we'll evolve that approach. It is basically that's the collaboration
+partnership that we have today. And so we're going to try it when we do our best. And if that doesn't
+work, then we'll find another way. Okay. Got it. So currently the way like I think there's always
+like a lot of conversations about like when you think of AI, you think of like job displacement.
+So like do you view this algorithm that you're developing as something that could eventually
+replace a radiologist or oncologist or do you view it working like simultaneously with them? Like
+how do you view that interaction? Yeah, it's best. It should change the nature of their job. So
+there's a lot of impossible questions. We ask oncologists and radiologists today. Like you tell them
+okay, like what should this person get next? They haven't. I mean like they look at the guideline
+and the guidelines a bunch of people getting together looking at the best available evidence and
+saying, well, we think it's this. But maybe there's no trial specifically for this particular
+question. It's really hard. There's no information there. So what AI can do, you can create the
+information so that we can have four sites and like informed decision, what's actually best
+is an MRI or is it not? People just can't do that now. In really tricky treatment situations,
+like we wish we knew who was going to respond to therapy. We look at a trial. You're not the trial.
+But that's just an average of possible population, you know? I take our best thing. If we can give
+you rigorous evidence that says for this person, this is actually better, they can use that
+information and make a way better informed decision. This costs that with their patients.
+Like so I think it's the complimentary thing. Now some things will change. Like if some
+detection thing's good enough, it'll be the partial automation. So the nature of the job will change.
+But that's any job for ever. They should all change. They're not always in place. But I don't
+think I wouldn't make that kind of play. I'm like, you know, it's top training
+profession. Yeah, or something. That would be why. Yeah, it's not a replacement. It's more like
+changing the way that they do their work. Yeah. And so do that. You have to be so useful.
+Like, I mean, we want to help patients. Or like, if everything is good, it's generally helpful.
+Yeah. Then the lot is it. Okay. So in the US, like there's obviously like hip-hop, right? So like
+a lot of this patient data, you know, as you're saying isn't something that's like readily available.
+You can't just go to a database and access this data. So how do you view that changing or how do you
+view, you know, patients being able to opt in to things like this and being able to say, like,
+hey, take my data. And you have access to it to use for your machine learning. Yeah. It is,
+it is a large challenge. And there's some really cool initiatives happening to try to overcome that.
+So there's like this initiative by the NIH called all of us. They're trying to help people
+opt into data collection in a prospective way to collect a new broad information in order to
+build nice national database into the future. The China grid. I think it was like a milling patients
+told or something. We just still had drop in the bucket and schema things, but it's way better than what we have.
+While I really admire those resources, I know they're not solving any of my problems today, right?
+Because in reality, like the, I need numbers. And like any given year in any one place, the numbers are
+quite small. It's a data over time. It gets you to those numbers. And so my approach has been really
+tackling, like, well, how do I build partnerships in these places? How do you get all the
+right ethical approvals to make it happen if this is in what's there? Now, they can always be a better
+system as relatively new faculty, you know, like I'm starting year three. I'm a feel very empowered to
+change the whole system. You know, that's a, that's a, that's a, have enough bold care to think
+about the, the political change of how we think about health data governance is like a little bit
+above my favorite. But we can definitely do better there within that system, it takes a lot of coalition
+building. Because like, people are aligned. And really, but it's always hard, like,
+moving inside any one organization to make a data sharing agreement, takes non-trivial effort,
+to take a lot of, like, stakeholder elements. And convincing people to work their effort, and that
+we can really build something useful if we come together for it. It's just the regular work of
+making science possible. I wish it was easier, it was just a clustering. But I thought the kind of
+power, so in a way to do so. Yeah. So is there anything like, so like me as an a patient or like
+someone listening in as a patient, like is there anything that we can currently do to say, like,
+we want to opt in to make our data available, or is that not something that currently exists?
+I know there are initiatives like all of us that are trying to prospective recruit patients,
+but really, it takes to broader a thing, participating in types of trials that are locally available,
+to say, trying the Seattle's to can improve something about your screening, or kind of
+consenting to try out these studies to help generate the evidence as one of the key mechanisms,
+because in the whole pipeline, everything is hard, right? Like from getting the data,
+the building, it's even proving that it works. And so any part of that, that's like a locally
+convenience, either participating in a study or simply indicating to others just a community
+behind that we want something to be there or used is helpful, because it helps shift the entire
+window possibilities. I don't have it clearly ready made. This link, this website is going to
+change the world tomorrow. It's a little more diffuse than that, but generally participating in
+studies is always super, super valuable. Okay, okay, that makes sense. Okay, let's maybe go back a
+little bit. I want to talk about currently like a radiologist or oncologist, we'll, you know,
+look at a mammogram and say like you either have cancer or you don't have cancer, do they tell you
+like you're at a higher risk for cancer or do they not, is that not something that currently
+is told to patients? Yeah, it depends in place to place. Many places will run a
+traditional risk calculator that will like look at, they will take your questionnaire that has like
+a tram, a history, maybe age, a seminar or whatever. They'll take your best densities. The
+radiologist will look at that and assess it. They will put it into a calculator. It's going to give
+them some number of like five-year risk or lifetime risk. Is that the oncologist? Not oncologist
+horror. There's like the TARQ sick. There's the gay model. There's a BCC. There's like many of them.
+They're all kind of the same. They're not exactly the same. They're kind of the same.
+All of them will predict either five-year lifetime risk. Then there's guidelines at the
+national level. Many of them conflicting the dormitory with each other. So it's all chaos. They're
+going to pick whatever one and say like, off of these guidelines, maybe a 20% left-time risk.
+Your eligible for MRI and insurance buy it into that. The issue with that is that there was no study
+whatsoever. Like the 20% number was kind of like drawn out of hat. The actual guidelines are
+2225. Like what does that even mean? Nobody knows. There's no evidence to say like
+there's a trial. If this guideline has this benefit for these people. Even that kind of evidence
+is really powerful. It's not even a follow-up you want to say for you. When it's going to
+do for me, that doesn't exist. Even the course medicine version of averages doesn't exist.
+Right. And so there's not everybody buys in to it. So the adoption of it is mixed. So some places
+have some risk or accuracy is very middling. The guidelines around it don't have great evidence
+around them yet. But it's kind of working with imperfect legal pieces trying to do our best.
+And different places view the evidence a bit differently. The try to figure out what to do.
+Yeah. Okay. That makes sense. And so your technology, like can you give us an example of like
+a case? So like what is something that it's able to do that like the current method of doing it is not
+doing? Yeah. So the thing we're trying to do is the same as that's that's this
+clover's calculator. We're going to do it better. So it's trying to tell you like who's
+likely to get cancer within this amount of time. That is a measurable thing, right? Because you
+can look at what happened in the time. Who was right? And we've done this now in the original
+papers. There's like seven hospital or the hospital five countries. Sense of them has been a lot
+more test thanks. Now it's 43 hospitals across 14 countries. But in the enough is that we've done
+the accuracy of these models is way better than was possible before. Now we're in the phase of running
+both these identical trials to establish like how much better does that make care if you take this
+other kind of research hold. So then say who gets them or what does that change outcomes? That
+takes a while though. We're still fundraising to run the big enough trial policy go to the things.
+So expecting a couple of years to say here's how much better this new AI power guideline is
+then the traditional guideline. It's a little tricky because the traditional guideline never had
+a trial line in the first place. So you need to basically put it baseline and then you think
+it the same time, whatever. But in the future we're trying to get to. It's going away even beyond
+risk assessment. It's just for the intervention. What's the benefit to you? What's the risk?
+Right. That way if you had a kind of foresight and you know the error bars are low. Okay cool.
+Well, I can make an informed decision like how do you weigh this stuff?
+Yeah. Do you see this expanding into people that are already diagnosed with breast cancer?
+Like do you think that, you know, like yes you've already been diagnosed. But like how will you
+perform with the treatment? So you think like this type of work can expand into saying like
+you are more likely to benefit from this treatment versus someone else? Yes.
+Yeah. It's totally the same type of problem. So it's actually another ongoing thing
+we're working on. Other great colleague who's visiting from Sweden, Fredericks Rand who
+starting a project on this and collaboration with other folks in the APC students on this,
+we're looking at MRIs and trying to predict response in the management to pre-surgery therapy
+to say what's the best option? In the context of other cancers, GI cancers, we have a big
+partial proposal coming together. They're trying to look at across a wide range of GI cancer
+because of liver cancer, pancreatic cancer, which treatments is likely to respond. How can we
+give them all this information? It's the same type of problem. It's like that is to rich people
+can't struggle with trilling things in their head. So how can AI help? It's kind of foundres. But I
+think we'll get there. Yeah, that's awesome. So just to give you a little bit of background. So when I
+got diagnosed, I was diagnosed with stage four metacetic cancer. I was 35 years old and
+basically, I was pregnant and there was a small lump less than two centimeters in one of my
+breasts and when I went to the ER saying, you know, I've immense back pain. They were like,
+you know, you're pregnant. We can't do a scan. So they kind of just dismiss me. And it wasn't
+until I pushed for a scan that they did a CT on my spine and said, you have metaceticies all over
+your spine. Then, you know, did full body scans and found this lump. And it kind of just seemed
+strange in the sense like everyone was like, oh, that's really like alarming. We don't see,
+you know, stage four presented self-initially, um, for Dinovo. And it was just kind of,
+and then I think when I got diagnosed, they said, you know, you have five year, um, the median survival
+rate is five years. And so I said, you know, I'd love to see like the data set, like what age are
+these patients, what treatments were they on? And every question I was asking related to that,
+I just wasn't getting any answers to. They just said, you know, that's the data that we have.
+It's actually from like a 2016 study. And, you know, the treatments available now are very different
+than they were in 2016 for hormone positive breast cancer. And so it was really confusing because,
+you know, that's the data that you're, that's the number you're given. But there wasn't any,
+you know, underlying information on like where do I stand in this data set? And I think also that's,
+you know, one thing that's been troublesome is like, I've been on a few lines of treatment. And
+whenever I ask like, how do we think I'll do? It's like, well, we don't really know, like,
+some people perform really well on this and some people don't. And I always ask, you know, like,
+what, what indicators are there that someone's going to do well versus not do well? And there's
+never an answer. And so I think that's something to what you're talking about. It's like, if we can get
+more into that data and say, like, these are the types of people who are doing well on this,
+these are the ones that aren't, these are their factors. Like, as a patient, that would be something
+that would just be a lot more helpful to know. And just kind of know like where you stand. And then,
+if that's the right treatment for you or if there's a better option for you to get.
+Yeah, I think, I mean, it is really the universal problem. Like, we ask oncologists of patients
+to make impossible decisions. It's like, there's no data specifically about someone just like you.
+There just isn't. So we don't know, we just don't know. There's a lot we don't know. There's a lot
+of uniform guessing and like anecdotal. Well, a saw patient like this, so maybe I haven't
+intuition, maybe this will be good in the setting, but like you don't know. You couldn't publish that type of
+anecdote. Right. And the only way we can do better is by trying to build the eye stuff to fix it.
+Right. Because like, I don't think someone that anyone's ever going to be to eyeball,
+there's new drugs all the time. And no one's quite the same. They have like, with things we continue
+learning is that it's always more complex than we thought. We think it's too much size like, oh,
+this whole like micro environment, it's always happening around the tumor. There's two more
+freedom of life. There's always needs of being discovered. And the mechanism to kind of automatically
+scrape all that's there to give the best information so that it's not like that we haven't tried.
+It's like it's like it's like capturing the data that's there at all. And this is the inheritance
+urgency where we are. In general, progress in the treatment space has been slower and harder than
+general screening space because the data is even smaller. So whereas in screening, you're kind of
+you're denominators, everyone, and then every cancer counts kind of as a prediction problem,
+in treatment, your denominator shrinks. It's people who are getting treated with this.
+And so data sharing across many places is even more important. Because like, you really don't
+have enough at any one health center. You need many people to come together. And it really
+exacerbates the complications of doing this kind of this kind of research. But it's like,
+hard does not make it any, this means don't do it. It just kind of take longer. But it's a little
+cyclist here. Yeah, absolutely. So what about, so we talked about data privacy a little bit,
+what about things like looking at diverse population sets. So like underserved populations or
+different ethnic groups. Like is there, you know, eventually is there a plan to, you know,
+have data sets that are inclusive and more descriptive of like the overall population?
+Yeah. So I think it's really important to kind of like separate out how we build
+a model and how we evaluate them. Because how we evaluate them is by far the most important thing.
+Because in the end, if you have a thing that works great across all these different
+diverse populations all across the world, if how are we built it? I don't really care any more.
+I care that it works. And I care about like, let's, how can you actually make it useful to people?
+Because the way we build things is always evolving. The way we evaluate things is kind of like,
+it's just, you can, you can, you can say that today and it's going to apply for 20 years into the future.
+So I think it's really important we have the right kind of testing settings. As a country,
+we don't really do good job of making them easy. So as part of like my early breast cancer work,
+I spent a lot of time when I was very lucky to find a lot of clients that are willing to
+like partner with us to do this kind of excellent validation work. But it's not easy.
+It took a huge amount of time, a lot of called the email to find people willing to share with us.
+Just run the model and see how all that works. Now that we've done this, we have a bunch of
+rigorous thing relationships and we can continue to build those partnerships to do more
+validations. But it's not any easier for the next person to do it. It's not like the best thing for
+the community, it's just something that we found to work for us. And so if we had something like a
+national testing network, there's maybe a touch of regulatory approvals, it would be super valuable for
+the country to have. And I think the evaluation problem is way easier to solve for sharing than the training
+problem. So you're getting to training people so I can tell you about like, well, who owns it?
+It's an IP and blah, blah, blah. And you get all this kind of stuff. We don't need to solve that
+to get the rigor that we actually need. So for every paper that we've done in this space,
+they've both embraced and aligned in all the future plans. We always have a bunch of hospitals
+involved, both in the US and you just have our DOS to make sure that things actually work.
+Because if anyone has, but it could be a fluke, you could be some weird bias in the data.
+Maybe you collected it wrong. You don't know. It's only when you get out of the database.
+Do you actually know for real? This is not actually work. And I personally don't believe
+almost anything I read without seeing extra knowledge. Yeah. Absolutely. So
+this particular algorithm that you're working on is for breast cancer. What you're saying
+it is transferable to other types of cancers, which other cancers have you guys looked into?
+Yeah. So it's really like a family about it. There's like a lot of stuff going on in parallel.
+Then there's work entertainment planning also in breast. Then we're also working in
+lung cancer, similar questions. We have the colleague Jay Hossong looking at both
+coming to improve the diagnosis system, above the current's results criteria.
+It'll be personalized screening. It's another type of question. And Panky at a cancer
+we're working both on who's going to get it from the EHR side, that the Denmark project.
+Once you have screening, that's where they really cool consortium called precede.
+And then once you have the diagnosis, how do you actually figure out which frontline therapy
+for late stages of these, do you start as a fraternal oxygen side of being people don't know?
+And so like the cost of whole gamut, we have that work and prostate cancer,
+right now it's more focused on screening. And then we're also working in MDS, which is a blood cancer.
+So that's the current gamut and I might even be forgetting one. There's a lot of work to do.
+But the technology is very related. So they kind of follow with the innovation in
+to say, I can now handle 10 scans at a time. It's not like the amount we're going to specifically.
+It's a general like how do you make them network way bigger? So that same thing helps
+the treatment problem and the hanker is which also helps the prostate problem. So do you like
+that's great? Technology platform is pretty coherent with one team. But to note the things
+works, it can be efficient to like, do put between breast and lung and prostate because maybe it's
+easy to make it work here first and that's easy to do something about the other one you kind of bounce
+around. Yeah, that's great. I mean, that's probably like a really hard question to answer,
+but what is timeline look like for this? Like how, you know, when do you think like this could
+become something that is widely used? You know, you're pretty to the corrective. That's a hard
+question because I've done a little couple of things. No matter what the timeline is,
+I will feel unhappy that it was too slow. That is a statement of personality and I'm a statement
+of any particular timeline. And whatever I think it is, I'm probably underestimating it. So to
+give you the lower bound of timelines, like the issue we're facing is that changing health care is
+not an established process. It's not like there's like a guideline of like you have a new model,
+here's supposed to get plugged in, do these steps, things happen. It's not about. So we built
+a model and we show that it works across this international validation studies back and the international
+validation papers may be 2021 October. It took a couple of years to raise money in order to start
+the first kind of cultural. It's kind of a kind of cultural. It's not going to be that resolved
+for least another two years. Now we're looking like, that's how much crazy to me. And then after that,
+you just need to go through like regulatory stuff. Right? Like crazy. I mean, yeah, the whole FDA,
+the FDA process is like another several years to say, several years and I think, but I think
+long term, I want to get to a point in which from technology being ready to it's helping people
+is something like two and a half years. We're not there yet, partially because we have a lot to learn
+to make that possible. Because right now, like, this is a first full end to end rodeo. Right?
+So like, not like we knew the path. We didn't have all the relationships very new to the trial
+world. We're probably getting much better at running than we are now. There's a lot of us to learn
+to do this process better. But steady state, if we're always running trial, so we have a way to
+kind of the trials ready with an old model for the new model comes in. Then we can take away a
+lot of that gap of how to even start the thing. That should bring it down from like that two
+year gap down to zero. We're working in new things to make the trials and adaptives. The expected
+new models come in. If we do that, the trials should get faster and faster. Once we start
+getting things regulatory approved, I hope to also make that faster because it's a hard as part of
+the first one. So I put things like, for the first model, that's actually helpful to
+sitting at health more patients. I'm scared to even say what that number is. It depends
+how quickly I, how quickly we learn. But I'm hopeful that as we learn, we're going to bring this
+down to move faster and faster because like, you know, the standard 1015 year thing per thing is
+like, I don't like you're used to be like, you know, we've helped and two things. You know,
+like, I did idea that is like, I can't handle it. That's to do better. Okay, got it. That makes a lot
+of sense. Are there any countries that you know of that are already, you know, way ahead of the
+US and how they're, you know, predicting and managing cancer? Not really. I mean, the options
+difference. So in Europe, like, the reading systems are very different. They actually have two
+radiologists read every manner. And because they have two Rachel's read every mammogram,
+they read it quite differently, like the recal rate quite a bit lower. They're screen every two years
+on generally not every, not every one. So the whole system is quite different. And there, there's a lot
+of interest and like really rigorous trials showing that you could swap one of the readers
+with an AM model and still get the same thing or do better. But there you're going from two people
+to one plus AI and we're here, which have one person. So I think like some of the advances
+they're making in their system are not really translatable to us because our system is so different.
+And we don't design it the same way. We don't have the same kind of structures. I don't know
+of any places doing truly a better job at saying, like, our absolutely rated advanced
+cancer can be so much larger because you're in all these fancy stuff. I don't know the place
+that does that. And I, it might be that as the technology gets mature, we prove it, some places
+in my dump that's faster because they're simply more like homogenized and stuff. So who knows
+who's going to like help their country first? But as of now, I don't think there's a clear,
+a clear leader of the allegor. Okay, because you hear a lot about like, you know, other countries
+are making huge investments. And I always wonder, like, is that really the case or is that really just
+you know, kind of just like, you know, people just like talking about, you know, one country
+doing better than the other, but I was just curious about that. Yeah, I can't say, like, I mean,
+there's like, I can say specific studies that are really cool that have happened in Europe. But like,
+like, there's a couple of recent really pivotal studies in breast cancer screening about like
+there's a dense trial that happens to show that like, you could use interval cancer by lots,
+by offering women a very dense breast MRI. There's a child from a colleague Frederick who did
+this similarity in Sweden, but with the AM models, that's showing that's way better than the
+density model. But interval cancers don't mean the same thing in Europe here because there you have
+every two years. And you're recalling very few people, first screening was there. You have every year.
+And you're calling way more people. So our false positives were higher. So like, we'll let translate
+here, not super clear. And it's not like, we know that now like, you know, we don't have the evidence
+that this is like to transform the landscape of the stages of cancer that you see in practice.
+So do you think so in the US right now, like the current starting age for mammograms for most
+people is 40? Do you think like, with like this hopefully refined data that we can get to a more
+specific age that makes sense? It seems like the age of 40 has been around for the longest time.
+Yeah, I'm hoping that like what we think amounts public hall is no longer becomes an age.
+Like, you sign in to your like health provider thing. And it says, up everything we know for you,
+mammogram next year would have these benefits and things. And it's like, it's recommended for you
+because it's not because of your age or because of everything we know about you. And for some people,
+that might, that might even happen to the 55 because they're solo-risk. If for some people,
+it happened at 25. And it depends on where exactly they are. And like, instead of because age
+has always been just a proxy for risk. It's just not a really good risk model.
+Yeah, yeah, absolutely not. With like the rates of like cancer rising in younger patients now,
+it just seems like more and more that like that age number that's been used for, you know, decades
+and forever. It just doesn't necessarily seem like the most accurate thing to use anymore.
+Yeah, yeah. I mean, it's like many things in health care. It just told people doing their best
+the very limited information, if they're limited evidence. You know, like the arc,
+breast cancer screening trials were like all in the 90s. And that was the technology that
+looks like it was the mariners of those days. Like nothing like the Americans are today. And then we
+have this fancy, almost sent the sales, see percent of stuff that we didn't have back then.
+Drugs in today are nothing like the drugs of them. Right. How we read like everything has
+changed. Cancer incidences changing and people like, what do we do? And like it's really hard.
+It's not like there's an ongoing new trial all the time to make any evidence off of.
+And I don't think that the current system of like people get in a room, look at it
+bunch of papers and say, here's the best thing today. And every paper looks at a different
+data. It's a different small thing. No one doing the actual full thing. Like we should never
+get to get something new in person. Not from that. At best. It's like a different one. It's
+all guideline. I think our only way out is it's not a thing someone looks at a paper and says,
+like the numbers. 30, you know, like that's never that's not going to solve it either.
+It'd be to make it a technology. It's like always evolving and it's like a platform thing.
+Yeah. And that always has like data being fed in and being refined and looked at again and again.
+It's actually better every year. It's all running its own trials. It's sustainable in a way.
+So it funds itself in some kind of way that makes sense. And we can expect it to the same
+way we expect our add recommendations to get better next year and be marginally less annoying
+and maybe more targeted. We expect this thing to be margin better next year. And like we should
+don't have that now. I think building that showing that's even feasible would be a landmark thing
+in the first place. But making that sustainable. There's part of what we expect care to be. It's
+like a dream. I think it's, well, you should probably more. Yeah. That's awesome. So you're tied
+in with UCSF, Berkeley, are there any other institutions that you're directly working with or is it
+through like collaborations, affiliations? So I'm my position, a part of the new department,
+that should jointly be between Berkeley and UCSF called competition. It's kind of designed
+the faucet that's kind of work. And that's why it's both Berkeley with all the fantastic
+computational folks and community and UCSF and I have all my really great technical
+collaborators. So that's where I work. That's my job and that's where my offices etc.
+And I can be between book campuses. So I prefer trees and so I'm usually in Berkeley because
+it's a great work. Yeah. Yeah. I don't, I'm not a kind of the bridge. The bridge is not my
+favorite place. And I've spent a lot of time on the bridge. I do have a lot of really great collaborations
+with other folks across the country internationally because these problems are too hard for
+anyone place to do alone and anything we built just that UCSF. How do we know what it
+works? Well they're only, I only believe it works if it also works in many other institutions.
+So we've been really lucky to have great collaborators at Emory in Atlanta and UCSD.
+UC Davis, if you need to ask your agreement, which I'm super excited about to move forward with
+the work in MRI, where we great collaborators and time on Chankham or Hospital. There's like so many
+places that have been, I feel very fortunate to have their trust in us to bother doing the
+super hard work. So let us validate with them to move a feel forward. That's great.
+What about like institutions like MD Anderson or Sloan Kettering? Do you know if they're doing
+their own set of this type of work? So I don't know MD Anderson very well just because
+everyone has their own weird silo trajectory through their life. I have one collaborator
+they were constantly working. I can say for my particular type of research like in the way that
+we're approaching it, but maybe everybody feels this way. I feel that we're relatively unique
+and we're tackling it, and we really have a unique role to play in building this kind of
+largely deep learning type of work to bear and cancer. And there's a lot of work across
+the community that's a lot more what we call radio and mix focused, where you're getting
+like segments of lesion and like take out things that we know, which works in really small
+data exercises, and fits many people's core expertise, but isn't really like it's isn't what
+I think is the most ambitious formulation. Like I want the same way that we invest a
+shit ton into our chat bot. I want the same type of like better raw horsepower,
+maximally flexible, best that the best that we can possibly imagine type of approach to become
+feasible and what we do in cancer. And so that's the way that I tackle things. I think in that side,
+I, I don't know everybody. There might be other folks in MD Anderson that are doing work that's
+deep-feline. I just, in the particular areas I'm working right now, I don't know other folks
+in that institution. I'm also not familiar with all that ongoing work at MSK. I'm sure they're
+doing a lot of great stuff. I guess I'm curious. I mean, this seems like a huge undertaking that
+you've taken on as far as like where do you see like the future of like AI in medicine? Do you
+think this is just something that like going forward? It's going to go hand in hand and that
+more and more institutions are going to adopt using AI and doing their own trials and do you
+think it's just something that's over time just going to be a part of like the normal course for
+most institutions? I think so. I mean, if we succeed, what it means for me to succeed is like,
+we've proven that this is truly, this truly works. Then if you do these things and you use these
+algorithms, your health, your advanced look get better. And I have faith that like, if we make
+the pieces work correctly, we don't do something crazy. Like, I don't know if you have examples
+on that crazy, then like people will want to adopt that. Because like I think the bottleneck,
+really is not like, well, it's results. There's many like promising things, but most trials fail,
+you know? So like hesitance makes sense. You don't want to be taking something random.
+Then you want to actually prove that it works, improve anything. It's really hard. Like
+medicines really complex. And convincing people who are very busy to like try something different,
+just tricky. But once you prove it, the conversations totally changed. It's like,
+everybody's looking for the thing that works. So I really feel it's like I say race that like,
+how do we get to the point where we can generate evidence quickly? And I think once we have that,
+and if you prove that enough time, it's because of the power of the regular infrastructure.
+Yeah, that's great. Do you think as far as like obstacles? Like, do you think it's time?
+That's the biggest obstacle. Do you think it's funding? Do you think it's like people buying into
+this? Like, what do you think is like one of the biggest obstacles for this?
+So I can only really speak for that in the context of my group, right? Because like, I think
+the community, the community answers probably more like data as a community. That's kind of the
+problem. For us, that's not quite the same because we've worked so long and pulled it into
+other data collaborations. So really, I feel about it. It's not our just time and money. It's
+all as what it is. It's filled a lot of time writing grants because that supports students and
+build stuff. It supports the GPU needs and all the computer make that work. And are we really
+feel just a matter of, it's a matter of time until we build the stuff. How long it takes truly,
+you never know. You kind of know what the zone you're in. It does feel close. It's a feel far
+away. But like, if it's close, it could be next. Like, it could be next week. It could
+experiment or it could be too long. It's from now. You can't tell because anything could be
+the day. You know, and that's how much students like you're basically going to be today.
+I'm going to be the day. And so it takes a lot of like, time was always uncertain. All that we
+know for sure is that like, it's normally we continue having high quality shots on goal,
+it continues pushing. It's a matter of time. So this matter, like, you know, more money
+else be things up, get more servers, things just run faster. There's also room to improve there.
+It's just been a lot of our time fundraising and trying to make this possible. But it's a matter of
+time. Just matter of keep pushing. Yeah. That's great. Do you guys have, are you guys working on any
+sort of like, like, like, have you guys reached out to like open AI or any of these like big players
+to see like, do they want to get into the healthcare space? This is something like they're looking
+to do. I've heard that they're looking into getting it to stuff. They have a lot of like a lot of
+hospitals are adopting GPT4 that they have their own visions and agendas or how they want to build stuff.
+You know, the China Drive adoption, as far as I understand, the China adoption of their internal
+tools. Maybe they can create some great value there. I don't know them all that well to say,
+like, they would be great research partners. Right. And I think every, there's not a place in which
+at least I've had luck saying, like, okay, this industry collaborator would provide great
+helpful resources because usually there's a lot of drinks attached and makes institutional lines
+very things get complicated. So I, I don't have great faith that that some company with a lot
+of money will swoop in and save us, you know? Yeah. And they may not be the right partner for you.
+Yeah. Yeah. Okay. Awesome. Okay. So Adam, maybe to wrap up, is there any like one key message or
+something to our listeners to take away from today's conversation or just like maybe just someone
+who's like kind of like skeptical on AI and its usage? Like, what would you say to them?
+Yeah. I think what I would say is that what we have in care today is in all of
+with them. It's not going to go with them. We haven't fully evaluated. We don't rigorously check
+its performance. Doesn't work perfectly. And we need to be ambitious that we can make it better.
+AI is what we, is the tools we're using today is our best path to make the actual allocation
+of care better. And I'm sure in five years now we'll get a brain at something different. But there
+is no reason to believe that all the information that we have, we can't do better with that
+information. All AI is is a technology learning how to, how to make decisions from data,
+how to measure predictions, like, find the patterns. And to believe that we can't do
+better as to say we've peaked. And I'm positionally unable to believe that. We can do better.
+The current method is also quote unquote, AI, just maybe wasn't labeled that. But like this has
+been in place for a long time. And we're not looking too away for you know to refine it and make
+it a lot better. Yeah. I mean, I think like this is true in almost every problem connect with
+care. Like, there's no other sector when we think it was like we peaked that like this can
+get better. It's creating today is creating forever. We can't expect it's in sectioned to
+give better. We can't expect the stage like, I don't think it's, I think it's actually the
+the natural thing to expect it to get better. And like the thing will how would that be? Well,
+you're getting foresight. What's the language of getting predictions today? It's AI.
+That's if it feels like a very natural, maybe because I'm so deep in the weeds, it feels like
+it's so deeply ingrained in the natural. But I do think it's true. Awesome. Well, I don't think
+he's so much for being here. It was an absolute pleasure to have you on this show.
+Thank you so much for showing your insights and like all this innovative work that you're doing
+to fight, you know, not just breast cancer, but other types of cancer as well.

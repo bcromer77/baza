@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:11,960
+Hey everyone, a few months ago I came out with a video comparing life expulps with Philips
+
+2
+00:00:11,960 --> 00:00:18,420
+Hue, and since then there has been a bunch of updates in my experience and in new products,
+
+3
+00:00:18,420 --> 00:00:22,840
+so I thought I would come up with a new video, kind of updating you on my thoughts on the
+
+4
+00:00:22,840 --> 00:00:23,840
+bulbs.
+
+5
+00:00:23,840 --> 00:00:29,080
+By last video I showed how life expulps created way better colors, and I thought that the
+
+6
+00:00:29,080 --> 00:00:33,120
+Philips Hue bulbs should be called lack of Hue, because they just don't reach the same colors
+
+7
+00:00:33,120 --> 00:00:34,680
+as life expulps.
+
+8
+00:00:34,680 --> 00:00:40,080
+Since then, there have been new products released, and my experience with life expulps hasn't
+
+9
+00:00:40,080 --> 00:00:46,360
+been as amazing as it was, so I needed me to explain why I'm now kind of leaning toward
+
+10
+00:00:46,360 --> 00:00:47,360
+Philips Hue.
+
+11
+00:00:47,360 --> 00:00:48,560
+Here are five reasons.
+
+12
+00:00:48,560 --> 00:00:51,040
+First reason, connectivity issues.
+
+13
+00:00:51,040 --> 00:00:55,480
+Lately with my life expulps, I have been having the worst connectivity issues.
+
+14
+00:00:55,480 --> 00:00:59,680
+Every other day, a bulb is going offline, and sometimes it's super simple, I turn
+
+15
+00:00:59,680 --> 00:01:03,800
+the bulb on and off, and it connects other times, it doesn't.
+
+16
+00:01:03,800 --> 00:01:06,640
+When it comes down to it, life should be simple, and they should work.
+
+17
+00:01:06,640 --> 00:01:10,400
+Number two, there is still no serious functionality for life expulps.
+
+18
+00:01:10,400 --> 00:01:14,800
+They promised this does late last year, and nothing.
+
+19
+00:01:14,800 --> 00:01:17,640
+There is Philips Hue, they've been doing it for months.
+
+20
+00:01:17,640 --> 00:01:22,800
+I can use my Amazon Alexa with life expulps, but if the bulbs are disconnecting, then
+
+21
+00:01:22,880 --> 00:01:25,080
+Alexa can't do shit.
+
+22
+00:01:25,080 --> 00:01:28,479
+Number three, this is the big one.
+
+23
+00:01:28,479 --> 00:01:30,479
+Hue is coming out with new life bulbs.
+
+24
+00:01:30,479 --> 00:01:35,640
+Again, third generation life bulbs, and it's going to make the blues in the greens richer.
+
+25
+00:01:35,640 --> 00:01:39,640
+This is literally addressing my number one concern with Philips Hue.
+
+26
+00:01:39,640 --> 00:01:42,200
+Number four, the Philips Hue family is growing.
+
+27
+00:01:42,200 --> 00:01:47,759
+On top of the new color life bulbs, you can get motion sensors, light strips, hue blue.
+
+28
+00:01:47,760 --> 00:01:51,160
+They have cheap ass white light bulbs for $15.
+
+29
+00:01:51,160 --> 00:01:55,880
+Lifex starts at 30 for those, and this leads me to my fifth and final note.
+
+30
+00:01:55,880 --> 00:01:59,680
+Philips Hue has light switches, and lifex does not.
+
+31
+00:01:59,680 --> 00:02:04,280
+You can buy a third party flick buttons, but that runs on blue tooth, and you have to have
+
+32
+00:02:04,280 --> 00:02:08,880
+a connected blue tooth device with that with the app running within range.
+
+33
+00:02:08,880 --> 00:02:12,200
+Too many components, with you, you can turn on your light bulbs like you've been doing
+
+34
+00:02:12,200 --> 00:02:15,400
+for the last 100 years with the flip of the switch.
+
+35
+00:02:15,400 --> 00:02:20,320
+My effects, just isn't keeping up with Philips, because they're backed by this multi-billion-dollar
+
+36
+00:02:20,320 --> 00:02:25,240
+company, and they continue to come out with new products, and they work, basic.
+
+37
+00:02:25,240 --> 00:02:29,520
+Thanks for tuning into this episode of Just In Tech, as always, please subscribe right
+
+38
+00:02:29,520 --> 00:02:30,520
+below.
+
+39
+00:02:30,520 --> 00:02:31,080
+I will see you later.
+

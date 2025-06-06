@@ -1,0 +1,92 @@
+1
+00:00:00,000 --> 00:00:04,280
+Hey everyone, just in tech here, are you finding that your computer is basically shutting down
+
+2
+00:00:04,280 --> 00:00:09,200
+when it's in sleep mode? Well, you are not alone and you are not crazy. You're probably
+
+3
+00:00:09,200 --> 00:00:13,400
+getting this error message and you're not sure what's wrong, whether it's an installed app or
+
+4
+00:00:13,400 --> 00:00:18,080
+it's a hard drive or your computer's freaking out and you're calling Apple. Anyway, this is
+
+5
+00:00:18,080 --> 00:00:23,880
+a flaw in the software right now. Apple is aware of it and there is a workaround. So this
+
+6
+00:00:23,880 --> 00:00:32,040
+video is gonna show you how to fix that. So here it goes. Again, this is a temporary
+
+7
+00:00:32,040 --> 00:00:36,840
+issue until Apple fixes it. I will let you know as soon as Apple fixes that in a pinned
+
+8
+00:00:36,840 --> 00:00:40,680
+comment below. So if there's a pinned comment saying it's done, then you could just update
+
+9
+00:00:40,680 --> 00:00:47,080
+your software. So here it is. First, you want to go to System Preferences, then go to Energy
+
+10
+00:00:47,080 --> 00:00:52,440
+Saber. Energy Saber basically dictates when your computer screen goes to sleep. So right
+
+11
+00:00:52,519 --> 00:00:57,879
+now I have it on about an hour and a half. You're gonna need to put that to never. It does
+
+12
+00:00:57,879 --> 00:01:03,879
+say never letting your display go to sleep, make sure it's light, which is true. But temporarily,
+
+13
+00:01:03,879 --> 00:01:09,640
+this will be just fine. And again, Apple is going to fix this eventually. This is just a temporary
+
+14
+00:01:09,640 --> 00:01:15,160
+fix. So how many times can I say a temporary in this video? Anyway, one way to balance this out
+
+15
+00:01:15,160 --> 00:01:20,759
+is to go back into your settings and then go to Desktop and Screen Saber. And then just make sure you
+
+16
+00:01:20,760 --> 00:01:25,960
+have a screen table on. I have my screen table come on every 20 minutes of inactivity. And I have
+
+17
+00:01:25,960 --> 00:01:32,440
+this fun one that's like my super favorite. It's really pretty. Okay. Really pretty. Anyway, that will
+
+18
+00:01:32,440 --> 00:01:38,280
+help kind of just save your lifespan of your computer screen. There you have it. That is the fix. Again,
+
+19
+00:01:39,000 --> 00:01:43,880
+it is temporary. But there is going to be hopefully a fix soon from Apple and I will let you know as soon
+
+20
+00:01:43,880 --> 00:01:48,120
+as that comes out. Anyway, I hope this video helped you out. And if it did, why don't you give me
+
+21
+00:01:48,120 --> 00:01:53,000
+a big old like? That way, other people can find it and solve it for themselves. I have got lots
+
+22
+00:01:53,000 --> 00:01:57,560
+more videos coming your way. See those, want you guys subscribe right down there. Click that bell for
+
+23
+00:01:57,560 --> 00:02:00,600
+alerts. I'm Justin and I'll take you later.
+

@@ -1,0 +1,60 @@
+1
+00:00:00,000 --> 00:00:07,560
+Huge news, the Dex Comstello continues glucose monitor now integrates with the ORA Ring Fitness Tracker.
+
+2
+00:00:07,560 --> 00:00:10,660
+Stello is what Dex Comst calls a biosensor.
+
+3
+00:00:10,660 --> 00:00:15,040
+It measures glucose readings every 15 minutes and it has no alerts.
+
+4
+00:00:15,040 --> 00:00:23,920
+The ORA Ring is a fitness tracker that measures a bunch of different biomarkers from stress, sleep, activity, heart rate, and a lot more.
+
+5
+00:00:23,920 --> 00:00:25,440
+Now here's why this matters.
+
+6
+00:00:25,440 --> 00:00:29,920
+There are over 42 factors as to why glucose levels fluctuate.
+
+7
+00:00:29,920 --> 00:00:35,200
+An integration like this could help us learn a lot about how daily activities affect us.
+
+8
+00:00:35,200 --> 00:00:45,440
+The ORA app now has a glucose graph that not only shows glucose levels, but puts little markers showing whether it was stress or activity that may have affected us.
+
+9
+00:00:45,440 --> 00:00:52,480
+There's also a food tracking option where you can take pictures of your food and it will implement that into your glucose trends.
+
+10
+00:00:52,480 --> 00:00:53,840
+Here's the bad news.
+
+11
+00:00:53,840 --> 00:01:07,360
+Stello isn't for people with diabetes who use insulin in a way this roll out hurts because I feel like if anyone needs to understand glucose trends and why they're affected, it's people with diabetes using insulin.
+
+12
+00:01:07,360 --> 00:01:11,280
+But my hopes are that this is the start of something.
+
+13
+00:01:11,280 --> 00:01:19,600
+Now what are your thoughts on this? How do you feel about people who don't have diabetes wearing continuous glucose monitors and getting all of this information?
+
+14
+00:01:19,600 --> 00:01:24,320
+Let me know in the comments and if you want to learn more about this partnership and the integration,
+
+15
+00:01:24,320 --> 00:01:29,040
+check out my article on diabetect.info or just click the link in my bio.
+

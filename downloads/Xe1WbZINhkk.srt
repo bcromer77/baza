@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:04,640
+Hey everyone, welcome to my third installment of the Magic Leap series.
+
+2
+00:00:04,640 --> 00:00:09,520
+Over the last few years we've been bombarded by technology that pushes us past the 2D screen,
+
+3
+00:00:09,520 --> 00:00:14,000
+and with this new check has come lots of new terms with lots of differences.
+
+4
+00:00:14,000 --> 00:00:17,600
+Today I've partnered up with Magic Leap to explain what spatial computing is,
+
+5
+00:00:17,600 --> 00:00:22,000
+how it differs from the others, and show you some awesome software taking advantage of it.
+
+6
+00:00:22,000 --> 00:00:24,560
+So without further ado, time to get spatial.
+
+7
+00:00:24,960 --> 00:00:35,360
+Let's start with the basics, virtual reality, or VR. If you follow my channel then you probably
+
+8
+00:00:35,360 --> 00:00:39,920
+know a little bit about VR. Oh, you don't follow my channel. How embarrassing? Well,
+
+9
+00:00:39,920 --> 00:00:44,160
+you know you can fix that by clicking that button right down there and clicking the bell for alerts.
+
+10
+00:00:44,160 --> 00:00:49,680
+VR allows for complete immersion that takes us out of our normal reality and you guessed it
+
+11
+00:00:49,680 --> 00:00:56,000
+of virtual one. There's the VR heads and on max, on zeros, strap around his head, but
+
+12
+00:00:56,000 --> 00:01:02,800
+max can't see he's in a completely different universe. The fully immersive environment of VR is great
+
+13
+00:01:02,800 --> 00:01:07,840
+when the goal is to escape. It's why you see devices such as the Oculus Quest or experiences like
+
+14
+00:01:07,840 --> 00:01:14,320
+the void shine in environments that take you out of the real world. But of course despite efforts
+
+15
+00:01:14,320 --> 00:01:18,640
+to prevent it, things like this can happen. There's someone here, um, so that is what Toby's
+
+16
+00:01:19,600 --> 00:01:27,440
+Oh, ho ho ho. Did you just need to watch my walls? Which leads me to augmented reality or AR?
+
+17
+00:01:27,440 --> 00:01:34,480
+AR keeps us in our physical world and augmented. AR devices come in lots of forms such as notifications on
+
+18
+00:01:34,480 --> 00:01:40,400
+your windshield or eyeglasses. You've probably even seen it with apps like Pokemon GO. These devices
+
+19
+00:01:40,400 --> 00:01:45,920
+simply overlay content onto the physical world. They don't understand or interact with your surroundings.
+
+20
+00:01:45,920 --> 00:01:48,640
+and this leads me to spatial computing.
+
+21
+00:01:48,640 --> 00:01:52,080
+Spatial computing augments your reality but goes a hugely
+
+22
+00:01:52,080 --> 00:01:55,680
+further to understand your space and allow the content
+
+23
+00:01:55,680 --> 00:01:58,240
+it's projecting to interact with your surroundings,
+
+24
+00:01:58,240 --> 00:02:01,280
+essentially merging the digital world with the physical.
+
+25
+00:02:01,280 --> 00:02:04,800
+So when I'm opening up apps and placing them around my space,
+
+26
+00:02:04,800 --> 00:02:08,960
+they will bang against furniture and naturally sit on top of surfaces.
+
+27
+00:02:08,960 --> 00:02:11,520
+They'll also stay where they're placed in the room.
+
+28
+00:02:11,520 --> 00:02:15,280
+Projections will also hide behind walls, fixtures, and furniture.
+
+29
+00:02:16,320 --> 00:02:19,520
+The best way to explain spatial computing is to show it.
+
+30
+00:02:19,520 --> 00:02:22,560
+For this, I will show you an experience that really highlights
+
+31
+00:02:22,560 --> 00:02:24,720
+what makes spatial computing different boosters.
+
+32
+00:02:25,680 --> 00:02:29,040
+Boosters is a rocket-plying game from Leta Workshop.
+
+33
+00:02:29,040 --> 00:02:32,800
+All you have to do is fly the rocket around the room and collect asteroid
+
+34
+00:02:32,800 --> 00:02:36,800
+gobbins on the way. The rocket interacts with your physical environment,
+
+35
+00:02:36,800 --> 00:02:41,200
+so as you steer it close to walls and furniture, the heat reverberates off of them.
+
+36
+00:02:41,200 --> 00:02:44,240
+And when I steer the rocket too close to objects in the room,
+
+37
+00:02:44,240 --> 00:02:45,360
+the rocket explodes.
+
+38
+00:02:48,640 --> 00:02:51,600
+When placing the launch pad down, the headset displays a mesh
+
+39
+00:02:51,600 --> 00:02:55,360
+as it scans the room. But the game also measures in real time,
+
+40
+00:02:55,360 --> 00:02:58,640
+so as I walk through the lofty apartment, the rocket continues to fly
+
+41
+00:02:58,640 --> 00:03:00,880
+through previously unmatched areas.
+
+42
+00:03:00,880 --> 00:03:03,920
+theoretically, you can move from one side of a space like a show
+
+43
+00:03:03,920 --> 00:03:08,960
+room or a factory floor to the other end and the rocket will continue to interact
+
+44
+00:03:08,960 --> 00:03:13,680
+with your new surroundings. And when you land the rocket, it places this cute little flag.
+
+45
+00:03:13,680 --> 00:03:16,720
+Oh, that's awesome. I just put one right over there in that corner.
+
+46
+00:03:17,440 --> 00:03:22,000
+Spatial computing is also being put to work in a more productive way with things like
+
+47
+00:03:22,000 --> 00:03:27,440
+manifest from tactile. Manifest is being used as a way for employees to create and interact
+
+48
+00:03:27,440 --> 00:03:30,880
+with digital content that's overlaid onto physical objects.
+
+49
+00:03:30,880 --> 00:03:34,640
+Employees can use spatial computing content and devices to more safely
+
+50
+00:03:34,640 --> 00:03:39,120
+operate equipment, inspect and maintain it, or even undertake training on physical
+
+51
+00:03:39,120 --> 00:03:46,160
+equipment through digital training modules to check for tired damage, look for abrasions.
+
+52
+00:03:46,160 --> 00:03:50,320
+I could easily see this being used one day at home when I'm building a Kia furniture.
+
+53
+00:03:50,320 --> 00:03:53,200
+Magically, meet a Kia, a Kia, meet magically.
+
+54
+00:03:54,640 --> 00:03:58,160
+Another spatial computing app I love is create.
+
+55
+00:03:58,160 --> 00:04:02,720
+In create your building a world using characters, portals, building blocks, and more to build
+
+56
+00:04:02,720 --> 00:04:08,240
+an ecosystem to your liking. All the characters interact with your space and each other.
+
+57
+00:04:08,240 --> 00:04:12,800
+They'll even interact with you, like this cute little bot that needs my help getting off the couch.
+
+58
+00:04:13,840 --> 00:04:14,960
+There you go, little bot.
+
+59
+00:04:17,360 --> 00:04:22,000
+As I sit here with these T-rexes, nights, and astronauts, I can't help but think, you know,
+
+60
+00:04:22,000 --> 00:04:26,960
+that's where we are now, but one day these can be buildings, or cars, or even better yet,
+
+61
+00:04:26,960 --> 00:04:28,960
+roll a coaster Tycoon. Come on.
+
+62
+00:04:31,200 --> 00:04:36,799
+Spatial computing continues to fascinate me. In my opinion, this is the tech that will have the largest
+
+63
+00:04:36,799 --> 00:04:41,760
+impact on society and the general public. What excites you most about spatial computing?
+
+64
+00:04:41,760 --> 00:04:45,840
+Let me know in the comments. Okay, before I take you guys later, I have one more thing to show you.
+
+65
+00:04:46,880 --> 00:04:49,760
+Time for lift off. Three, two, one.
+
+66
+00:04:50,719 --> 00:04:58,080
+Now that we're headed to space, make sure you guys give a like to this video if you enjoyed it,
+
+67
+00:04:58,080 --> 00:05:02,880
+subscribe to the channel and click that bell for alerts. I'm Justin, and I'll take you later.
+

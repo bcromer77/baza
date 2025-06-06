@@ -1,0 +1,240 @@
+1
+00:00:00,000 --> 00:00:11,400
+Hey everyone, today I am going to show you how to record your screen on a Mac, and then I'm going to show you how to record your screen with audio, which is a little more difficult.
+
+2
+00:00:11,400 --> 00:00:17,880
+So let's start with recording just the screen. It's a little easier. So the first thing you're going to do is you're going to open up a quick time player.
+
+3
+00:00:17,880 --> 00:00:23,320
+I'll let you open up apps by holding down command in the space bar, type in quick time.
+
+4
+00:00:23,320 --> 00:00:29,320
+There we go. And now you can see it's open up in the corner. I'm going to press cancel on that.
+
+5
+00:00:29,320 --> 00:00:32,320
+I'm going to go to file and then new screen recording.
+
+6
+00:00:33,320 --> 00:00:47,320
+It's really that simple. Now what I'm going to do is I'm going to click this record button and it's going to give me the option to either drag and click where I want to record or I can do the entire screen just by clicking the screen.
+
+7
+00:00:47,320 --> 00:00:57,320
+So I'm going to just for the purposes of showing you how to do this. I'm going to drag and get this area and then I will start recording that.
+
+8
+00:00:57,320 --> 00:01:02,320
+And then let me put up a video that I wanted to record.
+
+9
+00:01:02,320 --> 00:01:05,319
+There we go. This is the video I wanted.
+
+10
+00:01:05,319 --> 00:01:12,320
+Game recording. And I'm going to stop it now. I'll just hide it.
+
+11
+00:01:12,320 --> 00:01:18,320
+And then look there you go. I've got a recording. Screen recording. Pretty great.
+
+12
+00:01:18,320 --> 00:01:26,320
+Now that I have this video, I can save it by doing command S. And then I'm going to call it Justin VR.
+
+13
+00:01:26,320 --> 00:01:30,320
+And save it on my desktop.
+
+14
+00:01:30,320 --> 00:01:35,320
+Done. And saving. So this is really great. If you just want video recorded on your screen.
+
+15
+00:01:35,320 --> 00:01:39,320
+But if you want audio recorded with the video, it takes a few more steps.
+
+16
+00:01:39,320 --> 00:01:42,320
+But it can be done. And I'll show you right now.
+
+17
+00:01:42,320 --> 00:01:45,320
+So the first step you have to do is download sound flower.
+
+18
+00:01:45,320 --> 00:01:48,320
+I have a link in the description below. Download that.
+
+19
+00:01:48,320 --> 00:01:53,320
+What may happen when you open up that package, it tells you you don't have permission.
+
+20
+00:01:53,320 --> 00:01:58,320
+So the way to get around that is just go to system preferences.
+
+21
+00:01:58,320 --> 00:02:04,320
+And go to security and privacy. And you're going to have to unlock this just by putting in your code.
+
+22
+00:02:04,320 --> 00:02:11,320
+And then right over here, it should be asking you if you want to allow this to be installed on your computer.
+
+23
+00:02:11,320 --> 00:02:16,320
+And the answer is yes. Once that is installed on your computer, we have a few more steps.
+
+24
+00:02:16,320 --> 00:02:20,320
+You'll want to open up audio midi setup.
+
+25
+00:02:20,320 --> 00:02:25,320
+And right in here, you have to do two things. You're going to have to create both of these things that I have right here.
+
+26
+00:02:25,320 --> 00:02:31,320
+So to create this, you're going to click plus and then create aggregate device.
+
+27
+00:02:31,320 --> 00:02:39,320
+Once that's open, you'll have to check off the built in microphone and sound flower 2H, which is now there because we downloaded sound flower.
+
+28
+00:02:39,320 --> 00:02:47,320
+Then you're going to have to go to the plus sign again and create multi output device.
+
+29
+00:02:47,320 --> 00:02:51,320
+So click that and then I called mine screen record with audio.
+
+30
+00:02:51,320 --> 00:02:56,320
+And then click the built in output and sound flower 2H.
+
+31
+00:02:56,320 --> 00:03:02,320
+So basically these are going to act as a conduit between your recording and the audio output.
+
+32
+00:03:02,320 --> 00:03:05,320
+Okay, so we have two more steps and then we're done.
+
+33
+00:03:05,320 --> 00:03:08,320
+So now that you've done that, we can exit out of that.
+
+34
+00:03:08,320 --> 00:03:13,320
+Next, you'll want to go to system preferences and then you're going to go to sound.
+
+35
+00:03:13,320 --> 00:03:16,320
+Right now, you're sound should be coming out of internal speakers.
+
+36
+00:03:16,320 --> 00:03:23,320
+What you're going to want to do now is you're going to want to have the output set to screen record with audio or whatever you named it.
+
+37
+00:03:23,320 --> 00:03:29,320
+So click that. Good. Look at now we're ready to record the audio with the screen recording.
+
+38
+00:03:29,320 --> 00:03:37,320
+So let me open up quick time and cancel that again.
+
+39
+00:03:37,320 --> 00:03:40,320
+And I'm going to do new screen recording.
+
+40
+00:03:40,320 --> 00:03:46,320
+And this time you see this little drop down and I'm going to go to sound flower 2H.
+
+41
+00:03:46,320 --> 00:03:52,320
+Alright, so I'm ready for my screen recording with audio.
+
+42
+00:03:52,320 --> 00:03:53,320
+Click record.
+
+43
+00:03:53,320 --> 00:03:57,320
+I'm going to do the same little area.
+
+44
+00:03:57,320 --> 00:03:59,320
+Click start recording.
+
+45
+00:03:59,320 --> 00:04:04,320
+And then I'm going to put up my video again this time.
+
+46
+00:04:04,320 --> 00:04:08,320
+You should have audio.
+
+47
+00:04:08,320 --> 00:04:16,320
+Alright, so I'm recording it and pause it now.
+
+48
+00:04:16,320 --> 00:04:20,320
+And let's see. I'm going to stop recording.
+
+49
+00:04:20,320 --> 00:04:23,320
+And I'm going to change in order to hear it.
+
+50
+00:04:23,320 --> 00:04:29,320
+I'm going to have to change my system preferences back to the sound back to my internal speakers.
+
+51
+00:04:29,320 --> 00:04:36,320
+And then let's see if it works.
+
+52
+00:04:36,320 --> 00:04:39,320
+I see this is going to open up that box.
+
+53
+00:04:39,320 --> 00:04:40,320
+Yeah, did.
+
+54
+00:04:40,320 --> 00:04:42,320
+There is my audio.
+
+55
+00:04:42,320 --> 00:04:44,320
+First things first.
+
+56
+00:04:44,320 --> 00:04:45,320
+So there you guys have it.
+
+57
+00:04:45,320 --> 00:04:51,320
+That is my Tech Tip Tuesday recording your screen on a Mac with audio and without as always.
+
+58
+00:04:51,320 --> 00:04:54,320
+Subscribe to the channel for more tech videos and tech tips.
+
+59
+00:04:54,320 --> 00:04:57,320
+I'm Justin and I'll take you later.
+
+60
+00:04:59,320 --> 00:05:06,320
+Thanks for watching.
+

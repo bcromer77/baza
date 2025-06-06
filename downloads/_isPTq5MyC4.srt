@@ -1,0 +1,1948 @@
+1
+00:00:00,000 --> 00:00:08,000
+In many ways, we are living in a golden age of diabetes technology, from smart home control, customizable alerts,
+
+2
+00:00:08,000 --> 00:00:15,000
+and some of the smallest, sleekest and most accurate continuous glucose monitors and pumps we've ever seen.
+
+3
+00:00:15,000 --> 00:00:20,000
+But back in the early 2000s, that golden age felt light years away.
+
+4
+00:00:20,000 --> 00:00:28,000
+That's when Amy Tendridge, one of the very first diabetes patient bloggers, wrote an open letter to Steve Jobs.
+
+5
+00:00:28,000 --> 00:00:35,000
+In it, she called out how clunky, outdated and user unfriendly diabetes tech was,
+
+6
+00:00:35,000 --> 00:00:41,000
+and asked for help, bringing it closer to the sleek intuitive design of the iPod Nano.
+
+7
+00:00:41,000 --> 00:00:46,000
+While Steve didn't write back, that letter sparked something big.
+
+8
+00:00:46,000 --> 00:00:49,000
+It launched Amy into the world of diabetes innovation,
+
+9
+00:00:49,000 --> 00:00:56,000
+and eventually, letter to create D-data exchange events that bring together leaders from Pharma companies,
+
+10
+00:00:56,000 --> 00:01:04,000
+the FDA, advocates, and DIYers to share ideas and accelerate progress in diabetes tech.
+
+11
+00:01:04,000 --> 00:01:07,000
+Welcome to Diabetic, I'm Justin, I am Type 1 Diabetes,
+
+12
+00:01:07,000 --> 00:01:11,000
+and on here, I talk all things diabetes tech, news, and research.
+
+13
+00:01:11,000 --> 00:01:17,000
+Today, I am talking to Amy about what it was like being a voice for patients before social media,
+
+14
+00:01:17,000 --> 00:01:25,000
+how the we are not waiting movement got started, and how D-data has grown into one of the most impactful spaces
+
+15
+00:01:25,000 --> 00:01:28,000
+for innovation in our community.
+
+16
+00:01:28,000 --> 00:01:35,000
+And this June at ADA in Chicago, I'll actually be moderating a panel at D-data on GLP ones,
+
+17
+00:01:35,000 --> 00:01:41,000
+so we will also get into how these kinds of conversations are shaping the future of diabetes care.
+
+18
+00:01:41,000 --> 00:01:46,000
+Keep in mind that anything you hear on the show or any of my platforms is not medical advice,
+
+19
+00:01:46,000 --> 00:01:52,000
+and it's for educational purposes, only always consult with a physician before making changes to your healthcare.
+
+20
+00:01:53,000 --> 00:01:56,000
+Amy, welcome to the show, it's great to have you here.
+
+21
+00:01:56,000 --> 00:01:57,000
+Thanks for having me.
+
+22
+00:01:57,000 --> 00:02:05,000
+Of course, so we recently connected, and I thought it was so interesting how much of an overlap,
+
+23
+00:02:05,000 --> 00:02:10,000
+kind of your origins and what led you into all of what you're doing,
+
+24
+00:02:10,000 --> 00:02:15,000
+and then mine and what I'm doing, so this is going to be a cool conversation.
+
+25
+00:02:15,000 --> 00:02:20,000
+I'm hoping to learn whatever you've learned over the years and then be able to use that.
+
+26
+00:02:20,000 --> 00:02:22,000
+So thank you to that.
+
+27
+00:02:22,000 --> 00:02:24,000
+Thanks for saying so I agree.
+
+28
+00:02:24,000 --> 00:02:28,000
+I'm surprised that we hadn't crossed paths earlier, but of course you were much more newly diagnosed than me,
+
+29
+00:02:28,000 --> 00:02:33,000
+but we had a similar path and that we have a background in covering technology, right?
+
+30
+00:02:33,000 --> 00:02:38,000
+And then we get this disease that's very tech-heavy and can really benefit from innovation.
+
+31
+00:02:38,000 --> 00:02:43,000
+So I guess that if you have to get a chronic illness, it's kind of an interesting one to have.
+
+32
+00:02:44,000 --> 00:02:54,000
+Yeah, I think it's for me it's been so fun to be able to use the skills that I've gained over the years video production journalism reporting,
+
+33
+00:02:54,000 --> 00:02:58,000
+and then be able to do that for something that affects me directly,
+
+34
+00:02:58,000 --> 00:03:02,000
+and then be able to use that expertise and lived experience with everyone else,
+
+35
+00:03:02,000 --> 00:03:12,000
+which is kind of what you've done, tell us a little bit about your background in tech journalism and kind of how you entered this whole industry.
+
+36
+00:03:12,000 --> 00:03:14,000
+Well, absolutely agree with what you just said.
+
+37
+00:03:14,000 --> 00:03:18,000
+And I'm always saying that, like, that so many of us advocates kind of,
+
+38
+00:03:18,000 --> 00:03:23,000
+we bring to the table whatever skills we have and what our, you know, background is.
+
+39
+00:03:23,000 --> 00:03:30,000
+So some people do sports, ventures, you know, other people do policy lobbying from the government.
+
+40
+00:03:30,000 --> 00:03:33,000
+I like you have a background in covering technology.
+
+41
+00:03:33,000 --> 00:03:37,000
+I'm from a journalistic side and doing research, media research,
+
+42
+00:03:37,000 --> 00:03:40,000
+and I also had a pretty strong background in event organization.
+
+43
+00:03:40,000 --> 00:03:44,000
+So when that came into play, that was a way for me to help connect people in the community,
+
+44
+00:03:44,000 --> 00:03:49,000
+bring people together, you know, and have these forums that hopefully are a catalyst for change.
+
+45
+00:03:49,000 --> 00:03:55,000
+So so my background is I have a undergraduate degree in journalism,
+
+46
+00:03:55,000 --> 00:03:59,000
+a graduate degree in communication studies and media,
+
+47
+00:03:59,000 --> 00:04:05,000
+and I was actually working as a technology journalist when I got diagnosed in 2003.
+
+48
+00:04:05,000 --> 00:04:09,000
+It was right after the birth of my third child.
+
+49
+00:04:09,000 --> 00:04:14,000
+And I was told that I had, you know, somewhat high blood sugar,
+
+50
+00:04:14,000 --> 00:04:18,000
+but I didn't, you know, I guess prior to the baby being born,
+
+51
+00:04:18,000 --> 00:04:20,000
+but I assumed that that was a gestational and it was going to go away.
+
+52
+00:04:20,000 --> 00:04:22,000
+No one told me any different.
+
+53
+00:04:22,000 --> 00:04:27,000
+So when the baby came, I started losing weight like crazy and sort of had a classic, you know,
+
+54
+00:04:27,000 --> 00:04:29,000
+crash into the hospital.
+
+55
+00:04:29,000 --> 00:04:31,000
+I was there for like 10 days.
+
+56
+00:04:31,000 --> 00:04:34,000
+I was, you know, going into DKA, the whole thing.
+
+57
+00:04:34,000 --> 00:04:37,000
+It was really rough because I had a five year old, a three year old,
+
+58
+00:04:37,000 --> 00:04:39,000
+and a five month old baby.
+
+59
+00:04:39,000 --> 00:04:43,000
+And was sort of rubber stamped as a type two because of my age.
+
+60
+00:04:43,000 --> 00:04:48,000
+And just because I just, so I, you know, even I knew there was something wrong with that
+
+61
+00:04:48,000 --> 00:04:51,000
+because I was, look like I had just been liberated from a concentration camp.
+
+62
+00:04:51,000 --> 00:04:53,000
+You know, I was so like depleted.
+
+63
+00:04:53,000 --> 00:04:57,000
+And so very quickly it turned out that the Orals they put me on were doing nothing
+
+64
+00:04:57,000 --> 00:05:02,000
+and then I was put on insulin, but in this very primitive way with this literally,
+
+65
+00:05:02,000 --> 00:05:06,000
+like printed out paper that had some kind of sliding scale.
+
+66
+00:05:06,000 --> 00:05:11,000
+And I was in the honeymoon phase, as you know, the beginning where I really didn't need a lot of insulin.
+
+67
+00:05:11,000 --> 00:05:14,000
+So I was having then lows all the time.
+
+68
+00:05:14,000 --> 00:05:17,000
+And this is what led me to say, I can't live like this.
+
+69
+00:05:17,000 --> 00:05:20,000
+I was having two and three severe lows a day.
+
+70
+00:05:20,000 --> 00:05:23,000
+I was afraid to get in the car with my children.
+
+71
+00:05:24,000 --> 00:05:27,000
+And I thought, I just, I'm, you know, I got the resources.
+
+72
+00:05:27,000 --> 00:05:28,000
+I'm a scrappy journalist.
+
+73
+00:05:28,000 --> 00:05:31,000
+I'm going to figure this out and I started to research it.
+
+74
+00:05:31,000 --> 00:05:33,000
+You know, just like I would any other topic.
+
+75
+00:05:33,000 --> 00:05:39,000
+And then eventually, like year and a half and after my diagnosis is when
+
+76
+00:05:39,000 --> 00:05:41,000
+blogging sort of came onto the scene.
+
+77
+00:05:41,000 --> 00:05:42,000
+I know that sounds super OG.
+
+78
+00:05:42,000 --> 00:05:46,000
+It's very old school nowadays, but literally that was the birth of blogging.
+
+79
+00:05:46,000 --> 00:05:51,000
+And I just had the idea of my husband and I actually encouraged me to start this blog
+
+80
+00:05:51,000 --> 00:05:56,000
+where I would sort of chronicle my own experiences and then also put on my journalist hat and
+
+81
+00:05:56,000 --> 00:05:58,000
+you know, do some like reporter on the street stuff.
+
+82
+00:05:58,000 --> 00:06:05,000
+And I'm sure, as you know, just in like, you get so many press releases and sort of official announcements.
+
+83
+00:06:05,000 --> 00:06:07,000
+And at the time, again, it was just the beginning of social media.
+
+84
+00:06:07,000 --> 00:06:09,000
+That's really all there was.
+
+85
+00:06:09,000 --> 00:06:12,000
+So, you know, you've got your Rose sending you like, oh, breakthrough and diabetes.
+
+86
+00:06:12,000 --> 00:06:16,000
+You know, there's close to a cure and, you know, look at this device and look at that.
+
+87
+00:06:16,000 --> 00:06:20,000
+And you don't really know what's what and whether anything really is going to have an impact
+
+88
+00:06:20,000 --> 00:06:21,000
+on your life.
+
+89
+00:06:21,000 --> 00:06:26,000
+So I think my original idea was like to help people sort through that and look behind these press releases
+
+90
+00:06:26,000 --> 00:06:28,000
+and say, what is this device?
+
+91
+00:06:28,000 --> 00:06:29,000
+Is it really available?
+
+92
+00:06:29,000 --> 00:06:30,000
+How much does it cost?
+
+93
+00:06:30,000 --> 00:06:31,000
+What would it be like to wear it?
+
+94
+00:06:31,000 --> 00:06:35,000
+You know, who else is working in this space and really dig into it?
+
+95
+00:06:35,000 --> 00:06:38,000
+But we also at diabetes mine, which was my blog.
+
+96
+00:06:38,000 --> 00:06:42,000
+My personal blog that grew into this established publication.
+
+97
+00:06:42,000 --> 00:06:45,000
+We also covered, I mean, we did a lot of technology coverage,
+
+98
+00:06:45,000 --> 00:06:49,000
+but we're also sort of a general, you know, we did feature stories and interview,
+
+99
+00:06:49,000 --> 00:06:54,000
+and fun contests and just sort of, it was like sort of all things diabetes.
+
+100
+00:06:54,000 --> 00:06:57,000
+We called it a diabetes newspaper with a personal twist.
+
+101
+00:06:57,000 --> 00:07:04,000
+But I'm really happy that I focused on the technology side of it because that's what got me all involved
+
+102
+00:07:04,000 --> 00:07:06,000
+in this innovation initiative.
+
+103
+00:07:06,000 --> 00:07:10,000
+And in this world of, you know, getting to meet all these amazing developers.
+
+104
+00:07:10,000 --> 00:07:11,000
+Yeah.
+
+105
+00:07:11,000 --> 00:07:12,000
+It's funny.
+
+106
+00:07:12,000 --> 00:07:16,000
+I mean, similar thing happened to me where I was misdiagnosed as type two.
+
+107
+00:07:16,000 --> 00:07:20,000
+And then I was somehow diagnosed with type one.
+
+108
+00:07:20,000 --> 00:07:26,000
+Thanks to the community on TikTok, which was my platform where I connected with the community.
+
+109
+00:07:26,000 --> 00:07:31,000
+And in all the platforms I'm on, I'm almost on this like new generation of blogging.
+
+110
+00:07:31,000 --> 00:07:33,000
+Yes, there are substacks and people are still writing.
+
+111
+00:07:33,000 --> 00:07:39,000
+In fact, I have a blog, but this new generation of blogging is very video related.
+
+112
+00:07:39,000 --> 00:07:47,000
+What was it like to be in there in the early days of blogging for the type one community?
+
+113
+00:07:47,000 --> 00:07:52,000
+Well, I mean, just patient blogging, you know, all together was this new thing.
+
+114
+00:07:52,000 --> 00:08:00,000
+So one of the ways that diabetes mine became so well known is that early on there was a journalist at the Wall Street Journal, Laura Landro,
+
+115
+00:08:00,000 --> 00:08:06,000
+who was diagnosed with cancer and she decided to sort of chronicle her own experiences in the paper.
+
+116
+00:08:06,000 --> 00:08:12,000
+She did this feature story that was on like the front page of the health section or something about patient bloggers.
+
+117
+00:08:12,000 --> 00:08:16,000
+It was like, oh my gosh, these people are like creating their own publications and they're writing all these stories.
+
+118
+00:08:16,000 --> 00:08:20,000
+And she featured me in my blog very prominently in that story.
+
+119
+00:08:20,000 --> 00:08:22,000
+And it just got all, you know, really helped me.
+
+120
+00:08:22,000 --> 00:08:26,000
+This quantum leap in visibility and all these people who came forward and said, this is really cool.
+
+121
+00:08:26,000 --> 00:08:28,000
+So it was really fun.
+
+122
+00:08:28,000 --> 00:08:31,000
+I have to say, there were about five or six of us in the beginning.
+
+123
+00:08:31,000 --> 00:08:35,000
+There was a small, I could count them on one hand, the people who were doing diabetes blogs.
+
+124
+00:08:35,000 --> 00:08:36,000
+We all knew each other.
+
+125
+00:08:36,000 --> 00:08:38,000
+We had all these primitive tools in the beginning.
+
+126
+00:08:38,000 --> 00:08:42,000
+I forgot what it was called, but it was related to the original blogger app.
+
+127
+00:08:42,000 --> 00:08:49,000
+This sort of roundabout thing where you could list other people's blogs, like links to other people's blogs that are related in the same area.
+
+128
+00:08:49,000 --> 00:08:51,000
+And then people could cycle through and see all the blogs.
+
+129
+00:08:51,000 --> 00:08:56,000
+You know, now that would be impossible because there's probably thousands of them at the time, you know, we were a small group.
+
+130
+00:08:56,000 --> 00:09:01,000
+So we really felt like we were, you know, on the ground floor of something and there was all this excitement.
+
+131
+00:09:01,000 --> 00:09:06,000
+And all of this warmth I would say in camaraderie, like we all just wanted to help each other.
+
+132
+00:09:06,000 --> 00:09:11,000
+You know, that's one of the unfortunate things about when the social media sphere exploded and grew.
+
+133
+00:09:11,000 --> 00:09:18,000
+It's become a lot more contentious and, you know, also a little bit harder to navigate because there are just so many people doing so many different things.
+
+134
+00:09:18,000 --> 00:09:23,000
+But, you know, in the early days, it really felt like this, you know, really core community.
+
+135
+00:09:23,000 --> 00:09:29,000
+And we were super excited when, eventually, there were some in-person events that we got to meet each other in real life.
+
+136
+00:09:29,000 --> 00:09:31,000
+How did your blog evolve?
+
+137
+00:09:31,000 --> 00:09:39,000
+Because, and I'm very curious, because as mine moves directions, you kind of just follow the current of what people like and what they want.
+
+138
+00:09:39,000 --> 00:09:46,000
+What did you notice from conception to kind of, as you grew, the different directions you were moving in?
+
+139
+00:09:46,000 --> 00:09:52,000
+Well, one thing is, I mean, you know, I think I'm being honest to say that I was one of the few people who was actually a trained director.
+
+140
+00:09:52,000 --> 00:09:56,000
+who was actually a trained journalist who was doing this, so I was writing these stories.
+
+141
+00:09:56,000 --> 00:10:01,000
+I'm literally covering the developments coming out of the med tech industry.
+
+142
+00:10:01,000 --> 00:10:08,000
+And, you know, thankfully they paid attention and they were respecting what we were doing and we were kind of like a trade publication.
+
+143
+00:10:08,000 --> 00:10:14,000
+So, you know, people like Kelly closest group, a diet tribe, they're, well, you know, close concerns and diet tribe.
+
+144
+00:10:14,000 --> 00:10:17,000
+They were always like pointing people to ask things, this is a great source.
+
+145
+00:10:17,000 --> 00:10:21,000
+And this is if you want like a patient perspective on these new technologies, you should look at them.
+
+146
+00:10:22,000 --> 00:10:24,000
+At one point in this was very early on.
+
+147
+00:10:24,000 --> 00:10:36,000
+I remember we had done a story about, I think it was lifespan that had done this supposedly PSA, but it was really basically a marketing pitch and we kind of dinged them on it.
+
+148
+00:10:36,000 --> 00:10:45,000
+And the post that what we had done about that, you know, kind of criticizing their marketing was getting more traffic than their actual website.
+
+149
+00:10:45,000 --> 00:10:49,000
+And that's what the industry started paying attention and they're like, oh my god, you know.
+
+150
+00:10:49,000 --> 00:11:05,000
+It's, it's funny you say that because today I posted an article about Dex comes 15 day sensor and how hidden in the press release all the way at the bottom it says that 26% of these sensors don't last the full 15 days.
+
+151
+00:11:05,000 --> 00:11:07,000
+So I wrote a whole article.
+
+152
+00:11:07,000 --> 00:11:10,000
+Yeah, well, I think they had to maybe, you know.
+
+153
+00:11:10,000 --> 00:11:15,000
+That's kind of stuff we would do. We would pull out and say, hey guys, you know, lagging this, did you notice this?
+
+154
+00:11:15,000 --> 00:11:21,000
+There was also early on, I think it was by Ada when that first came out.
+
+155
+00:11:21,000 --> 00:11:28,000
+The drug, you know, the injectable drug that we had basically posted something and said, you know, there's this new drugs.
+
+156
+00:11:28,000 --> 00:11:31,000
+Only certain people are trying it might have been simlin, which is related by Ada.
+
+157
+00:11:31,000 --> 00:11:34,000
+In any case, we asked people about, you know, their experiences.
+
+158
+00:11:34,000 --> 00:11:39,000
+And then we got hundreds of comments and it became kind of the de facto like user form.
+
+159
+00:11:39,000 --> 00:11:49,000
+I mean, it was interesting to see how bloggers them got on these pitchlists for, you know, all the PR agencies and all of the industry folks are reaching out to us saying, do you want to do an interview with our CEO?
+
+160
+00:11:49,000 --> 00:11:54,000
+We have new, you know, new technology. So it really was like running a daily daily newspaper at that point.
+
+161
+00:11:54,000 --> 00:12:01,000
+You know, and they were, you know, there was a lot of, I would say, considering they wanted to make sure they were getting good coverage.
+
+162
+00:12:01,000 --> 00:12:05,000
+But we were, you know, very candid. I mean, that's the fun thing about being a blogger.
+
+163
+00:12:05,000 --> 00:12:11,000
+It's very immediate and you don't have a lot of controls. There was no, you know, hierarchy to tell me we can't do something.
+
+164
+00:12:11,000 --> 00:12:19,000
+As the community grew, it got more and more well known. I also then personally ended up doing a lot of sort of side prod, like additional projects.
+
+165
+00:12:19,000 --> 00:12:26,000
+So, you know, besides being so it was kind of interesting. I'll say this. I even wrote some stuff for the ADA's magazine early on.
+
+166
+00:12:26,000 --> 00:12:34,000
+And then later, you know, we were doing some posts and at some point they contacted me and said, like, are you a freelance writer for our magazine?
+
+167
+00:12:34,000 --> 00:12:44,000
+Or are you being this, like, independent blogger who's criticizing stuff we're doing? And I'm like, look, those lines are blurring you. You know, I can be bald. I mean, I, you know, I'm just being.
+
+168
+00:12:44,000 --> 00:12:54,000
+They blur for me, too. They blur for me, too, because I take, I take sponsored projects. It's one of the ways I make money. But if one of the companies I work with
+
+169
+00:12:54,000 --> 00:13:04,000
+does something that is newsworthy, I need to report it just because that's kind of the job I have. And something that you did that
+
+170
+00:13:04,000 --> 00:13:12,000
+really caught my ear when you told me, you told me you wrote a letter to Steve Jobs. This was in 2007.
+
+171
+00:13:12,000 --> 00:13:22,000
+2008. Okay. And it was about the state of diabetes. And one line stuck out to me was you said medical device manufacturers are stuck in a bygone era.
+
+172
+00:13:22,000 --> 00:13:28,000
+They continued to design these products in an engineering driven physician centered bubble.
+
+173
+00:13:28,000 --> 00:13:38,000
+Tell me a little bit about why at that time it felt important to write to what the seat was either CEO of Apple.
+
+174
+00:13:38,000 --> 00:13:48,000
+Yes. So that was really the post that kind of changed my life and started this whole thing. And in fact ended up leading to this. We're not waiting monitoring, which is amazing.
+
+175
+00:13:48,000 --> 00:14:02,000
+But what basically happened was I was already gripping, you know, privately to my husband about how poorly designed some of these or, you know, clunky and hospitalish a lot of our devices were at the time of my diagnosis.
+
+176
+00:14:02,000 --> 00:14:10,000
+So in 2008 I want to say it was spring of 2008. Apple was doing this big PR push about the 100,000 iPod being sold.
+
+177
+00:14:10,000 --> 00:14:22,000
+And like, oh, this is amazing. And I remember this is actually happened. I was in a dark pub or something with my husband and was trying to take my blood sugar with an old school finger sick meter.
+
+178
+00:14:22,000 --> 00:14:27,000
+And it was really dark and I couldn't really see this green and I was struggling with the little strips and this and that.
+
+179
+00:14:27,000 --> 00:14:39,000
+And I was like, these things, you know, it's just so ridiculous. You know, I mean, we have this insanely great consumer technology that someone thought to backlight, you know what right when in this album, you know, and these insulin pumps and these things that were wearing our body.
+
+180
+00:14:39,000 --> 00:14:55,000
+So I think the, you know, so I wrote this open letter to Steve Jobs, which was basically saying, hey, we need the gurus of consumer technology designed to get together with these people in medtech and start making this stuff better. It should be keeping pace with consumer technology. We know it's possible.
+
+181
+00:14:55,000 --> 00:15:03,000
+Meanwhile, you know, the industry, the medical industry at the time, still considered their customers to be clinicians.
+
+182
+00:15:03,000 --> 00:15:10,000
+So when they were designing an insulin pump, for example, they would take it to clinicians and say, is this thing clinically viable.
+
+183
+00:15:10,000 --> 00:15:21,000
+But at that time, there really was no effort or at least no like organized effort to, you know, have people who are going to live with these pumps involved in the innovation and the development.
+
+184
+00:15:21,000 --> 00:15:32,000
+I mean, at most what they were doing is they would totally design something and then they would have a focus group and they would put some people in a room and see what buttons they push and see whether what, you know, what are they struggling with.
+
+185
+00:15:32,000 --> 00:15:39,000
+But that's not the same as, you know, co-designing alongside your users, right. So that was really a big point of it.
+
+186
+00:15:39,000 --> 00:15:57,000
+And I was, you know, shocked and delighted that it got so much attention. And all these people came out of woodwork and said, you know, I've been saying this all along, including some people in industry, including some folks at the Stanford Bio Design Department, who I ended up later working with.
+
+187
+00:15:58,000 --> 00:16:05,000
+And then, you know, it, it, it actually got picked up in TechCrunch, the, you know, Michael Airington's technology.
+
+188
+00:16:05,000 --> 00:16:22,000
+So through that, then it kind of ricocheted around and we, there were stories literally in like the Chicago Tribune and the Financial Times and in magazine, all these things picked up on this idea of patients pushing for better design of devices and also for being involved in the innovation process.
+
+189
+00:16:22,000 --> 00:16:34,000
+So what, then what ended up happening was we were so inspired by this that we had the idea to do this open innovation competition to we called the Diabetes Mind Design Challenge.
+
+190
+00:16:34,000 --> 00:16:45,000
+Yeah, so we got inspired to actually put out a call to patients, you know, and we're engineers, thinkers, anywhere who had an idea to improve life with diabetes.
+
+191
+00:16:45,000 --> 00:16:56,000
+So basically it was if you have an idea for any kind of product device, gadget or even a service that would help people live better with diabetes, we want to hear about it.
+
+192
+00:16:56,000 --> 00:17:04,000
+And I was able to get a grant from the California Healthcare Foundation, so we had really substantial prize money for it.
+
+193
+00:17:04,000 --> 00:17:10,000
+The JDRF, who I was kind of close with the leadership at that time, they were excited about it, they put out a press release.
+
+194
+00:17:10,000 --> 00:17:21,000
+And that, you know, obviously really helped and then we got all these sort of luminaries in the diabetes based some clinicians and some researchers and some folks in industry to be the judges.
+
+195
+00:17:21,000 --> 00:17:27,000
+And ran this thing off of the blog, we ended up doing it for four years in a row and it was amazing.
+
+196
+00:17:27,000 --> 00:17:33,000
+I did a lot of outreach to universities, which was a really cool thing, just to get young people involved.
+
+197
+00:17:33,000 --> 00:17:51,000
+And to me, like so many of those concepts have come to market now, like touch screens and all sorts of things, not necessarily in the exact same format that they were submitted to the contest, but many of those ideas are here now, but one of the big wins to me from that was kind of getting this next generation of thinkers involved.
+
+198
+00:17:51,000 --> 00:18:09,000
+So giving an example, the woman who won our contest in 2009 was a graduate student at Northwestern University and she was in a design program, she did not necessarily have any thoughts about going into the diabetes industry, but she was very inspired by winning the contest and then I was able to introduce her a bunch of people.
+
+199
+00:18:09,000 --> 00:18:14,000
+And she eventually hired at Medtronic in their next generation in some pump group.
+
+200
+00:18:14,000 --> 00:18:24,000
+So it was like, yeah, that's really cool. We're getting, again, these younger people who are used to Apple products that don't even need a manual because you just, you know, it's intuitive, right?
+
+201
+00:18:24,000 --> 00:18:27,000
+As opposed to the stuff that we were still dealing with.
+
+202
+00:18:27,000 --> 00:18:31,000
+Did Steve Jobs respond or did someone from Apple respond?
+
+203
+00:18:31,000 --> 00:18:45,000
+No, no one from Apple directly responded, but there were several design firms, including a fairly well known one of the United States that came forward and said, you know what, this is really cool.
+
+204
+00:18:45,000 --> 00:18:50,000
+We were looking for a pro bono project. So we want to, how can we help?
+
+205
+00:18:50,000 --> 00:18:55,000
+And so I worked with them in their process of researching what would be sort of a next-gen product.
+
+206
+00:18:55,000 --> 00:19:01,000
+They came up with this thing called the Charmer, which is like the word Charmer without the E, just Charmer.
+
+207
+00:19:01,000 --> 00:19:12,000
+And it was, it was a design, they made a prototype of this little combination CGM in some pump, which did not exist yet at the time.
+
+208
+00:19:12,000 --> 00:19:21,000
+And it was, it had a touch screen and it was a little thing that you put on your, it looked like a charm. You put it on your keychain and it had a little touch screen that you could lock.
+
+209
+00:19:21,000 --> 00:19:32,000
+And they literally, they made all this prototype and all these designs of it and they took it around to these UX design events around the country and kind of show that off as a really cool idea.
+
+210
+00:19:32,000 --> 00:19:40,000
+So, you know, so that was, I think a really great way to manifest, like, this is the type of thing that we're looking for.
+
+211
+00:19:40,000 --> 00:19:43,000
+This episode is sponsored by OmniPod.
+
+212
+00:19:43,000 --> 00:19:51,000
+As someone with T1D and with an incredibly active lifestyle, it's important for me not to get tied up, especially with tubes on my insulin pump.
+
+213
+00:19:51,000 --> 00:19:55,000
+I love to go swimming, lift weights, and play kickball with friends.
+
+214
+00:19:55,000 --> 00:19:59,000
+And with OmniPod 5, I never have to worry about tubes getting in the way.
+
+215
+00:19:59,000 --> 00:20:05,000
+Plus, not having to disconnect helps me to stay in range during all of my favorite physical activities.
+
+216
+00:20:05,000 --> 00:20:07,000
+That includes sexy time too.
+
+217
+00:20:07,000 --> 00:20:16,000
+See, if you're eligible for a 30 day trial by visiting OmniPod.com slash diabetic on there, you'll see full safety and risk information and trial terms.
+
+218
+00:20:16,000 --> 00:20:20,000
+That's OmniPod.com slash diabetic.
+
+219
+00:20:20,000 --> 00:20:31,000
+You were just about to say before, this innovation challenge kind of morphed into this next generation step in events that you were hosting, right?
+
+220
+00:20:31,000 --> 00:20:37,000
+So that was digital, then you kind of moved into more in person.
+
+221
+00:20:37,000 --> 00:20:40,000
+Correct. So it was 2011.
+
+222
+00:20:40,000 --> 00:20:44,000
+And the rise of social media was the big thing happening, right?
+
+223
+00:20:44,000 --> 00:20:47,000
+Being able to meet people from all over the country, super exciting.
+
+224
+00:20:47,000 --> 00:20:56,000
+But we also, again, I was living in the Bay Area working with Stanford, and we said, well, you know, there are a lot of people here locally who are very involved in innovation and development.
+
+225
+00:20:56,000 --> 00:21:00,000
+Maybe it would be a cool idea to have an in person event.
+
+226
+00:21:00,000 --> 00:21:07,000
+As many people as we could get, I mean, from at least from around California and maybe further to come together and have this sort of leadership.
+
+227
+00:21:07,000 --> 00:21:11,000
+This very candid though, you know, kind of gathering.
+
+228
+00:21:11,000 --> 00:21:21,000
+Where I said, listen, I've got to, you know, I've got to network now through my reporting of, you know, a ton of people in the industry, a lot of entrepreneurs startups.
+
+229
+00:21:21,000 --> 00:21:27,000
+And also this growing community of advocates who had really big followings, you know, people who are just doing really interesting stuff.
+
+230
+00:21:27,000 --> 00:21:34,000
+Plus the national advocacy organizations, ADA, TDRF, you know, beyond type one was in Iran yet, but they came later.
+
+231
+00:21:34,000 --> 00:21:42,000
+You know, so I just knew all these people and I said, we could get them together in a room and have, you know, this kind of next generation.
+
+232
+00:21:42,000 --> 00:21:50,000
+Different kind of gathering where they can really, you know, cross-pawn in ideas and talk about, you know, what are the current challenges and what works for everyone.
+
+233
+00:21:50,000 --> 00:21:58,000
+So the first, we called it the Diabetes Mind Innovation Summit and it was at Stanford in the fall of 2011.
+
+234
+00:21:58,000 --> 00:22:03,000
+The very first one was actually a workshop that was run by IDO design.
+
+235
+00:22:03,000 --> 00:22:05,000
+I don't know if you know them, they're very well known.
+
+236
+00:22:05,000 --> 00:22:10,000
+Design firm, they're based in Palo Alto, they work a lot with Stanford and they also are a bit in healthcare.
+
+237
+00:22:10,000 --> 00:22:15,000
+They now work a lot for Eli Lilly and other companies, but they basically ran this kind of ideation workshop.
+
+238
+00:22:15,000 --> 00:22:23,000
+So we had patient leaders sitting next to people from FDA sitting next to people who were like, you know, head of global distribution from a big farm.
+
+239
+00:22:23,000 --> 00:22:33,000
+A red tech company, like all these, all these different, and those days we actually used to create, like, table, you know, seeding arrangements so that each table had a good mix.
+
+240
+00:22:33,000 --> 00:22:37,000
+So it wasn't just like all the patients sat together, right? We wanted people to cross-pawn.
+
+241
+00:22:37,000 --> 00:22:38,000
+Yeah, that's great.
+
+242
+00:22:39,000 --> 00:22:41,000
+So we did this and it was very well received.
+
+243
+00:22:41,000 --> 00:22:50,000
+I have to say in the very beginning, the industry, people were kind of reticent to come and they're like, you know, I can't disclose what my company is working on.
+
+244
+00:22:50,000 --> 00:22:54,000
+Or I don't know if I can be sitting across from someone who's my, you know, competition.
+
+245
+00:22:54,000 --> 00:22:57,000
+I said, look, we're not asking anyone to reveal their IP or anything.
+
+246
+00:22:57,000 --> 00:23:03,000
+And just talking about like bigger challenges, you know, what needs to be done, patient needs, et cetera.
+
+247
+00:23:03,000 --> 00:23:05,000
+Anyway, it was very successful.
+
+248
+00:23:05,000 --> 00:23:12,000
+And then we did that for another year and then in 2013, that was also when tide pool came on the scene.
+
+249
+00:23:12,000 --> 00:23:21,000
+And if you know, those guys, and I key, I was reporting on them as a sort of this cool diabetes startup and that was also a nonprofit.
+
+250
+00:23:21,000 --> 00:23:33,000
+And, you know, went to Howard Luck, who's the CEO and said, hey, I'm thinking that I, I'm hearing about all of these kind of individuals out there who are very technology savvy, who, you know, are engineers, many of them.
+
+251
+00:23:33,000 --> 00:23:39,000
+There are many of them, there are many of them parents of a child, the type one, who are starting to tinker with this stuff and create their own solutions.
+
+252
+00:23:39,000 --> 00:23:43,000
+And they're reverse engineering, the protocol and the dexcom and they're making all this stuff.
+
+253
+00:23:43,000 --> 00:23:46,000
+I think it would really cool to have some kind of hub for those people.
+
+254
+00:23:46,000 --> 00:23:52,000
+So we decided we're going to do this pre-day to our big summit and it's going to be called the diabetes mind, D data exchange.
+
+255
+00:23:52,000 --> 00:23:56,000
+And the type of guys they co-hosted with me the first couple years.
+
+256
+00:23:56,000 --> 00:24:02,000
+But so we thought, you know, okay, we're going to do, we got a classroom across from the big hall in the Stanford School of Medicine.
+
+257
+00:24:02,000 --> 00:24:05,000
+And we're like, well, I have 20, 25 people from the Bay Area.
+
+258
+00:24:05,000 --> 00:24:12,000
+And ended up being like a standing remotely, like really excited, you know, we were over fire code, we had way too many people in there.
+
+259
+00:24:12,000 --> 00:24:14,000
+And everybody was buzzing.
+
+260
+00:24:14,000 --> 00:24:20,000
+The first one was just like a big show in town, like everybody got it, everyone who's there basically got up and talked about what they were working on.
+
+261
+00:24:20,000 --> 00:24:22,000
+I want to hear more about who was there.
+
+262
+00:24:22,000 --> 00:24:28,000
+Lane Despero, who you may know, who was, you know, launched, he was within electronic for many years.
+
+263
+00:24:28,000 --> 00:24:32,000
+He's launched several startups, brilliant person. He was actually the one.
+
+264
+00:24:32,000 --> 00:24:40,000
+And then, of course, Howard and some of the original folks from Typool and then, you know, some of the people who ended up being behind,
+
+265
+00:24:40,000 --> 00:24:45,000
+you know, big foot and beta bionics and all of those, like, you know, original folks.
+
+266
+00:24:45,000 --> 00:24:49,000
+There's kind of a core group of diabetes dads, you know, who were there.
+
+267
+00:24:49,000 --> 00:24:56,000
+You, you, you would told me that there were different areas of the industry that you wanted to bring together, right?
+
+268
+00:24:56,000 --> 00:25:02,000
+So one thing that happened was the next day after the first diabetes mind you didn't have seen.
+
+269
+00:25:02,000 --> 00:25:05,000
+We asked Howard to give a little summary of what happened the day before.
+
+270
+00:25:05,000 --> 00:25:10,000
+And we had sort of at the end of our little meeting we're like, what do you guys think? What is coming out of this meeting?
+
+271
+00:25:10,000 --> 00:25:15,000
+And I think I'm pretty sure it was Lane Despero, who originally said, like, it feels like we're not waiting.
+
+272
+00:25:15,000 --> 00:25:18,000
+We, you know, and then we talked about that. What does that mean and everything?
+
+273
+00:25:18,000 --> 00:25:22,000
+And then Howard presented that the next day and then that became sort of the mantra.
+
+274
+00:25:22,000 --> 00:25:27,000
+And as you know, grew into this like whole movement that represents DIY diabetes developed.
+
+275
+00:25:27,000 --> 00:25:30,000
+So we are not waiting started in that room.
+
+276
+00:25:30,000 --> 00:25:33,000
+Yes, well, the, yes, the same.
+
+277
+00:25:33,000 --> 00:25:40,000
+This moniker of yes, the moniker, the hashtag, you know, this sort of name for this movement definitely came out of it. Yeah.
+
+278
+00:25:40,000 --> 00:25:41,000
+Absolutely.
+
+279
+00:25:41,000 --> 00:25:54,000
+I mean, so that's, you know, that's why D data still has this, you know, our core is bringing together the patient entrepreneurs patient innovators with the, so the powers that be.
+
+280
+00:25:54,000 --> 00:25:58,000
+So basically what happened is we said, okay, this is amazing bringing these people together.
+
+281
+00:25:58,000 --> 00:26:19,000
+We need to combine this with our other summit because the whole idea is to bring these patient leaders and patient developers together with all the other groups that I've talked about, right, researchers, clinicians, decision makers in, you know, large advocacy organizations, diabetes educators, you know, all of that group regulators, we needed to bring them all together.
+
+282
+00:26:19,000 --> 00:26:27,000
+So, you know, every, and also we said, okay, you know, technology changes so fast, we're not going to wait a whole year to do another meeting.
+
+283
+00:26:27,000 --> 00:26:36,000
+So ever since then, we started hosting the D data exchange twice a year. So June, we did it wherever ADA is having their big scientific sessions.
+
+284
+00:26:36,000 --> 00:26:38,000
+We're obviously reasons, everybody's in town.
+
+285
+00:26:38,000 --> 00:26:43,000
+So you do it like a half day on the Friday kind of before ADA kicks off.
+
+286
+00:26:43,000 --> 00:26:49,000
+Now over the years Friday is also a busy day for people, but I've never had problems with people attending D data.
+
+287
+00:26:49,000 --> 00:26:52,000
+They want to be there and then they go on and do ADA for the rest of the weekend.
+
+288
+00:26:52,000 --> 00:27:02,000
+Yeah, I went, I went to the one at the ADA last year and it was so inspiring to be in a room full of people from all these areas of the industry.
+
+289
+00:27:02,000 --> 00:27:08,000
+Many of faces that I know, people who have come on the show.
+
+290
+00:27:08,000 --> 00:27:21,000
+And then just all the presentations hearing what people are working on and even hearing from a representative from the FDA, talking about what, you know, what it looks like from that end, which is not something we always get to hear.
+
+291
+00:27:21,000 --> 00:27:24,000
+That was an eye-opening experience.
+
+292
+00:27:24,000 --> 00:27:35,000
+Are there any stories that anyone's out told you about, like, I went to your event and met this person and we were finally able to connect and make something happen.
+
+293
+00:27:35,000 --> 00:27:36,000
+Absolutely.
+
+294
+00:27:36,000 --> 00:27:37,000
+Absolutely.
+
+295
+00:27:37,000 --> 00:27:40,000
+Because it's not just like, let's have a fun event.
+
+296
+00:27:40,000 --> 00:27:45,000
+It's literally amazing, tangible things come out every single event. I just blows me away.
+
+297
+00:27:45,000 --> 00:27:54,000
+I have people, so early days, so many people in the DIY community were getting hired by all these companies because they would come in and they'd give a presentation and they'd need people.
+
+298
+00:27:54,000 --> 00:28:01,000
+And, you know, Dexcom hired up a bunch of people, Typle did, you know, my sugar at the time, you know, so there was a lot of that happening.
+
+299
+00:28:01,000 --> 00:28:10,000
+But literally, I mean, over the years, I can't even tell you how many people told me, like, we launched a pilot project, we were able to put together an advisory board.
+
+300
+00:28:10,000 --> 00:28:13,000
+You know, we're doing a collaboration with this company.
+
+301
+00:28:13,000 --> 00:28:17,000
+Our group is providing a bunch of beta testers for this new app.
+
+302
+00:28:17,000 --> 00:28:21,000
+You know what feels so important to me about this event. And we've touched on it.
+
+303
+00:28:21,000 --> 00:28:36,000
+But it's like, the we are not waiting community has pushed forward so many features and abilities way ahead of their time, at least on the FDA level.
+
+304
+00:28:36,000 --> 00:28:50,000
+And being able to put people that are innovating that quickly without guardrails in a room with the people who understand the guardrails and are constantly navigating them and want to push forward by can't.
+
+305
+00:28:50,000 --> 00:28:59,000
+Putting those people together and potentially having a conversation about how they can work together feels just so important. Can you speak to that?
+
+306
+00:28:59,000 --> 00:29:02,000
+Well, first of all, thank you. You put that so well.
+
+307
+00:29:03,000 --> 00:29:08,000
+And it's totally, I mean, that is totally, for me, the lifeblood of this, like, why we do it.
+
+308
+00:29:08,000 --> 00:29:14,000
+You know, we talked originally about like, how we bring our skills to it. I mean, I'm not an engineer. I'm not a developer.
+
+309
+00:29:14,000 --> 00:29:18,000
+I'm a huge fan girl. And I know how to describe this stuff, obviously, as a journalist.
+
+310
+00:29:18,000 --> 00:29:22,000
+But like, what I can bring to this table is hopefully facilitating what you just said.
+
+311
+00:29:22,000 --> 00:29:27,000
+Trying to bring these people together to have meaningful connections and, you know, accelerate things.
+
+312
+00:29:27,000 --> 00:29:33,000
+And, you know, it was in the very beginning when the DIY systems are really new.
+
+313
+00:29:33,000 --> 00:29:37,000
+There were people say, how can you have, you know, someone up there talking about that when there's FDA people in the room.
+
+314
+00:29:37,000 --> 00:29:41,000
+I said, well, this is the world that we're in. Like, they need to know this is happening.
+
+315
+00:29:41,000 --> 00:29:47,000
+No one's going to say to that person, the one individual is sitting there like, you need to decide right now, whatever you're going to do with this, right?
+
+316
+00:29:47,000 --> 00:29:55,000
+But then eventually, so you may remember during the reign of Courtney Alias and Stacey Beck that they were super open
+
+317
+00:29:55,000 --> 00:29:59,000
+and had a couple of FDA sessions with the patient community.
+
+318
+00:29:59,000 --> 00:30:03,000
+And, you know, we're really, I think, you know, really interactive with the community.
+
+319
+00:30:03,000 --> 00:30:05,000
+They came to my event.
+
+320
+00:30:05,000 --> 00:30:07,000
+I don't know who they, I don't know who those people are, tell us.
+
+321
+00:30:07,000 --> 00:30:11,000
+People who were kind of heading up the diabetes device reviews some years ago.
+
+322
+00:30:11,000 --> 00:30:15,000
+Like, right around the time when the AI systems were coming to market.
+
+323
+00:30:15,000 --> 00:30:19,000
+Like, the first ones were coming to market, which was originally artificial pancreas.
+
+324
+00:30:19,000 --> 00:30:27,000
+And they, I feel like we're pioneers in, you know, helping FDA really listen to and embrace, you know, patient input.
+
+325
+00:30:27,000 --> 00:30:29,000
+And again, they were very involved in my event.
+
+326
+00:30:29,000 --> 00:30:33,000
+They came many times. And, you know, that was another thing where they were like, thank you for getting us in front of these people.
+
+327
+00:30:33,000 --> 00:30:37,000
+We met a bunch of people. Now, they're doing all these different initiatives.
+
+328
+00:30:37,000 --> 00:30:41,000
+And I know they worked with the diet-tripe foundation and did some, like, webinars and stuff.
+
+329
+00:30:41,000 --> 00:30:49,000
+So, yes, but you're absolutely right. It really is, you know, it's not a CME event just to like get some kind of certification or anything like that.
+
+330
+00:30:49,000 --> 00:30:53,000
+It's really, you know, this is like, let's stir the pot. Let's be catalyst for change.
+
+331
+00:30:53,000 --> 00:30:59,000
+Let's get the right people in the room and have really good conversations about what are, you know, what's new and hot.
+
+332
+00:30:59,000 --> 00:31:03,000
+What are the barriers? You know, what are the challenges? How can we get past those things?
+
+333
+00:31:03,000 --> 00:31:09,000
+How can we make sure that everything is being developed is really in the interest of patients,
+
+334
+00:31:09,000 --> 00:31:15,000
+you know, which, but then there's no reason that companies can't profit off that if they make a good product, right?
+
+335
+00:31:15,000 --> 00:31:19,000
+And so... Well, that's also the goal of the we are not waiting community.
+
+336
+00:31:19,000 --> 00:31:23,000
+It's not for them to come out with the features first and keep them to themselves.
+
+337
+00:31:23,000 --> 00:31:37,000
+They want FDA cleared systems to take their ideas and implement them into the devices so that everyone can, you know, have those features and live a more free life.
+
+338
+00:31:37,000 --> 00:31:42,000
+That's the whole reason these people in their free time, they are, you know, working on these projects.
+
+339
+00:31:42,000 --> 00:31:58,000
+It's not to keep to themselves. These are many selfless people that are spending this free time that they could be spending with their families or themselves playing video games to create better algorithms that people like you and I can benefit from.
+
+340
+00:31:58,000 --> 00:32:06,000
+The reason that I'm still going home on always putting patient innovation at the forefront is like I think it's illustrating the unmet needs, right?
+
+341
+00:32:06,000 --> 00:32:12,000
+It's showing the industry like, here are the things that we still want and need that aren't out there exactly the way you said.
+
+342
+00:32:12,000 --> 00:32:27,000
+We hope that you will pick up on these ideas, right? And again, I always say, why are these people taking their own personal time and effort and money in many cases to do this stuff because they, you know, they have a passion and they feel that they've come up with a solution that's going to help relieve the burden of diabetes.
+
+343
+00:32:27,000 --> 00:32:32,000
+And, you know, and you're right, let's get it in front of the right people and hope that they do pick up on the ideas.
+
+344
+00:32:32,000 --> 00:32:52,000
+In your last few meetings, what are the trends that you're starting to see become really popular in that we are not waiting space that FDA clear systems are picking up on and, you know, working on bringing in themselves.
+
+345
+00:32:52,000 --> 00:32:58,000
+So are you asking specifically about like what features in AI systems or just overall what topics are hot?
+
+346
+00:32:58,000 --> 00:33:07,000
+But kind of whatever, whether it's an actual feature or something that's something in due or trends that you're seeing like AI.
+
+347
+00:33:07,000 --> 00:33:18,000
+AI, I was going to say, hey, it's going to be AI, right? So we did all, you know, obviously AI is changing the world and it has an impact on everything from, you know, a nutrition app to, you know,
+
+348
+00:33:19,000 --> 00:33:28,000
+Gosh, we have things like a safety, one of the demos we're going to have at the upcoming event is a safety device for people to type on whether driving, which is AI driven.
+
+349
+00:33:28,000 --> 00:33:43,000
+You know, AI's ability to dig into data and actually, you know, get insights from that, you know, the way that AI is helping clinics to identify the patients who are most in need and, you know, kind of contact them at the right time with the right information.
+
+350
+00:33:43,000 --> 00:33:53,000
+I mean, it crosses all everything. So, you know, we did a whole big section on it and it's just obviously something that's now running as a thread through everything that we discuss.
+
+351
+00:33:53,000 --> 00:34:10,000
+The other, well, another big, currently really topical issue is GLP1 therapies, as you know, and you know, it's one of the few things that has become so huge outside of diabetes while it also has a huge impact within diabetes.
+
+352
+00:34:10,000 --> 00:34:27,000
+And really is just like sweeping the nation in the world right now and the, you know, in the world of type ones, there's a struggle going on to how do we get this covered because these are really the people whose lives could be so, you know, transformed and not just because they're going to lose weight.
+
+353
+00:34:27,000 --> 00:34:47,000
+So, you know, obviously that's a really big topic and then we talked about in some of our last couple events, you know, this sort of adjacent therapy. So if you could use, you know, the inhaled insulin alongside an AID system or could you use a pump alongside, you know, a GLP1, you know, what happens when you combine these therapies and you know, what does that look like.
+
+354
+00:34:47,000 --> 00:35:14,000
+And then, of course, the, you know, one sort of background ticker tape that's always running through everything we discuss is access, right. So we, I'm aware, we are aware that, you know, these are cutting edge innovation events and that we've got like some of the probably countries top people, you know, minds and people with resources who are creating stuff and the question always comes, you know, how are we going to get this out to the most people who can benefit from it.
+
+355
+00:35:14,000 --> 00:35:26,000
+What about cost is this going to become like a concierge thing where it's only available to the most elite people, how can we avoid that, right. So that's a topic that is that never goes away, right.
+
+356
+00:35:26,000 --> 00:35:45,000
+Yeah, and then, you know, we've been closely monitoring the development of obviously sensors and AID systems over the years. And I'll say it was 2019, we had sort of the very first ever closed-loop system showcase where we had six of the companies that were creating these AI, what we now call AID systems.
+
+357
+00:35:45,000 --> 00:35:59,000
+Some of them were still, you know, pretty early, I would say, but for every single company or organization that was building one, we had them talk about what they're doing and then we had patients come in and talk about what it was like to actually use the system.
+
+358
+00:35:59,000 --> 00:36:11,000
+And some of those patients were in trials at the time. So, you know, that's the kind of stuff where we're like, you know, what is cutting edge we want to hear about it and we want to make sure that we tap into the lived experience of people with diabetes.
+
+359
+00:36:11,000 --> 00:36:24,000
+Today's episode is sponsored by T1D Exchange. You can directly make an impact on diabetes health care, treatments, and technology by participating in the T1D Exchange registry.
+
+360
+00:36:24,000 --> 00:36:35,000
+It starts with the simple survey about your life with T1D, and it only takes about 15 minutes. After that, you'll have a personal portal with ongoing T1D study and survey opportunities.
+
+361
+00:36:35,000 --> 00:36:44,000
+Plus, some of these studies even offer compensation. Signing up with the link in the show notes helps support my channel and it allows me to continue putting out free content.
+
+362
+00:36:44,000 --> 00:36:52,000
+You can sign up at t1dxchange.org slash diabetic or click that link in today's show notes.
+
+363
+00:36:52,000 --> 00:37:01,000
+After the years of throwing this event, is there something that you're most proud of?
+
+364
+00:37:01,000 --> 00:37:12,000
+I guess, I mean, being able to say that I was there at the, you know, ground zero of this we're not waiting movement and, you know, helped at least help cross-pollinate and bring people together and foster that.
+
+365
+00:37:12,000 --> 00:37:22,000
+It's just so exciting. And I mean, I still every day see stories coming out of, you know, the UK and other countries about, but we were not waiting, like it's this thing and I'm like, oh, that was me. I was there.
+
+366
+00:37:22,000 --> 00:37:32,000
+Well, you know, so that's a great thing to know that you're a part of that. And also, I mean, I'm just going to say, like, you probably feel the same way.
+
+367
+00:37:32,000 --> 00:37:39,000
+It's no one wants to diabetes. It's a shitty disease, but doing the work we do, you get to meet so many amazing people.
+
+368
+00:37:39,000 --> 00:37:46,000
+I feel like I've, you know, this, this community just never ceases to blow my mind, you know, there are so many great people out there.
+
+369
+00:37:46,000 --> 00:37:54,000
+And, you know, it was easy, early on to think, well, the farmer and the men take people or the enemy or they're just, you know, out there for corporate greed.
+
+370
+00:37:54,000 --> 00:38:00,000
+But there are so many good people in those organizations who, you know, many of whom live with this disease themselves or have a child.
+
+371
+00:38:00,000 --> 00:38:11,000
+And they're really there for the right reasons. And, you know, knowing that it gives me hope that, you know, despite the challenges we're all facing that people are, you know, pushing in the right direction.
+
+372
+00:38:11,000 --> 00:38:17,000
+Yeah, when you were in the room and you came up with this, you all came up with this, we are not waiting.
+
+373
+00:38:17,000 --> 00:38:22,000
+Did you understand the gravity of that at the time?
+
+374
+00:38:22,000 --> 00:38:28,000
+Interestingly, I mean, there was no, you know, how could we possibly know it was going to sweep the world? No.
+
+375
+00:38:28,000 --> 00:38:37,000
+But we did, we just whole list. And I have it somewhere, like, in our original materials of, like, we're not waiting for what? And we went, like, there was this whole manifesto that went with it.
+
+376
+00:38:37,000 --> 00:38:42,000
+We're not waiting for the FDA. We're not waiting for the, you know, for the industry companies to do it.
+
+377
+00:38:42,000 --> 00:38:50,000
+We're not waiting for, you know, it just, it was like a whole description. We thought, you know, we had to have this really, like really well thought out manifesto.
+
+378
+00:38:50,000 --> 00:38:57,000
+And it turned out just like that hashtag and that mantra, you know, you could just take it and run, like people got it. They knew what it meant.
+
+379
+00:38:57,000 --> 00:39:05,000
+And, you know, so, you know, again, it felt exciting. It felt like we were definitely on the ground floor or something big.
+
+380
+00:39:05,000 --> 00:39:15,000
+But there was, there's no way to really, you know, preview how, how just like, you know, what a, what a world change or this is going to be, right?
+
+381
+00:39:15,000 --> 00:39:16,000
+Yeah.
+
+382
+00:39:16,000 --> 00:39:19,000
+What do you think we are not waiting for right now?
+
+383
+00:39:19,000 --> 00:39:24,000
+That's a good question. We asked, I feel like we asked that every year, my event, we're like, okay, what is going on?
+
+384
+00:39:24,000 --> 00:39:34,000
+Yeah. And really, that's how we choose the topics. In fact, we're like, are, I have these two key questions we ask, like, what is the D data community buzzing about right now?
+
+385
+00:39:34,000 --> 00:39:39,000
+And, you know, what are, how are these new emerging challenges being met?
+
+386
+00:39:39,000 --> 00:39:44,000
+And we use those as kind of guideposts to pick our topics and speakers and stuff.
+
+387
+00:39:44,000 --> 00:39:53,000
+So, you know, I mean, does, you know, it goes back to sort of what's hot right now. So, maybe what we're not waiting for right now is, you know,
+
+388
+00:39:53,000 --> 00:40:00,000
+how could we get GLP ones covered, you know, and approve for people to type one. Like, come on man, let's, let's not wait on that. Let's do it, right?
+
+389
+00:40:00,000 --> 00:40:06,000
+A lot of people are having success there. They're using it all label and, and yeah, we need more information there.
+
+390
+00:40:06,000 --> 00:40:20,000
+More, yeah, and I mean, so the, at the upcoming event, which is going to be in June in Chicago, we are for the first time ever going to be showcasing self therapy innovations, which hasn't normally been sort of our bellywick.
+
+391
+00:40:20,000 --> 00:40:28,000
+But the reason that we're choosing to do it is I feel like we're at this inflection point where there are a lot more players in the space, there's a lot more tangible evidence.
+
+392
+00:40:28,000 --> 00:40:37,000
+There are obviously more people who've actually undergone these, these self therapy treatments, and who can talk about the impact on their lives, and it feels like it's really getting somewhere.
+
+393
+00:40:37,000 --> 00:40:40,000
+So, that is an innovation that's sort of up and coming.
+
+394
+00:40:40,000 --> 00:40:43,000
+We're not waiting for a cure. Let's do it.
+
+395
+00:40:43,000 --> 00:40:54,000
+Thank you. We're not waiting for a cure. You know, and how can we push ahead and how can we push on access so that more people, you know, would be eligible to get this life changing therapy, right?
+
+396
+00:40:54,000 --> 00:41:12,000
+Is there anything that over the span of blogging in that growing into these, these events? Is there anything that you've learned from this whole process that you wish you could go back to like your earlier self when you started all this and say like, hey, do this.
+
+397
+00:41:12,000 --> 00:41:15,000
+Or like, you know what I mean?
+
+398
+00:41:15,000 --> 00:41:25,000
+I mean, it is blessing and a curse being so independent and being kind of a one woman show because I feel like if I, you know, there's a lot of things I should have kept track of and like early on.
+
+399
+00:41:25,000 --> 00:41:32,000
+I didn't even have a good system to keep talking about my own network. I just knew so many people and it was like, oh my god, where's their phone and where's their email?
+
+400
+00:41:32,000 --> 00:41:38,000
+It sounds kind of primitive, but it was like, just so busy doing the everyday work, you're like, oh my goodness, I should have database of people.
+
+401
+00:41:38,000 --> 00:41:50,000
+So I feel like I didn't, it took me a while to realize like I need some infrastructure, you know, in order to like sustain this, you know, so it would have been nice to be able to hire an assistant.
+
+402
+00:41:50,000 --> 00:42:04,000
+But yeah, I think, you know, keeping records of stuff and also like some of the best stuff we did online, you know, over the years the blog was acquired not once but twice.
+
+403
+00:42:05,000 --> 00:42:12,000
+And you know, the internet's fickle and time goes by and then some of our best coverage, you know, sort of disappeared from public view.
+
+404
+00:42:12,000 --> 00:42:20,000
+So we just recently gone back and doing this archive project and trying to kind of reclaim those articles from back in the day, you know.
+
+405
+00:42:20,000 --> 00:42:38,000
+Do you have any advice for me? Like how how I could potentially better use the platforms I have, whether it be my podcast, my YouTube channel, my social pages, my blog, which I've re I launched maybe like six months ago when I love blogging it's so much fun.
+
+406
+00:42:38,000 --> 00:42:43,000
+And then my newsletter like is fun too, it's a lot of work, it's all a lot of work.
+
+407
+00:42:43,000 --> 00:42:56,000
+So I mean, I'm not to sound like, you know, Granny who knew it was by a certain thing, but one thing I would definitely say is like, you know, do your homework, look trying to find out what, you know, how are look used to say every time he would come and talk about.
+
+408
+00:42:56,000 --> 00:43:07,000
+And he's like, we're standing on the shoulders of giants, you know, there's this, you know, this core group I happen to be part of that laid the ground where for all this stuff, there's a lot of people out there doing stuff.
+
+409
+00:43:07,000 --> 00:43:25,000
+And I mean, I think it's great, you know, if you, because that's what I did to I came in and I said I'm going to interview all these people like, oh my god, there's someone who wrote this book who's someone has this really cool website like I'm going to highlight their work, but there are so many people, especially like young people with like an idea for a startup or some app.
+
+410
+00:43:25,000 --> 00:43:35,000
+Who will come to me and say, I want to show you my pitch, my really cool thing and I look at it and I say, well, do you know, there's already three other apps that do this or how is this better than what someone so is doing and they're like, what?
+
+411
+00:43:35,000 --> 00:43:54,000
+Like, did you do your homework like that, like, who's, you know, in their cases who's the competition, but like finding out what else is out there and what's been done, I think is really important so that you have some like institutional knowledge to, you know, to stand on, you know, and then other than that, I mean I think, you know, you're doing it just right in the sense that like people.
+
+412
+00:43:54,000 --> 00:44:04,000
+People love the personal kind of product review, whatever, unboxing or let me look at this thing, you know, you know, with the visuals, that's amazing.
+
+413
+00:44:04,000 --> 00:44:10,000
+And if you can get somewhere from the company to come on and talk about it, like, why do you guys build it like this, what about this feature, have you thought about that, you know.
+
+414
+00:44:10,000 --> 00:44:12,000
+I think, you know, that's magic.
+
+415
+00:44:12,000 --> 00:44:21,000
+So I would definitely say like, you know, just keep connecting with as many people as possible and you know, whenever you hear about someone doing something cool, like see if you can get them on your show.
+
+416
+00:44:21,000 --> 00:44:26,000
+Well, and that's that's been my favorite thing about having this show is especially to the point where it's grown.
+
+417
+00:44:26,000 --> 00:44:44,000
+People want to come on, especially when I approach them, I mean they approach me too, but you know, if I think something's cool or I have questions about something I want people to come on and I'm just because you're the founder CEO of the company that makes the device doesn't mean I'm going to ask you a silly question like, you know, I don't love that you put your.
+
+418
+00:44:44,000 --> 00:44:50,000
+You know, logo right on the middle of it, you know, I'm just going to tell you exactly how it is or ask the questions, you know.
+
+419
+00:44:50,000 --> 00:45:08,000
+And it's a difference between being like purposely contentious and, you know, trying to stir up the pot and then just being like constructively, you know, curious and and, you know, critical to be, you know, so for example, the ever since when it first came out, it was like, oh, it's so cool, you know, it's.
+
+420
+00:45:08,000 --> 00:45:13,000
+It's inserted and I'm like, yeah, but you got to wear this thing on the outside to make it work and it's black.
+
+421
+00:45:13,000 --> 00:45:20,000
+I don't want to black blah, but I mean, I did I wore it and I wore it when it was only three months. So I got the scars to show for both shoulders.
+
+422
+00:45:20,000 --> 00:45:25,000
+Do you regret getting it with this for the scars or no, you're glad you did it.
+
+423
+00:45:25,000 --> 00:45:26,000
+Okay.
+
+424
+00:45:26,000 --> 00:45:37,000
+And in my case, that was before they, I don't know who they're using now, but they were having the endocrinologist do the procedure and those people, they're not, you know, really trained to be inserting things in your skin.
+
+425
+00:45:37,000 --> 00:45:41,000
+So they had a one incidents where they were fishing around and couldn't get it out.
+
+426
+00:45:41,000 --> 00:45:50,000
+So they just went ahead and put a new one on the other side and then I had this thing here and I had to wait until somebody more skilled could get in there and pull it out and so yeah, I've got scars, whatever.
+
+427
+00:45:50,000 --> 00:45:51,000
+I mean, I'm old now.
+
+428
+00:45:51,000 --> 00:45:57,000
+But it was like, I don't know if that was worth it, you know, keeping critical, but not, you know, but do it.
+
+429
+00:45:57,000 --> 00:46:03,000
+And this is what I say at my events to like, I want us to have those kind of conversations. I want people to get up and ask the point in questions.
+
+430
+00:46:03,000 --> 00:46:07,000
+I've had a few things that got heated and some like early on, there was a couple of the patient.
+
+431
+00:46:07,000 --> 00:46:13,000
+I have a kids who started like throw the F bombs and stuff and I'm like, no, we're not here to put anyone under the firing squad.
+
+432
+00:46:13,000 --> 00:46:22,000
+Like, it's okay to say, I don't understand why you guys did this or, you know, this really isn't in the interest of patients, but you need to be polite and be constructive about it because we're trying to make things better.
+
+433
+00:46:22,000 --> 00:46:26,000
+We're not just trying to like take pot shots at each other when we last spoke.
+
+434
+00:46:26,000 --> 00:46:47,000
+You mentioned that this year, you're just, you're feeling like the shifting going on in politics, which then creates a shift, which is creating a shift in in the medical industry or FDA, you know, all of that and then there for affecting us.
+
+435
+00:46:47,000 --> 00:46:55,000
+Just from your point of view, what are you feeling from this whole shift right now? What is your experience, especially with these events?
+
+436
+00:46:55,000 --> 00:47:05,000
+In impacts, probably for me and many other people's financial, you know, the companies are being very understandably very tight on budgets.
+
+437
+00:47:05,000 --> 00:47:13,000
+That means that affects the sponsorship money that we rely on and it also affects, you know, people wanting to being willing to come into pay.
+
+438
+00:47:13,000 --> 00:47:22,000
+You know, I feel like in previous years, certainly pre-COVID employees had some budget to attend a certain number of conferences a year.
+
+439
+00:47:22,000 --> 00:47:30,000
+They were able to get their travel cover, they, you know, paying the entrance fee to a professional conference was kind of expected.
+
+440
+00:47:30,000 --> 00:47:37,000
+And now, more and more, everybody's asking for a discount code and, like, is concerned about whether they can come.
+
+441
+00:47:37,000 --> 00:47:43,000
+And, like I said, the federal agencies are not sending people out to do talks anymore, at least not at the moment.
+
+442
+00:47:43,000 --> 00:47:46,000
+I mean, everybody's running a little bit scared there.
+
+443
+00:47:46,000 --> 00:47:59,000
+So, you know, I think we're all feeling that there's so much uncertainty right now, which is why we chose to have we're going to have our opening session in June talking about the shifts in health policy and how that's impacting our community.
+
+444
+00:47:59,000 --> 00:48:05,000
+But obviously the diabetes world is only one small sliver of the people being affected by this.
+
+445
+00:48:05,000 --> 00:48:23,000
+But yeah, and I don't think the powers that be at the top are thinking about people like us that are truly affected by these changes and potentially even the slowing down of innovation that this will cause, you know, so I'm excited to hear that.
+
+446
+00:48:23,000 --> 00:48:31,000
+You know, it was talking about, oh, MedTech devices are going to go up in price and one of the main things they were talking about is insulin pumps and I'm like, are you kidding me? They're already so expensive.
+
+447
+00:48:31,000 --> 00:48:34,000
+Like, that's really scary.
+
+448
+00:48:34,000 --> 00:48:43,000
+Yeah, I mean, the way it will look is the price of the pump will go up that's charged to the insurance company and then insurance company will raise premiums for everyone.
+
+449
+00:48:43,000 --> 00:48:45,000
+So it does affect everyone.
+
+450
+00:48:45,000 --> 00:48:46,000
+It does affect everyone.
+
+451
+00:48:46,000 --> 00:48:50,000
+The insurance companies are already so tight with their coverage.
+
+452
+00:48:50,000 --> 00:48:55,000
+You know, I don't think that's going to be going in any kind of beneficial direction for patients.
+
+453
+00:48:55,000 --> 00:49:14,000
+So it is. It's just such uncertain times and, you know, it's really, it's, it's, I feel like it's mostly financial, although the current administration is also seems to be sort of anti research and anti progress and they're like pulling the plug from so many of these important, you know, research projects.
+
+454
+00:49:14,000 --> 00:49:24,000
+That's another whole issue that's scary and that doesn't seem to be wholly financial. I think it's also just sort of anti intellectual kind of trying to punish the people who came before who they thought were
+
+455
+00:49:24,000 --> 00:49:28,000
+being too loose. I think with the, with the support and the money for science.
+
+456
+00:49:28,000 --> 00:49:35,000
+And I mean, I told the folks that are on this panel, like, we don't, we, we're not going to prepare too much because we're going to, we have to wait until a few weeks before they went.
+
+457
+00:49:35,000 --> 00:49:37,000
+Right. Yeah.
+
+458
+00:49:37,000 --> 00:49:39,000
+What is actually happening?
+
+459
+00:49:39,000 --> 00:49:40,000
+Yeah.
+
+460
+00:49:40,000 --> 00:49:46,000
+Right. The entire first segment of the day are like, we need to rewrite this, you know, hopefully no change has happened that week.
+
+461
+00:49:46,000 --> 00:49:49,000
+In your eyes, what work is left to do?
+
+462
+00:49:50,000 --> 00:49:56,000
+There, you know, there was even a time a couple of years ago, not too many years ago, and they were sort of saying, maybe this whole weird.
+
+463
+00:49:56,000 --> 00:50:00,000
+I'm waiting things, peatoring out maybe we don't really need this anymore, like the industry's catching up.
+
+464
+00:50:00,000 --> 00:50:03,000
+And I was like, no, there's always more to be done.
+
+465
+00:50:03,000 --> 00:50:09,000
+And because technology is enabling things to go, you know, be faster, better, more efficient.
+
+466
+00:50:09,000 --> 00:50:16,000
+That just breaks open new possibilities for, you know, what we can do with the data platform, what we can do with an app.
+
+467
+00:50:16,000 --> 00:50:27,000
+I think there's just, there's always more out there that has, you know, yet to be discovered or put together, you know, and again, cell therapy innovation.
+
+468
+00:50:27,000 --> 00:50:37,000
+We didn't talk about it for a long time because it felt, the cell therapy area just felt like it's sort of pie in the sky way off in the future thing, you know, it's going to be another couple decades.
+
+469
+00:50:37,000 --> 00:50:44,000
+Now it's feeling closer and that is like a functional cure. I mean, that would be is kind of like living without diabetes, which is, you know,
+
+470
+00:50:44,000 --> 00:50:51,000
+and people who are taking GLP ones now are telling me that they feel the same way, they haven't taken a bolus in months, it just blows my mind.
+
+471
+00:50:51,000 --> 00:51:00,000
+Yeah, I think a lot more research there with using AID with GLP ones could be big, especially some of the DIY apps.
+
+472
+00:51:00,000 --> 00:51:05,000
+I know a lot of people are using GLP ones and they're not bolusing on those apps.
+
+473
+00:51:05,000 --> 00:51:15,000
+You know, I mean, it's just, again, it's kind of mind blowing when I think like where we started was the idea that you could even like see your blood sugar in real time was like mind blowing.
+
+474
+00:51:15,000 --> 00:51:28,000
+And now we're talking about stuff where you're going to be able to live almost like you don't have diabetes, like, you know, all that math and all that boldest frustration and the worry about insulin on board, like all of those things are getting close to being solved.
+
+475
+00:51:28,000 --> 00:51:45,000
+So, you know, I think there's, we're on the verge of some really exciting, you know, true breakthroughs after all these years of hearing about the breakthroughs is like this one to breakthrough breakthrough in the sense that it, you know, as we say everything that you create in this space should relieve patients of the burden, not give them more stuff to do.
+
+476
+00:51:45,000 --> 00:51:47,000
+Well, Amy, thank you so much for coming on the show.
+
+477
+00:51:47,000 --> 00:51:57,000
+I will be at the data, the data event in June at ADA, I'll also be moderating the GLP one moment.
+
+478
+00:51:57,000 --> 00:52:04,000
+And then also why don't we throw, I know it's an invite only, but you were telling me that people can inquire.
+
+479
+00:52:04,000 --> 00:52:10,000
+So I can throw something in the show notes for so people can inquire in whatever manner.
+
+480
+00:52:10,000 --> 00:52:19,000
+If you're involved in diabetes innovation, you have a role in this and you would like to come, you know, ping info at diabetesmind.com to request an invitation.
+
+481
+00:52:19,000 --> 00:52:25,000
+And the idea is that they should say at least a few words like give us a link or some kind of description of what your role is.
+
+482
+00:52:25,000 --> 00:52:28,000
+It's not open to the public, it is a leadership event.
+
+483
+00:52:28,000 --> 00:52:34,000
+But again, we're happy to, you know, welcome people who are involved in this space in some way.
+
+484
+00:52:34,000 --> 00:52:39,000
+Yeah, yeah, great awesome. Well, that will be in the show notes and I will see you there, I guess.
+
+485
+00:52:39,000 --> 00:52:42,000
+Yes, sounds great.
+
+486
+00:52:42,000 --> 00:52:48,000
+Thanks for listening, new episodes air every Monday on YouTube and on all major podcast platforms.
+
+487
+00:52:48,000 --> 00:52:54,000
+If you want to read that letter to Steve Jobs, I thrown it in the show notes, I'm Justin and I'll take you later.
+

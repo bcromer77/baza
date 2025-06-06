@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:06,320
+Holy crap! Apple's worldwide developer conference just ended and I am stunned. So much was said,
+
+2
+00:00:06,320 --> 00:00:08,800
+but here are the top 10 things you need to know.
+
+3
+00:00:13,520 --> 00:00:20,000
+First thing is Apple announced a new show called for all mankind on their Apple TV plus platform.
+
+4
+00:00:20,000 --> 00:00:24,880
+It's from the creators of Star Trek and Battlestar Galactica and it's a show that imagines a world
+
+5
+00:00:24,880 --> 00:00:29,040
+where the Soviets are the first to land on the moon. It's basically about the space race and
+
+6
+00:00:29,040 --> 00:00:33,680
+a push to get to Mars. This show looks really awesome with a very large budget.
+
+7
+00:00:33,680 --> 00:00:38,879
+Also Tim Cook said he saw an early sneak peek of the entire first season and he loves it. So
+
+8
+00:00:38,879 --> 00:00:44,960
+why wouldn't we? Next up is Watch OS. There is now an app store right on your wrist. So
+
+9
+00:00:44,960 --> 00:00:51,280
+you can download and install apps right on the watch. Next up is iOS 13 a few things here.
+
+10
+00:00:51,280 --> 00:00:56,080
+Just like the last Mac update we are now getting a dark mode for iOS and it looks
+
+11
+00:00:56,559 --> 00:01:01,360
+Also the photos app is getting a much needed facelift. Your phone always has all these pictures
+
+12
+00:01:01,360 --> 00:01:07,120
+because you took 15 of them. It now condenses them to show you days, months and years and it's really
+
+13
+00:01:07,120 --> 00:01:13,520
+really pretty. Okay this one has me ridiculously excited and it's AirPods audio sharing. So what that
+
+14
+00:01:13,520 --> 00:01:18,960
+means is if you have AirPods and a friend has AirPods and maybe a few other ones you can all be listening
+
+15
+00:01:18,960 --> 00:01:23,920
+to the same thing at the same time. This is something I've like fantasized about since college.
+
+16
+00:01:23,920 --> 00:01:28,240
+Now you can like go on a stroll with all your friends with AirPods and not even talk to each other
+
+17
+00:01:28,240 --> 00:01:32,480
+and just listen to the same music. Also really excited about this one. I think I'm just excited about
+
+18
+00:01:32,480 --> 00:01:38,080
+everything. It's CarPlay multitasking. I've been waiting for this and it's finally here. You can now have
+
+19
+00:01:38,080 --> 00:01:45,200
+split screen on CarPlay and Siri won't take up the whole screen when you talk to him or her. Can't wait for it.
+
+20
+00:01:45,200 --> 00:01:53,120
+Okay this one is big Apple announced iPad OS today. Yeah so what that means is the iPad is officially
+
+21
+00:01:53,120 --> 00:02:00,880
+breaking apart from the iPhone and it's becoming its own thing. iPad OS is widget a f. This new
+
+22
+00:02:00,880 --> 00:02:05,040
+OS is going to have amazing multitasking. You're going to have notes next to notes. You can have
+
+23
+00:02:05,040 --> 00:02:09,440
+word documents next to word documents. You can take pictures and put them in other things and you can
+
+24
+00:02:09,440 --> 00:02:13,840
+now plug in flash drives. All right Apple, thanks for the flash drive support but why don't we move to
+
+25
+00:02:13,840 --> 00:02:19,280
+USB-C instead this lightning cable thing okay and what Apple basically did today was say hey listen we're
+
+26
+00:02:19,280 --> 00:02:26,960
+going to make your iPad a Mac without making it a Mac so you'll need a Mac. Why? Because many we want
+
+27
+00:02:26,960 --> 00:02:32,320
+you to have an iPad and a Mac. Hashtag Apple but I'm kind of okay with it and I kind of want to
+
+28
+00:02:32,320 --> 00:02:39,280
+iPad now. I don't have one. Okay so this one came out of left field for me. A Mac pro was announced today
+
+29
+00:02:39,280 --> 00:02:46,640
+or should I say a cheese grater. So Apple is going back to their roots of being able to customize things.
+
+30
+00:02:46,640 --> 00:02:54,320
+Yay finally we can customize our Mac pros. This thing is a powerful freaking beast. I'm not going
+
+31
+00:02:54,320 --> 00:02:59,920
+to get into the nitty gritty of this thing. Let's just say it's freaking powerful. This thing starts at
+
+32
+00:02:59,920 --> 00:03:06,400
+$6,000 and this is what you're getting for that. Which brings me to my next one. This is the brand new
+
+33
+00:03:06,400 --> 00:03:14,240
+display by Apple called the Pro Display XDR and it is beautiful. This thing is super powerful. It is a 6k
+
+34
+00:03:14,240 --> 00:03:20,400
+retina display. I also really appreciate that super audible throne as the Apple was like oh by the
+
+35
+00:03:20,400 --> 00:03:25,680
+way this screen doesn't actually come with a stand you have to pay for that. This starts at $5,000 and
+
+36
+00:03:25,680 --> 00:03:32,240
+I don't got no money from Apple. Help me I'm poor. Next is Mac OS Catalina which I've actually never
+
+37
+00:03:32,240 --> 00:03:38,160
+been to and I really want to go. So you have me tips let me know. Anyway not a ton here but basically we
+
+38
+00:03:38,160 --> 00:03:43,920
+are going to get some revamp apps. There's new reminders and new notes and that new photos app.
+
+39
+00:03:43,920 --> 00:03:50,480
+One thing that's really great with the new Mac OS is voice control. So they're making a huge emphasis on
+
+40
+00:03:50,480 --> 00:03:56,079
+being able to talk to your Mac and this actually works across all the OS's. People will now be able to
+
+41
+00:03:56,079 --> 00:04:01,600
+speak to their devices using numbers or being like do you correct that for me? This is really amazing and
+
+42
+00:04:01,600 --> 00:04:07,519
+I think this is a really good push for accessibility. Also at this time we are finally saying goodbye
+
+43
+00:04:07,680 --> 00:04:14,720
+to iTunes. After 18 years iTunes is officially dead and it's being replaced by three apps a podcast
+
+44
+00:04:14,720 --> 00:04:20,640
+app and Apple TV app and an Apple music app. Don't ask me why we couldn't just do this in one app and
+
+45
+00:04:20,640 --> 00:04:26,320
+have three different sections. They decided to make three apps. Let's take a moment of silence to
+
+46
+00:04:26,320 --> 00:04:34,320
+remember iTunes. And lastly this is something that's got me really excited for the future and it is
+
+47
+00:04:34,320 --> 00:04:41,440
+AR augmented reality on iOS. A couple of people from Minecraft came on stage and they showed us how
+
+48
+00:04:41,440 --> 00:04:47,440
+AR is going to work and it is fascinating. They were able to not only play with two devices and see
+
+49
+00:04:47,440 --> 00:04:53,840
+each other interacting in the game but they were able to inject themselves in the game. And this is
+
+50
+00:04:53,840 --> 00:04:57,680
+really just the beginning and it's not something we're really going to be doing who wants to really
+
+51
+00:04:57,680 --> 00:05:04,159
+hold an iPad and do AR. No Apple is going to eventually come out with some glasses that you put on
+
+52
+00:05:04,160 --> 00:05:10,160
+and that's how you interact in the AR world. We're not there yet but that's the future implications of this
+
+53
+00:05:10,160 --> 00:05:16,160
+and I'm ready for it. So those are my top 10 takeaways just some little snippets but I had to let you know
+
+54
+00:05:16,160 --> 00:05:21,120
+what's going on in the Apple world because my mind is blown. As Apple releases some of these
+
+55
+00:05:21,120 --> 00:05:26,160
+data I will be covering knows as well so definitely subscribe to my channel for more of those videos and
+
+56
+00:05:26,160 --> 00:05:34,000
+follow me on the social media. Other than that I'm Justin I'll take you later.
+
+57
+00:05:34,160 --> 00:05:37,040
+Did I do that?
+

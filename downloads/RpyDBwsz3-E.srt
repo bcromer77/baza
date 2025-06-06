@@ -1,0 +1,1572 @@
+1
+00:00:00,000 --> 00:00:09,000
+AAPS is a powerful, automated insulin delivery system that runs on Android and comes from the open source community.
+
+2
+00:00:09,000 --> 00:00:11,000
+It runs on the OREV algorithm.
+
+3
+00:00:11,000 --> 00:00:19,000
+The system has advanced dynamic settings, including dynamic insulin sensitivity factor, dynamic carb ratio,
+
+4
+00:00:19,000 --> 00:00:23,000
+and unannounced meal detection with microboluses or SMBs.
+
+5
+00:00:23,000 --> 00:00:29,000
+These settings will adjust as it learns more about you and looks at the data that it's seen.
+
+6
+00:00:29,000 --> 00:00:32,000
+But what is it like starting Android APS?
+
+7
+00:00:32,000 --> 00:00:34,000
+It can be intimidating.
+
+8
+00:00:34,000 --> 00:00:38,000
+There are a lot of settings to get down, so I wanted to explore this.
+
+9
+00:00:38,000 --> 00:00:42,000
+And then I'm exploring it today with someone who's been using it for about three months now.
+
+10
+00:00:42,000 --> 00:00:43,000
+Welcome to the show.
+
+11
+00:00:43,000 --> 00:00:44,000
+I'm Justin.
+
+12
+00:00:44,000 --> 00:00:45,000
+I have type 1 diabetes and on here.
+
+13
+00:00:45,000 --> 00:00:48,000
+I talk all things diabetes, tech, research, and news.
+
+14
+00:00:48,000 --> 00:00:51,000
+And today, it's all things open source.
+
+15
+00:00:51,000 --> 00:00:55,000
+Now, we've talked about a system that has the same algorithm.
+
+16
+00:00:55,000 --> 00:00:56,000
+The app is called Trio.
+
+17
+00:00:56,000 --> 00:00:57,000
+It's on iPhone.
+
+18
+00:00:57,000 --> 00:01:03,000
+This one is Android, but it uses the same system to regulate glucose levels.
+
+19
+00:01:03,000 --> 00:01:05,000
+It's just meant for Android.
+
+20
+00:01:05,000 --> 00:01:10,000
+If you want to learn more about Trio, you can watch those videos that I'll put in today's show notes.
+
+21
+00:01:10,000 --> 00:01:18,000
+But today, we are talking to Austin Simpson, a type 1 who has been using Android APS for three months now.
+
+22
+00:01:18,000 --> 00:01:23,000
+He was looking for more customization and control over his diabetes management.
+
+23
+00:01:23,000 --> 00:01:29,000
+As a competitive bike racer, Austin wanted an algorithm that could adapt to his active lifestyle
+
+24
+00:01:29,000 --> 00:01:36,000
+and help him achieve tighter glucose control with a goal of getting his A1C below six for the first time.
+
+25
+00:01:36,000 --> 00:01:41,000
+Today, he takes me through his experience from what it was like before using Android APS,
+
+26
+00:01:41,000 --> 00:01:48,000
+what system he was using and what was missing for him, what the setup was like and the learning curve for getting the settings down.
+
+27
+00:01:48,000 --> 00:01:57,000
+He breaks down Android APS's unique step-by-step setup progression that users must follow to unlock the system's most advanced settings.
+
+28
+00:01:57,000 --> 00:02:03,000
+We also get into how he uses temp targets and his Garmin smartwatch integration.
+
+29
+00:02:03,000 --> 00:02:09,000
+Keep in mind that anything you hear on this podcast or any of my channels is not medical advice and is for educational purposes.
+
+30
+00:02:09,000 --> 00:02:13,000
+Only always consult with a physician before making changes to your healthcare.
+
+31
+00:02:13,000 --> 00:02:18,000
+Android APS is experimental and it's not approved by the FDA or regulatory authorities.
+
+32
+00:02:18,000 --> 00:02:24,000
+You take full responsibility for building and using these apps and you do so at your own risk.
+
+33
+00:02:24,000 --> 00:02:28,000
+Austin, welcome to the show. How's it going?
+
+34
+00:02:28,000 --> 00:02:32,000
+Good. I'm happy to be here. Actually, I'm really excited to be here. This is awesome.
+
+35
+00:02:32,000 --> 00:02:36,000
+Yeah, you followed my content in some way before this, right?
+
+36
+00:02:37,000 --> 00:02:51,000
+Yes, whether it was like the YouTube videos or sort of the different TikTok sections talking about the new technology or I think even my favorite is all your work to go interview people.
+
+37
+00:02:51,000 --> 00:02:58,000
+Different companies to talk more about what's being developed. So yeah, for at least like a couple years now.
+
+38
+00:02:58,000 --> 00:03:05,000
+What would you see say like interest you most about stuff I cover the technology?
+
+39
+00:03:06,000 --> 00:03:18,000
+Yeah, honestly, to me it's the like cutting edge intersection between the new technology that's coming and how it answers the problems that the users have on a daily basis.
+
+40
+00:03:18,000 --> 00:03:34,000
+And I really think it's kind of the position of of you to to bridge the gap between us as users and then the technology experts and I think it's hard to connect sometimes engineers to users.
+
+41
+00:03:34,000 --> 00:03:39,000
+And it gives us a voice in a certain sense. So yeah, I think it's great.
+
+42
+00:03:39,000 --> 00:03:52,000
+Awesome. Did my content in any way inspire you to start Android APS or had you not heard about it before? Like, how did you kind of get your eyes set on that?
+
+43
+00:03:52,000 --> 00:04:01,000
+Yeah, so there's a little bit of a background story behind that, but really it started with my partner. I had just gotten married.
+
+44
+00:04:01,000 --> 00:04:19,000
+And as she was learning more and more about my life with diabetes, she started asking more and more questions that I probably hadn't asked in years because once you get down a whole with one system and get it working really well going through change and changing to something else might be difficult.
+
+45
+00:04:20,000 --> 00:04:34,000
+But once she started looking at your videos on loop, we started asking, okay, well, why don't I use a DIY system instead of one of the traditional insulin pumps and then how might it benefit me.
+
+46
+00:04:34,000 --> 00:04:53,000
+And then going even further after that, I connected with a diabetes coach who recommended that I pursue a DIY system to sort of like achieve the goals that I was after that maybe I was limited by using a traditional insulin pump.
+
+47
+00:04:53,000 --> 00:05:08,000
+Yeah, and I will say I think there's a move in the community and I say DIY myself all the time, but there's a move to say more so open source because there are so many people in the community who are willing to help.
+
+48
+00:05:08,000 --> 00:05:13,000
+So it's like, yeah, you're doing a lot of steps yourself, but there are so many people that can help it.
+
+49
+00:05:13,000 --> 00:05:24,000
+I'm sure that you found a coach who could help you, but there are so many like community boards and areas where you can can work with others to help you.
+
+50
+00:05:24,000 --> 00:05:31,000
+So they're all open source and I guess I'm trying my best to not say DIY as much.
+
+51
+00:05:31,000 --> 00:05:37,000
+But what were you using at the point where you were like rethinking your treatment?
+
+52
+00:05:37,000 --> 00:05:39,000
+I guess before and right.
+
+53
+00:05:39,000 --> 00:05:47,000
+Yeah, so my history with insulin pumps was starting on a matronic and then from there I had gone to a T-Slim X2.
+
+54
+00:05:47,000 --> 00:05:59,000
+So that's what I had been using at the time and I was using a Dexcom G6 and I was also using control IQ on that T-Slim.
+
+55
+00:05:59,000 --> 00:06:16,000
+Okay, and why did you and your partner together feel like this, this which made sense for you was something missing on the tandem system and workflow you were on?
+
+56
+00:06:16,000 --> 00:06:24,000
+Yeah, so I think for me and this goes back to like the conversations I had with my coach.
+
+57
+00:06:24,000 --> 00:06:37,000
+And we talked about how the T-Slim insulin pump with control IQ was limited by its degree for which it could intervene on like highs and lows for your blood sugars.
+
+58
+00:06:37,000 --> 00:06:53,000
+So you set maximums and thresholds for how much it can raise or lower your basal insulin, but it doesn't have maybe the same responsiveness that some of these open source platforms have.
+
+59
+00:06:53,000 --> 00:07:10,000
+So this suggestion was that by switching to an open source platform or system you have more access to control responses to your blood sugar and you can tailor it more specifically to your life.
+
+60
+00:07:10,000 --> 00:07:36,000
+And then in addition to that I was getting a lot out of the T-Slim insulin pump and maybe we'll talk about it later, but I was getting pretty good percentages for time and range and the limitation was that I had to do a lot of manual work on my insulin pump all the time to accomplish those numbers and although I could get there it was a lot of like mental load.
+
+61
+00:07:36,000 --> 00:07:46,000
+It's a lot of decisions and it's a lot of like thinking ahead instead of having a system there that can kind of act as your buffer.
+
+62
+00:07:46,000 --> 00:08:01,000
+Yeah and I want to understand that more so I am currently testing out mobile and learning the ins and outs of control IQ plus which is like the updated algorithm that just released which is better than the algorithm you were using it has.
+
+63
+00:08:01,000 --> 00:08:07,000
+You can set up to 72 hours in automated mode which is great.
+
+64
+00:08:07,000 --> 00:08:16,000
+I'm so glad that people in that community using those pumps at least in the US for now have access to that.
+
+65
+00:08:16,000 --> 00:08:19,000
+And then the extended bols is longer as well.
+
+66
+00:08:19,000 --> 00:08:29,000
+Can you tell me more about that decision making or constant usage of your pump system that felt like too much on tandem.
+
+67
+00:08:29,000 --> 00:08:53,000
+Yeah, so like the other aspect of my life that gets pulled into this is I ride and race road bikes and a little bit of mountain biking but that's a pretty aerobically demanding sport and so managing the amount of food you take in while you're in race and then also managing your blood sugar is a lot to look at at the same time.
+
+68
+00:08:53,000 --> 00:09:07,000
+So the way that I would I would solve not having a low blood sugar during these workouts was to think ahead of time and then because if you use the exercise mode on the T slim.
+
+69
+00:09:07,000 --> 00:09:18,000
+It wasn't adequate enough to cover my blood sugar changes so it just didn't reduce stuff down enough and it does it to a fixed amount.
+
+70
+00:09:18,000 --> 00:09:24,000
+So it can do us suspension, but it just doesn't respond fast enough to everything.
+
+71
+00:09:24,000 --> 00:09:33,000
+So the easy thing for me as the user was instead of relying on the control system to do it, I would just take my insulin pump off.
+
+72
+00:09:33,000 --> 00:09:43,000
+I would disconnect it and let it sit disconnected until I manually watch my blood sugar and then plugged it back in and started using it again.
+
+73
+00:09:43,000 --> 00:09:51,000
+So that's like one example of the limitations and it's just really its responsiveness when your blood sugar starts changing.
+
+74
+00:09:51,000 --> 00:10:09,000
+Now I'd be interested to know more about the control IQ plus and you know what's like the main difference between them and I wonder if they've reduced some of the limitations that they originally implemented as like a safety measure previously but.
+
+75
+00:10:09,000 --> 00:10:15,000
+Yeah, I would say that the one limit especially as it relates to your story.
+
+76
+00:10:15,000 --> 00:10:22,000
+The new ability with temp basil, which basically allows you to increase or decrease insulin.
+
+77
+00:10:22,000 --> 00:10:28,000
+Treatment by a percentage from 0% to like 250% yeah.
+
+78
+00:10:29,000 --> 00:10:37,000
+While staying an automated mode that is a key feature that could have potentially helped you in that situation for me.
+
+79
+00:10:37,000 --> 00:10:42,000
+So I started this the movie before and after control IQ plus came out.
+
+80
+00:10:42,000 --> 00:10:51,000
+So I tried to do workouts before and it was pretty difficult for me to point where I maybe I would have disconnected for a bit or at least turned off insulin.
+
+81
+00:10:51,000 --> 00:11:06,000
+But now what I found I think is a sweet spot and not I have more testing to do is but what I do is an hour before my run I decrease my insulin to 30% which means that I'm only getting.
+
+82
+00:11:06,000 --> 00:11:17,000
+Yeah, only I'm only getting 30% of the needs that I would normally get and then I'm also putting myself an activity mode so what that's it's which is setting me in like a higher range.
+
+83
+00:11:17,000 --> 00:11:19,000
+Yeah, this is like.
+
+84
+00:11:19,000 --> 00:11:30,000
+Whereas on an app like what you're using a a ps trio loop all of those you would just tap on a profile or an override that does all those settings for you.
+
+85
+00:11:30,000 --> 00:11:42,000
+So it's a little more convoluted but hey I'm glad that tandem users now have this feature there still are limitations like you can't you can't put what the range is in fact.
+
+86
+00:11:42,000 --> 00:11:48,000
+activity mode doesn't show you that you're out of new range it's it's all under the hood.
+
+87
+00:11:48,000 --> 00:11:55,000
+So there are still limitations for sure but that you know would help people out in these situations.
+
+88
+00:11:55,000 --> 00:12:08,000
+So when I was using the tandem under the old the control IQ version so you would hit exercise mode turn it on and the only place that you would know exactly what's happening with your.
+
+89
+00:12:08,000 --> 00:12:24,000
+In some pump and it or the changes to your profile is the description in a handbook that's not on your insulin pump like you would have to go pull up the tandem manual to look at the percent decreases on stuff and it's not a dynamic.
+
+90
+00:12:24,000 --> 00:12:32,000
+percent increase based on any information it's like a fixed percentage based on your profile settings.
+
+91
+00:12:32,000 --> 00:12:46,000
+And I think that's kind of limiting because different types exercise dictate different different needs right if you go out and do like a sprint workout or something that's less than an hour.
+
+92
+00:12:46,000 --> 00:13:01,000
+And my body's going to use a lot more glycogen in my blood sugar sky rockets and now that that same if I click the same exercise button on there it doesn't work it's not it doesn't have the same effectiveness versus if I'm going to go out and do.
+
+93
+00:13:01,000 --> 00:13:20,000
+Like a really long endurance style workout I'm going to burn energy constantly and I need that sort of amount of sensitivity and I think that this switching systems gave me access to something like that that's more dynamic and can change but you know I'm sure we'll talk more about.
+
+94
+00:13:20,000 --> 00:13:26,000
+Like what I'm saying with the with changing your insulin sensitivity over time so.
+
+95
+00:13:26,000 --> 00:13:35,000
+Yeah and you know these features on pumps like tandem and all FDA clear systems they're meant to be simplified because.
+
+96
+00:13:35,000 --> 00:13:41,000
+Their safest when there are less customizations for like the.
+
+97
+00:13:42,000 --> 00:13:51,000
+Grants scheme of customers or consumers patients who are using these systems whereas there's people like you and I people listening today.
+
+98
+00:13:51,000 --> 00:14:01,000
+That are very interested and want the best control and want to navigate all of these intricacies of life such as.
+
+99
+00:14:01,000 --> 00:14:06,000
+As spontaneous bike ride weight lifting day or.
+
+100
+00:14:06,000 --> 00:14:08,000
+An intense run.
+
+101
+00:14:08,000 --> 00:14:19,000
+This episode is sponsored by OmniPod as someone with T1D and with an incredibly active lifestyle it's important for me not to get tied up especially with tubes on my insulin pump.
+
+102
+00:14:19,000 --> 00:14:28,000
+I love to go swimming lift weights and play kickball with friends and with OmniPod 5 I never have to worry about tubes getting in the way.
+
+103
+00:14:28,000 --> 00:14:35,000
+Plus not having to disconnect helps me to stay in range during all of my favorite physical activities that include sexy time too.
+
+104
+00:14:35,000 --> 00:14:48,000
+See if you're eligible for a 30 day trial by visiting OmniPod.com slash diabetic on there you'll see full safety and risk information and trial terms that's OmniPod.com slash diabetic.
+
+105
+00:14:48,000 --> 00:14:59,000
+When you decided to go on Android APS did you go on the website like the docs website and kind of read through that entire thing.
+
+106
+00:14:59,000 --> 00:15:17,000
+So like the first step was you have to get all of the pieces and components to it right so the first decision was like iPhone or Android of course I have an Android phone and I think phones are so particular to people that switching like devices is actually a pretty big deal.
+
+107
+00:15:17,000 --> 00:15:25,000
+So finding a compatible system with your devices important so the phone was the first at the second step that is getting.
+
+108
+00:15:25,000 --> 00:15:52,000
+I'm on OmniPod so getting those getting a prescription with those took time to switch over with my doctor and then as soon as the component pieces were sort of figured out then it was okay let's go read all of the information on Android APS so it was more of like what's available to me in the in this space and then which one has like a plethora of resources.
+
+109
+00:15:53,000 --> 00:16:03,000
+Which one can I understand an implement and also has a lot of control features and at the same time I'm getting recommended this by my coach.
+
+110
+00:16:03,000 --> 00:16:21,000
+So for somebody who's new to it maybe starting at the Android APS docs on their website and reading about you know what is it what can it do is the first step but for me I was able to kind of cut through that narrow down quicker because I had a coach who was already helping me.
+
+111
+00:16:21,000 --> 00:16:23,000
+So yeah and with Android.
+
+112
+00:16:23,000 --> 00:16:32,000
+You just you do only have that one option which is a fantastic option and is the same algorithm as trio which is on iOS.
+
+113
+00:16:32,000 --> 00:16:42,000
+Yeah exactly real quick OmniPod you didn't only switch your algorithm but you also switch like an entirely new form factor of pump how did it feel going.
+
+114
+00:16:42,000 --> 00:16:50,000
+From a tube pump that you use a tube pump I guess for a majority of your type one to a tubeless pump.
+
+115
+00:16:50,000 --> 00:17:05,000
+Yeah that was a big that was a big change for one and a really welcome change so my so my I told you I was on a metronic pump as my first one I was on a paradigm.
+
+116
+00:17:05,000 --> 00:17:15,000
+I started with their quick set infusion sets they had like the big insert or two that you had to carry around with you like on vacation or like in a backpack or something.
+
+117
+00:17:15,000 --> 00:17:32,000
+So then went to the tandem ones and started using like true steel needles and those got a little bit smaller and then all of a sudden it was like okay well the OmniPod is the one that works with the system so I'm going to follow what works with the system that I want to use and prioritize the system first.
+
+118
+00:17:32,000 --> 00:17:51,000
+But because this works as soon as I used an OmniPod for the first time I was like oh my god I forgot what it's like to not attach to it to and we've mentioned this previously but the craziest thing to me was the fact that like you can go to the bathroom now without having to worry about.
+
+119
+00:17:51,000 --> 00:18:10,000
+I've been using this to pump now for a month and I still can't get over the fact that like every time I get out of the shower and I want to take I want to get my insulin going I have to like plug it in and then hold my pump before I put underwear on in.
+
+120
+00:18:10,000 --> 00:18:32,000
+Like where is my pocket sort of yesterday I was laying in bed and I had my pump charging as it was connected to me and it was just so weird this I'm not the biggest fan of having it to but I'm still you know for science I really want to understand all this so so that's great I mean you got this new form factor that really worked out for you and again for everyone.
+
+121
+00:18:32,000 --> 00:18:50,000
+This is an OmniPod dash pod that you want to use with DIY systems you could also use the former pods but those require like a whole other device to connect your phone so OmniPod dash all the way you decided to go with a coach which not everyone's going to have the luxury of but.
+
+122
+00:18:51,000 --> 00:19:01,000
+Tell me a little bit about that process once you in the coach decided okay Android APS is the way what how did you work together to get on this system.
+
+123
+00:19:02,000 --> 00:19:04,000
+Yeah yeah good question so.
+
+124
+00:19:05,000 --> 00:19:22,000
+Really it was it starts off with like what are your goals for your diabetes and everybody's goals are going to be different right so I mean I've been diabetic coming up on my like 20 year anniversary so so when I'm talking about what I want.
+
+125
+00:19:22,000 --> 00:19:34,000
+Okay I want for the first time in my life to have anyone see lower than six like that that's kind of like you made it this is awesome you did it sort of thing so that's like a big goal of mine.
+
+126
+00:19:35,000 --> 00:19:50,000
+That requires a certain level of control so that's why we directed it towards Android APS once we decided on that then it was okay how do I work with my insurance to get pods how do I work with.
+
+127
+00:19:50,000 --> 00:19:55,000
+My anthropologists to inform them that I'm going to be using.
+
+128
+00:19:56,000 --> 00:20:00,000
+This system instead of like a traditional insulin pump.
+
+129
+00:20:01,000 --> 00:20:11,000
+Who do I work with that has this sort of experience because they work in a community of people that can like tap you into all of these different resources.
+
+130
+00:20:12,000 --> 00:20:23,000
+So it's it's really like navigating all of the different aspects not just like what do I set my ranges to what's my basil profile or you know whatever.
+
+131
+00:20:24,000 --> 00:20:34,000
+What was that what was that conversation like with your endo because the ADA standards actually have a new line that recommends that.
+
+132
+00:20:34,000 --> 00:20:46,000
+Practitioners consider supporting their patients who come in wanting to use open source did your doctor was your doctor open to that or or a little combative.
+
+133
+00:20:47,000 --> 00:20:54,000
+Yeah it was not a smooth transition at all so I had my first anthropologist that I actually decided to switch away from.
+
+134
+00:20:55,000 --> 00:21:06,000
+Because they weren't aware of any of the systems they were so very like in the guidelines or the old guidelines that this wasn't something that they wanted to consider.
+
+135
+00:21:07,000 --> 00:21:09,000
+So that that didn't go great.
+
+136
+00:21:10,000 --> 00:21:12,000
+And then once I made the switch.
+
+137
+00:21:13,000 --> 00:21:34,000
+I again floated the idea by my endocrineologist I said hey I want to switch to this and their response instead of that's not what's recommended it was I don't know much about that let me go learn about it and so that was much more of it like back and forth like oh wow there's a whole other.
+
+138
+00:21:35,000 --> 00:21:44,000
+Like realm of things that I as a doctor can learn about and use to support patients so that was totally different.
+
+139
+00:21:45,000 --> 00:21:51,000
+Yeah there I mean the technologies moving so quickly and it's so easy for some doctors to just get stuck in their ways.
+
+140
+00:21:52,000 --> 00:22:01,000
+But that's why conferences like ATTD which I was just at and all these other ones are so they're so important because doctors can come and learn about all these things including open source.
+
+141
+00:22:01,000 --> 00:22:08,000
+So I'm glad to hear that your second endo was more willing to understand and ultimately.
+
+142
+00:22:09,000 --> 00:22:13,000
+Most of the decision making or.
+
+143
+00:22:14,000 --> 00:22:22,000
+Control over these apps is is with you and the community who's helping you and your coach and your endo.
+
+144
+00:22:23,000 --> 00:22:27,000
+Will still be able to modulate or understand.
+
+145
+00:22:27,000 --> 00:22:38,000
+The how the levels are going and make at least their small adjustments to basal bullets I think that they're still going to be able to to make some of those decisions but.
+
+146
+00:22:39,000 --> 00:22:44,000
+Did so did your doctor when did that happen did your doctor learn about it and then come back to you and say oh like.
+
+147
+00:22:45,000 --> 00:22:46,000
+I know about this now.
+
+148
+00:22:47,000 --> 00:22:53,000
+Yeah so that was towards the beginning of the year so I had my first appointment and the first question was okay.
+
+149
+00:22:53,000 --> 00:23:00,000
+Why did you switch endocrinologists you know you've been diabetic for 19 years what's the motivation why you hear I gave that to them.
+
+150
+00:23:01,000 --> 00:23:12,000
+They they looked at everything that day actually and then called me about it later to confirm that they would write prescriptions for the omnipod.
+
+151
+00:23:13,000 --> 00:23:28,000
+Dash pods and that was kind of like the seal of approval and then we talked about the scheme for how I'm going to report my blood sugar data to them because really I think that's part of the or sort of the most important part.
+
+152
+00:23:29,000 --> 00:23:43,000
+And I think based on like my conversations with my coach the the most important thing is that your endocrinologist is doing is supporting your kind of holistic health as it relates to diabetes far and beyond just managing.
+
+153
+00:23:44,000 --> 00:23:55,000
+You know your blood sugars in your basil like they need to order the blood tests to check for other autoimmune diseases that develop that are common across people who already have diabetes.
+
+154
+00:23:55,000 --> 00:24:06,000
+They need to check for retinopathy and write recommendations to go see other professionals and I think they're really kind of like the key to your care team so.
+
+155
+00:24:07,000 --> 00:24:13,000
+Yeah I mean they're way beyond just writing the this script so it's I guess important to have somebody who's on your side.
+
+156
+00:24:13,000 --> 00:24:25,000
+All right, let's get into using Android APS and we can start with set up tell me about that first week getting on how did your coach help you and.
+
+157
+00:24:25,000 --> 00:24:28,000
+And what were you seeing I guess.
+
+158
+00:24:28,000 --> 00:24:36,000
+Yeah so I don't want to take us to too far back from that but maybe the first first that is actually building the application itself.
+
+159
+00:24:36,000 --> 00:24:43,000
+And the step by step guide also gives you that too so it's very straightforward it's.
+
+160
+00:24:44,000 --> 00:24:54,000
+It helps you whether you're going to build this on a Mac or Windows or even a Linux system so you can actually build the app how you get it on your device how you get it functioning.
+
+161
+00:24:54,000 --> 00:25:09,000
+The importance of keeping it updated so all of that is in the Android APS docs page that's just a website and this page is is a dictionary for everything you need to know about.
+
+162
+00:25:09,000 --> 00:25:17,000
+This system and moreover it's got links that take you to what's the behind the scenes of the algorithm.
+
+163
+00:25:17,000 --> 00:25:28,000
+Like how is it determined they have links to like scientific papers on the data for this type of stuff so if you want to find everything you can find all of it.
+
+164
+00:25:28,000 --> 00:25:46,000
+But then when it comes to actually starting up the system and using it the first step that it takes you through is to run on a virtual insulin pump so you're not actually connected to anything you just have the app on your phone and it gives you you can stream your.
+
+165
+00:25:46,000 --> 00:26:01,000
+CGM data to the app and it would show you what the insulin pump would have done or how it would have responded to something so it gives you the sort of initial you know I'm I'm just going to get familiar with the screen itself.
+
+166
+00:26:01,000 --> 00:26:13,000
+It's it doesn't maybe look as refined as like an iPhone application in terms of style but it's got a lot of data and it's got a lot of really powerful tools in there.
+
+167
+00:26:13,000 --> 00:26:18,000
+How long were you using that virtual app.
+
+168
+00:26:18,000 --> 00:26:33,000
+That was a lot of week yeah okay yeah so and this is the nice thing is I was kind of waiting on the supplies to come in and kind of get everything switched over so this is something you can prepare ahead of time.
+
+169
+00:26:33,000 --> 00:26:38,000
+So you're kind of streamlining how long it takes to actually get up to speed.
+
+170
+00:26:38,000 --> 00:26:53,000
+And at that point you built the app yourself or did your coach help you with that I built it entirely myself you're what you're essentially doing is copying a set of codes that are available on GitHub.
+
+171
+00:26:53,000 --> 00:27:04,000
+So if anybody's familiar with like programming oftentimes people save their codes in a database and then you can export and fork that out to be used in like your own tree.
+
+172
+00:27:05,000 --> 00:27:17,000
+So you build that you take that code and then you're you're packaging it in Android Studio which is an app creation platform for Android phones.
+
+173
+00:27:17,000 --> 00:27:30,000
+And then after that you can export it download it to your phone and then you have it available to so it doesn't take that much work and they're like I said there's a step by step guy that takes you through every single step.
+
+174
+00:27:30,000 --> 00:27:43,000
+And my coach even promoted to me that I go do it without having somebody sit next to me to figure out every single step because like you have to be able to troubleshoot stuff when it comes up.
+
+175
+00:27:43,000 --> 00:27:49,000
+So there is some self education that I think is important for everybody that wants to use something like this.
+
+176
+00:27:49,000 --> 00:28:09,000
+Yeah, and when it comes to Android APS or the apps I've built loop and trio they do such a great job on all of the instructional websites for all of these to lay out the steps and they're written for the everyday person to truly understand how to do it and.
+
+177
+00:28:09,000 --> 00:28:15,000
+I think the first time I did it it took me two hours the second time I did it which was like year later took me one hour.
+
+178
+00:28:15,000 --> 00:28:25,000
+Then you know a year later maybe 30 minutes you just you start it becomes muscle memory and there's I don't know with Android APS but there's like a browser build at least with the some of the other apps.
+
+179
+00:28:25,000 --> 00:28:38,000
+It's just it's laid out pretty well so once you got through that first week of trialling the the fake set up.
+
+180
+00:28:38,000 --> 00:28:50,000
+Yeah, what was it like getting on to it specifically and were you overwhelmed by just all of the settings to this because I think that's one thing with Android APS.
+
+181
+00:28:50,000 --> 00:28:57,000
+And trio which run on the same RF algorithm that there are so many settings.
+
+182
+00:28:57,000 --> 00:28:59,000
+Yeah, so.
+
+183
+00:28:59,000 --> 00:29:05,000
+I'll tell you when I first downloaded the app for my phone and open it yes, I was overwhelmed.
+
+184
+00:29:05,000 --> 00:29:19,000
+But this is where the objectives like come into play to help guide you into how to use the system itself so there's a good explanation for every button and everything you're using and if you ever get lost you can go to the glossary in.
+
+185
+00:29:19,000 --> 00:29:32,000
+The the docs the Android APS docs use select your duration of insulin action probably the most important setting for the predictions that the algorithm is making.
+
+186
+00:29:32,000 --> 00:29:43,000
+And it explains what what is DIA what why is it so important and what might happen if you've said it incorrectly.
+
+187
+00:29:43,000 --> 00:29:51,000
+And then after that you build your profile which looks more like a traditional insulin pump where you put in.
+
+188
+00:29:51,000 --> 00:30:08,000
+Carb ratios and your basal profile your insulin sensitivity and you kind of start off really really simple and put in kind of what you know and I mean we were talking about this earlier when you switch from one insulin pump to the next.
+
+189
+00:30:08,000 --> 00:30:15,000
+It's not the same you can't just copy and paste everything over and this is where having a coach was like.
+
+190
+00:30:15,000 --> 00:30:23,000
+The ultimate hack to expedite how to fix all of the little problems from trying to to switch everything over.
+
+191
+00:30:23,000 --> 00:30:34,000
+I mean that's the hardest part right like the the websites for these apps don't tell you how to transition your settings to them they just tell you how to build it and how it works.
+
+192
+00:30:34,000 --> 00:30:45,000
+So I think that this is the most intimidating part about these so tell me more about that experience transitioning to the new settings how was it helpful to have a coach there.
+
+193
+00:30:45,000 --> 00:30:47,000
+Yeah so the first.
+
+194
+00:30:47,000 --> 00:30:57,000
+So I I use my initial settings off of my T slim insulin pump and right away had blood sugar problems fluctuating kind of all over the place so I'm like.
+
+195
+00:30:57,000 --> 00:31:04,000
+Looking at my phone every you know it's 20 30 minutes going okay what's going to happen now as I'm testing things out.
+
+196
+00:31:04,000 --> 00:31:12,000
+And at the same time I'm giving this data to my coach like on a everyday basis.
+
+197
+00:31:12,000 --> 00:31:25,000
+She's reviewing it and then going okay now's the time that you need to do basal testing and do a fasted period to check the effect of your settings to look at sensitivity.
+
+198
+00:31:25,000 --> 00:31:35,000
+And then we're discussing what types of food I'm eating and then looking at the response when I give a bolus thinking that it should work.
+
+199
+00:31:35,000 --> 00:31:42,000
+Really you're going through basic the basic settings that you would find on any insulin pump and that's really the first step.
+
+200
+00:31:42,000 --> 00:31:51,000
+But she's the one who is going back through all of the data and going okay this looks good you should change this consider changing it by this percentage.
+
+201
+00:31:51,000 --> 00:31:55,000
+And that's like you can lean on the experience because they've worked with so many other people.
+
+202
+00:31:55,000 --> 00:32:05,000
+I mean were you just carrying a ton of low snacks at all times like that you know it's it's scary to to be working with something new and not have your settings dialed in like.
+
+203
+00:32:05,000 --> 00:32:07,000
+Yeah, how is that how did that feel.
+
+204
+00:32:07,000 --> 00:32:18,000
+The backup plan is a moths for taught food snacks and keeping a big old bag of those in my backpack with me those things are like little sugar bombs and they were they were great.
+
+205
+00:32:18,000 --> 00:32:24,000
+But how long did it take for you to feel like you got.
+
+206
+00:32:24,000 --> 00:32:30,000
+At least a foundation of settings down.
+
+207
+00:32:30,000 --> 00:32:39,000
+Yeah, so I make it sound like we I had to work on this for like months to get there really this is like the first week and a half to two weeks.
+
+208
+00:32:39,000 --> 00:32:52,000
+Until it feels like you're using a traditional insulin pump again where you've kind of sorted out the first few issues that you know you would need switching to any sort of system.
+
+209
+00:32:52,000 --> 00:32:56,000
+So really we can have until I got to cut to that point.
+
+210
+00:32:56,000 --> 00:33:04,000
+Okay, and also we we mentioned before that there are objectives you need to achieve in order to turn on new settings right so.
+
+211
+00:33:04,000 --> 00:33:15,000
+There are a lot of features of this app that make it a very powerful system more so then the FDA cleared systems.
+
+212
+00:33:15,000 --> 00:33:27,000
+Take us through those objectives and then let's also get into the different features that are unique to this app that were unlocked as you you know kept upgrading.
+
+213
+00:33:27,000 --> 00:33:40,000
+Yeah, sure. So the way I think of the objectives is basically like you started it's like going through the evolution of insulin pumps from like 2009 up to like 2020 in the span of a lot of month.
+
+214
+00:33:40,000 --> 00:33:59,000
+So you start with a basic sort of insulin pump where you have your basal profile your car ratios and then the next step is to add in like the suspension for lows when what's the threshold and when does the pump sort of suspend your insulin to make sure that you're not going low as much.
+
+215
+00:33:59,000 --> 00:34:14,000
+And then the next objective after that is to start implementing your adjustments to your basal so now the system is kind of like control IQ it's on rails so you can't be as extreme with things at first.
+
+216
+00:34:14,000 --> 00:34:43,000
+But basically you're implementing a version of control IQ if you're coming from a T slim and then after that then you can start going on to your templates which can have much larger effects for stuff like exercise or anything that requires you to increase insulin for a large amount of time or decrease it for a large amount of time and that it affects your basal profile.
+
+217
+00:34:43,000 --> 00:34:55,000
+Basal profile in a more dynamic ways so now you're not just saying I'm going to increase by 30% it's I'm going to increase based on how fast your blood sugar is going up.
+
+218
+00:34:55,000 --> 00:35:00,000
+And then of course there's limits to how much it can it can increase or decrease your basal rate.
+
+219
+00:35:00,000 --> 00:35:07,000
+I want to understand better so the the temporary that unlocks is that setting.
+
+220
+00:35:07,000 --> 00:35:22,000
+A percentage of more or less insulin that you need based off of your like basic settings and then is it also allowing you to adjust the range or target that you're going to.
+
+221
+00:35:22,000 --> 00:35:32,000
+Yeah, so it kind of it's all sort of in one function so you have your temp your temp target so you're going to adjust your temp target or your blood sugar up.
+
+222
+00:35:32,000 --> 00:35:34,000
+Let's say I'm going to do I'm going to go workout.
+
+223
+00:35:34,000 --> 00:35:41,000
+I'm going to set a temp target at 180 milligrams per deciliter which is 10 millimals.
+
+224
+00:35:41,000 --> 00:35:46,000
+Thank you for those who are not sitting in the US I suppose.
+
+225
+00:35:47,000 --> 00:36:01,000
+So then the system is going to adjust your basal profile based on either how fast your blood sugar is going up or how fast it's coming down and that's like a more complicated version of control IQ.
+
+226
+00:36:01,000 --> 00:36:09,000
+So you're not just clicking like an exercise button and it's going to say we're reducing all your insulin by 70% or something.
+
+227
+00:36:09,000 --> 00:36:23,000
+It's actually adjusting the basal up and down to shoot for that specific that target so that's but that's not totally unique to Android APS yet and then that comes later.
+
+228
+00:36:23,000 --> 00:36:27,000
+So that's kind of the first more complicated step that you get into.
+
+229
+00:36:27,000 --> 00:36:38,000
+How long did it take to get to that point in the steps is it like preventing you as it like you haven't been using this for 10 days like how are you unlocking these steps.
+
+230
+00:36:39,000 --> 00:37:00,000
+Yes, so each one of them the system goes through and verifies that you've actually done the step and that you've set like a number of temp targets you need to set at least like 40 temp targets you need to have used the function a number of times that's a lot of temp targets to start.
+
+231
+00:37:00,000 --> 00:37:07,000
+How long did that take you I probably use one or two max a day when I'm on loop.
+
+232
+00:37:07,000 --> 00:37:11,000
+So it took about seven or eight days.
+
+233
+00:37:11,000 --> 00:37:22,000
+They actually encourage you to set more temp targets because it's like you're building your database for the algorithm to understand your your blood sugar and how it changes.
+
+234
+00:37:22,000 --> 00:37:27,000
+So it's really encouraging you to use it so you can feed it data and information.
+
+235
+00:37:27,000 --> 00:37:39,000
+Okay, what comes after that right now you're operating like an open loop or a hybrid close loop insulin pump right so you're you're intervening and you're interacting with it.
+
+236
+00:37:39,000 --> 00:37:52,000
+And now they go to the next step where you're going to start closing the loop and it's going to start giving you insulin when you're high to do corrections and this is where I think.
+
+237
+00:37:52,000 --> 00:38:07,000
+Using the the open source system starts to get different from an actual insulin pump and it's the degree to which it can correct you for high blood sugars.
+
+238
+00:38:07,000 --> 00:38:12,000
+So it starts introducing extended basal rates and making.
+
+239
+00:38:12,000 --> 00:38:22,000
+Changes on the fly and doing it itself and predicting okay your blood sugar is going up this fast we need to raise the basal rate and it's going to change it dynamically.
+
+240
+00:38:22,000 --> 00:38:32,000
+And then on top of that it starts tracking your sensitivity to insulin so let's say I started.
+
+241
+00:38:32,000 --> 00:38:43,000
+I started out my week on a Sunday and I'm hanging out on the couch all day and my and my insulin sensitivity is going down so typically I'm going to need more because I'm sitting around.
+
+242
+00:38:43,000 --> 00:38:51,000
+And then later in the week I start doing more and more exercise and now my insulin sensitivity is going up so I need less insulin.
+
+243
+00:38:51,000 --> 00:38:55,000
+To correct for my blood sugars or even on my car ratios.
+
+244
+00:38:55,000 --> 00:39:05,000
+So now the system's going to start tracking that and it's going to adjust everything up and down to try and account for that sensitivity change.
+
+245
+00:39:05,000 --> 00:39:07,000
+This is dynamic ISF.
+
+246
+00:39:07,000 --> 00:39:14,000
+Yes, yeah dynamic insulin sensitivity factor right is going to correct for all of those things.
+
+247
+00:39:15,000 --> 00:39:36,000
+And if people want to a full understanding of how that works and how it's calculated I know that on the Android APS website they lay it out and explain how it's looking at you know the yesterdays and I think the whole previous weeks or something that it gets into all the details on how it's calculating that.
+
+248
+00:39:36,000 --> 00:39:46,000
+Yes, so then the other like big component on this is the SMBs basically the micro boluses that it gives you.
+
+249
+00:39:46,000 --> 00:39:57,000
+And my current understanding for how it works or how it's been calculated is that it's using its predictive data for your how your blood sugar is going to respond.
+
+250
+00:39:57,000 --> 00:40:07,000
+And it's giving you insulin that normally would be used over here in your basal profile but it's giving all of it to you here to help smooth out your curve.
+
+251
+00:40:07,000 --> 00:40:16,000
+So it's keeping you from going up as fast and it's keeping you over here it gives you no insulin to keep you from you know crashing down afterward.
+
+252
+00:40:16,000 --> 00:40:28,000
+That that's for unannounced meals or if you potentially didn't count enough carbs or log enough carbs or give yourself enough insulin it can.
+
+253
+00:40:28,000 --> 00:40:40,000
+Kind of navigate that and I think the closest FDA system that has something like that would be metronic with their meal detection technology a metronic it can give you.
+
+254
+00:40:40,000 --> 00:41:00,000
+micro boluses every five minutes based off of meals that it detects that you that you may have not logged correctly out of these like how have you seen these new features like dynamic insulin sensitivity factor and small micro boluses like I know that you were very.
+
+255
+00:41:00,000 --> 00:41:23,000
+I mean, I mean, I mean, I mean initially I had to learn to trust it so I had to stop doing what I did with a T slim insulin pump which was that I would.
+
+256
+00:41:23,000 --> 00:41:39,000
+I mean ahead of time because I I think I know my body really well and I'm like oh well this is going to happen so first I needed to kind of relax that a little bit and trust that the system can actually do what it says it can do and then after that.
+
+257
+00:41:39,000 --> 00:41:52,000
+What I observed is that it almost started acting like bumpers for me and instead of me making a mistake on an insulin pump on our on our traditional insulin pump and having to treat.
+
+258
+00:41:52,000 --> 00:42:08,000
+a really high glucose event the system could keep me from going that high and it would keep me more to my to my range so then what that did for my numbers all of my.
+
+259
+00:42:08,000 --> 00:42:16,000
+a predictions from a when see all of my glucose data everything's tighter my time and range went up by like 10 to 15 percent.
+
+260
+00:42:16,000 --> 00:42:27,000
+It's not perfect yet it's not where I want it to be but yeah the biggest thing is that it really does turn into like guardrails for when you don't do something correctly.
+
+261
+00:42:27,000 --> 00:42:32,000
+But again it's not without its limitations either so.
+
+262
+00:42:32,000 --> 00:42:59,000
+Today's episode is sponsored by T 1 D exchange you can directly make an impact on diabetes health care treatments and technology by participating in the T 1 D exchange registry it starts with the simple survey about your life with T 1 D and it only takes about 15 minutes after that you'll have a personal portal with ongoing T 1 D study and survey opportunities plus some of these studies even offer compensation.
+
+263
+00:42:59,000 --> 00:43:14,000
+Signing up with the link in the show notes help support my channel and it allows me to continue putting out free content you can sign up at t 1 D exchange dot org slash diabetic or click that link in today show notes.
+
+264
+00:43:14,000 --> 00:43:16,000
+When it comes to food.
+
+265
+00:43:16,000 --> 00:43:25,000
+Are you bolishing or carb counting ahead of meals and logging that like what are you logging when you're about to eat something.
+
+266
+00:43:25,000 --> 00:43:38,000
+I mean I know on some of the other systems they have kind of similar setup but there's a they call it the calculator on there and this is basically where you would go to log your.
+
+267
+00:43:39,000 --> 00:43:50,000
+Bolus for meal and so it takes to account your attempt targets it takes to account your food or car ratios everything you'd see on a normal insulin pump.
+
+268
+00:43:50,000 --> 00:44:03,000
+But for me I put in what I think is a pretty good approximation of carbs I mean sometimes we go out to eat and I'm looking at you know a piece of bread and thinking okay it's it's probably this much when maybe I'm off.
+
+269
+00:44:03,000 --> 00:44:13,000
+But the system can kind of cover that so as long as you're kind of within like 10 to 20 grams of carbs for your meal.
+
+270
+00:44:13,000 --> 00:44:21,000
+You can get away with a little bit more error in your in your carb counting if that is the case.
+
+271
+00:44:21,000 --> 00:44:28,000
+So yeah then after that I'm bolishing kind of like I normally would with an insulin pump I do it about five minutes ahead of time.
+
+272
+00:44:28,000 --> 00:44:38,000
+I use this in combination with fast and all of that working together works pretty well and it's all you know pretty fast and response pretty quick.
+
+273
+00:44:38,000 --> 00:44:47,000
+How would you say your relationship to food has changed or evolved with this new system has it.
+
+274
+00:44:48,000 --> 00:45:05,000
+Yeah I I like to think that I had a pretty healthy relationship of food before using this system because I always tried to live through diabetes not putting limitations on myself whether that was activity or eating or going out with friends.
+
+275
+00:45:05,000 --> 00:45:16,000
+But that also meant like on the back end there's a lot of extra work that I had to do to account for not knowing exactly what was in the food.
+
+276
+00:45:16,000 --> 00:45:26,000
+So like later on you're making a lot of like corrections either because you have highs or because you're correcting for a low trying to take into account.
+
+277
+00:45:26,000 --> 00:45:39,000
+What you're eating but with APS I don't have to do that so much anymore because like I said it's like having buffers and it's just less consistent work.
+
+278
+00:45:40,000 --> 00:45:51,000
+So it's given me more freedom with what food I can't eat when I eat it and although it hasn't really maybe changed my view on how I treat food.
+
+279
+00:45:51,000 --> 00:45:58,000
+It gives me more freedom to not have to worry so much about all the work required to do that.
+
+280
+00:45:58,000 --> 00:46:06,000
+So yeah I totally I totally understand that I'm the same way where I'm not going to for the most part.
+
+281
+00:46:06,000 --> 00:46:09,000
+Alter that what I want to eat when I want to eat it.
+
+282
+00:46:09,000 --> 00:46:11,000
+Yeah but.
+
+283
+00:46:11,000 --> 00:46:21,000
+Being on a DIY system open source system has made it easier or just there's less worry about the ramifications of something I eat.
+
+284
+00:46:21,000 --> 00:46:30,000
+Do you have a favorite food that that you really want to eat all the time but you don't because you don't want to deal with the sort of aftermath.
+
+285
+00:46:30,000 --> 00:46:49,000
+I think every time that bagels of pizza but yeah well I yeah pizza pizzas one to I mean I feel like three of my favorite foods are pizza bagels and french fries like those are like three of my favorite things and they're all really difficult.
+
+286
+00:46:49,000 --> 00:47:13,000
+So there have been times where like before an interview for the podcast that a knocking eat a slice of pizza because it's I because I'm just not going to be as focused on my diabetes and I and I may have a really bad high or I may have a really bad low because the insulin hit me faster than the pizza did like there's so many things that can happen.
+
+287
+00:47:13,000 --> 00:47:19,000
+I prefer to be a little more aware or or available when I eat certain things.
+
+288
+00:47:19,000 --> 00:47:21,000
+Yes.
+
+289
+00:47:21,000 --> 00:47:37,000
+So yeah so those are the times where I can think of maybe like one food so my my now life is from Germany and Germans are known for their bread and their bakeries all of their food is so.
+
+290
+00:47:37,000 --> 00:47:39,000
+Good.
+
+291
+00:47:39,000 --> 00:48:02,000
+Ultra rapid acting insulin does not pair particularly well with with complex carbs like like these breads and when you go over to Europe and you change your diet and start eating like only bread all of your meals turn into these very long acting carbohydrate meals or at least that was my experience.
+
+292
+00:48:02,000 --> 00:48:25,000
+I'm excited to use this system with that and see how the dynamic insulin sensitivity changes and how the system accounts for that because it just works differently and that's kind of that's that's what I mean by it's less work and I don't have to worry about it as much so.
+
+293
+00:48:25,000 --> 00:48:32,000
+Have you been using temporary overrides or profiles in any way?
+
+294
+00:48:32,000 --> 00:48:33,000
+Yes.
+
+295
+00:48:33,000 --> 00:48:37,000
+So I used temp overrides all the time.
+
+296
+00:48:37,000 --> 00:48:47,000
+I'm still super active with the the system because I have a pretty chaotic life doing a lot of different things so I'm both a graduate student.
+
+297
+00:48:47,000 --> 00:48:54,000
+I also work professionally at the same time and then like I said earlier I love cycling so it's a little bit demanding but that also means like.
+
+298
+00:48:54,000 --> 00:49:07,000
+That also means like my energy usage is all over the place at different times a day so I use the temp target primarily as my adjustment.
+
+299
+00:49:07,000 --> 00:49:15,000
+And I use it before rides to increase my target to make sure I'm not having low blood sugars.
+
+300
+00:49:16,000 --> 00:49:27,000
+When I'm at school working in the lab, I use the hypotarget to make sure I'm not having hypoglycemia.
+
+301
+00:49:27,000 --> 00:49:42,000
+It's not as aggressive as what I would use for an activity but it's more for like I'm going to be on my feet all day long sort of thing so my insulin sensitivity is going up faster than the algorithm could keep track of.
+
+302
+00:49:42,000 --> 00:49:47,000
+What's so what is that target? What does that target look like? What are the things you changed?
+
+303
+00:49:47,000 --> 00:49:48,000
+Yeah.
+
+304
+00:49:48,000 --> 00:49:54,000
+So the the basic setup on it looks like this and I am running a temp target right now.
+
+305
+00:49:54,000 --> 00:49:58,000
+It's because you're in an interview and you don't want to go low.
+
+306
+00:49:58,000 --> 00:50:00,000
+Yeah, actually that's exactly that.
+
+307
+00:50:00,000 --> 00:50:09,000
+So I even ran the activity target which is even like higher more aggressive than the hypot because I really didn't want to have a low blood sugar here.
+
+308
+00:50:09,000 --> 00:50:14,000
+So like I did right before we started recording.
+
+309
+00:50:14,000 --> 00:50:23,000
+So yeah, you basically just set you have a pre-selected setup here and you can program each of those buttons based on your needs and what works for you.
+
+310
+00:50:23,000 --> 00:50:30,000
+So the the eating soon target essentially is I'm going to eat in a short amount of time so I need kind of a burst of insulin.
+
+311
+00:50:30,000 --> 00:50:38,000
+You have your activity one which is really minus setup like is high as it'll let me set it without doing automation.
+
+312
+00:50:38,000 --> 00:50:43,000
+Which is a whole other aspect of Android APS.
+
+313
+00:50:43,000 --> 00:50:53,000
+And then my hypotarget is is adjusted higher but is extended out really really long because I'm anticipating on using that for like a long period of time.
+
+314
+00:50:53,000 --> 00:51:00,000
+And then sometimes I'll set my own targets if I just had a low blood sugar and I don't want to have a secondary I want to afterward.
+
+315
+00:51:00,000 --> 00:51:11,000
+I'll manually enter in a target there and use what looks like my hypotarget but use it for a much shorter amount of time.
+
+316
+00:51:11,000 --> 00:51:24,000
+So you can really program everything that you want in there and there's a note drop down to see you can remind yourself what you used it for when you go back and look at your glucose data.
+
+317
+00:51:24,000 --> 00:51:35,000
+Oh wow that's cool yeah this feature alone on all open source apps is such a win.
+
+318
+00:51:35,000 --> 00:51:53,000
+Because it just you can have an override or attempt target to like so many different aspects of your life that when it happens and you go lower you go higher like okay next time this happens I'm going to turn this on an hour before I do that activity or eat that whatever it is.
+
+319
+00:51:53,000 --> 00:52:06,000
+And it's so helpful and I also have a post a post very bad low target or a new setting because when you have a bad low your liver.
+
+320
+00:52:06,000 --> 00:52:26,000
+It puts out all of its stored glucose and it's gone for at least 24 hours yeah or for up to 24 hours so all always if I have a really bad low set my target to be higher than I typically would for at least like eight hours just so that I don't have another bad low.
+
+321
+00:52:26,000 --> 00:52:36,000
+Yeah sure and I mean we we I mentioned earlier that it's more it's like a buffer the whole system is like a buffer for me, but it's really good at it.
+
+322
+00:52:36,000 --> 00:52:43,000
+And so we talked about how when I'm doing exercise I said set attempt target.
+
+323
+00:52:43,000 --> 00:53:04,000
+If you don't set it early enough it's not as effective and I'm wondering what your experience has been like now that you've used multiple systems does it carry through to everything else is one maybe better than another or what what like strategy have you implemented with these to get it to work as well as you can.
+
+324
+00:53:04,000 --> 00:53:08,000
+I think with whatever system you're using.
+
+325
+00:53:08,000 --> 00:53:15,000
+When it comes to attempt target or activity motor activity feature on the FDA cleared systems.
+
+326
+00:53:15,000 --> 00:53:25,000
+One hour before that activity whatever you're turning on or adjusting it needs to be done one hour before if it's 30 to 40 minutes before.
+
+327
+00:53:25,000 --> 00:53:46,000
+I go low yeah but it's the one hour mark if it's you know if I if I turn it on an hour and a half before that's fine to but if it's less than one hour like I'm gotten like it's the sweet spot so that is hands down it if I'm if I know I'm going to go on a bike ride I know I'm going to go run intense errands or go on or run.
+
+328
+00:53:46,000 --> 00:54:00,000
+These are all things that will drop my blood sugar so I need to put on my temp target an hour before and that works have you used any of the like third party.
+
+329
+00:54:00,000 --> 00:54:12,000
+device features when it comes to a Android APS maybe we keep coming back to the riding bikes thing but like all of my garment devices yeah all have screens and data related to.
+
+330
+00:54:12,000 --> 00:54:22,000
+Android APS oh tell me about them yeah so for garment devices use the connect IQ store.
+
+331
+00:54:22,000 --> 00:54:36,000
+To get applications and like data screens and so there's a number of them out there that are all made by just users and if you want to know more about them there's actually a whole other section in the Android APS docs.
+
+332
+00:54:36,000 --> 00:54:48,000
+That can take you to a link and then they have a Facebook page they can connect you with a discord and then the discord has the people who are making the new watch faces the data screens.
+
+333
+00:54:48,000 --> 00:54:59,000
+the control features and if you want you can even participate in those and start making whatever works for you so I mean like that's awesome.
+
+334
+00:54:59,000 --> 00:55:09,000
+Creating a watch screen is kind of cool intro to like coding especially for connect IQ because it's not terribly complicated but you can do something that's totally unique.
+
+335
+00:55:09,000 --> 00:55:20,000
+That's cool about the smart watches are you using your garment like on a day to day basis and can you like activate things from it or is it just a display or are you able to.
+
+336
+00:55:20,000 --> 00:55:46,000
+You can do all of those things I currently don't have it set up that way so there's actually a lot of remote stuff you can do from your system and actually currently I'm really interested to find somebody who has worked with.
+
+337
+00:55:46,000 --> 00:55:58,000
+Like like their partner or a family member who has monitored this while somebody does the activity so you could go sort of almost hands off or try to at least.
+
+338
+00:55:58,000 --> 00:56:13,000
+But but you can set up all those features and you can implement it with like night scout tracking or a web page that you can use to display all this data and as a database to store your glucose data.
+
+339
+00:56:14,000 --> 00:56:32,000
+So like I know parents will work with setting this up so they can remote bullets for their their kids and look after their blood sugars and then in addition you can get all of the the like dynamics data from APS and have it.
+
+340
+00:56:32,000 --> 00:56:44,000
+Send remotely to night scout to your garment apps as long as you have a screen that can read it and set it up and you can get like insulin on board carbs on board.
+
+341
+00:56:44,000 --> 00:56:55,000
+Yeah insulin current insulin sensitivity you can definitely get all of that information but it's not something that I've gotten around to implementing it takes a little bit more work.
+
+342
+00:56:55,000 --> 00:56:58,000
+The last thing I want to get into is.
+
+343
+00:56:58,000 --> 00:57:05,000
+What's next with your android APS journey.
+
+344
+00:57:05,000 --> 00:57:14,000
+Have you considered a lot of people are using android APS and trio the same algorithm they're using these apps.
+
+345
+00:57:14,000 --> 00:57:25,000
+Fullly closely they are not entering carbs or bolishing ahead of meals and they're getting 70% and above range.
+
+346
+00:57:25,000 --> 00:57:34,000
+I know that one main focus for you was to have better control so maybe something like this isn't for you but.
+
+347
+00:57:34,000 --> 00:57:43,000
+Is that something you would consider on this system is getting your settings to a place where you could just be completely hands off.
+
+348
+00:57:43,000 --> 00:57:50,000
+Or would you prefer to have like the best control possible and that's why you're using this.
+
+349
+00:57:50,000 --> 00:58:02,000
+Yeah I think my primary motivation is to have the best control possible and utilize the capabilities that traditional insulin pumps don't have all in one package yet.
+
+350
+00:58:02,000 --> 00:58:12,000
+And also APS gives me sort of the ultimate flexibility for a lifestyle that is not maybe normal day to day.
+
+351
+00:58:12,000 --> 00:58:26,000
+That's really my purpose for using APS is it can help cover these big changes in my life no matter what comes up and it gives me more flexibility as the user.
+
+352
+00:58:26,000 --> 00:58:50,000
+I would really love to get to the state where I'm using it completely closed loop because the other aspect about like my whole diabetes journey is how do I get diabetes to sort of shrink down and have to dedicate the least amount of tension to it without having negative impacts on my life overall.
+
+353
+00:58:50,000 --> 00:59:06,000
+And so like I said I've been I've been almost diabetic for 20 years now I went through like multiple daily injections went through using pens got to the insulin pump used new control features and this has kind of been.
+
+354
+00:59:06,000 --> 00:59:19,000
+The ultimate thing I've used thus far that has helped me shrink down how big of or how much attention diabetes takes from my like day to day life.
+
+355
+00:59:19,000 --> 00:59:37,000
+That's amazing and it's I'm sure you've seen so many so many more leaps and technology than I have because you've been around for so long with with type one diabetes and it's cool to hear that you found a system that's just been like a huge jump in your.
+
+356
+00:59:38,000 --> 00:59:57,000
+Your treatment and ability to step away from type one more often so I'm I'm happy to see that that's happened and I mean the rate of which the technology's moving now still and open source like seeing what they have around the horizon is really exciting.
+
+357
+00:59:57,000 --> 01:00:07,000
+I feel like switching systems can kind of be like getting tattoos where like you get one and like you kind of like you get a second when you're like you like I don't and granted I don't have no tattoos.
+
+358
+01:00:07,000 --> 01:00:14,000
+This is just what I hear but like I'm kind of on this kick of wanting to try all of the systems and see how they all work but.
+
+359
+01:00:14,000 --> 01:00:31,000
+switching systems is always a tough thing and a bit disorienting but it's temporary you mentioned to me that you wanted to get involved in the community have have you gotten involved at all or or if you did or when you do what is.
+
+360
+01:00:31,000 --> 01:00:36,000
+the area of Android APS that you'd want to to work on.
+
+361
+01:00:36,000 --> 01:00:46,000
+Yeah there's there's a huge community aspect about probably all of the open source systems because it's really like.
+
+362
+01:00:46,000 --> 01:00:54,000
+The user is dictating the technology and you have the people to help build purpose bill for what you need.
+
+363
+01:00:55,000 --> 01:01:06,000
+In the Android APS case they have a Facebook page and then they have a developers discord with a lot of channels related to developing the.
+
+364
+01:01:06,000 --> 01:01:21,000
+actual app system to to work with stuff like potentially the 10 of insulin columns or like anything else that's out there to make it compatible with more devices.
+
+365
+01:01:21,000 --> 01:01:37,000
+Those are everyday working people all across the world who are trying to solve problems in their spare time and it's not enough to just write the coding for it or to develop the system.
+
+366
+01:01:37,000 --> 01:01:54,000
+Check it on those devices and I'm sure everybody else would understand you can't just hop around insulin pump to insulin pump and you know without without without getting prescriptions and changing things so for the everyday consumer that's that's not exactly feasible.
+
+367
+01:01:54,000 --> 01:02:06,000
+But because the community is so large there is always somebody out there with a new the new this insulin pump or this one this version this firmware whatever.
+
+368
+01:02:06,000 --> 01:02:19,000
+But that need to test those things even if you're not wearing it you need to turn it on and then see if it works and then that opens up the possibilities for more and more users to use the system.
+
+369
+01:02:19,000 --> 01:02:41,000
+So that's got a lot of appeal to me helping in that area being this sort of like beta tester and then in terms of the like the Facebook community I love answering people's questions on there especially new users who need assistance and help.
+
+370
+01:02:41,000 --> 01:02:55,000
+Oftentimes there are sometimes they're not complicated questions but somebody needs to answer them for those people anyway and just going on and checking through the recent posts is enough that you could really really help somebody so.
+
+371
+01:02:55,000 --> 01:03:04,000
+I enjoy being engaged in that aspect because I also know if I go on there with a question somebody will be there to answer me too.
+
+372
+01:03:04,000 --> 01:03:11,000
+Yeah that's what's so special about this community is it's given take you can you know.
+
+373
+01:03:11,000 --> 01:03:40,000
+Go on there and get answers whenever you need them but also there's this understood there's this shared experience of type one sucks and but this excitement over this technology and being able to help someone in some way it's what gives me so much passion with what I do on my channel is like being able to educate about things I understand very easily and put that information out there for people and to be able to go on the.
+
+374
+01:03:40,000 --> 01:03:51,000
+The Facebook page and be able to help people there are some cool things going on in the space they're really close the communities really close on cracking.
+
+375
+01:03:51,000 --> 01:04:14,000
+using mobile as a pump for DIY systems open source systems so that's exciting to just give people more options when it comes to what systems they use on open source also if people have a mobile already and they just want to start using it they can.
+
+376
+01:04:14,000 --> 01:04:22,000
+I don't prefer to whatever that is also it's a little more future proof than omnipod dash which.
+
+377
+01:04:22,000 --> 01:04:27,000
+We're hopeful it stays around for for years and years and years but there's omnipod five.
+
+378
+01:04:27,000 --> 01:04:38,000
+Yeah when is omnipod going to cut off production of omnipod dash I don't know but I know the community won't be so happy when that happens and then also there is an updated.
+
+379
+01:04:38,000 --> 01:05:07,000
+System for Android APS and that is using the same algorithm but it's for Android and it's called Lotus and there's this group of developers who've been working on this for a long time actually got to see the app in person at ATTD it's beautiful it's much more intuitive than Android APS which you're using but it's the same exact algorithm with the exact same or most of the same features just a completely new interface that's really pretty looking so.
+
+380
+01:05:07,000 --> 01:05:14,000
+I'm looking forward to you eventually being able to try that and I'm hoping to have them on the show soon so.
+
+381
+01:05:14,000 --> 01:05:20,000
+Yeah the future is bright with with open source and Android APS.
+
+382
+01:05:20,000 --> 01:05:32,000
+Yeah I'm excited I'm excited for all the new stuff and that's one of the reasons I keep going back to all the discord channels is it's like a continuous new source for all the cool things that people are doing so yeah it's great.
+
+383
+01:05:32,000 --> 01:05:38,000
+Well I look forward to seeing what happens there and I also look forward to just hearing how your journey continues so.
+
+384
+01:05:38,000 --> 01:05:48,000
+We'll have to catch up soon and just kind of see where you are another you know two or three months from now so thank you Austin for coming on the show this was awesome.
+
+385
+01:05:48,000 --> 01:05:50,000
+Yeah of course thanks a lot.
+
+386
+01:05:50,000 --> 01:06:00,000
+Are you an Android APS user let me know in the comments what you like about it what could be better and also if you're using trio that same algorithm but for iPhone.
+
+387
+01:06:00,000 --> 01:06:08,000
+Let me know your thoughts on using the system how long have you been using it what are the differences you've seen from the system you were on before to now.
+
+388
+01:06:08,000 --> 01:06:18,000
+I personally would like to go back to trio for some time and really get down my settings I never felt like I fully got down my settings when I was last on it I was on it for nine months.
+
+389
+01:06:18,000 --> 01:06:24,000
+And I got really good at it, but it just wasn't too a point where I felt like it was just doing its thing.
+
+390
+01:06:24,000 --> 01:06:28,000
+So I've kind of just been back on DIY loop a bit.
+
+391
+01:06:28,000 --> 01:06:35,000
+I've been trying out different pumps right now I'm trying out Moby and I plan on trying out some other pumps before I go back to open source.
+
+392
+01:06:35,000 --> 01:06:45,000
+So definitely drop your thoughts in the comments on YouTube and make sure you subscribe to this show whether it's on YouTube or any podcast platforms we've got new episodes every Monday
+
+393
+01:06:45,000 --> 01:06:58,000
+and there's also a ton happening on social media so you should follow me at Diabet under ScoreTech, DIA BE under ScoreTech on just really all the social platforms as always I'm Justin and I'll see you next week.
+

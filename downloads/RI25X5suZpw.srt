@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:02,640
+Explain to us what Glucotrack looks like.
+
+2
+00:00:02,640 --> 00:00:06,360
+The device is housed in a titanium housing.
+
+3
+00:00:06,360 --> 00:00:11,600
+Again, design just like an implantable loop recorder.
+
+4
+00:00:11,600 --> 00:00:15,640
+And so the length of that device, about two thirds of that length,
+
+5
+00:00:15,640 --> 00:00:17,920
+is actually battery to give us, you know,
+
+6
+00:00:17,920 --> 00:00:21,280
+three-year longevity out of that remaining one-third,
+
+7
+00:00:21,280 --> 00:00:23,240
+you know, half of that is electronics.
+
+8
+00:00:23,240 --> 00:00:25,640
+And then the other half, which is the clear plastic part,
+
+9
+00:00:25,640 --> 00:00:28,160
+you know, at one side of the device,
+
+10
+00:00:28,160 --> 00:00:31,600
+that is where we connect the lead.
+
+11
+00:00:31,600 --> 00:00:35,160
+And then the lead is kind of like that little sensor filament
+
+12
+00:00:35,160 --> 00:00:38,440
+that comes out of the sensor, or the, you know,
+
+13
+00:00:38,440 --> 00:00:41,519
+and it has, you know, wires that go down a connects
+
+14
+00:00:41,519 --> 00:00:45,080
+into the device, as wires go go down to electrodes,
+
+15
+00:00:45,080 --> 00:00:48,160
+as constructive, very similar to a cardiac pacemaker lead.
+
+16
+00:00:48,160 --> 00:00:53,600
+It goes into the actual vein, which is sort of near the armpit area.
+
+17
+00:00:53,600 --> 00:00:56,640
+And then it's advanced to inches or five centimeters
+
+18
+00:00:56,640 --> 00:00:58,240
+into the subclavian vein.
+
+19
+00:00:58,240 --> 00:01:01,360
+And the lead goes there, and then it is, you know,
+
+20
+00:01:01,360 --> 00:01:04,599
+sutured down and connected to the electronic device,
+
+21
+00:01:04,599 --> 00:01:07,280
+which is placed effectively under the skin.
+
+22
+00:01:07,280 --> 00:01:10,440
+If I'll go as well, you know, our target is, you know,
+
+23
+00:01:10,440 --> 00:01:13,680
+commercial approval in, you know, second half of, uh,
+
+24
+00:01:13,680 --> 00:01:14,680
+2028.
+

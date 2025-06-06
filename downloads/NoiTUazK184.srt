@@ -1,0 +1,740 @@
+1
+00:00:00,000 --> 00:00:07,000
+Oh, well, hello there, you two, come on in, come on in. Welcome to my smart home.
+
+2
+00:00:07,000 --> 00:00:16,000
+Any product I'm gonna point out in this video will be in the bio. One of the main devices
+
+3
+00:00:16,000 --> 00:00:22,000
+that is power in my smart home is one you probably have heard of and its name is Alexa.
+
+4
+00:00:22,000 --> 00:00:29,000
+And I whisper that because she's very sensitive, she sits right there. Basically, I tell her what I want her to do.
+
+5
+00:00:29,000 --> 00:00:33,000
+And she does it. And she has no feelings for feelings never get hurt.
+
+6
+00:00:33,000 --> 00:00:37,000
+Right over here is my happy smiley face neon light.
+
+7
+00:00:37,000 --> 00:00:41,000
+I connected it to a leviton smart plug right down here.
+
+8
+00:00:41,000 --> 00:00:45,000
+And I programmed that to connect to my wing device.
+
+9
+00:00:45,000 --> 00:00:47,000
+And my wing device then talks to Alexa.
+
+10
+00:00:47,000 --> 00:00:50,000
+I could say Alexa, turn off neon.
+
+11
+00:00:50,000 --> 00:00:53,000
+And then I can go Alexa, turn on neon.
+
+12
+00:00:53,000 --> 00:00:55,000
+Okay.
+
+13
+00:00:55,000 --> 00:00:59,000
+And there you go. You can connect any appliance to it and it will work.
+
+14
+00:00:59,000 --> 00:01:06,000
+So if you have like an air conditioning unit in your apartment and you want the air to turn on before you come home,
+
+15
+00:01:06,000 --> 00:01:11,000
+you can log on to your wing app and actually turn on the air conditioner remotely.
+
+16
+00:01:11,000 --> 00:01:13,000
+Other than that, I have few and life effects.
+
+17
+00:01:13,000 --> 00:01:15,000
+They both have their pros and cons.
+
+18
+00:01:15,000 --> 00:01:20,000
+I have another video that you can totally check out basically weighing which one you should buy.
+
+19
+00:01:20,000 --> 00:01:22,000
+Right over here, I have a life effects light.
+
+20
+00:01:22,000 --> 00:01:25,000
+And then I have my few light strips over here.
+
+21
+00:01:25,000 --> 00:01:28,000
+The cool thing about the few light strips is that right on my phone,
+
+22
+00:01:28,000 --> 00:01:31,000
+it connects to the apple home.
+
+23
+00:01:31,000 --> 00:01:36,000
+And I have my kitchen lights right here where I can slide up and down the brightness.
+
+24
+00:01:36,000 --> 00:01:38,000
+And I can also go to color and choose different colors.
+
+25
+00:01:38,000 --> 00:01:41,000
+Cute light strips. They're kind of expensive.
+
+26
+00:01:41,000 --> 00:01:43,000
+But you get these really great lights.
+
+27
+00:01:43,000 --> 00:01:45,000
+And I also can talk to Siri.
+
+28
+00:01:45,000 --> 00:01:48,000
+Hey Siri, change the kitchen lights to green.
+
+29
+00:01:49,000 --> 00:01:52,000
+And Siri does it.
+
+30
+00:01:52,000 --> 00:01:53,000
+So that's pretty cool.
+
+31
+00:01:53,000 --> 00:01:56,000
+I also have these few lights up here.
+
+32
+00:01:56,000 --> 00:01:58,000
+All of these are connected to my smart home as well.
+
+33
+00:01:58,000 --> 00:02:05,000
+So what I can do is I can connect that smart outlet over there with my life effects lights
+
+34
+00:02:05,000 --> 00:02:09,000
+and my few lights and they can all connect to my phone.
+
+35
+00:02:09,000 --> 00:02:11,000
+And I can do this.
+
+36
+00:02:11,000 --> 00:02:13,000
+Alexa, turn off home lights.
+
+37
+00:02:13,000 --> 00:02:15,000
+Okay.
+
+38
+00:02:15,000 --> 00:02:21,000
+And of course, it didn't turn off my living room light.
+
+39
+00:02:21,000 --> 00:02:24,000
+But I mean with technology, there's always issues.
+
+40
+00:02:24,000 --> 00:02:29,000
+The light effects bulbs are very temperamental and I've started to transition to you myself
+
+41
+00:02:29,000 --> 00:02:33,000
+because they're just more consistent and reliable.
+
+42
+00:02:33,000 --> 00:02:42,000
+The cool thing about this is that I've connected my Logitech Harmony remote with my receiver
+
+43
+00:02:42,000 --> 00:02:46,000
+and then that all connects to my Amazon Alexa.
+
+44
+00:02:46,000 --> 00:02:50,000
+So I can do things like, oops, she's already ready for me to say something.
+
+45
+00:02:50,000 --> 00:02:52,000
+Alexa, turn on Apple TV.
+
+46
+00:02:52,000 --> 00:02:53,000
+Okay.
+
+47
+00:02:53,000 --> 00:02:56,000
+And then what she's going to do is she's going to talk to the Logitech remote
+
+48
+00:02:56,000 --> 00:02:58,000
+which will turn on my receiver.
+
+49
+00:02:58,000 --> 00:02:59,000
+Turns on the Apple TV.
+
+50
+00:02:59,000 --> 00:03:01,000
+And it will also turn on the TV.
+
+51
+00:03:01,000 --> 00:03:03,000
+And then there you go.
+
+52
+00:03:03,000 --> 00:03:06,000
+This is my Apple TV and three, two, one.
+
+53
+00:03:06,000 --> 00:03:10,000
+Alexa, turn on the speakers.
+
+54
+00:03:11,000 --> 00:03:12,000
+Okay.
+
+55
+00:03:14,000 --> 00:03:16,000
+And then she's going to play the whatever's.
+
+56
+00:03:23,000 --> 00:03:26,000
+Yeah, she'll play whatever was last on my phone.
+
+57
+00:03:26,000 --> 00:03:28,000
+And I did not do that on purpose.
+
+58
+00:03:28,000 --> 00:03:29,000
+No, I did it.
+
+59
+00:03:29,000 --> 00:03:33,000
+I had an Alexa out there and I also have an echo in here.
+
+60
+00:03:33,000 --> 00:03:34,000
+I need to whisper.
+
+61
+00:03:34,000 --> 00:03:36,000
+Echo turn on bedroom lights.
+
+62
+00:03:36,000 --> 00:03:40,000
+There's my bedroom lights.
+
+63
+00:03:40,000 --> 00:03:43,000
+So I have two life ex bulbs right in those lamps.
+
+64
+00:03:43,000 --> 00:03:46,000
+And then down here, I have more LED lights.
+
+65
+00:03:46,000 --> 00:03:49,000
+The great thing about these lights are there only $18.
+
+66
+00:03:49,000 --> 00:03:54,000
+And I made them smart lights by connecting them to the same kind of outlet
+
+67
+00:03:54,000 --> 00:03:57,000
+that I had out there the Levitton outlet.
+
+68
+00:03:57,000 --> 00:04:01,000
+So for 35 bucks plus 18, I have a smart light.
+
+69
+00:04:01,000 --> 00:04:05,000
+And then they also have this cute little remote right here that I can change
+
+70
+00:04:05,000 --> 00:04:06,000
+the colors.
+
+71
+00:04:06,000 --> 00:04:08,000
+I do have to get down because the sensors down there.
+
+72
+00:04:08,000 --> 00:04:11,000
+Well, I hope you liked the tour of my smart home.
+
+73
+00:04:11,000 --> 00:04:16,000
+If you have any questions about the gadgets or want me to do a specific video on any of the gadgets in general,
+
+74
+00:04:16,000 --> 00:04:21,000
+I can do that because I can literally talk about these things for hours.
+
+75
+00:04:21,000 --> 00:04:23,000
+Oh, well, hello there YouTube.
+
+76
+00:04:23,000 --> 00:04:25,000
+Come on to my new smart home.
+
+77
+00:04:25,000 --> 00:04:27,000
+I just moved to it's my second smart home.
+
+78
+00:04:27,000 --> 00:04:31,000
+This video is all about remote to buttons and switches around my smart home
+
+79
+00:04:31,000 --> 00:04:34,000
+that you can get to make your life way easier
+
+80
+00:04:34,000 --> 00:04:35,000
+and way smarter.
+
+81
+00:04:35,000 --> 00:04:38,000
+A lot of people out there are saying, why do you need Alexa?
+
+82
+00:04:38,000 --> 00:04:40,000
+The reason is because I don't want to move.
+
+83
+00:04:40,000 --> 00:04:44,000
+But if I'm okay with moving or if I have a remote with me, then I'll use that.
+
+84
+00:04:44,000 --> 00:04:49,000
+I will have all of the links to these products, the best deals I've found in the bio
+
+85
+00:04:49,000 --> 00:04:50,000
+down below.
+
+86
+00:04:50,000 --> 00:04:52,000
+So let's come right over here to my power station.
+
+87
+00:04:52,000 --> 00:04:57,000
+So what we have right here is you may not recognize it, but this is a light switch.
+
+88
+00:04:57,000 --> 00:04:58,000
+We do not touch these.
+
+89
+00:04:58,000 --> 00:05:00,000
+In fact, I should put some tape over those.
+
+90
+00:05:00,000 --> 00:05:02,000
+What we do use though is this right here.
+
+91
+00:05:02,000 --> 00:05:05,000
+And this is the Phillips Hue like dimmer switch.
+
+92
+00:05:05,000 --> 00:05:08,000
+This thing is so, so great.
+
+93
+00:05:08,000 --> 00:05:12,000
+This alone is $25, but you can also get it for $35 with the light bulb.
+
+94
+00:05:12,000 --> 00:05:15,000
+I can control up to 10 light bulbs just with this.
+
+95
+00:05:15,000 --> 00:05:17,000
+I'm turning them on, off, dimming them.
+
+96
+00:05:17,000 --> 00:05:20,000
+Great device and super cheap for what it does.
+
+97
+00:05:20,000 --> 00:05:23,000
+And if you're in the Phillips Hue family, this is like a no-brainer.
+
+98
+00:05:23,000 --> 00:05:26,000
+I would probably have five of these if I had more queue lights around my house.
+
+99
+00:05:26,000 --> 00:05:27,000
+Or bigger house.
+
+100
+00:05:27,000 --> 00:05:29,000
+One day YouTube one day.
+
+101
+00:05:29,000 --> 00:05:34,000
+The device that I just got and I am in love with is the Logitech Hop.
+
+102
+00:05:34,000 --> 00:05:37,000
+And actually put the bell crow on it.
+
+103
+00:05:37,000 --> 00:05:40,000
+That way I can kind of pop it off, put a tentet.
+
+104
+00:05:40,000 --> 00:05:42,000
+For the starter pack, it's $57.
+
+105
+00:05:42,000 --> 00:05:45,000
+The starter pack includes the bridge for the device.
+
+106
+00:05:45,000 --> 00:05:48,000
+And to just get a button, it's $40.
+
+107
+00:05:48,000 --> 00:05:51,000
+As a smart home, liver and builder and creator.
+
+108
+00:05:51,000 --> 00:05:54,000
+I'm always looking for a device that connects all of my smart devices.
+
+109
+00:05:54,000 --> 00:05:56,000
+And this is it.
+
+110
+00:05:56,000 --> 00:05:58,000
+I can either tap it once.
+
+111
+00:05:58,000 --> 00:06:00,000
+Tap it twice or do a long tap.
+
+112
+00:06:00,000 --> 00:06:02,000
+Give me three different abilities.
+
+113
+00:06:02,000 --> 00:06:04,000
+If I tap it once, it turns on all my lights.
+
+114
+00:06:04,000 --> 00:06:08,000
+If I do a long press, it turns on the art mode.
+
+115
+00:06:08,000 --> 00:06:12,000
+What that does is it completely transforms my entire apartment.
+
+116
+00:06:12,000 --> 00:06:15,000
+It turns off my light lights into color light bulb.
+
+117
+00:06:15,000 --> 00:06:17,000
+Also, right over here, I have my neon smiley face.
+
+118
+00:06:17,000 --> 00:06:20,000
+That turns on with the we most smart outlet.
+
+119
+00:06:20,000 --> 00:06:23,000
+It sets my living room lights and my kitchen lights to dim.
+
+120
+00:06:23,000 --> 00:06:25,000
+And it turns on music.
+
+121
+00:06:25,000 --> 00:06:30,000
+And so whenever I'm going to have friends over,
+
+122
+00:06:30,000 --> 00:06:31,000
+I just long press that.
+
+123
+00:06:31,000 --> 00:06:35,000
+I actually haven't had many friends over since I've gotten that device soon.
+
+124
+00:06:35,000 --> 00:06:36,000
+I will.
+
+125
+00:06:36,000 --> 00:06:39,000
+So when I have friends and then when I have those friends over,
+
+126
+00:06:39,000 --> 00:06:41,000
+I'm going to put party mode on.
+
+127
+00:06:41,000 --> 00:06:43,000
+One day, you two, one day.
+
+128
+00:06:43,000 --> 00:06:45,000
+All I have to do to turn this off.
+
+129
+00:06:50,000 --> 00:06:53,000
+So that's party mode, and I freaking love it.
+
+130
+00:06:53,000 --> 00:06:57,000
+This next device is one of my favorite devices.
+
+131
+00:06:57,000 --> 00:06:59,000
+It is the Logitech Harmony Remote.
+
+132
+00:06:59,000 --> 00:07:04,000
+And what I love about it so much is that it controls my complete entertainment system.
+
+133
+00:07:04,000 --> 00:07:09,000
+As well as all of my lights, it has a few different buttons right here that control my Apple TV,
+
+134
+00:07:09,000 --> 00:07:11,000
+my Nintendo Switch, my speakers.
+
+135
+00:07:11,000 --> 00:07:16,000
+So if I want to watch a movie on Apple TV, all I do is press this movie button right here.
+
+136
+00:07:16,000 --> 00:07:20,000
+And it turns on my receiver, turns on my Apple TV, and it will turn on my TV.
+
+137
+00:07:20,000 --> 00:07:22,000
+And then I can watch a movie.
+
+138
+00:07:22,000 --> 00:07:26,000
+Then if I want to turn it off, I just click this off button and it turns everything off.
+
+139
+00:07:26,000 --> 00:07:28,000
+I can change the light set if I want.
+
+140
+00:07:28,000 --> 00:07:30,000
+So this light right here, it's connected to this.
+
+141
+00:07:30,000 --> 00:07:32,000
+So if I don't want that on, it gets turned off.
+
+142
+00:07:32,000 --> 00:07:36,000
+If I do want it on, but I want it dim it a little bit and just dim it down right there.
+
+143
+00:07:36,000 --> 00:07:39,000
+And then I can turn this light off because it's a little too bright for the movie.
+
+144
+00:07:39,000 --> 00:07:41,000
+I'm going to turn my kitchen light off too.
+
+145
+00:07:41,000 --> 00:07:43,000
+And then that one.
+
+146
+00:07:43,000 --> 00:07:44,000
+And then that one.
+
+147
+00:07:44,000 --> 00:07:45,000
+And then another light bulb.
+
+148
+00:07:45,000 --> 00:07:46,000
+And then we go to the club.
+
+149
+00:07:46,000 --> 00:07:47,000
+And then we go out.
+
+150
+00:07:47,000 --> 00:07:48,000
+And another one.
+
+151
+00:07:48,000 --> 00:07:49,000
+The Logitech Harmony Remote.
+
+152
+00:07:49,000 --> 00:07:51,000
+It is so worth it.
+
+153
+00:07:51,000 --> 00:07:56,000
+If you have a system or set up that will fully utilize its potential.
+
+154
+00:07:56,000 --> 00:08:00,000
+It's sleep, light, and really comfortable in your hands.
+
+155
+00:08:00,000 --> 00:08:03,000
+Who doesn't like something that's comfortable in your hands?
+
+156
+00:08:03,000 --> 00:08:05,000
+Next.
+
+157
+00:08:05,000 --> 00:08:06,000
+So.
+
+158
+00:08:06,000 --> 00:08:08,000
+It's way right there.
+
+159
+00:08:08,000 --> 00:08:11,000
+So welcome to my bedroom.
+
+160
+00:08:11,000 --> 00:08:13,000
+The one and only just a tech bedroom.
+
+161
+00:08:13,000 --> 00:08:14,000
+Come on.
+
+162
+00:08:14,000 --> 00:08:17,000
+You have this brand new pop button that I showed you over there.
+
+163
+00:08:17,000 --> 00:08:19,000
+But this is the gray version.
+
+164
+00:08:19,000 --> 00:08:22,000
+If I tap it once, it will turn my lights on.
+
+165
+00:08:22,000 --> 00:08:23,000
+I want to get things done.
+
+166
+00:08:23,000 --> 00:08:27,000
+Some spring cleaning, summer cleaning, winter cleaning.
+
+167
+00:08:27,000 --> 00:08:29,000
+I could double tap it.
+
+168
+00:08:29,000 --> 00:08:34,000
+And it goes into like bootlighting when I want to get things done.
+
+169
+00:08:34,000 --> 00:08:37,000
+And then I can hold it down.
+
+170
+00:08:37,000 --> 00:08:39,000
+And it's a nice little night like late night.
+
+171
+00:08:39,000 --> 00:08:40,000
+Then I go switch.
+
+172
+00:08:40,000 --> 00:08:45,000
+It's like late night pillow talk or just like late night nighttime.
+
+173
+00:08:45,000 --> 00:08:46,000
+Get out of here.
+
+174
+00:08:46,000 --> 00:08:51,000
+So there's your teas in switches, remotes, and buttons around a smart home.
+
+175
+00:08:51,000 --> 00:08:53,000
+What basically I've done so far.
+
+176
+00:08:53,000 --> 00:08:54,000
+I have a lot more to do.
+
+177
+00:08:54,000 --> 00:08:59,000
+Make sure to subscribe down below to stay up to date with all of my tech videos.
+
+178
+00:08:59,000 --> 00:09:00,000
+And follow me on Instagram.
+
+179
+00:09:00,000 --> 00:09:02,000
+I'm doing a lot of fun stuff on there.
+
+180
+00:09:02,000 --> 00:09:03,000
+And you should check it out.
+
+181
+00:09:03,000 --> 00:09:05,000
+Lots of good deals.
+
+182
+00:09:05,000 --> 00:09:07,000
+Until next time, see you later.
+
+183
+00:09:07,000 --> 00:09:08,000
+Have a good day.
+
+184
+00:09:08,000 --> 00:09:09,000
+Catch you next time.
+
+185
+00:09:16,000 --> 00:09:19,000
+Thanks for watching.
+

@@ -1,0 +1,340 @@
+1
+00:00:00,000 --> 00:00:07,000
+Today I'm at AT&T in Westwood, checking out the Magic Leap 1 Creator Edition.
+
+2
+00:00:07,000 --> 00:00:12,840
+This device isn't necessarily VR or AR, it's a spatial computing device, it analyzes
+
+3
+00:00:12,840 --> 00:00:17,880
+your surroundings and sends light to your eyes, creating three-dimensional objects around you.
+
+4
+00:00:17,880 --> 00:00:22,280
+In my last video, I played Game of Thrones, The Dead Mustie Experience, and it was really
+
+5
+00:00:22,280 --> 00:00:23,280
+cool.
+
+6
+00:00:23,280 --> 00:00:24,280
+There's a white walker.
+
+7
+00:00:24,280 --> 00:00:25,280
+Yeah!
+
+8
+00:00:25,280 --> 00:00:26,280
+Holy sh, oh he just died.
+
+9
+00:00:26,280 --> 00:00:27,280
+I killed him.
+
+10
+00:00:27,280 --> 00:00:31,720
+Got with Tim Johnson, VP of sales for Magic Leap, and he told me all about the device
+
+11
+00:00:31,720 --> 00:00:33,840
+and let me play a bunch of games.
+
+12
+00:00:33,840 --> 00:00:35,440
+Your retina is the screen.
+
+13
+00:00:35,440 --> 00:00:37,440
+So when people say, oh, what's the resolution?
+
+14
+00:00:37,440 --> 00:00:40,680
+There's no pixels here, so I can't really talk about resolution.
+
+15
+00:00:40,680 --> 00:00:46,120
+Your retina is basically seeing the information, so just like you absorb light from the
+
+16
+00:00:46,120 --> 00:00:51,960
+room, we're sending light to your eye, and then you're seeing the three-dimensional objects
+
+17
+00:00:51,960 --> 00:00:52,960
+in space.
+
+18
+00:00:52,960 --> 00:00:56,720
+There are four world cameras, basically, or recording everything you see.
+
+19
+00:00:56,720 --> 00:01:00,600
+There are depth sensors and all kinds of other sensors that are basically making sure that they
+
+20
+00:01:00,600 --> 00:01:03,040
+can measure the space and know how you're moving through it.
+
+21
+00:01:03,040 --> 00:01:06,760
+There are two eye tracking cameras that are basically watching what you're looking at.
+
+22
+00:01:06,760 --> 00:01:11,920
+Obviously, with your eyes, you can also get biomarkers, so obviously, long-term, you wouldn't
+
+23
+00:01:11,920 --> 00:01:15,640
+log into this, you'd put it on, it would recognize that it was you, and then it would work.
+
+24
+00:01:15,640 --> 00:01:18,480
+Otherwise, it wouldn't work for anybody else, if that's what you decided.
+
+25
+00:01:18,480 --> 00:01:22,480
+We can tell a lot about your health, your heart rate, your cholesterol levels, all of those
+
+26
+00:01:22,480 --> 00:01:26,600
+kinds of things we can tell from your eye, so it's pretty amazing what it can do.
+
+27
+00:01:26,600 --> 00:01:29,800
+This is the first of its kind, sixth degree of freedom, control.
+
+28
+00:01:29,800 --> 00:01:37,080
+We can tell what position you have it in space, so you can obviously move it very freely, and basically
+
+29
+00:01:37,080 --> 00:01:42,040
+you can tell where it is in relation to you, and where it is in relation to the content.
+
+30
+00:01:42,040 --> 00:01:48,400
+Gesture, obviously, just like HoloLens, voice, eye tracking, head pose, even, so if you're
+
+31
+00:01:48,400 --> 00:01:52,320
+holding your face in a certain way, you can actually tell whether you're questioning something,
+
+32
+00:01:52,320 --> 00:01:57,600
+so as the AI gets to know you over time, we'll know what you're responding positively to,
+
+33
+00:01:57,600 --> 00:02:01,960
+which you're responding negatively to, and the core apps, we've got Helio, which is a volumetric
+
+34
+00:02:01,960 --> 00:02:08,120
+web browser, so one of the apps that you can see on here is WayFair, which you can shop for furniture,
+
+35
+00:02:08,120 --> 00:02:12,360
+you can pull the pieces of furniture out of the website, put them into your room, and again,
+
+36
+00:02:12,360 --> 00:02:16,040
+because we know the size of your room, and we know the dimensions of that chair, it's the
+
+37
+00:02:16,040 --> 00:02:20,080
+right size when it's put into your room, you can change the pattern, all that kind of stuff.
+
+38
+00:02:20,080 --> 00:02:24,800
+Also, shopping will be a lot different in the future than the social, which you can chat with
+
+39
+00:02:24,800 --> 00:02:30,400
+other people in kind of an avatar state, more like a Jedi Council, and then yeah, HoloLens, yeah, definitely
+
+40
+00:02:30,400 --> 00:02:31,400
+thank you.
+
+41
+00:02:31,400 --> 00:02:33,720
+Tim gave me his personal headsets to try out.
+
+42
+00:02:33,720 --> 00:02:36,400
+First I played Angry Birds, first person's sling shot.
+
+43
+00:02:36,400 --> 00:02:40,480
+It was fascinating to see how far this game has come since it's original release.
+
+44
+00:02:40,480 --> 00:02:46,280
+I remember the first time I tried out Angry Birds, and it was so dictating, is on my iPhone
+
+45
+00:02:46,280 --> 00:02:51,720
+4, and now I'm trying Angry Birds out for the first time, and augmented reality.
+
+46
+00:02:51,720 --> 00:02:52,720
+This is amazing.
+
+47
+00:02:52,720 --> 00:02:57,680
+Okay, so we've got a bunch of pigs, we've got a TNT on top, I'm going to pull this back, I'm going
+
+48
+00:02:57,680 --> 00:02:58,680
+to do this hard.
+
+49
+00:02:58,680 --> 00:03:00,680
+Here we go.
+
+50
+00:03:00,680 --> 00:03:06,160
+Boom, I've also played the Angry Birds game, Isle of Pigs, on the Oculus Quest, which is a pretty
+
+51
+00:03:06,160 --> 00:03:10,200
+similar feel, and it's a fun, quick, and easy game to pick up and play.
+
+52
+00:03:10,200 --> 00:03:11,840
+I highly recommend it.
+
+53
+00:03:11,840 --> 00:03:12,840
+See three peos here.
+
+54
+00:03:12,840 --> 00:03:15,560
+Next, I played Star Wars Project Porg.
+
+55
+00:03:15,560 --> 00:03:19,000
+I'll em x-lab, I know them, I just tried out the void.
+
+56
+00:03:19,000 --> 00:03:23,400
+Side note, a couple months ago I tried out this awesome Star Wars VR experience, you should
+
+57
+00:03:23,400 --> 00:03:24,640
+check out the video.
+
+58
+00:03:24,640 --> 00:03:26,160
+Now back to Porg's.
+
+59
+00:03:26,160 --> 00:03:30,960
+This game was basically Tomagaji meet Star Wars, these cute little Porg's were running all around,
+
+60
+00:03:30,960 --> 00:03:32,320
+and I was feeding them.
+
+61
+00:03:32,320 --> 00:03:36,960
+There's Porg's, there you go, it was adorable.
+
+62
+00:03:36,960 --> 00:03:40,120
+After the games, I checked out the gallery, which showed up some cool features.
+
+63
+00:03:40,120 --> 00:03:44,080
+Right now I have this deer that I just placed right on that shelf.
+
+64
+00:03:44,320 --> 00:03:50,440
+Wow, there it is, my horse video is on my wall, and I can look away, do my thing, and then
+
+65
+00:03:50,440 --> 00:03:53,800
+if I want to just see beautiful horses on the countryside, there they are.
+
+66
+00:03:53,800 --> 00:03:56,320
+I love it.
+
+67
+00:03:56,320 --> 00:04:01,520
+I was also lucky enough to check out the magic leap at 18T shape a few weeks ago, and played
+
+68
+00:04:01,520 --> 00:04:05,120
+one of the best games on the device, and one of the hardest names to pronounce.
+
+69
+00:04:05,120 --> 00:04:07,080
+Dr. Gordbord's invaders.
+
+70
+00:04:07,080 --> 00:04:11,200
+Basically I was fighting off hordes of robots that were entering from a hole in the wall.
+
+71
+00:04:11,200 --> 00:04:15,960
+This game was extremely impressive, and it's the number one game you have to try at 18T.
+
+72
+00:04:15,960 --> 00:04:25,320
+Wow, that was probably the coolest AR experience that I've ever witnessed, move over HoloLens.
+
+73
+00:04:25,320 --> 00:04:30,840
+So the magic leap creator edition is a really cool headset, and unlike any I have ever tried.
+
+74
+00:04:30,840 --> 00:04:34,520
+But there is no way I would buy it for $2300.
+
+75
+00:04:34,520 --> 00:04:39,280
+I do recommend heading to 18T and checking this thing out, but I don't think I recommend anyone
+
+76
+00:04:39,280 --> 00:04:42,120
+to buy it unless you're filthy rich or an early adopter.
+
+77
+00:04:42,120 --> 00:04:44,520
+Alright, well the battery died, I was playing too much.
+
+78
+00:04:44,520 --> 00:04:47,520
+Wow guys, that was incredible.
+
+79
+00:04:47,520 --> 00:04:51,200
+I want one of these, can you get me $2300 please?
+
+80
+00:04:51,200 --> 00:04:55,600
+I've got to say I'm thoroughly impressed, come to your local AT&T store, you can must do it.
+
+81
+00:04:55,600 --> 00:04:59,000
+It's in these five cities right here, you definitely have to check it out, they're going to be rolling
+
+82
+00:04:59,000 --> 00:05:04,720
+it out to more AT&T stores throughout 2019, so if it's not by you right now, it will be coming soon.
+
+83
+00:05:04,720 --> 00:05:08,800
+I've gotten an awesome VR video coming out on Thursday and a giveaway, so make sure
+
+84
+00:05:08,840 --> 00:05:11,760
+to subscribe and click the bell to get notifications.
+
+85
+00:05:11,760 --> 00:05:13,720
+That's all I've got for you guys, I'm Justin, I'll take you later.
+

@@ -1,0 +1,2248 @@
+1
+00:00:00,000 --> 00:00:05,440
+I have been wearing the tandem moby insulin pump for about three months now.
+
+2
+00:00:05,440 --> 00:00:10,160
+It is the smallest hybrid closed loop tube pump in the US.
+
+3
+00:00:10,160 --> 00:00:12,880
+I mean, look at it. It is a tiny little thing.
+
+4
+00:00:12,880 --> 00:00:18,000
+Today, I wanted to dive deeper into its algorithm, my favorite features about it,
+
+5
+00:00:18,000 --> 00:00:23,280
+and some tips and tricks with it, and talk about what my transition from
+
+6
+00:00:23,280 --> 00:00:26,160
+tubeless to tube has been like.
+
+7
+00:00:26,240 --> 00:00:30,160
+Welcome to Diabetic. I'm just an eye of type one diabetes, and on here, I talk all things
+
+8
+00:00:30,160 --> 00:00:35,600
+diabetes, tech, news, and research. Today, I'm joined by diabetes educator, David Mina,
+
+9
+00:00:35,600 --> 00:00:41,680
+who lives with type one himself and uses the tandem moby. He helps train patients on a wide range
+
+10
+00:00:41,680 --> 00:00:47,440
+of insulin pumps, including the moby. We get into why he became a diabetes educator,
+
+11
+00:00:47,440 --> 00:00:53,519
+his experience with different pumps over the years, and why he chooses to still use tandem.
+
+12
+00:00:53,520 --> 00:00:58,720
+We also break down the tandem algorithm, how it works, the updates with control like you
+
+13
+00:00:58,720 --> 00:01:04,640
+plus, and what people should know before switching. I share my take on what the transition from
+
+14
+00:01:04,640 --> 00:01:10,320
+an omnipod tubeless pump to a tube pump. What that was like, it's been quite challenging,
+
+15
+00:01:10,320 --> 00:01:18,560
+as well as my love for the moby-quick-bullet button. This thing is so much fun to use, and then we
+
+16
+00:01:18,560 --> 00:01:23,200
+also get into some excitement. We have over the twist insulin pump that is coming very soon.
+
+17
+00:01:23,200 --> 00:01:27,920
+This is just the beginning for my moby content. There's already a site change video up on YouTube.
+
+18
+00:01:27,920 --> 00:01:33,680
+I've got an app walkthrough video coming up, as well as a video where I dive deeper into my transition
+
+19
+00:01:33,680 --> 00:01:40,960
+from tubeless to tube. I'm going back to tube, and then also a review of the tandem moby that
+
+20
+00:01:40,960 --> 00:01:45,440
+will be coming soon. So, make sure you subscribe to my YouTube channel so you get updated as soon as
+
+21
+00:01:45,440 --> 00:01:51,360
+that releases. Keep in mind that all of my episodes are not medical advice and are educational
+
+22
+00:01:51,360 --> 00:01:55,840
+purposes only. Always consult with a physician before making changes to your health care.
+
+23
+00:01:56,560 --> 00:02:01,039
+Let's get into it. Dave, welcome to the show. Good to have you here. How's it going?
+
+24
+00:02:01,039 --> 00:02:04,560
+Good to tell me. I'm good. I'm good. I'm very excited to be here.
+
+25
+00:02:05,280 --> 00:02:10,800
+Yeah, you work at the same office as David on, right? I do. I do. How well do you know him?
+
+26
+00:02:11,600 --> 00:02:16,480
+Pretty well. I've been working with him for about two years now, and we've been
+
+27
+00:02:16,560 --> 00:02:22,959
+good friends also before then. So, okay. Pretty comfortable. Very, very cool working with him,
+
+28
+00:02:22,959 --> 00:02:28,959
+learning a lot from him daily. So, that's great. Yeah, he's a crowd-favored on this show. I love having him
+
+29
+00:02:28,959 --> 00:02:34,160
+on whenever there's a conference him, and I will get together and talk about what we saw there and
+
+30
+00:02:34,160 --> 00:02:40,799
+geek out. It's always fun talking to him. But more about you, you were diagnosed at 11 years old.
+
+31
+00:02:41,200 --> 00:02:50,960
+Yes. And now you are a certified diabetes educator. Tell me about what inspired you to choose that
+
+32
+00:02:50,960 --> 00:02:57,600
+line of work. Well, I, like he said, was diagnosed at 11. So, I was in the sixth grade. Very new
+
+33
+00:02:57,600 --> 00:03:05,920
+concept to me. Did I know anybody in my life personally living with diabetes at all, but let alone type one.
+
+34
+00:03:06,880 --> 00:03:12,880
+So, it was very new to me. Very shocking, obviously, to me and my family. And just learning that
+
+35
+00:03:12,880 --> 00:03:21,600
+news at first. So, I think my experience being introduced to diabetes, I will say, did not start off on the
+
+36
+00:03:21,600 --> 00:03:29,920
+best. But I was very confused, very scared. Why is this happening to me? You know, you're 11. You want to just
+
+37
+00:03:29,920 --> 00:03:35,360
+be a normal kid. Be with your friends. Go, you know, to school. Do all of those things. And now I
+
+38
+00:03:35,360 --> 00:03:42,640
+had to relearn. I feel I had to relearn life in a way and how to incorporate diabetes into my life. So,
+
+39
+00:03:43,840 --> 00:03:50,720
+you know, I will say I went through a couple of burnout periods throughout my first couple of years with diabetes.
+
+40
+00:03:51,520 --> 00:03:59,360
+Had the highest A1c, I had ever hit maybe about two or three years afterwards. And there was a
+
+41
+00:03:59,360 --> 00:04:06,560
+point when I went to my endocrinologist for my three-month appointment. And my diabetes educator,
+
+42
+00:04:06,560 --> 00:04:15,200
+actually, is the one who came in and pretty much gave me this fear factor lecture telling me, you know,
+
+43
+00:04:15,200 --> 00:04:21,680
+if you don't get a grip on your diabetes, you're going to have X amount of complications later on in life.
+
+44
+00:04:22,400 --> 00:04:30,880
+And that really impacted me. It made me want to change my habits. You know, I was going for long periods
+
+45
+00:04:30,880 --> 00:04:37,280
+of time where I would be afraid to take insulin at school because I was afraid of going low. Very,
+
+46
+00:04:37,280 --> 00:04:42,400
+you know, embarrassed back then that I had this thing called diabetes that no other kid at my
+
+47
+00:04:42,400 --> 00:04:51,040
+school had. And so that is a lot where the behavioral elements came from and from that moment,
+
+48
+00:04:51,040 --> 00:04:57,600
+right after that appointment, I changed my ways. I said, I'm going to move forward on a positive note
+
+49
+00:04:57,600 --> 00:05:04,400
+and I'm going to take control over this thing. So, that was a very pivotal moment in my whole journey with
+
+50
+00:05:04,400 --> 00:05:12,000
+diabetes that really spoke to me and made me want to do something not only for myself, but for others.
+
+51
+00:05:12,000 --> 00:05:19,200
+I think that experience that my educator and I shared where it was not the most positive experience.
+
+52
+00:05:19,200 --> 00:05:26,240
+It taught me that I wanted to be that person to somebody, but handle it in a different way, essentially.
+
+53
+00:05:26,240 --> 00:05:34,880
+I want to go into a room with a patient and give them proper education and allow them to feel that they know
+
+54
+00:05:35,520 --> 00:05:40,800
+they have the resources available to them and here's how we can get to that point together.
+
+55
+00:05:40,800 --> 00:05:45,440
+I never want somebody to feel that they have to manage this disease alone. So,
+
+56
+00:05:46,160 --> 00:05:52,400
+that was a very, like I said, pivotal moment in my life that really spoke to me and made me want to
+
+57
+00:05:52,400 --> 00:05:58,640
+do something more with my diabetes. Yeah, that's so cool to hear. I mean, my diabetes educator has been
+
+58
+00:05:58,640 --> 00:06:04,160
+one of the most pivotal people in my care and I always tell people when they come to me and they're
+
+59
+00:06:04,160 --> 00:06:10,480
+having problems or they feel really lost. I'm like, get a diabetes educator, go find one. They
+
+60
+00:06:10,480 --> 00:06:15,120
+are your, what mindset to me was she was like, I'm your diabetes therapist. You can come in,
+
+61
+00:06:15,120 --> 00:06:20,720
+you can talk about whatever you want. It's all related to diabetes. It's all going to be in some way,
+
+62
+00:06:20,720 --> 00:06:28,320
+you know, that struggle, that whatever it is, that stress. It's all connected and she's made me,
+
+63
+00:06:28,320 --> 00:06:35,920
+you know, the the carb counter I am and I'm so grateful for her and I'm grateful for people like you,
+
+64
+00:06:35,920 --> 00:06:41,680
+that that help other people too. And I try to offer my own education too when it comes to at least
+
+65
+00:06:41,680 --> 00:06:46,960
+the technology that's available and then they can go over to you and then, you know, learn how to use it and
+
+66
+00:06:46,960 --> 00:06:52,320
+ask about it. You help people get on an on all pumps, right? Or a lot of different parts.
+
+67
+00:06:52,320 --> 00:06:57,440
+Pretty much yes. Like I always say I like to meet patients where they're act. So, you know,
+
+68
+00:06:58,000 --> 00:07:03,120
+at the point where they come see me, they've already made the decision. They want to start insulin
+
+69
+00:07:03,120 --> 00:07:10,240
+pump therapy and so depending on which device they choose, it can be, you know, just using
+
+70
+00:07:10,240 --> 00:07:16,400
+CGM. It could be using pump therapy with CGM. You name it. There are a lot of great options out there
+
+71
+00:07:16,400 --> 00:07:22,960
+these days. So, we usually just let them choose and then, you know, I'm able to train them on the device
+
+72
+00:07:22,960 --> 00:07:30,800
+that they choose and I really want to instill confidence in them that they know they can use these devices
+
+73
+00:07:30,800 --> 00:07:37,280
+in their own lifestyle. You have to choose a device that fits your lifestyle. So, yeah, that's
+
+74
+00:07:37,280 --> 00:07:44,320
+usually how it goes when we, when we have a training. Yeah. And I'm sure you've heard of the new twist
+
+75
+00:07:44,320 --> 00:07:49,440
+pump coming out. Have you been trained on that yet? Are there plans to get trained? Like it is happening?
+
+76
+00:07:49,440 --> 00:07:55,520
+I just went to Manchester, New Hampshire and I saw them in the production line being built. It was
+
+77
+00:07:55,520 --> 00:08:00,560
+so cool. Dean came in the inventor of the pump and the original, like the first wearable pump ever.
+
+78
+00:08:01,359 --> 00:08:06,880
+He took me on a tour, which was like so cool. But I'm excited for this. What are your thoughts?
+
+79
+00:08:06,880 --> 00:08:13,680
+Yeah. I actually have been having conversations with our reps here locally and so it's been really
+
+80
+00:08:13,680 --> 00:08:21,599
+exciting learning about the technology. Very, very interested in how it's going to work. As
+
+81
+00:08:21,600 --> 00:08:28,080
+come to therapy, compared to the options we have nowadays, I think each device coming out nowadays
+
+82
+00:08:28,080 --> 00:08:34,320
+is just getting better and better. A lot of features that I feel the diabetes community has been
+
+83
+00:08:34,320 --> 00:08:41,440
+voicing what they want out of a system. And I think I'm seeing a lot of that being placed into these new
+
+84
+00:08:41,440 --> 00:08:47,760
+devices such as the twist pump. So, yeah, very excited in the process of getting certified to train on
+
+85
+00:08:47,760 --> 00:08:54,960
+those, but we haven't fully started training yet. So, you know, more to come on that, but very excited
+
+86
+00:08:54,960 --> 00:09:02,240
+and always, always ready to learn more about all the systems. Yeah, they all have their pros and cons.
+
+87
+00:09:02,240 --> 00:09:09,760
+And I've experienced that firsthand after wearing Omni pod for the last three years using both Omni
+
+88
+00:09:09,760 --> 00:09:17,040
+pod five, the FDA cleared platform, and then using DIY systems. I've been able to experience
+
+89
+00:09:17,040 --> 00:09:23,040
+all those, and then switching over to Tantamobi for a few months, which inspired this conversation,
+
+90
+00:09:23,040 --> 00:09:28,560
+and I want to get as much information as I can out of you of, you know, the ways you're using it,
+
+91
+00:09:28,560 --> 00:09:35,439
+the way you speak to patients about it, because there are so many factors of the Mobi that I found to be
+
+92
+00:09:35,440 --> 00:09:42,800
+really beneficial, but I've also had moments with it where I struggle or I'm frustrated about whether
+
+93
+00:09:42,800 --> 00:09:49,440
+it'd be lifestyle experiences with it, but also just like understanding the platform or getting it to
+
+94
+00:09:49,440 --> 00:09:55,040
+work the way I want to. And I've worked with my educator, but I don't know, there's just, there's just been
+
+95
+00:09:55,040 --> 00:10:02,320
+a lot of like back and forth of how I feel about it. But before we get into Tantamobi, I want to get an
+
+96
+00:10:02,320 --> 00:10:11,520
+understanding of some of the pumps that you've used leading up to Tantamobi. So I, like we said at the
+
+97
+00:10:11,520 --> 00:10:18,720
+beginning, I've been living with diabetes since the age of 11, so it's been about 16 years now. I went my
+
+98
+00:10:18,720 --> 00:10:26,400
+first year with diabetes doing completely, you know, MDI. And then after that, I started in my first
+
+99
+00:10:26,400 --> 00:10:34,480
+insulin pump way back when it was a metronic pump one of the very first models available. I did that
+
+100
+00:10:34,480 --> 00:10:41,840
+for a few years, and then I switched over to the animus vibe no longer available, but that was a great pump.
+
+101
+00:10:41,840 --> 00:10:49,280
+I really enjoyed it. I hear people love that. It was very, very, I feel user-friendly as a good word to say.
+
+102
+00:10:50,240 --> 00:10:54,079
+Did you use the Cleo infusion set with that?
+
+103
+00:10:54,079 --> 00:11:00,720
+Ooh. I don't remember. Yeah, it's far back. They were very similar infusion sets. I think back then
+
+104
+00:11:00,720 --> 00:11:07,760
+I was still using steel cannula as I remember. So a little bit different, but yeah, I did the animus
+
+105
+00:11:07,760 --> 00:11:14,480
+divides for some time. That was when CGM was starting to become a thing too. So we started seeing that
+
+106
+00:11:14,480 --> 00:11:20,000
+integrated into the insulin pump. It wasn't, you know, a closed loop system or anything, but
+
+107
+00:11:21,040 --> 00:11:26,720
+but it was nice, as you could see your decks come, readings on your pump when you would go
+
+108
+00:11:26,720 --> 00:11:34,080
+initiatable as it would automatically populate. So I felt it helped a lot just having two devices in one,
+
+109
+00:11:34,080 --> 00:11:40,480
+essentially. And then I switched over to once my warranty ended with that, and I found out
+
+110
+00:11:40,480 --> 00:11:48,560
+animus V was no longer, I switched over to tandem T-slim. Did that for a few years, and then as
+
+111
+00:11:48,560 --> 00:11:54,400
+it recently, within the past year, switched to the movie. So that has been my, you know, journey with
+
+112
+00:11:54,400 --> 00:12:00,080
+insulin pump therapy. So I've been on a pump for about 15 years total, and I'm sure we'll talk about this
+
+113
+00:12:00,080 --> 00:12:06,880
+more within our conversation. But it's been, you know, a lot of learning, but I find that each system,
+
+114
+00:12:07,680 --> 00:12:12,800
+I switched over to, it's only getting better and better with the technology and the progression we're
+
+115
+00:12:12,800 --> 00:12:18,880
+seeing in pump therapy, all the features that are being incorporated into these systems are just making things
+
+116
+00:12:18,880 --> 00:12:24,240
+so much easier to live with diabetes. And it's something, obviously, you and I are both, I'm sure
+
+117
+00:12:24,240 --> 00:12:31,520
+very, very grateful for to have because it does provide a sense of luxury in a way to live with diabetes.
+
+118
+00:12:31,520 --> 00:12:37,439
+And that's something I'm fully aware of and grateful to have. Yeah, I feel so fortunate to have an
+
+119
+00:12:37,439 --> 00:12:44,720
+automated system. And fortunate to have been diagnosed at a time where that was ready for me. I mean,
+
+120
+00:12:44,720 --> 00:12:50,640
+at least in the DIY space, it was maybe a year after my diagnosis that cleared FDA cleared system,
+
+121
+00:12:50,640 --> 00:12:55,760
+started having loop or closed loop systems. But I didn't have to go through the years that you did
+
+122
+00:12:55,760 --> 00:13:03,760
+of not knowing or not having the CGM levels connected to a pump. And I don't want, I don't want to
+
+123
+00:13:03,760 --> 00:13:10,640
+have imagined that. So I'm grateful for that. You know, you had this big decision when T-slims contract
+
+124
+00:13:10,640 --> 00:13:18,800
+went up, you moved over to Moby. Why do you decide to stay in that control-like ecosystem?
+
+125
+00:13:18,800 --> 00:13:25,200
+Like I said, I always tell patients, you have to find a system that works well in your lifestyle.
+
+126
+00:13:26,319 --> 00:13:32,560
+So when I applied that to my own like the diabetes, I found that the Moby made sense to me,
+
+127
+00:13:32,560 --> 00:13:37,760
+and especially having that same algorithm that I'm so used to with the T-slim,
+
+128
+00:13:38,560 --> 00:13:44,560
+you know, I've been on the T-slim for about four or five years. And so when, you know, it came
+
+129
+00:13:44,560 --> 00:13:52,800
+time to switch over to the Moby, I felt like I've had a good grasp on my diabetes in a sense with
+
+130
+00:13:52,800 --> 00:13:58,320
+having control like you. I found the control like you element helped me live my lifestyle.
+
+131
+00:13:59,280 --> 00:14:08,080
+You know, I'm a busy person. I'm out of the house for 12, 13 hours at day at times. And so it's just
+
+132
+00:14:08,080 --> 00:14:14,800
+a lot of go-go-go, where I find I need a system that I find can be essentially like an assistant or a
+
+133
+00:14:14,800 --> 00:14:20,800
+sidekick to me in managing my diabetes. And I find control like you is very helpful for that. It has
+
+134
+00:14:21,760 --> 00:14:29,440
+a lot of features in the system that I find I use often to help me optimize the system,
+
+135
+00:14:29,440 --> 00:14:35,920
+manage my diabetes and achieve the goals that I have for myself. So, you know, that can come from
+
+136
+00:14:35,920 --> 00:14:42,960
+temp bezels, that can come from, you know, this system deciding to decrease or increase my basil rates
+
+137
+00:14:42,960 --> 00:14:50,560
+to prevent moments where I would normally pause and have to treat my diabetes. So, have you ever
+
+138
+00:14:50,560 --> 00:14:58,000
+thought about just trying out omnipod for a short amount of time? I mean, it's pharmacy benefits.
+
+139
+00:14:58,000 --> 00:15:06,000
+It doesn't necessarily affect your contract with Moby. Have you ever considered or have you tried on a
+
+140
+00:15:06,000 --> 00:15:12,880
+tubeless pump for a month or two just to see what that experience is? Yeah, great question. I actually,
+
+141
+00:15:12,880 --> 00:15:20,320
+that is one of the few pumps I have not tried yet. I remember before I switched over to my T-slim pump,
+
+142
+00:15:20,960 --> 00:15:29,360
+it was between the T-slim and the omnipod. And, you know, back then, I remember the plan that I had
+
+143
+00:15:29,360 --> 00:15:35,360
+my insurance plan could only cover the T-slim. So, that's why I moved forward with that. But, you know,
+
+144
+00:15:35,360 --> 00:15:41,760
+I'm glad I made that decision, obviously. But, there was a period of time where I was wanting
+
+145
+00:15:42,480 --> 00:15:50,160
+fully tubeless pump therapy and having that freedom where I'm not connected to a device or a tubing.
+
+146
+00:15:51,520 --> 00:15:58,560
+But then, you know, part of my decision was I realized I've been on a pump for at this point now 15
+
+147
+00:15:58,560 --> 00:16:04,240
+years and they've only ever been two pumps. So, that's all I really know. I'm very comfortable with it.
+
+148
+00:16:05,120 --> 00:16:11,600
+And then now kind of having the Moby where you could do make it a patch pump if you wanted or you could
+
+149
+00:16:11,600 --> 00:16:18,160
+wear it as a tube to pump. It gives me that option. So, yes, I've been very interested to try omnipod.
+
+150
+00:16:19,120 --> 00:16:25,839
+Just as, you know, experience just to see how it works fully and, you know, compare the two with
+
+151
+00:16:25,839 --> 00:16:32,000
+their algorithms. But, I think both are great options. And, I do love that it is a pharmacy benefit too.
+
+152
+00:16:32,000 --> 00:16:39,920
+So, it is more accessible. I had an interesting experience switching from omnipod to Moby for this
+
+153
+00:16:39,920 --> 00:16:47,120
+little experiment. And, I wasn't ready for this. Like, I didn't realize it would challenge me this
+
+154
+00:16:47,120 --> 00:16:55,920
+much. But, you know, I've been so spoiled by this by omnipod being just like kind of on me and going through
+
+155
+00:16:55,920 --> 00:17:05,120
+my everyday routine, not even thinking about it being on me, really forgetting it's there. And then,
+
+156
+00:17:05,200 --> 00:17:13,760
+starting a tube pump when I go to shower needing to not only detach it from it, but also go
+
+157
+00:17:13,760 --> 00:17:19,280
+find my phone so that I can stop insulin delivery. So, every time I'm going to shower, I have to go find my
+
+158
+00:17:19,280 --> 00:17:24,400
+phone, which is, you know, nothing, something I didn't have to do. Going and sitting on the toilet and then
+
+159
+00:17:25,200 --> 00:17:33,440
+either pulling my clipped pump and like, it almost like hurting, you know, like a little bit or it
+
+160
+00:17:33,440 --> 00:17:40,240
+dropping to the ground and like needing to catch it, just like this dangling thing coming off of me or like the
+
+161
+00:17:40,240 --> 00:17:46,720
+worst, somehow like when I'm switching outfits or like coming out of the shower and I guess I put the two back
+
+162
+00:17:46,720 --> 00:17:53,840
+on getting dressed and like using one hand to hold my shorts and on my other hand to hold the bump.
+
+163
+00:17:53,840 --> 00:18:01,920
+I'm like, oh my goodness, like that was a big adjustment for me in that realm. And then the other
+
+164
+00:18:01,920 --> 00:18:07,760
+thing that was a bit of an adjustment for me is, you know, I just lived on an island off of Brazil,
+
+165
+00:18:07,760 --> 00:18:16,960
+Florianapolis, beautiful place and I was wearing Speedo a lot and having this like tube coming out
+
+166
+00:18:16,960 --> 00:18:25,680
+or wearing this little sack that little adhesive pouch with my Speedo just didn't feel and I hate
+
+167
+00:18:25,760 --> 00:18:33,760
+that I felt this way. I hate it, but it's true like I just didn't feel as confident in the way I
+
+168
+00:18:33,760 --> 00:18:41,120
+looked with it and and I hate that and I hate that I say that because I am a confident person. I'm proud of
+
+169
+00:18:41,120 --> 00:18:48,000
+who I am in my diabetes but it was just a really interesting situation that I found myself in and I actually
+
+170
+00:18:48,000 --> 00:18:55,120
+documented all these feelings and experiences in a YouTube video that is probably coming out I think at the
+
+171
+00:18:55,120 --> 00:19:04,400
+end of the week that this airs so stay tuned everyone but that was my experience with that shift and
+
+172
+00:19:05,760 --> 00:19:10,400
+I don't know I just thought I'd bring that up because these are just things I never had to experience before
+
+173
+00:19:10,400 --> 00:19:18,400
+but it just resonated with me that like some insecurities came out for me. Absolutely and thank you
+
+174
+00:19:18,400 --> 00:19:24,640
+for sharing that because I think that is a very real point that maybe a lot of people experience with
+
+175
+00:19:24,640 --> 00:19:31,840
+diabetes and maybe don't feel like sharing and I think that is something that we have to incorporate
+
+176
+00:19:31,840 --> 00:19:38,400
+into the decisions we make for how we manage our diabetes so I know a lot of people unfortunately may not
+
+177
+00:19:38,400 --> 00:19:45,600
+want to wear a pump or a CGM for reasons like that and by all means I mean I always say again it has to
+
+178
+00:19:45,600 --> 00:19:50,960
+work for your lifestyle so as long as you're obviously not neglecting your diabetes care you're still
+
+179
+00:19:51,120 --> 00:19:57,280
+taking injections or checking your blood sugar manually whatever works for you but I think there are ways
+
+180
+00:19:57,280 --> 00:20:03,680
+and there are you know transition periods where you switch over for example from one insulin pump to another
+
+181
+00:20:03,680 --> 00:20:10,160
+where you might experience a moment like you did you know at the beach or something and it's the first time
+
+182
+00:20:10,160 --> 00:20:16,160
+you're faced with that reality where it's very new to you it's a new device it's a new environment and
+
+183
+00:20:16,160 --> 00:20:22,640
+you're just now having to essentially relearn how am I going to live my life with this new device
+
+184
+00:20:22,640 --> 00:20:28,800
+and doesn't make sense for me or not so these are all valid feelings and all very important things to
+
+185
+00:20:28,800 --> 00:20:34,800
+consider I think by you sharing that especially is going to help a lot of people because you know they won't
+
+186
+00:20:34,800 --> 00:20:41,200
+feel alone I mean I felt similar to that before just kind of in my everyday life like I totally
+
+187
+00:20:41,200 --> 00:20:45,680
+understand when you're changing when you're showering things like that you have to know
+
+188
+00:20:45,680 --> 00:20:51,440
+disciple where is this pump gonna go and how am I going to operate it in these moments that a lot of
+
+189
+00:20:51,440 --> 00:20:59,040
+people wouldn't think about so very very real moment yeah I feel like in those moments of using the toilet
+
+190
+00:20:59,040 --> 00:21:06,400
+showering swimming whatever it was it was a reminder like a poke saying you have diabetes you have
+
+191
+00:21:06,640 --> 00:21:15,520
+diabetes and I don't experience that as much with the the tubeless factor and and and the good
+
+192
+00:21:15,520 --> 00:21:20,720
+good news is for people who feel that way too a lot of these companies including tandem are all
+
+193
+00:21:20,720 --> 00:21:25,680
+working on a tubeless pump so soon we're going to have so many options and I'm sure there will still be
+
+194
+00:21:25,680 --> 00:21:32,400
+people out there that prefer to I'm actually I'm wearing my movie probably for like the last the last day
+
+195
+00:21:32,400 --> 00:21:36,720
+I could I was gonna like take it off yesterday and put on my omnipot before I returned it but I was like well I
+
+196
+00:21:36,720 --> 00:21:44,080
+should wear it for the amp you so I've got my movie on and I'm returning it so they had the 90 day return ball
+
+197
+00:21:44,080 --> 00:21:50,960
+Sam returning it this week but I'm so grateful that I got to use I mean this thing is small it is a tiny little
+
+198
+00:21:50,960 --> 00:21:57,280
+this is the smallest two pump a half the size maybe even more than half the size of T slim and then
+
+199
+00:21:58,000 --> 00:22:05,360
+way smaller than metronics 70 dg I think my favorite feature on this pump has got to be the
+
+200
+00:22:05,360 --> 00:22:12,639
+ballas button I am obsessed with this thing like and I'll tell I used it yesterday at the Delta lounge
+
+201
+00:22:12,639 --> 00:22:21,600
+I'm you know I left my phone by my computer and I'm going to to get some snacks at the buffet and I'm like
+
+202
+00:22:22,080 --> 00:22:29,200
+shoot I don't have my phone I'm like wait a second I don't need my phone a ballast right now and I just hold down on it and it goes here
+
+203
+00:22:29,200 --> 00:22:37,680
+I'll even I just hold down on it and it goes like Baba and then I go like one two three you could do up to three one two or three
+
+204
+00:22:38,320 --> 00:22:44,240
+I'm not gonna confirm it and so what I would do is I would confirm that and right there that would have been 45 grams of
+
+205
+00:22:44,800 --> 00:22:52,080
+carbs logging into it you could do you know you can program it a bunch of different ways so that was it saying you didn't
+
+206
+00:22:52,800 --> 00:23:00,480
+you know dose which is good because otherwise I'd be low in 20 minutes but that that is hands down the coolest
+
+207
+00:23:00,480 --> 00:23:06,960
+feature for me especially coming from the tubeless pump where Omni pod doesn't have any type of onboard
+
+208
+00:23:07,520 --> 00:23:12,880
+controls to bolus you need to go get your phone in order to bolus so
+
+209
+00:23:14,000 --> 00:23:20,160
+you really could just you know be without your phone for a while have the alerts from your pump if you go low
+
+210
+00:23:21,440 --> 00:23:27,280
+use that for eating and then your dex calm or your CGM you're using could be connected to your watch I mean you
+
+211
+00:23:27,280 --> 00:23:33,680
+really could be pretty mobile from your phone and I like to not use my phone what would you say is your favorite
+
+212
+00:23:33,680 --> 00:23:40,080
+feature of moby you know I think going back to that where to use the personal system or
+
+213
+00:23:40,640 --> 00:23:50,240
+psychic I just find that you know every device I've used to manage my diabetes I just adapt to that device and so
+
+214
+00:23:50,800 --> 00:23:57,840
+now I know anytime I need to make treatment decisions specific to my pump it's all on my phone so I really love
+
+215
+00:23:57,840 --> 00:24:04,320
+having that option I think my favorite feature is simply mobile voicing you know looking back to when
+
+216
+00:24:04,320 --> 00:24:11,439
+I was newly diagnosed and we didn't even have yes there was technology but I wasn't at least using it right
+
+217
+00:24:11,439 --> 00:24:19,280
+away the concept of being able to deliver a bolus from my phone at the age of 11 would have been beyond me I mean
+
+218
+00:24:19,280 --> 00:24:26,240
+I think that was the coolest thing and I remember when I started on the tandem T-slimp pump there was
+
+219
+00:24:26,320 --> 00:24:33,440
+no mobile bullets just yet and I remember when that update came out I was super super excited because
+
+220
+00:24:33,840 --> 00:24:40,560
+again that concept is just very freeing to know you don't have to always pull out your device and deliver a
+
+221
+00:24:40,560 --> 00:24:47,920
+bolus if you're for example in a meeting or you're you know in a situation where you can't always pull out your
+
+222
+00:24:47,920 --> 00:24:55,120
+device or maybe you don't want to you have that option you can very very discreetly look at your texting
+
+223
+00:24:55,120 --> 00:25:01,280
+almost and you're really delivering a bolus I say like you're texting your pincreate essentially and so
+
+224
+00:25:01,280 --> 00:25:08,560
+just kind of allowing that flow of insulin to go through and very seamlessly is very exciting
+
+225
+00:25:10,160 --> 00:25:17,040
+this episode is sponsored by OmniPod as someone with T1D and with an incredibly active lifestyle it's
+
+226
+00:25:17,040 --> 00:25:23,040
+important for me not to get tied up especially with tubes on my insulin pump I love to go swimming,
+
+227
+00:25:23,040 --> 00:25:28,720
+lift weights and play kickball with friends and with OmniPod 5 I never have to worry about tubes
+
+228
+00:25:28,720 --> 00:25:34,159
+getting in the way plus not having to disconnect helps me to stay in range during all of my favorite
+
+229
+00:25:34,159 --> 00:25:40,159
+physical activities that includes sexy time too see if you're eligible for a 30 day trial by visiting
+
+230
+00:25:40,159 --> 00:25:45,920
+OmniPod.com slash dive tech on there you'll see full safety and risk information and trial terms
+
+231
+00:25:45,920 --> 00:25:53,760
+that's OmniPod.com slash dive tech first can you kind of explain to us with control like you
+
+232
+00:25:53,760 --> 00:26:01,360
+how what that algorithm is doing absolutely so just like it says control like you it's trying to keep you
+
+233
+00:26:01,360 --> 00:26:08,880
+within a type control and so you know there's this graph I love going over with my new pump starts
+
+234
+00:26:08,880 --> 00:26:15,280
+because it really simplifies the whole concept those control like you essentially it'll show the
+
+235
+00:26:15,280 --> 00:26:22,800
+diagram of those colored diamonds that you see on your screen and then you know different functions what
+
+236
+00:26:22,800 --> 00:26:30,080
+may be taking place if you see it happen on your dashboard so usually I like to go over you know the pump
+
+237
+00:26:30,080 --> 00:26:36,240
+is trying to keep you in this maintenance mode is what I call it and it goes to keep your glucose
+
+238
+00:26:36,240 --> 00:26:45,680
+between a 112.5 and a 160 range yeah you're target glucose on the tandem is 110 but within that
+
+239
+00:26:45,680 --> 00:26:52,480
+112.5 and 160 range you're you're good essentially you know and it's trying to keep you within that box
+
+240
+00:26:53,280 --> 00:26:59,280
+anything above or below it's going to adjust accordingly and try to prevent a high or a low
+
+241
+00:26:59,280 --> 00:27:06,160
+blood sugar one thing I always want to stress with my patients is don't think that once you start an
+
+242
+00:27:06,160 --> 00:27:12,080
+insulin pump your high and low blood sugars will go away you'll still have them but control like you
+
+243
+00:27:12,080 --> 00:27:20,480
+is trying to limit that and reduce it as much as possible so anything above that 160 threshold if it's
+
+244
+00:27:20,480 --> 00:27:27,040
+predicted to go above 160 and 30 minutes it gives you an increase in your basil rates and then anything
+
+245
+00:27:27,120 --> 00:27:33,840
+predicted above 180 it'll give you that more aggressive auto correction bullets on the flip side
+
+246
+00:27:33,840 --> 00:27:41,360
+if it's predicted to go below the 112.5 it's going to decrease your basil rate and below 70 and 30 minutes
+
+247
+00:27:41,360 --> 00:27:47,920
+it's going to suspend all insulin delivery until your glucose goes back up so I really love that it has
+
+248
+00:27:47,920 --> 00:27:55,920
+that type control for you and then you know once you go into you know tighter features for example
+
+249
+00:27:56,080 --> 00:28:02,080
+there's that sleep activity and there's the exercise activity those are what I like to call safety
+
+250
+00:28:02,080 --> 00:28:08,960
+nuts in those particular situations when you're sleeping it's trying to keep you in a tighter range of
+
+251
+00:28:08,960 --> 00:28:19,520
+112.5 and 120 and then while you're exercising 140 to 160 so very careful in those situations it's
+
+252
+00:28:19,520 --> 00:28:27,040
+trying to make sure you're safe and you're good essentially as we have said several times lifestyle
+
+253
+00:28:27,040 --> 00:28:32,879
+you know we sleep at different times of the day we exercise at different times of the day to having these
+
+254
+00:28:32,879 --> 00:28:39,840
+assistance to help you in those particular situations are very very helpful and it's all trying to increase
+
+255
+00:28:39,840 --> 00:28:45,520
+your time and range decrease your A1C to that target that you and your doctor may set for yourself.
+
+256
+00:28:46,080 --> 00:28:51,120
+Yeah I want to get into those modes in just a second but before we get there tell us about the auto
+
+257
+00:28:51,120 --> 00:28:57,680
+corrections so how tandem stands out ahead of some of the competition is it can send out auto
+
+258
+00:28:57,680 --> 00:29:06,639
+boluses in addition to its basil adjustments that will treat they'll do it up to once an hour
+
+259
+00:29:07,680 --> 00:29:15,040
+it will treat with a burst of insulin in order to bring you down. What is it kind of doing there so
+
+260
+00:29:15,520 --> 00:29:21,440
+when you're for example in the sleep mode it shuts all auto corrections completely and then
+
+261
+00:29:21,440 --> 00:29:28,720
+when you're in the exercise mode it does up to one per hour just to prevent you from having a low
+
+262
+00:29:28,720 --> 00:29:36,240
+well exercising but having those correction boluses sometimes obviously our glucose is rising a bit quicker
+
+263
+00:29:37,520 --> 00:29:44,080
+through our pattern and our trend that the dex calm is displaying it might show we are rising pretty quickly
+
+264
+00:29:44,080 --> 00:29:50,480
+and based on the settings we input into our device is going to give us those correction boluses as
+
+265
+00:29:50,480 --> 00:29:56,879
+a more aggressive dose versus your basil rate because your basil rate can only go up to a certain amount
+
+266
+00:29:56,879 --> 00:30:04,320
+based on your max basil rate so you know let's say you're running high for several hours the pump is
+
+267
+00:30:04,320 --> 00:30:11,199
+working super hard to try to bring you down with those increased basil rates but once it hits that max
+
+268
+00:30:11,600 --> 00:30:17,840
+it's going to you know almost tap out it can't do beyond that so that's where the correction
+
+269
+00:30:17,840 --> 00:30:24,800
+boluses come in and you know with that algorithm it's predicting above 180 and 30 minutes if it continues
+
+270
+00:30:24,800 --> 00:30:30,880
+to notice that pattern it's going to deliver the correction bolus it takes into account you know
+
+271
+00:30:30,880 --> 00:30:38,880
+your insulin board and when is the last time you pull this things like that but it is there to assist
+
+272
+00:30:38,880 --> 00:30:47,200
+beyond those basil rates if needed so one thing I noticed using the moby that kind of scared me was that
+
+273
+00:30:47,200 --> 00:30:58,240
+if I saw that if I was having a low like a minor low around 70 or going low if I was going to eat
+
+274
+00:30:58,240 --> 00:31:05,360
+say 50 grams of carbs I would enter that in and the app would still recommend me taking insulin
+
+275
+00:31:05,440 --> 00:31:13,040
+whereas I felt like when I used not even when I used the Omni-Pod 5 system when I was at that
+
+276
+00:31:13,040 --> 00:31:20,400
+same amount it would not allow me to even if I put in 50 grams of carbs it wouldn't allow me to take
+
+277
+00:31:20,400 --> 00:31:26,800
+insulin for that what's the difference here it scared me when moby was like no you should you should have
+
+278
+00:31:26,800 --> 00:31:33,360
+more insulin I'm like no I'm low yeah I mean it's going to obviously drop the amount of the insulin
+
+279
+00:31:33,360 --> 00:31:38,800
+you may require because it is seeing that your blood sugar is low and it may be continuing to drop
+
+280
+00:31:39,680 --> 00:31:45,520
+you do have that option to as soon as you go in and type of bolus it will say you're either above or
+
+281
+00:31:45,520 --> 00:31:53,440
+below your target glucose of 110 and if you want that correction obviously you would click yes and it will drop
+
+282
+00:31:53,440 --> 00:32:00,160
+the amount of insulin if you are low for example I get it there is that fear that maybe you don't want
+
+283
+00:32:00,160 --> 00:32:05,600
+insulin in you while you're going low which by all means obviously you shouldn't but it gives you
+
+284
+00:32:05,600 --> 00:32:13,200
+that option and it just shows that you can take a lower amount of insulin just because of the fact that
+
+285
+00:32:13,200 --> 00:32:20,160
+simply you're low obviously maybe you want to treat a little bit before you initiate a bolus because also
+
+286
+00:32:20,160 --> 00:32:26,320
+when your glucose starts to rise back you'll notice the amount of insulin the pump wants to deliver
+
+287
+00:32:26,320 --> 00:32:33,360
+will now be a little bit more because it sees your glucose is going back up so those are just things
+
+288
+00:32:33,360 --> 00:32:41,919
+to consider obviously you have the option to override the correction or take it if needed but yeah by
+
+289
+00:32:41,919 --> 00:32:48,080
+all means you you have that ability I know on the pipe you're saying would not give you insulin until it
+
+290
+00:32:48,080 --> 00:32:54,960
+senses your glucose going back a tandem it just gives you that option but it's still something that you don't
+
+291
+00:32:54,960 --> 00:33:01,600
+have to do is just by going to completely shut it down essentially I also noticed that my
+
+292
+00:33:01,600 --> 00:33:11,360
+mobile would send me an alert that I was going low well before my dex calm would and maybe 50% of the
+
+293
+00:33:11,360 --> 00:33:17,600
+time that mobile be told me I was going to go low I actually didn't okay have you ever noticed that with
+
+294
+00:33:17,600 --> 00:33:22,320
+your system that mobile is like you're going to go low and then you actually don't wind up going low
+
+295
+00:33:22,960 --> 00:33:28,800
+and dex calm you know dex calm never alerts you that you are because they're obviously using different
+
+296
+00:33:28,800 --> 00:33:35,040
+algorithms but I just it was interesting like it was just adding another alert that I didn't even want to
+
+297
+00:33:35,040 --> 00:33:41,040
+need it yeah I know you're talking about may think sometimes because you're getting those alerts yes it
+
+298
+00:33:41,040 --> 00:33:48,000
+can be a lot sometimes but mobile is remember able to predict up to 30 minutes into the future so with
+
+299
+00:33:48,000 --> 00:33:53,840
+those predictions it's trying to alert you and make it seem more intense than maybe it actually
+
+300
+00:33:53,840 --> 00:34:01,680
+will end up being but with those safety nets it's decreasing basal or it's suspending basal that is when
+
+301
+00:34:01,680 --> 00:34:06,960
+you may end up just leveling out so yeah there have been times where I would get alerts like that and it
+
+302
+00:34:06,960 --> 00:34:12,960
+looks like I'm going to have a pretty low blood sugar but then I'll let five ten minutes pass maybe
+
+303
+00:34:12,960 --> 00:34:20,960
+in that process and then see I ended up flattening out and I primarily attribute that to the
+
+304
+00:34:20,960 --> 00:34:28,800
+algorithm not treating with maybe cars because I feel having less insulin going into my system is what
+
+305
+00:34:28,800 --> 00:34:37,120
+is going to help me from crashing and so yes those scenarios do happen but it is nice that you have
+
+306
+00:34:37,120 --> 00:34:42,880
+that second set of eyes essentially through the mobile to give you those alerts but also to prevent
+
+307
+00:34:43,360 --> 00:34:51,680
+insulin yeah I kind of gotten to this a lot before about wearing a two pump of being so new and
+
+308
+00:34:51,680 --> 00:35:00,800
+in all these areas of my life it being kind of annoying are there any tricks that you use to
+
+309
+00:35:00,800 --> 00:35:08,960
+to hold on to your two pump and in all these areas of life so with the teaspoon because it was a
+
+310
+00:35:08,960 --> 00:35:17,200
+little bit bigger I would just clip it usually on the back my back pocket and then sometimes
+
+311
+00:35:17,200 --> 00:35:22,720
+depending on what I was wearing at the time it was probably something a little more uncomfortable sorry
+
+312
+00:35:22,720 --> 00:35:28,960
+more comfortable like sweats I might just clip it to the front of my waistband now with the mobile because
+
+313
+00:35:28,960 --> 00:35:35,440
+it's small I mean I'm wearing it right now and I honestly don't feel it on me I don't know where it is at
+
+314
+00:35:35,440 --> 00:35:43,600
+the moment because I'm on the screen it is sorry usually clip it actually on to my underwear we
+
+315
+00:35:43,600 --> 00:35:49,520
+stand and then there's still that layer of my pants over it but I feel it's more discreet this way so I
+
+316
+00:35:49,520 --> 00:35:56,000
+just clip it on there and you know the tubing is kind of hanging out but it's not really in the way this way
+
+317
+00:35:57,040 --> 00:36:02,240
+obviously we don't want anything covering the pump too much because that can obstruct connection
+
+318
+00:36:02,240 --> 00:36:08,720
+with the decks comp but I personally haven't noticed anything with you know signal loss or anything
+
+319
+00:36:08,720 --> 00:36:16,160
+like that so I find that words for me you're talking about tips and tricks for maybe clipping the pump
+
+320
+00:36:16,960 --> 00:36:23,360
+of particular way one thing that I found to be quite helpful I actually learned from another educator I
+
+321
+00:36:23,360 --> 00:36:31,280
+worked with is you can actually put the mobile on the clip backwards essentially or upside down
+
+322
+00:36:32,480 --> 00:36:39,520
+and this allows any bubbles that may form to go to the top of the reservoir or the cartridge
+
+323
+00:36:39,520 --> 00:36:46,560
+rather than the bottom which is where the insulin starts to be pushed out of this way you're preventing
+
+324
+00:36:46,560 --> 00:36:53,680
+any bubbles from going into your tubing and missing a delivery of insulin so I find that if I notice I
+
+325
+00:36:53,680 --> 00:36:59,600
+filled the cartridge and maybe there was one bubble I missed it's not the end of the world but it is
+
+326
+00:36:59,600 --> 00:37:05,360
+pretty hard to get out at that point so what I'll do is just put the pump upside down and clip it on and
+
+327
+00:37:05,360 --> 00:37:11,520
+it seems to work yeah you know there's having bubbles in a cartridge this was the first time I've ever
+
+328
+00:37:11,520 --> 00:37:20,160
+had to deal with that can you explain to us what happens when there is a bubble in the cartridge and
+
+329
+00:37:21,200 --> 00:37:27,920
+with Omni pod it like is it possible that there are bubbles in an Omni pod or does it
+
+330
+00:37:27,920 --> 00:37:34,880
+get those out like you can't see it I've never thought about that I mean for example the Omni pod
+
+331
+00:37:34,880 --> 00:37:42,560
+that yes you can't really see the quote unquote cartridge inside the pod but keep in mind the insulin
+
+332
+00:37:43,440 --> 00:37:49,520
+is going or any bubbles are going more to the top of the cartridge essentially or where the
+
+333
+00:37:49,520 --> 00:37:57,200
+cannula will be placed so depending on the placement of the pod it can push that bubble to the top if
+
+334
+00:37:57,200 --> 00:38:04,160
+you're wearing the cannula facing down for example similar to the movie if you're placing that
+
+335
+00:38:04,160 --> 00:38:12,800
+cartridge facing down than the bubble is going to go up so it's basically a pressure change when we
+
+336
+00:38:12,800 --> 00:38:20,080
+fill our our syringe with insulin and insert that into the cartridge there are bubbles that can form
+
+337
+00:38:20,080 --> 00:38:25,440
+we always say you don't want to fill your insulin pump with cold insulin because that can cause
+
+338
+00:38:26,000 --> 00:38:31,760
+pressure change it can allow bubbles to form and so if you're filling it with room temperature
+
+339
+00:38:31,760 --> 00:38:40,160
+insulin you're less likely to have bubbles form and then if you still do the bubbles will form but
+
+340
+00:38:40,560 --> 00:38:47,840
+it's important that they don't collect towards the opening of the tubing because that is going to
+
+341
+00:38:47,840 --> 00:38:53,280
+potentially block insulin delivery and that would just mean you're not getting your full dose which
+
+342
+00:38:53,360 --> 00:38:58,000
+could result in a high blood sugar so that's why we always stress flicking out your bubbles as
+
+343
+00:38:58,000 --> 00:39:04,240
+much as you can the positioning can really help with that there are different tactics we can do but
+
+344
+00:39:04,960 --> 00:39:10,640
+you know it is important to reduce the amount of bubbles okay thank you for that that I learned
+
+345
+00:39:10,640 --> 00:39:17,680
+something new I didn't know that stuff and I've been filling my pump up with cold insulin too so I'll
+
+346
+00:39:17,680 --> 00:39:26,160
+make sure to let those sit out in room temperature at a longer today's episode is sponsored by T1D Exchange
+
+347
+00:39:26,160 --> 00:39:33,120
+you can directly make an impact on diabetes health care treatments and technology by participating in the
+
+348
+00:39:33,120 --> 00:39:40,080
+T1D Exchange registry it starts with the simple survey about your life with T1D and it only takes about 15 minutes
+
+349
+00:39:40,080 --> 00:39:46,480
+after that you'll have a personal portal with ongoing T1D study and survey opportunities plus some of
+
+350
+00:39:46,560 --> 00:39:52,000
+these studies even offer compensation signing up with the link in the show notes help support my channel
+
+351
+00:39:52,000 --> 00:39:59,280
+and it allows me to continue putting out free content you can sign up at t1dxchange.org slash
+
+352
+00:39:59,280 --> 00:40:06,400
+diabetic or click that link in today's show notes so with let's go into the modes a little deeper let's
+
+353
+00:40:06,400 --> 00:40:14,400
+start with activity mode so one thing I needed to do with activity mode was like a lot activity mode alone
+
+354
+00:40:14,480 --> 00:40:23,200
+did not work for when I did like intense cardio when I was running at maybe five to eight miles per
+
+355
+00:40:23,200 --> 00:40:31,360
+hour fluctuating between there or whenever I do I go low and with activity mode that alone would not
+
+356
+00:40:31,360 --> 00:40:37,760
+do the trick I would need to put on a temp basil ahead of that and luckily with control like you
+
+357
+00:40:37,760 --> 00:40:45,120
+plus you can now do that what what are your kind of tips and tricks when people are for using
+
+358
+00:40:45,120 --> 00:40:51,520
+activity mode for people in different situations. Definitely so I got that question a lot especially
+
+359
+00:40:51,520 --> 00:40:57,040
+with new pump starts you know this is a very new concept that they're starting a pump for the first time
+
+360
+00:40:57,840 --> 00:41:05,920
+so when we do a deep dive on the activity mode basically like I said that is trying to bump up your
+
+361
+00:41:06,000 --> 00:41:12,960
+target glucose to 140 to 160 so you're getting a little bit less insulin this way up to one
+
+362
+00:41:12,960 --> 00:41:21,360
+correction bowl is per hour I usually say starting it about an hour before your actual activity begins can
+
+363
+00:41:21,360 --> 00:41:28,640
+help the algorithms are working in your system bumping up that target glucose so you go it in with a bit
+
+364
+00:41:28,640 --> 00:41:35,839
+of a higher glucose to basically allow for some breathing room if that activity decides to you know
+
+365
+00:41:35,839 --> 00:41:40,640
+make your glucose drop a little you're already bumped up a little bit so you'll have that safety net
+
+366
+00:41:42,640 --> 00:41:49,680
+I usually notice you know personally when I use activity mode so I think I've shared really before but
+
+367
+00:41:49,680 --> 00:41:57,680
+I am a local to Disneyland so I love going there all the time and you know obviously you're walking
+
+368
+00:41:57,680 --> 00:42:05,600
+a lot it's a big park and so I pretty much will set my exercise mode every single time I go
+
+369
+00:42:06,799 --> 00:42:13,680
+you know depending on how how soon usually I forget and I'll just turn it on maybe as I'm leaving the
+
+370
+00:42:13,680 --> 00:42:21,120
+parking line and walking into the park but I oftentimes find I don't have as many low blood sugars
+
+371
+00:42:21,120 --> 00:42:27,759
+if any because I'm in that mode I already know I'm going to be more active depending on the weather
+
+372
+00:42:27,759 --> 00:42:34,240
+it could be warm that day hot weather can you know sometimes make my blood sugar drop a little so I'm
+
+373
+00:42:34,240 --> 00:42:40,080
+already you know taking all of that into account I find that activity mode really helps because
+
+374
+00:42:41,120 --> 00:42:47,279
+I'm more active that way a lot of times I'll ask my patients are there any particular activities you
+
+375
+00:42:47,280 --> 00:42:54,080
+like to do they might like to swim they go for walks they will you know play baseball things like that
+
+376
+00:42:54,960 --> 00:43:00,400
+so I say great well then let's utilize the activity mode and just make sure you're turning that on
+
+377
+00:43:00,400 --> 00:43:09,840
+about in power before and then that is one feature that you will also have to manually go in and turn off
+
+378
+00:43:09,840 --> 00:43:15,520
+so I always say if you want to maybe set a reminder on your phone or go in and turn that off if you can
+
+379
+00:43:15,520 --> 00:43:21,360
+remember but you don't want to keep it on too long after because then you're still getting that bump
+
+380
+00:43:21,360 --> 00:43:28,720
+up target glucose yeah I wish they would just introduce a timer for that for both they have it for sleep mode
+
+381
+00:43:28,720 --> 00:43:35,759
+essentially right with the with the sleep schedules why don't they have an activity mode like timer like
+
+382
+00:43:35,759 --> 00:43:42,640
+it it's the perfect thing it's the thing we we really need I mean you even have that with 10 basil now
+
+383
+00:43:42,640 --> 00:43:48,240
+and automated I mean you get it with kind of everything you we should get it in activity mode for sure
+
+384
+00:43:48,240 --> 00:43:53,359
+because those are the times we're like okay I'm gonna go run errands for a couple hours let me put this on
+
+385
+00:43:53,359 --> 00:43:59,040
+and let me tell you running errands that is like this this feature may might as well be called
+
+386
+00:43:59,040 --> 00:44:05,520
+Aaron mode because running errands oh my goodness if you're like add it you're shopping you're going from
+
+387
+00:44:05,520 --> 00:44:10,720
+place to place like you can drop low I was in a I was low in line for addressing a room the other day
+
+388
+00:44:10,800 --> 00:44:15,840
+because we were just like popping around from the order store the other day someone asked me well what
+
+389
+00:44:15,840 --> 00:44:22,080
+if I am cleaning the house or doing laundry and you know I'm you know reaching into my laundry basket
+
+390
+00:44:22,080 --> 00:44:26,240
+and pulling out something to fold there you know things like that there's a lot of movement in that
+
+391
+00:44:26,800 --> 00:44:31,840
+and a lot of times they might find themselves going low while we say let's try exercise mode
+
+392
+00:44:31,840 --> 00:44:37,680
+or activity mode and if you find that maybe that is helping prevent those little blood sugars then
+
+393
+00:44:37,759 --> 00:44:40,960
+there's your answer you can use that for instances like that
+
+394
+00:44:42,560 --> 00:44:49,839
+yeah swiffering let me tell you when I swiffer I get my back into that and I I've probably gone
+
+395
+00:44:49,839 --> 00:44:57,680
+low 50% of the times I swear yeah no that that can definitely happen I I don't I I completely
+
+396
+00:44:57,680 --> 00:45:03,040
+know you're you're talking about even a lot of times people say vacuuming will do that or somebody just
+
+397
+00:45:03,680 --> 00:45:10,880
+yep and it's not always it's not the simple act of swiffering it's the fact that maybe I ate lunch
+
+398
+00:45:10,880 --> 00:45:17,120
+an hour before and took a little more insulin than I should have whatever and then that in combination
+
+399
+00:45:17,120 --> 00:45:21,920
+with the the action that you're putting into with the swiffer it's like that's all you needed to go low
+
+400
+00:45:23,120 --> 00:45:31,440
+so now with sleep mode are there ways you're you're having people use sleep mode outside of sleep
+
+401
+00:45:31,520 --> 00:45:37,520
+are there other parts of life where this could be a good that that could be a good moment for people
+
+402
+00:45:37,520 --> 00:45:45,600
+to use it I think you know obviously we want to try to use it only for the sleeping hours but
+
+403
+00:45:46,720 --> 00:45:51,920
+you know for example there was a time I'll give you a personal example where there was a period of time
+
+404
+00:45:51,920 --> 00:45:59,040
+where I was having low blood sugars left and right did not know it was taking place and I brought that up
+
+405
+00:45:59,040 --> 00:46:04,640
+to my endocrinologist and we decided well let's go and sleep mode 100% of the time
+
+406
+00:46:04,640 --> 00:46:09,680
+because you're still you know in a tighter range but you're not getting those correction bonuses
+
+407
+00:46:09,680 --> 00:46:15,520
+so you might get a little bit less insulin to try to bump up your your blood sugar and prevent those
+
+408
+00:46:15,520 --> 00:46:21,840
+lows from happening and I used it until it stopped working essentially I used it for a couple of months
+
+409
+00:46:22,240 --> 00:46:28,240
+was doing great and then I noticed my insulin needs changed and now I was facing high blood sugar
+
+410
+00:46:28,240 --> 00:46:34,720
+so I said well then let's turn off sleep mode now so I can get those correction bonuses so that would be
+
+411
+00:46:34,720 --> 00:46:43,200
+maybe a time obviously I always tell patients you know when you decide to use a feature like that
+
+412
+00:46:43,200 --> 00:46:49,440
+outside of what it's intended for it then let's bring that to your endocrinologist because they essentially
+
+413
+00:46:49,440 --> 00:46:57,040
+have the final say but there are ways to basically manipulate the system or optimize it fully by
+
+414
+00:46:58,000 --> 00:47:06,240
+using it in other scenarios than what they are intended for. Gotcha yeah I have sleep mode set to start
+
+415
+00:47:06,960 --> 00:47:13,600
+at 3 a.m. now I used to have it start maybe around 11 which is more true to when I was going to sleep
+
+416
+00:47:13,600 --> 00:47:20,800
+but the issue I found with that for me was that I do late night snacking or I'll eat dinner a little late
+
+417
+00:47:20,800 --> 00:47:29,040
+around 9 and I found that because sleep mode came on just two hours after that meal especially if it was
+
+418
+00:47:29,040 --> 00:47:38,640
+of the high fat meal that I was going pretty high a couple hours into sleep mode and I didn't have
+
+419
+00:47:38,640 --> 00:47:45,600
+those auto correction bonuses to get me down fast enough so then sleep mode would spend forever
+
+420
+00:47:46,480 --> 00:47:53,120
+trying to get me down through basil and it didn't do a good job it would take until 4 or 6 a.m.
+
+421
+00:47:53,120 --> 00:47:59,279
+for me to get back in the range which is really bad what are you seeing there with patients what are your kind
+
+422
+00:47:59,520 --> 00:48:11,520
+of go to strategies with the time that sleep mode goes on and people like routines definitely I think
+
+423
+00:48:12,080 --> 00:48:20,160
+I usually ask patients first what are your typical sleeping hours depending on where they are in
+
+424
+00:48:20,160 --> 00:48:27,360
+light you know maybe they are a working adult or maybe they are retired you know their sleep schedules are
+
+425
+00:48:27,360 --> 00:48:34,160
+going to change obviously so I'll use usually tell them you have up to two sleep schedules you can set
+
+426
+00:48:34,160 --> 00:48:40,240
+maybe a weekday profile and a weekend profile if you want or you can do every single day the same
+
+427
+00:48:40,240 --> 00:48:45,280
+sleep schedule then I'll ask them what time do you typically go to bed what time do you typically wake up
+
+428
+00:48:46,000 --> 00:48:51,360
+and then we'll come up with you know if they say oh some nights maybe seven and some nights maybe nine
+
+429
+00:48:51,360 --> 00:48:57,760
+we'll say let's let's come up with an average let's do eight and then it'll just start to kick in with the
+
+430
+00:48:57,760 --> 00:49:05,680
+option that they can also just go in and automatically or manually turn on that sleep mode and then
+
+431
+00:49:05,680 --> 00:49:11,600
+same thing when they wake up they can turn it off if they want I think it's a very smart you know option
+
+432
+00:49:11,600 --> 00:49:18,000
+that you you just share it about maybe setting it to start later into the night because yes you are going to be
+
+433
+00:49:19,120 --> 00:49:25,680
+getting rid of those correction bullises so if you know that you are somebody who may be snacking late eating dinner late
+
+434
+00:49:25,680 --> 00:49:31,680
+depending on what your diet looks like too if you mentioned you have something a little bit higher fat
+
+435
+00:49:31,680 --> 00:49:37,440
+potentially then you may need those correction both so you may need a little bit more insulin because
+
+436
+00:49:37,440 --> 00:49:43,200
+as I'm sure both of us are aware of something like pizza it's going to hit you several hours later and so
+
+437
+00:49:43,200 --> 00:49:49,520
+if you have pizza one night and then your sleep mode goes on a couple of hours after you may end up having
+
+438
+00:49:49,520 --> 00:49:55,520
+some high blood sugar you may not but you know it is it is helpful to set that sleep mode maybe later then
+
+439
+00:49:56,400 --> 00:50:02,640
+so I always just kind of try to meet that patient in the middle where they're up and try to assess
+
+440
+00:50:02,640 --> 00:50:09,200
+what does their typical night time routine look like and how it's sleep mode fit into that let's talk a
+
+441
+00:50:09,200 --> 00:50:15,840
+little bit about control like you plus so this released in the US a couple months ago it's not
+
+442
+00:50:17,200 --> 00:50:25,280
+outside the US just yet but it is with government agencies for in preparation for clearance
+
+443
+00:50:25,840 --> 00:50:32,080
+first one of the big updates was the temp basil not and not just temp basil when you're outside of
+
+444
+00:50:32,080 --> 00:50:38,560
+automated but now when you're in automated insulin delivery you can have that temp basil up to 72 hours
+
+445
+00:50:39,360 --> 00:50:46,560
+tell us a little bit about about what temp basil is and the different ways that people can now use it in
+
+446
+00:50:46,720 --> 00:50:52,160
+automated mode basically temp basil is a new feature as you just shared it to
+
+447
+00:50:53,360 --> 00:50:59,120
+tandem and especially when when you're on that control like you algorithm so now it's control like you
+
+448
+00:50:59,120 --> 00:51:07,520
+plus what's nice is you can basically get your standard basil rates usually you're at 100% depending on
+
+449
+00:51:07,520 --> 00:51:13,200
+it if you're glucose is above or below target you may you know get a little bit less or more but the
+
+450
+00:51:13,280 --> 00:51:20,560
+pump would do that for you but say you're normally in 100% getting your basil rates standard basil rates
+
+451
+00:51:21,360 --> 00:51:31,360
+now you have the option to go as low as 0% and up to 250% which means say you are for example running
+
+452
+00:51:31,360 --> 00:51:39,200
+higher one day maybe you're having your sick or you know you have a cold flu things like that where
+
+453
+00:51:39,200 --> 00:51:44,560
+your blood sugars will be a little bit more stubborn you may have higher blood sugar you can bump up your
+
+454
+00:51:44,560 --> 00:51:52,480
+temporary basil rate to be a little bit more than that 100% rate you could get 150 to 200 you name it
+
+455
+00:51:53,120 --> 00:51:58,480
+and then same thing if you're noticing you're running low one day maybe you're more active you're a
+
+456
+00:51:58,480 --> 00:52:04,880
+little bit more sensitive to insulin you can decrease that temporary basil rate and so again it's a
+
+457
+00:52:04,880 --> 00:52:13,200
+safety net just yesterday I was having a lot of low blood sugars and at a very busy day where I really
+
+458
+00:52:13,200 --> 00:52:22,480
+couldn't stop too much and I also was getting tired of popping glucose tab so I said let's go ahead and
+
+459
+00:52:22,480 --> 00:52:30,240
+put a temporary basil rate so I did that for about an hour and a half and I decreased that and I noticed
+
+460
+00:52:30,240 --> 00:52:37,520
+it helped I noticed my blood sugars were doing just fine and then as soon as that timer and
+
+461
+00:52:37,520 --> 00:52:44,000
+it essentially that's when I noticed my glucose was starting to shift up or down so it was pretty
+
+462
+00:52:44,000 --> 00:52:49,600
+eye-opening help how powerful that can be and it is a new feature and tool that you can now incorporate
+
+463
+00:52:49,600 --> 00:52:55,360
+it's so funny just like hearing you talk about that and this whole conversation we're having with all of
+
+464
+00:52:55,360 --> 00:53:02,080
+these different features and knobs that you can turn and make like increase or decrease things like
+
+465
+00:53:02,080 --> 00:53:09,280
+so many people who don't have diabetes have no idea all the tinkering that goes into managing diabetes they're
+
+466
+00:53:09,280 --> 00:53:14,320
+just like oh they have an insulin pump they're fine like we we have the temp basil the extended
+
+467
+00:53:14,320 --> 00:53:20,560
+bolus we have this that we have all these features for adjusting our pancreas needs it's just so funny
+
+468
+00:53:20,640 --> 00:53:26,400
+another one of those features is extended bolus which now there's been updates to that
+
+469
+00:53:27,520 --> 00:53:34,799
+the fact that you can extend a bolus in automated insulin up to I think it's eight hours
+
+470
+00:53:37,200 --> 00:53:47,759
+how are you using these yourself so extended bolus I personally don't use it too often but the times I
+
+471
+00:53:47,760 --> 00:53:55,600
+do are when I'm having maybe a higher carb high fat you know content meal something like pizza of course
+
+472
+00:53:56,560 --> 00:54:01,520
+that's the time I would normally use it so that's basically just to give a summary of what
+
+473
+00:54:01,520 --> 00:54:08,000
+extended bolus is for those who may not know it's basically you can take a percentage of your total
+
+474
+00:54:08,000 --> 00:54:15,440
+bolus for a meal up front and then a percentage the remaining percentage can hit a couple of hours later
+
+475
+00:54:15,440 --> 00:54:22,400
+up to eight hours as you said so it used to be before control like you plus you could only go up to
+
+476
+00:54:22,400 --> 00:54:28,720
+two hours now you have up to eight and we can get a little bit more into why would you necessarily need to
+
+477
+00:54:28,720 --> 00:54:36,880
+use it up to eight hours later but essentially you and maybe say you're taking you know a hundred
+
+478
+00:54:36,880 --> 00:54:44,320
+percent of your your total bolus but you decide I'm going to have a slicer to a pizza maybe I'm going
+
+479
+00:54:44,320 --> 00:54:53,440
+to take 30% of my bolus now and the remaining 70% to three hours later usually when that spike hits from
+
+480
+00:54:53,440 --> 00:55:02,720
+something with high fat high protein sorry high fat high carb content meal so that is a time I would say
+
+481
+00:55:02,720 --> 00:55:10,800
+would be great to use it obviously depending on particular needs and diets everybody has a different
+
+482
+00:55:10,800 --> 00:55:18,000
+lifestyle they may want to use it for other meals it's not just for something like pizza but that is a
+
+483
+00:55:18,000 --> 00:55:23,440
+time you would essentially use it when you know your spike is going to hit you several hours later
+
+484
+00:55:25,440 --> 00:55:30,880
+yeah and you were saying for up to eight hours is that for people who have gastroparesis like slow
+
+485
+00:55:30,880 --> 00:55:38,880
+digestion yeah that's probably what we'll start seeing you know who will be using it more obviously that
+
+486
+00:55:38,960 --> 00:55:46,000
+is a very new feature and at first when a lot of us heard you can go up to eight hours maybe we thought
+
+487
+00:55:46,000 --> 00:55:52,000
+why would anyone want a bolus hit them eight hours later but when you really break it down it is for
+
+488
+00:55:52,000 --> 00:55:58,240
+things that are a little bit more individualized something like gastroparesis yes so I think over time
+
+489
+00:55:58,240 --> 00:56:04,240
+with this new feature we'll start to see who is actually utilizing it and when would it be most beneficial
+
+490
+00:56:04,880 --> 00:56:11,360
+I want to ask you a few things about the future of tandem moby and I'm going to split this up so first
+
+491
+00:56:11,360 --> 00:56:18,640
+if you could have any feature on the physical side of moby any dream feature what would that be
+
+492
+00:56:20,000 --> 00:56:29,520
+physically physically okay um I would probably say maybe having like a built-in clip but
+
+493
+00:56:29,520 --> 00:56:34,560
+something that would just pop in and out so if you decide you don't want to clip you can just
+
+494
+00:56:34,560 --> 00:56:42,480
+pop it back in but for those who do it would just simply pop out stick to that same slim profile without
+
+495
+00:56:42,480 --> 00:56:49,440
+having to add an extra component like the clip we have now I will say the clip we have now is pretty thin but
+
+496
+00:56:49,440 --> 00:56:56,000
+I know some people may feel it's still a little bit clumpy for their liking so maybe having the option
+
+497
+00:56:56,000 --> 00:57:03,520
+to pop in a clip and pop it back out as needed would be beneficial for those moments where maybe
+
+498
+00:57:03,520 --> 00:57:08,960
+they're wearing it as a patch pump or not wearing it as a patch pump they have options but it's all built in
+
+499
+00:57:09,600 --> 00:57:15,520
+yeah almost like the Nintendo switch the Nintendo switch has like a stand that pulls out and then
+
+500
+00:57:15,520 --> 00:57:21,920
+clips back in and goes into the form factor also the fact that when the moby is in its clip you can't
+
+501
+00:57:22,000 --> 00:57:30,640
+charge it so maybe that would help something with the help with charging for example yeah yeah I also just
+
+502
+00:57:30,640 --> 00:57:36,480
+find it funny that the clip was designed in a way that you can charge it I think that there's some room there
+
+503
+00:57:36,480 --> 00:57:42,800
+for for updates on the on the future model because this this charge is on a pad it's it's all wirelessly
+
+504
+00:57:42,800 --> 00:57:48,560
+charged which by the way having to bring a wireless charger and the idea of forgetting your wireless
+
+505
+00:57:48,560 --> 00:57:53,840
+charger adds like a whole other aspect of like packing your diabetes supplies that I
+
+506
+00:57:55,520 --> 00:58:00,160
+already messed up with going on a little weekend vacation and then bring my charger and luckily it lived
+
+507
+00:58:01,120 --> 00:58:10,799
+okay now on a software angle what area of the software what's a feature for the software that you would love to see
+
+508
+00:58:10,799 --> 00:58:18,240
+come to the system personally I'm very happy with the features that are available I find that the
+
+509
+00:58:18,240 --> 00:58:23,760
+all word great you can utilize them as needed but first thing that comes to mind is actually what
+
+510
+00:58:23,760 --> 00:58:29,440
+we talked about a little earlier we're having maybe a timer for the activity mode would be helpful
+
+511
+00:58:30,480 --> 00:58:37,680
+I would say that is just beneficial because there will be times where we forget you know maybe we're running
+
+512
+00:58:37,680 --> 00:58:43,120
+from the gym over to work and we've just completely forget to turn that feature back up maybe if you
+
+513
+00:58:43,120 --> 00:58:48,400
+I was later and then will realize well our blood sugar is high how come and you find that you're still
+
+514
+00:58:48,400 --> 00:58:56,400
+an activity mode so I think from a practical standpoint things like like reminders or timers would be
+
+515
+00:58:56,400 --> 00:59:04,400
+helpful because people with diabetes were busy people too so we have to you know have as much health as possible
+
+516
+00:59:04,400 --> 00:59:13,200
+in our system yeah I forgot to bring up mind so with the the form factor I would love to see
+
+517
+00:59:13,920 --> 00:59:21,600
+the ability to turn on suspend bolus from the button on it because every time I have to shower the
+
+518
+00:59:21,600 --> 00:59:27,200
+fact that I have to go find my phone to suspend bolus no I'd prefer to use the on board button to
+
+519
+00:59:27,200 --> 00:59:33,520
+suspend bolus I'm sure there's a you know a certain of what characters that they can create on there to do that
+
+520
+00:59:34,160 --> 00:59:41,680
+with software wise what I would like to see is I'm already creating these like temp bezels plus activity
+
+521
+00:59:41,680 --> 00:59:49,520
+feature turned on at the same time I wish that there was the ability to create customizable widgets that you could
+
+522
+00:59:49,520 --> 00:59:56,000
+just tap and what it does is it turns on that temp basil and activity feature it turns on sleep mode and
+
+523
+00:59:56,960 --> 01:00:05,040
+temp basil it whatever it is these like custom made presets would be great and they're not adding a
+
+524
+01:00:05,040 --> 01:00:10,240
+feature they're really just allowing you to more quickly activate some of the some of the settings
+
+525
+01:00:11,280 --> 01:00:19,920
+now lastly if there was a dream feature that you could see come to the algorithm what would that be
+
+526
+01:00:20,640 --> 01:00:30,240
+maybe I would say going to the ability for the pump itself to predict your blood sugar 30 minutes
+
+527
+01:00:30,240 --> 01:00:35,920
+into the future and and correct based on that I think it would be nice if we could see what those
+
+528
+01:00:35,920 --> 01:00:42,960
+predictions would be what is the what is the algorithm assuming we might end up at and why is it deciding
+
+529
+01:00:42,960 --> 01:00:49,120
+to increase or decrease our basil rate so maybe just giving us a little more information but in an
+
+530
+01:00:49,120 --> 01:00:55,520
+optional format I know a lot of times people have alarm fatigue and all these constant beeps
+
+531
+01:00:55,520 --> 01:01:03,200
+and the reminders can be a lot so having it be optional would be great but the ability to tap in and see
+
+532
+01:01:03,200 --> 01:01:10,240
+what are these predictions and what is my basil rate being based off of why is it increasing
+
+533
+01:01:10,240 --> 01:01:15,839
+why is it decreasing I think that would be pretty eye opening for sure yeah that would be great I could
+
+534
+01:01:15,840 --> 01:01:23,200
+definitely see it being TMI for some people but on some open source apps they do show that they do
+
+535
+01:01:23,200 --> 01:01:30,160
+show where glucose is going in fact actually the twist pump that's coming out which uses an algorithm
+
+536
+01:01:30,160 --> 01:01:36,400
+from the open source community that software does show you where your glucose is going which is exciting I
+
+537
+01:01:36,400 --> 01:01:41,760
+believe it shows you a six hour graph I think that the first two hours or where your glucose already was and
+
+538
+01:01:41,760 --> 01:01:47,520
+then the four next four hours are where they're going so that's exciting people will have that feature
+
+539
+01:01:47,520 --> 01:01:56,160
+on twist coming out and I wanted to end with this if someone's considering becoming a certified diabetes
+
+540
+01:01:57,120 --> 01:02:05,200
+educator what would your advice be to them that's a great question actually I think obviously I've noticed
+
+541
+01:02:06,160 --> 01:02:12,240
+in my experience living a diabetes but also working in the diabetes bill people the diabetes
+
+542
+01:02:12,240 --> 01:02:18,160
+have this sense of passion for helping others with diabetes and I think that is a very important
+
+543
+01:02:18,160 --> 01:02:27,280
+trait to obtain to have I would say if you're open to the idea a research how can I get to that point
+
+544
+01:02:27,280 --> 01:02:33,360
+obviously there are specific pathways that you do have to go through before you would qualify to become a
+
+545
+01:02:33,680 --> 01:02:40,880
+CDC yes but having that ability can be very beneficial because they're different routes you can take
+
+546
+01:02:40,880 --> 01:02:47,520
+within that as well you can do it from the dietetic standpoint you can do that from the technology standpoint
+
+547
+01:02:48,720 --> 01:02:55,280
+there are a lot of different avenues nursing and so I think you know I would just say do your research get
+
+548
+01:02:55,280 --> 01:03:02,400
+involved work with others living the diabetes volunteer get some experience and you know from that point
+
+549
+01:03:02,400 --> 01:03:09,280
+forward you know move next to that educational piece to get certified but it all comes down to
+
+550
+01:03:09,280 --> 01:03:15,120
+to passion I think you have to obviously have that passion to help others which I feel people that
+
+551
+01:03:15,120 --> 01:03:21,760
+diabetes naturally do so you know I would just say go with go with your gut and move forward if it's
+
+552
+01:03:21,760 --> 01:03:28,400
+in you move forward with that yeah we really do have this passion the communities incredible and so many
+
+553
+01:03:28,400 --> 01:03:36,560
+people have helped me on my journey whether that be in you know an endo office or just on chat rooms
+
+554
+01:03:36,560 --> 01:03:44,960
+or social media and it's it continues to inspire what I do and to create this kind of content to
+
+555
+01:03:46,000 --> 01:03:51,040
+help educate others Dave thank you so much for coming on I'm glad that we got to do this I'm so glad
+
+556
+01:03:51,040 --> 01:03:56,560
+you could tell me everything I need to know about mobile before I were doing it but also I think people
+
+557
+01:03:56,560 --> 01:04:02,160
+listening will you know really grab grab a lot of great well that is the hope but thank you so much for
+
+558
+01:04:02,160 --> 01:04:09,840
+having me this is really cool and yeah I don't just speak with you here. Thanks for listening I've got so much
+
+559
+01:04:09,840 --> 01:04:14,960
+more on tandemo becoming out so make sure you subscribe to my YouTube channel and make sure you are
+
+560
+01:04:14,960 --> 01:04:22,640
+signed up for our newsletter on diabetec.info that is www.diabetec.info you can get signed up for our
+
+561
+01:04:22,720 --> 01:04:27,359
+newsletter and check out all of our blog posts coming out which are like the latest degrees in diabetes
+
+562
+01:04:27,359 --> 01:04:30,560
+tech news I'm Justin and I'll see you next week.
+

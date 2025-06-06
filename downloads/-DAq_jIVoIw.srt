@@ -1,0 +1,116 @@
+1
+00:00:00,000 --> 00:00:07,040
+The American Diabetes Association plays a crucial role in shaping diabetes care worldwide.
+
+2
+00:00:07,040 --> 00:00:13,440
+It's standards of care set the gold standard for diabetes treatment and technology recommendations,
+
+3
+00:00:13,440 --> 00:00:20,640
+influencing insurance coverage here in the US and providing essential guidance for both physicians and patients.
+
+4
+00:00:20,640 --> 00:00:25,920
+These guidelines help ensure that the latest advancements in diabetes management are
+
+5
+00:00:26,000 --> 00:00:31,760
+Accessibles to those who need it most. Welcome to the show. I'm just and I have type 1 diabetes and on here.
+
+6
+00:00:31,760 --> 00:00:36,880
+I talk off things diabetes tech news and management. Now, one of the most exciting
+
+7
+00:00:37,200 --> 00:00:45,520
+Recommendations that has come out of the ADA standards of care most recently is a recommendation that all people with type 2 diabetes
+
+8
+00:00:45,520 --> 00:00:54,400
+Regardless of insulin use should have access to continuous glucose monitors. This shift could have a massive impact on diabetes care
+
+9
+00:00:54,879 --> 00:01:01,360
+Expanding access to a tool that has already transformed management for so many people of diabetes.
+
+10
+00:01:01,360 --> 00:01:07,039
+Today, I'm joined by Dr. Gracia Aleppo, a professor of medicine at Northwestern
+
+11
+00:01:07,039 --> 00:01:11,520
+Universities Division of Endocrinology, Metabolism and Molecular Medicine.
+
+12
+00:01:11,520 --> 00:01:18,800
+With over 23 years as an adult endocrinologist, she has dedicated her career to diabetes care,
+
+13
+00:01:18,880 --> 00:01:25,280
+especially in the realm of diabetes technology. In this episode, we dive into her work at the ADA,
+
+14
+00:01:25,280 --> 00:01:31,679
+how an idea moves through the organization from conception to the standards of care. The rating system
+
+15
+00:01:31,679 --> 00:01:37,679
+behind each new recommendation, we also get into the ADA's recent recommendation that health care providers
+
+16
+00:01:37,679 --> 00:01:44,400
+support patients who are considering DIY. Uncleared algorithms, like those I've talked about on this show,
+
+17
+00:01:44,400 --> 00:01:51,120
+whether it be trio DIY loop or Android APS. Dr. Aleppo is just as passionate about diabetes
+
+18
+00:01:51,120 --> 00:01:56,960
+technology as I am. Maybe even more, and you'll hear that through her voice. Keep in mind that
+
+19
+00:01:56,960 --> 00:02:01,760
+anything you hear on this show or any of my pages is not medical advice and it's for educational purposes
+
+20
+00:02:01,760 --> 00:02:07,200
+only always consult with a physician before making changes to your health care. Now for the conversation.
+
+21
+00:02:08,800 --> 00:02:12,720
+Gracia, welcome to the show. It's so good to have you here. Thank you so much, Justin,
+
+22
+00:02:12,720 --> 00:02:17,200
+for having me here today. I'm excited to be here with you today. So I'm Gracia Leipop,
+
+23
+00:02:17,200 --> 00:02:22,640
+I'm a professor of medicine, a division of endocrinology, metabolism, molecular medicine,
+
+24
+00:02:22,640 --> 00:02:29,680
+and Northwestern University in Chicago. I've been working as adult endocrinologists for about 23 years now
+
+25
+00:02:30,400 --> 00:02:37,440
+and I dedicate my career to diabetes, particular diabetes, and technology. For the last three years,
+
+26
+00:02:37,440 --> 00:02:43,840
+I've been working with the ADA professional practice committee to work on the standards of care.
+
+27
+00:02:44,240 --> 00:02:51,280
+And I was assigned to be the lead, the chair of the diabetes technology section which is chapter 7.
+
+28
+00:02:51,280 --> 00:02:59,360
+The ADA is something I hear about all the time, but I don't actually know that much about it. So when
+
+29
+00:02:59,360 --> 00:03:05,600
+the opportunity came about to have you on the show to talk about not just the ADA, but the
+

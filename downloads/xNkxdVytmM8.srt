@@ -1,0 +1,272 @@
+1
+00:00:00,000 --> 00:00:06,680
+In preparation for my review of the Philips Hue HD My Sync Fox coming next week, I thought
+
+2
+00:00:06,680 --> 00:00:10,920
+I'd go back and show you guys my interview with Philips Hue a few months ago, where
+
+3
+00:00:10,920 --> 00:00:13,160
+they showed off Hugh Sync on the computer.
+
+4
+00:00:13,160 --> 00:00:17,280
+Yeah, so Hugh Sync is our entertainment package, so a lot of people don't realize this
+
+5
+00:00:17,280 --> 00:00:20,840
+with smart lighting, you can now actually have great interactions with all of your entertainment
+
+6
+00:00:20,840 --> 00:00:24,440
+music, movies, TV, video games, and we'll showcase some of that stuff now.
+
+7
+00:00:24,440 --> 00:00:34,160
+Hugh Sync is an app that runs on both Mac and Windows PCs, and syncs all of your
+
+8
+00:00:34,160 --> 00:00:37,640
+hue color capable lights with the content on your computer.
+
+9
+00:00:37,640 --> 00:00:41,520
+It creates an immersive experience when you're playing games, listening to music, or
+
+10
+00:00:41,520 --> 00:00:45,360
+watching videos, and it works with any media you throw up on the screen.
+
+11
+00:00:45,360 --> 00:00:46,360
+Even me.
+
+12
+00:00:46,360 --> 00:00:49,400
+You can actually set it up to do a couple of different things in an rack, right?
+
+13
+00:00:49,400 --> 00:00:53,560
+So you have full control of your lighting, so your normal hue scenes, right?
+
+14
+00:00:53,560 --> 00:00:59,840
+Your read, your relaxed, I can adjust the intensity, I can turn my lights on and off, so
+
+15
+00:00:59,840 --> 00:01:03,400
+you have that functionality, and then of course, you can have some fun with colors.
+
+16
+00:01:03,400 --> 00:01:06,680
+The controls are simple, sleek, and easy to use.
+
+17
+00:01:06,680 --> 00:01:08,000
+First, I checked out gaming.
+
+18
+00:01:08,000 --> 00:01:12,400
+So now you can see, as I move around, and as I rotate in real time, the lights are actually
+
+19
+00:01:12,400 --> 00:01:16,000
+interacting with what's going on the screen, and it's really bringing that immersive experience
+
+20
+00:01:16,000 --> 00:01:17,000
+out.
+
+21
+00:01:17,000 --> 00:01:22,840
+So you can actually see, so as it starts to flash because my health is getting low, the lights
+
+22
+00:01:22,840 --> 00:01:28,200
+are actually flashing, giving me that anxiety that I'm actually dying over here, and then
+
+23
+00:01:28,200 --> 00:01:30,400
+that's great demo to show, right?
+
+24
+00:01:30,400 --> 00:01:33,240
+As I'm just as I'm dead, then he should off music.
+
+25
+00:01:33,240 --> 00:01:38,280
+So I'll turn on something like Pandora, and then what it's doing is it's picking up the music
+
+26
+00:01:38,280 --> 00:01:43,400
+and the intensity and the beat and the actual genre of music, and then it's now going to mix
+
+27
+00:01:43,400 --> 00:01:45,400
+the music that's going along with that.
+
+28
+00:01:45,400 --> 00:01:49,120
+So you'll notice as the music gets louder, the lights will get more intense, as the music
+
+29
+00:01:49,120 --> 00:01:54,080
+kind of dims down and gets more relaxed, and you can have some fun with some preset scenes,
+
+30
+00:01:54,080 --> 00:01:58,360
+so if you really want to have different color palettes, you can pick and choose, and then
+
+31
+00:01:58,360 --> 00:01:59,960
+set the intensity as well.
+
+32
+00:01:59,960 --> 00:02:03,800
+So if you didn't want it as intense, you just wanted more kind of gradual light changes, you
+
+33
+00:02:03,800 --> 00:02:05,680
+can do moderate all the way up to that.
+
+34
+00:02:05,680 --> 00:02:08,400
+Again, that full and tense where it's on and off on the beat of the music.
+
+35
+00:02:08,400 --> 00:02:10,280
+Then he showed me a concert on YouTube.
+
+36
+00:02:10,280 --> 00:02:14,040
+So the light setting is going on, and you're getting your lights are interacting in real time,
+
+37
+00:02:14,040 --> 00:02:18,320
+what's going on in the screen, and you can pick whatever you want, your lights are going
+
+38
+00:02:18,320 --> 00:02:19,480
+to interact.
+
+39
+00:02:19,480 --> 00:02:23,760
+So whatever, whatever's on your PC, that's kind of what's going on there.
+
+40
+00:02:23,760 --> 00:02:29,040
+Hucing is free to download on your Mac or PC, but you will need a bridge and some lights to
+
+41
+00:02:29,040 --> 00:02:30,040
+get started.
+
+42
+00:02:30,040 --> 00:02:33,280
+Everything is running off of the huge bridge, still.
+
+43
+00:02:33,280 --> 00:02:37,120
+And realistically, Hucing can work with any of your headlights.
+
+44
+00:02:37,120 --> 00:02:41,680
+We're showcasing here, of course, our full color range of lights, and then two products that
+
+45
+00:02:41,680 --> 00:02:44,920
+are designed specifically for kind of entertainment in mind.
+
+46
+00:02:44,920 --> 00:02:48,079
+So we have our Hucines, which is our table lamp.
+
+47
+00:02:48,080 --> 00:02:51,880
+We have a table version and a floor version, and then we have our Hucines, which are actually
+
+48
+00:02:51,880 --> 00:02:54,160
+mounted on the back of the monitor.
+
+49
+00:02:54,160 --> 00:02:58,360
+So they're really mounted here, and then the idea is to give that ambiance around the wall
+
+50
+00:02:58,360 --> 00:03:00,720
+and to kind of create that big splash effect.
+
+51
+00:03:00,720 --> 00:03:05,840
+Philips Hue has also teamed up with Razer to make the PC gaming experience even more immersive,
+
+52
+00:03:05,840 --> 00:03:07,640
+with Razer Chroma.
+
+53
+00:03:07,640 --> 00:03:12,000
+Unlike Hucing, which basically takes what's on the screen, Razer Chroma allows video game
+
+54
+00:03:12,000 --> 00:03:15,080
+developers to program lighting effects within their code.
+
+55
+00:03:15,080 --> 00:03:17,960
+And so you can kind of see that just level of integration that you can do.
+
+56
+00:03:17,960 --> 00:03:22,160
+And this, again, fully up to the game designer for whatever whatever they want to do with it.
+
+57
+00:03:22,160 --> 00:03:26,280
+So as you get, like, some of the combos, as you land the big combos, the lights will actually
+
+58
+00:03:26,280 --> 00:03:30,840
+flash and a rat, kind of give you that feel that you're really kind of there.
+
+59
+00:03:30,840 --> 00:03:33,800
+I played some mortal combat and was pulled into the game.
+
+60
+00:03:33,800 --> 00:03:38,080
+I'd say this is the closest you're going to get to VR without putting a headset on.
+
+61
+00:03:38,080 --> 00:03:43,560
+If you thought this was cool, wait until you see my review of the Philips Hue play HD MySyncBox
+
+62
+00:03:43,560 --> 00:03:44,880
+coming next week.
+
+63
+00:03:44,880 --> 00:03:49,400
+Philips Hue has brought the Hucing technology to our home entertainment system with this device.
+
+64
+00:03:49,400 --> 00:03:53,000
+Make sure you subscribe to this channel and hit that bell for alerts so you know when the video
+
+65
+00:03:53,000 --> 00:03:54,000
+comes out.
+
+66
+00:03:54,000 --> 00:03:57,800
+Also, if you enjoyed this video, give it a like, it helps it get found.
+
+67
+00:03:57,800 --> 00:04:08,080
+As always, I'm Justin, and I'll take you later.
+
+68
+00:04:08,080 --> 00:04:09,440
+Thank you so much.
+

@@ -1,0 +1,928 @@
+1
+00:00:00,000 --> 00:00:10,000
+Welcome to the channel. I'm Justin. I have tight one diabetes in on here. I talked all things diabetes tech news and research and today we are talking all things tandem mobile.
+
+2
+00:00:10,000 --> 00:00:20,000
+I have never used a tube pump before and this was my chance to try it and I wanted to see what it was like to go from a tubeless pump to a tube pump.
+
+3
+00:00:20,000 --> 00:00:24,000
+Check out the algorithm and I'm going to get into that in a lot more today.
+
+4
+00:00:24,000 --> 00:00:34,000
+If you're new, I've got socials at Diabet underscore tech and a blog where I write about the latest announcements in diabetes technology and a newsletter that goes out twice a month.
+
+5
+00:00:34,000 --> 00:00:44,000
+There are links to all of that in the show notes. I have been using tandem mobile for about two months now. Look, it is a tube pump. It is my first tube pump.
+
+6
+00:00:44,000 --> 00:00:57,000
+I have been using OmniPod ever since I started using a pump. I was just diagnosed four years ago and I used OmniPod a tubeless pump for the last three plus years of my journey.
+
+7
+00:00:57,000 --> 00:01:05,000
+tandem mobile is the smallest tube hybrid closed loop pump in the United States. It is such a tiny little pump. There's no screen on it.
+
+8
+00:01:05,000 --> 00:01:11,000
+It's completely controlled with a phone and I knew I really wanted to try out this pump for a few reasons.
+
+9
+00:01:11,000 --> 00:01:15,000
+One, I've never worn a tube pump before so I wanted to see what that was like.
+
+10
+00:01:15,000 --> 00:01:25,000
+And two, I heard that the algorithm for the pump was very strong. Pretty aggressive and good at keeping you in range, more often.
+
+11
+00:01:25,000 --> 00:01:33,000
+So I wanted to try that out. In general, this year I want to try out as many insulin pumps as I can, so stay tuned for that by subscribing.
+
+12
+00:01:33,000 --> 00:01:41,000
+tandem has a 90 day return policy on their pumps. So I knew that when I tried this pump I didn't have to hold on to it.
+
+13
+00:01:41,000 --> 00:01:45,000
+If it didn't work for me, I haven't quite decided whether or not I'm going to keep it.
+
+14
+00:01:45,000 --> 00:01:51,000
+But today is all about my transition from a tubeless pump to a tube pump.
+
+15
+00:01:51,000 --> 00:02:01,000
+What it's been like wearing mobile so far and I have a review coming that's going to dive really deep into the pump and everything from the algorithm that app.
+
+16
+00:02:01,000 --> 00:02:03,000
+How I'm working out with it and using all the modes.
+
+17
+00:02:03,000 --> 00:02:09,000
+And I've already put out a bunch of content on mobile. I did a site change video that's on YouTube.
+
+18
+00:02:09,000 --> 00:02:15,000
+You can watch me kind of walk through the entire site change process and I've got a bunch of videos on social as well.
+
+19
+00:02:15,000 --> 00:02:25,000
+And a podcast episode with a diabetes educator who walks me through the algorithm and I ask him all of my burning questions about it and how to use it.
+
+20
+00:02:25,000 --> 00:02:31,000
+In today's video, I'm going to get into what it was like transitioning from a tubeless pump to a tube pump.
+
+21
+00:02:31,000 --> 00:02:37,000
+What wearing a tube pump has been like in all aspects of life from the shower to using the bathroom and swimming.
+
+22
+00:02:37,000 --> 00:02:41,000
+I'll talk about packing it and the pieces that you need in order to use it.
+
+23
+00:02:41,000 --> 00:02:51,000
+Plus, I'll get into all the different accessories that come with it in different ways to wear it, including using this accessory from sugar medical who is the sponsor today's video.
+
+24
+00:02:51,000 --> 00:02:57,000
+They make a bunch of different accessories from bags for packing small ones for the day.
+
+25
+00:02:57,000 --> 00:03:03,000
+Big ones for traveling for a long period of time, which I've been using with my digital nomad moment.
+
+26
+00:03:03,000 --> 00:03:07,000
+Different accessories like this like clips for the tandem pod covers for omnipot.
+
+27
+00:03:07,000 --> 00:03:09,000
+They have so many things and I'll get into that later.
+
+28
+00:03:09,000 --> 00:03:13,000
+There will be a full on review of this pump that comes next.
+
+29
+00:03:13,000 --> 00:03:20,000
+So if you have any questions after watching this, drop them in the comments and I'll be sure to answer those in the full review.
+
+30
+00:03:20,000 --> 00:03:22,000
+All right, let's get into it.
+
+31
+00:03:22,000 --> 00:03:25,000
+So why did I decide to try out movie?
+
+32
+00:03:25,000 --> 00:03:28,000
+I want to speak all of the languages that all of you do.
+
+33
+00:03:28,000 --> 00:03:32,000
+All of the different pumps in the CGMs and the way to do that is to try out all the systems.
+
+34
+00:03:32,000 --> 00:03:35,000
+And that is why I decided to try and movie.
+
+35
+00:03:35,000 --> 00:03:39,000
+It's got the same algorithm as the T slim tandem's other pump.
+
+36
+00:03:39,000 --> 00:03:43,000
+So I'm kind of getting an experience of both of those systems with this one.
+
+37
+00:03:43,000 --> 00:03:46,000
+And yeah, they had a 90 day return policy.
+
+38
+00:03:46,000 --> 00:03:49,000
+I knew that it wouldn't hurt just to try it out.
+
+39
+00:03:49,000 --> 00:03:51,000
+And look at how small that is.
+
+40
+00:03:51,000 --> 00:03:52,000
+It's a little baby.
+
+41
+00:03:52,000 --> 00:03:57,000
+I've never worn a tube pump and I've got a lot to say about that transition.
+
+42
+00:03:57,000 --> 00:04:03,000
+It's weird after three years of using a tubeless pump to just start trying a new form of device.
+
+43
+00:04:03,000 --> 00:04:10,000
+That is completely different in so many ways and it's been quite the experience.
+
+44
+00:04:10,000 --> 00:04:17,000
+There also was an update to the algorithm to control IQ plus which brought a bunch of new features like extended bulls and temp basil,
+
+45
+00:04:17,000 --> 00:04:21,000
+which I'll talk about a little bit today, but I'm going to more so get into that in the review.
+
+46
+00:04:21,000 --> 00:04:26,000
+And also we spoke about that on the podcast episode with the diabetes educator.
+
+47
+00:04:26,000 --> 00:04:30,000
+So let's talk about all the different pieces that go into the tandem movie.
+
+48
+00:04:30,000 --> 00:04:34,000
+So for a site change, the pieces you'll need are a cartridge.
+
+49
+00:04:34,000 --> 00:04:36,000
+This holds up to 200 units of insulin.
+
+50
+00:04:36,000 --> 00:04:38,000
+And then you've got infusion sets.
+
+51
+00:04:38,000 --> 00:04:42,000
+They come in two different lengths, 23 inches or five inches.
+
+52
+00:04:42,000 --> 00:04:49,000
+And packing I found for movie is a little more confusing because not only do you need the cartridge,
+
+53
+00:04:49,000 --> 00:04:53,000
+but then you need to decide what lengths you want to bring of these.
+
+54
+00:04:53,000 --> 00:04:56,000
+So for this vacation I'm here or it's a workstation.
+
+55
+00:04:56,000 --> 00:04:58,000
+I'm living in Brazil for a month.
+
+56
+00:04:58,000 --> 00:05:02,000
+I decided to bring about half 23 inches, half five inches.
+
+57
+00:05:02,000 --> 00:05:06,000
+The scary part about that is what if I wanted more of one and I didn't bring it.
+
+58
+00:05:06,000 --> 00:05:08,000
+I mean that's kind of just what you're dealing with.
+
+59
+00:05:08,000 --> 00:05:14,000
+But I'm so used to just having to bring one little package from the pod.
+
+60
+00:05:14,000 --> 00:05:15,000
+Look at how simple that is.
+
+61
+00:05:15,000 --> 00:05:20,000
+That's all I need, whereas I feel like so much more can go wrong with not only just the cartridge,
+
+62
+00:05:20,000 --> 00:05:21,000
+then you've got the infusion set.
+
+63
+00:05:21,000 --> 00:05:24,000
+Then you've got all of the adhesive patches if you wind up wanting to bring these,
+
+64
+00:05:24,000 --> 00:05:27,000
+then you've got the clip, then you've got the charger.
+
+65
+00:05:27,000 --> 00:05:30,000
+And then you've got the cable for the charger.
+
+66
+00:05:30,000 --> 00:05:32,000
+There's a lot that can go wrong with this.
+
+67
+00:05:32,000 --> 00:05:35,000
+In fact, I'm the type of person that I bring everything and then I forget the insulin.
+
+68
+00:05:35,000 --> 00:05:38,000
+So odds are that I will forget something in here.
+
+69
+00:05:38,000 --> 00:05:44,000
+But thanks to Sugar Medical, I have a bag that I've been using to pack all of my diabetes supplies.
+
+70
+00:05:44,000 --> 00:05:49,000
+I can go in there and count and have compartments that are all meant for the specific piece.
+
+71
+00:05:49,000 --> 00:05:54,000
+Specific pieces that I know I need, and I know that I won't forget anything thanks to that bag.
+
+72
+00:05:54,000 --> 00:05:57,000
+And here's a little bit more about Sugar Medical's products.
+
+73
+00:05:57,000 --> 00:06:02,000
+Sugar Medical has become my go-to place for diabetes accessories.
+
+74
+00:06:02,000 --> 00:06:06,000
+Whether it's a travel bag or convenient accessories for my diabetes supplies.
+
+75
+00:06:06,000 --> 00:06:08,000
+Here's some of my favorites.
+
+76
+00:06:08,000 --> 00:06:10,000
+This is the insulated travel bag.
+
+77
+00:06:10,000 --> 00:06:15,000
+I have been using this bag for all of my month-long trips during my digital nomad moment.
+
+78
+00:06:15,000 --> 00:06:18,000
+It holds all of my pumps and CGM applicators.
+
+79
+00:06:18,000 --> 00:06:25,000
+There are compartments for alcohol swabs, insulin pens, needles, and the bag is insulated with pockets for ice packs.
+
+80
+00:06:25,000 --> 00:06:28,000
+So I know my supplies can stay at the right temperature.
+
+81
+00:06:28,000 --> 00:06:32,000
+There's also the insulated convertible supply bag, which is perfect for a day-out.
+
+82
+00:06:32,000 --> 00:06:38,000
+The bag has a spot for all of my glue cometer supplies, and a place to drop in used strips.
+
+83
+00:06:38,000 --> 00:06:40,000
+And you can wear it like a fanny pack.
+
+84
+00:06:40,000 --> 00:06:43,000
+Sugar Medical has bags of all different sizes.
+
+85
+00:06:43,000 --> 00:06:48,000
+I've also been loving their pump accessories, including these pump pops for omnipod.
+
+86
+00:06:48,000 --> 00:06:49,000
+That clip right on.
+
+87
+00:06:49,000 --> 00:06:52,000
+There's also the tandem moby easy to charge clip.
+
+88
+00:06:52,000 --> 00:06:55,000
+This solves one of the major issues with tandem's clip.
+
+89
+00:06:55,000 --> 00:06:59,000
+With this one, you can charge the moby in the clip and then pick it up when you're ready.
+
+90
+00:06:59,000 --> 00:07:04,000
+You can get 10% off Sugar Medical's website today with my code Diabetic10.
+
+91
+00:07:04,000 --> 00:07:08,000
+I've also thrown links to some of the products I talked about today in the show notes.
+
+92
+00:07:08,000 --> 00:07:10,000
+Now, back to the episode.
+
+93
+00:07:10,000 --> 00:07:12,000
+Let's talk about charging.
+
+94
+00:07:12,000 --> 00:07:16,000
+This is the charging pad for the tandem moby.
+
+95
+00:07:16,000 --> 00:07:21,000
+Get the pump out and you just place it right on there, and then it charges.
+
+96
+00:07:21,000 --> 00:07:27,000
+Now, it has been an adjustment remembering that I have to charge my pump.
+
+97
+00:07:27,000 --> 00:07:30,000
+And not only remembering, but getting alerts that I need to charge my pump.
+
+98
+00:07:30,000 --> 00:07:34,000
+It's a whole new alert category that I never had to get before.
+
+99
+00:07:34,000 --> 00:07:39,000
+And so there's been times where I'm laying in bed, and I have my pump charging next to me.
+
+100
+00:07:39,000 --> 00:07:43,000
+And I just feel super tethered to not always just the pump.
+
+101
+00:07:43,000 --> 00:07:46,000
+But two things I need to do with the pump, like charging it.
+
+102
+00:07:46,000 --> 00:07:50,000
+The pump lasts about four to five days on a single charge.
+
+103
+00:07:50,000 --> 00:07:56,000
+But I try to re-up it whenever possible when I'm showering, when I take it off to shower, and things like that.
+
+104
+00:07:56,000 --> 00:08:00,000
+So I haven't been in this situation, but I thought, like, what if I forgot this charger?
+
+105
+00:08:00,000 --> 00:08:02,000
+And I was at 40%.
+
+106
+00:08:02,000 --> 00:08:04,000
+How terrible would that be?
+
+107
+00:08:04,000 --> 00:08:06,000
+And think about trying to find a charger.
+
+108
+00:08:06,000 --> 00:08:15,000
+If you're in a foreign country, or you're just, like, on a flight, the fact that your device could theoretically die while on a plane.
+
+109
+00:08:15,000 --> 00:08:17,000
+And you can't charge it.
+
+110
+00:08:17,000 --> 00:08:18,000
+I don't love that.
+
+111
+00:08:18,000 --> 00:08:24,000
+Like, you know, with a device like Omni-Potter-Same Atlantic, which uses batteries, you can just replace those.
+
+112
+00:08:24,000 --> 00:08:30,000
+But a pump that relies on wireless charging, maybe not as easily.
+
+113
+00:08:30,000 --> 00:08:34,000
+It's just another area of diabetes that you need to think about.
+
+114
+00:08:34,000 --> 00:08:40,000
+And at least I'm actively trying to remove diabetes from my mind.
+
+115
+00:08:40,000 --> 00:08:47,000
+So having to charge my pump, like I have to charge my phone, is just another added thing I've never had to deal with.
+
+116
+00:08:47,000 --> 00:08:51,000
+What do you think about the whole charging wirelessly with pumps in general?
+
+117
+00:08:51,000 --> 00:08:53,000
+Let me know in the comments.
+
+118
+00:08:53,000 --> 00:08:55,000
+I know beta bionics is also like that.
+
+119
+00:08:55,000 --> 00:08:58,000
+Are you using pumps like this? Do you have any problems with it?
+
+120
+00:08:58,000 --> 00:08:59,000
+I want to hear from you.
+
+121
+00:08:59,000 --> 00:09:03,000
+Now let's talk about kind of the difference between a tube pump and a tubeless pump.
+
+122
+00:09:03,000 --> 00:09:05,000
+So this is Omni-Pot.
+
+123
+00:09:05,000 --> 00:09:10,000
+It is, it's the only tubeless pump in the US right now, although tandem's working on a tubeless pump.
+
+124
+00:09:10,000 --> 00:09:16,000
+Metronic is beta bionics is, I mean, so many of the companies are working on tubeless pumps.
+
+125
+00:09:16,000 --> 00:09:19,000
+So I guess they seem to like this form factor.
+
+126
+00:09:19,000 --> 00:09:22,000
+In fact, tandem's even working on a movie that is tubeless itself.
+
+127
+00:09:22,000 --> 00:09:25,000
+So with this device, you kind of just have it on you.
+
+128
+00:09:25,000 --> 00:09:29,000
+And you can swim with it. You can shower with it. You can do all these things with it.
+
+129
+00:09:29,000 --> 00:09:34,000
+With mobi, while it is water resistant and can be under water for about an hour,
+
+130
+00:09:34,000 --> 00:09:40,000
+it is not advised that you swim with it that you bath with it that you shower with it.
+
+131
+00:09:40,000 --> 00:09:45,000
+I have shower and bathed with it before, but more often than not,
+
+132
+00:09:45,000 --> 00:09:47,000
+I want to be naked in these things.
+
+133
+00:09:47,000 --> 00:09:52,000
+I was wearing the adhesive sleeve in those situations and it got a little wet and that was fine.
+
+134
+00:09:52,000 --> 00:10:00,000
+But this new situation that I'm in of needing to disconnect from my pump,
+
+135
+00:10:00,000 --> 00:10:04,000
+every time I do these things, has been a bit of an adjustment.
+
+136
+00:10:04,000 --> 00:10:10,000
+And not just that, the only way to suspend insulin with mobi is by going to your phone,
+
+137
+00:10:10,000 --> 00:10:16,000
+going into the app, unlocking it with days ID, tapping suspend insulin and then there you go.
+
+138
+00:10:16,000 --> 00:10:17,000
+You did it.
+
+139
+00:10:17,000 --> 00:10:21,000
+So I'm finding myself all the time in the bathroom, getting ready for the shower,
+
+140
+00:10:21,000 --> 00:10:25,000
+then all of a sudden I have to run in the other room, go to my phone, turn off insulin,
+
+141
+00:10:25,000 --> 00:10:28,000
+take off my pump, put it down, maybe charge it.
+
+142
+00:10:28,000 --> 00:10:35,000
+Something I never had to do with a tubeless pump, and I don't love that part of this system.
+
+143
+00:10:35,000 --> 00:10:40,000
+And I don't mind as much the tube, surprisingly.
+
+144
+00:10:40,000 --> 00:10:43,000
+I thought I would care about having a tube on me.
+
+145
+00:10:43,000 --> 00:10:48,000
+I kind of just hide that in my clothes or my swimsuit, whatever, and I'm fine.
+
+146
+00:10:48,000 --> 00:10:53,000
+But the whole disconnecting and reconnecting has been a bit annoying.
+
+147
+00:10:53,000 --> 00:10:57,000
+That's also when I go to the bathroom specifically sitting on the toilet,
+
+148
+00:10:57,000 --> 00:11:03,000
+and when I pull down my pants, and there's a tube hanging out, and sometimes it's pulling.
+
+149
+00:11:03,000 --> 00:11:05,000
+And I don't like that.
+
+150
+00:11:05,000 --> 00:11:10,000
+And I also was changing my clothes for the gym, and I ripped out the infusion site.
+
+151
+00:11:10,000 --> 00:11:12,000
+That was the first time I ever did that.
+
+152
+00:11:12,000 --> 00:11:18,000
+It's just all of these areas that I never had to think about, like, I have diabetes.
+
+153
+00:11:18,000 --> 00:11:23,000
+I've had to confront my diabetes a lot with this pump.
+
+154
+00:11:23,000 --> 00:11:27,000
+Now of course, the upside of this pump is the ability to disconnect.
+
+155
+00:11:27,000 --> 00:11:29,000
+And that's why a lot of people like it.
+
+156
+00:11:29,000 --> 00:11:35,000
+Once you disconnect, you have this small little piece, probably the size of a dexcomg7 on your body,
+
+157
+00:11:35,000 --> 00:11:38,000
+that is much smaller than on me pod.
+
+158
+00:11:38,000 --> 00:11:44,000
+But I will say when I was wearing on me pod, I never felt the need.
+
+159
+00:11:44,000 --> 00:11:48,000
+I loved it naked shower, but I never felt this need of, like, this is so annoying.
+
+160
+00:11:48,000 --> 00:11:51,000
+I wish I could take it off and then put it back on during showers,
+
+161
+00:11:51,000 --> 00:11:53,000
+although that would actually be nice.
+
+162
+00:11:53,000 --> 00:12:00,000
+But what I've gotten in return with Moby, I think the annoyance of having to suspend insulin,
+
+163
+00:12:00,000 --> 00:12:04,000
+and all those using my phone in the other room, and then put it down, and then go get it,
+
+164
+00:12:04,000 --> 00:12:06,000
+and then put it back in, and then forget to start insulin.
+
+165
+00:12:06,000 --> 00:12:12,000
+All of that is a bit more of a hindrance than having an omnipod somewhere at my body.
+
+166
+00:12:12,000 --> 00:12:15,000
+Now here's what would make that a lot more simple.
+
+167
+00:12:15,000 --> 00:12:22,000
+Is having a suspend insulin button on Moby, and Moby does have a button on it right there.
+
+168
+00:12:22,000 --> 00:12:27,000
+And I'm going to tell you what that is, but that button could be used to suspend insulin.
+
+169
+00:12:27,000 --> 00:12:32,000
+Like if it was a certain pattern you had to do in order to suspend and then start up again,
+
+170
+00:12:32,000 --> 00:12:35,000
+I mean, that would just be phenomenal.
+
+171
+00:12:35,000 --> 00:12:40,000
+And remove all of that annoyance I have every time I take it off.
+
+172
+00:12:40,000 --> 00:12:43,000
+Now what this is is a quick, boldest button.
+
+173
+00:12:43,000 --> 00:12:51,000
+So from this button, I can tap it, and then tell it how many carbs I'm eating or how much insulin I want.
+
+174
+00:12:51,000 --> 00:12:52,000
+I have it set to carbs.
+
+175
+00:12:52,000 --> 00:12:54,000
+I have it set to increments of 15 carbs.
+
+176
+00:12:54,000 --> 00:13:00,000
+You can do three of those increments, so up to 45 grams of carbs, 15, 30, 45.
+
+177
+00:13:00,000 --> 00:13:04,000
+And let me tell you, this bowl of this button is freaking awesome.
+
+178
+00:13:04,000 --> 00:13:09,000
+And what I like about it is your phone could be somewhere completely at the other end of your home.
+
+179
+00:13:09,000 --> 00:13:11,000
+There's no Bluetooth needed for this.
+
+180
+00:13:11,000 --> 00:13:16,000
+It's all within the pump, and the pump is, you know, connected directly to a continued glucose monitor.
+
+181
+00:13:16,000 --> 00:13:22,000
+One of the added bonuses by using tandem as your tube pump is the ability to adhere to your body with.
+
+182
+00:13:22,000 --> 00:13:25,000
+These adhesive sleeves, that tandem cells.
+
+183
+00:13:25,000 --> 00:13:28,000
+Unfortunately, they don't come with the pump. You have to buy them separately.
+
+184
+00:13:28,000 --> 00:13:34,000
+I think it's 25 dollars for a pack of 10, which I wish that they included them, but they don't.
+
+185
+00:13:34,000 --> 00:13:36,000
+And so that's what it looks like.
+
+186
+00:13:36,000 --> 00:13:39,000
+It works very well. Like you can keep this on.
+
+187
+00:13:39,000 --> 00:13:43,000
+You can keep this adhesive patch on for nine days and keep moving your sights.
+
+188
+00:13:43,000 --> 00:13:47,000
+I just don't love the look of it, especially compared to an omnipot.
+
+189
+00:13:47,000 --> 00:13:50,000
+It's a little more medical looking.
+
+190
+00:13:50,000 --> 00:13:56,000
+It's kind of just like not the nicest piece to have on my body.
+
+191
+00:13:56,000 --> 00:14:01,000
+And I found myself after using this twice, not wanting to use it again.
+
+192
+00:14:01,000 --> 00:14:12,000
+It is very convenient if you're running a marathon or you're a runner and you want to be able to have this, you know, completely unclipped from you and detached and just at here on your body somewhere.
+
+193
+00:14:12,000 --> 00:14:17,000
+There is a place in a time for it, but I found that I haven't needed it.
+
+194
+00:14:17,000 --> 00:14:23,000
+I have opted more so to go with their clip and just clip it on my on my pants or put it in my pocket.
+
+195
+00:14:23,000 --> 00:14:32,000
+And of course, using sugar medical's clip that just goes in here and the best part is like I said earlier, you could just charge that through there and then you're all set.
+
+196
+00:14:32,000 --> 00:14:37,000
+I think I would be more likely to wear an adhesive patch if it was prettier.
+
+197
+00:14:37,000 --> 00:14:46,000
+And there is the collido pump and I actually got my hands on collido adhesive patches, which are these diamond shaped adhesives that you put directly on the back of the pump.
+
+198
+00:14:46,000 --> 00:14:49,000
+And then you put another piece on your skin.
+
+199
+00:14:49,000 --> 00:14:54,000
+It's like Velcro and you just push it on and then it's super sleek looking.
+
+200
+00:14:54,000 --> 00:14:58,000
+I actually used those on the mobile and I loved the way it looked.
+
+201
+00:14:58,000 --> 00:15:11,000
+So I'm hoping that tandem creates other adhesives that they offer to their users or that other companies that do work on mobile accessories that they see this video.
+
+202
+00:15:11,000 --> 00:15:16,000
+And you guys can come out with these adhesive patches that I think would just like look way better with mobile.
+
+203
+00:15:16,000 --> 00:15:19,000
+So this video was not a review of the pump.
+
+204
+00:15:19,000 --> 00:15:27,000
+The pump is a fantastic system that's going to work so well for many people and for me it's worked well.
+
+205
+00:15:27,000 --> 00:15:35,000
+It's just been a huge adjustment and it felt like I needed to make a video about this switch from tubeless to tubed.
+
+206
+00:15:35,000 --> 00:15:42,000
+And the fact that I needed to confront my diabetes more than I have in years.
+
+207
+00:15:42,000 --> 00:15:52,000
+Not only has my diabetes been front and center in my eyes when I'm showering when I'm using the bathroom when I'm needing to charge it laying in bed.
+
+208
+00:15:52,000 --> 00:15:55,000
+When I'm worrying about charging it things like that.
+
+209
+00:15:56,000 --> 00:16:11,000
+It's more in other people's faces when I'm wearing a speedo at the beach and I have this big tube coming down or if I use the adhesive patch and then you've got a big tube or even just a small tube but this huge machine.
+
+210
+00:16:11,000 --> 00:16:18,000
+Omni pod while it's not much different in size than then mobile, it does feel cuter.
+
+211
+00:16:18,000 --> 00:16:21,000
+And it has been something that I wear with pride.
+
+212
+00:16:21,000 --> 00:16:25,000
+And sure, mobile is something that I would wear with pride.
+
+213
+00:16:25,000 --> 00:16:34,000
+But it's just been difficult for me to get used to all of these pieces coming off of my body,
+
+214
+00:16:34,000 --> 00:16:37,000
+whether it be in my everyday life or just around people.
+
+215
+00:16:37,000 --> 00:16:50,000
+What are your thoughts with the looks and styles between Omni pod and tandem, mobile, wearing those, have you switched from one to the other and felt a certain way?
+
+216
+00:16:50,000 --> 00:16:52,000
+Let me know in the comments.
+
+217
+00:16:52,000 --> 00:16:55,000
+Of course, there's so much more to these systems than just the looks.
+
+218
+00:16:55,000 --> 00:17:00,000
+There's algorithm. There are features. There are activity modes and sleep modes.
+
+219
+00:17:00,000 --> 00:17:05,000
+Things that are for some people, so much more important having all of those abilities.
+
+220
+00:17:05,000 --> 00:17:15,000
+I'll get more into the nitty-gritty of everything and review tandem mobile for how incredible it is and then drawbacks and features I want to see in the review. Don't worry.
+
+221
+00:17:15,000 --> 00:17:19,000
+In that review, I will get into the algorithm and the app.
+
+222
+00:17:19,000 --> 00:17:28,000
+I'll get into what it was like going surfing, like what I did surfing. I'll go deeper into modes, whether it be activity mode or sleep mode, how I've been using those.
+
+223
+00:17:28,000 --> 00:17:38,000
+I'll get into all of the different alerts that I've been getting used to with this device that it vibrates and beeps for different reasons and how I've worked out with the device.
+
+224
+00:17:38,000 --> 00:17:48,000
+The mechanisms that I've put in place in order to have a successful workout not have to eat a bunch of carbs after I worked out which is the worst.
+
+225
+00:17:48,000 --> 00:17:51,000
+Let me know your thoughts on today's video.
+
+226
+00:17:51,000 --> 00:17:56,000
+Toobless. Are you on a team? Let me know in the comments. Do you switch from one to the other?
+
+227
+00:17:56,000 --> 00:18:02,000
+I want to hear from you. This has been such a learning experience and I'm excited to be putting out more content on mobile.
+
+228
+00:18:02,000 --> 00:18:06,000
+And we'll see. Am I going to give it back at the end of the 90 days?
+
+229
+00:18:06,000 --> 00:18:08,000
+I don't know yet.
+
+230
+00:18:08,000 --> 00:18:15,000
+But what I do know is, even if I hold on to it, I could still get omnipoblet I want to because that's pharmacy benefits.
+
+231
+00:18:15,000 --> 00:18:17,000
+At least in the U.S. I don't know how it works elsewhere.
+
+232
+00:18:17,000 --> 00:18:21,000
+Anyway, thanks for watching. I'm Justin and I'll take you later.
+

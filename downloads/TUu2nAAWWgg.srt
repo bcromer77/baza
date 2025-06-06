@@ -1,0 +1,148 @@
+1
+00:00:00,000 --> 00:00:08,640
+I am at AT&T Shape on the Warner Brothers Lops where AT&T is showing off their 5G network
+
+2
+00:00:08,640 --> 00:00:14,720
+and now it's going to completely revolutionize entertainment and our lives with its incredible
+
+3
+00:00:14,720 --> 00:00:19,440
+speeds. They have a lot of exhibits explaining their technology and how it's going to be used.
+
+4
+00:00:19,440 --> 00:00:29,840
+So let's go check them out. AT&T Shape was packed with emerging tech. But what it all came
+
+5
+00:00:29,840 --> 00:00:36,800
+down to was AT&T's upcoming 5G network, which will completely change the way we understand
+
+6
+00:00:36,800 --> 00:00:42,800
+and interact with technology. This new internet tech will not only allow us to transfer data
+
+7
+00:00:42,800 --> 00:00:48,640
+at unbelievable speeds, it will also cut latency to allow for faster reactions. 5G will be
+
+8
+00:00:48,640 --> 00:00:55,840
+about 10 milliseconds, average latency time. Your 4G network right now around 100 milliseconds.
+
+9
+00:00:55,840 --> 00:01:00,240
+It's always like a tenfold improvement. The demo behind us had a motor working to keep a
+
+10
+00:01:00,240 --> 00:01:05,040
+pendulum balance over the 5G network. There was a sensor at the base of the stick reading
+
+11
+00:01:05,040 --> 00:01:10,080
+its angle and over the network the motor quickly decided how to move to keep it balanced. This was
+
+12
+00:01:10,080 --> 00:01:15,680
+all happening at about 8 milliseconds latency. Now if you pull the lever back, go ahead and pull it all
+
+13
+00:01:15,680 --> 00:01:21,520
+the way back, that's going to artificially increase the latency and you can see the thing can barely
+
+14
+00:01:21,520 --> 00:01:27,679
+stay stabilized. If it was 35 milliseconds, it would follow. So how is this going to affect you?
+
+15
+00:01:27,679 --> 00:01:32,560
+Well think about it when an autonomous car is driving 60 miles per hour. It will need this short
+
+16
+00:01:32,560 --> 00:01:39,280
+latency in order to react quickly. Also streaming capabilities of VR and AR content will be greatly
+
+17
+00:01:39,280 --> 00:01:44,800
+increased. Over wireless networks you could never do that for anything other than 5G. And this is actual
+
+18
+00:01:44,800 --> 00:01:51,360
+like an actual 5G network that's doing this. It's not a doctor's demo. We've really set up a 5G
+
+19
+00:01:51,360 --> 00:01:56,880
+network here that's going to get access. Not yet, it's it. Yeah, I don't. I don't think that's
+
+20
+00:01:56,880 --> 00:02:02,560
+given out the world up for the password for that one. Next I went to 18T's StoryBee to experience
+
+21
+00:02:02,560 --> 00:02:10,000
+the 5G network for myself. 5G StoryBee, what is that? We've basically taken a volumetric 3D capture station
+
+22
+00:02:10,000 --> 00:02:16,240
+where participants can walk in there and get their cells captured while telling their story. And that
+
+23
+00:02:16,320 --> 00:02:22,080
+content is a 3D volumetric content which gets processed in real time. You get sent over the 5G
+
+24
+00:02:22,080 --> 00:02:27,600
+network which the tablets are able to access and download this hundreds of megabytes of content.
+
+25
+00:02:27,600 --> 00:02:34,160
+Traditionally this type of interaction took minutes. Over 18T's 5G network, that interaction
+
+26
+00:02:34,160 --> 00:02:41,120
+is happening in matter of seconds. Okay so now I'm going to go watch myself as a small little person
+
+27
+00:02:41,120 --> 00:02:48,720
+in augmented reality. Let's check it out. Oh my goodness, look at me. I'm so small. Oh my god,
+
+28
+00:02:48,720 --> 00:02:55,440
+there I am. I'm fine. It's with this type of technology. Having a 3D volumetric phone call with your
+
+29
+00:02:55,440 --> 00:03:01,360
+love when I cross the country across the continent is in near future. You can see this and have a
+
+30
+00:03:01,360 --> 00:03:07,920
+transcontinental conversation with your loved ones with just super sense cameras and the power of 5G
+
+31
+00:03:07,920 --> 00:03:12,960
+with low latency and high better. Has Obi-Wan Kenobi come today at all or if you want Kenobi
+
+32
+00:03:12,960 --> 00:03:19,680
+has been reference tens of fines and I'm sure yet the hologram Luke has been reference more than that.
+
+33
+00:03:20,560 --> 00:03:26,880
+18T's 5G network is available in 19 cities across the US and it's slowly rolling out to more. Unfortunately
+
+34
+00:03:26,880 --> 00:03:33,520
+there's no data now for my hometown of Los Angeles. 18T's shape has shaped out to be an awesome event
+
+35
+00:03:33,520 --> 00:03:39,680
+18T's 5G network cannot get your soon enough. So pump for it. If you want some more details on their
+
+36
+00:03:39,680 --> 00:03:44,640
+5G network I'm going to throw it in the description below. Subscribe to the channel for more tech news
+
+37
+00:03:44,640 --> 00:03:48,080
+follow me on social media. I'm Justin. I'll take you later.
+

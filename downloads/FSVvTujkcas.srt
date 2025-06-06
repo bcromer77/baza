@@ -1,0 +1,56 @@
+1
+00:00:00,000 --> 00:00:04,480
+Hey everyone, Justin Tech here, and today I'm going to show you how to take video and pictures
+
+2
+00:00:04,480 --> 00:00:09,120
+off of your Oculus Go Oculus doesn't really tell you how to do this, so I have to do something
+
+3
+00:00:09,120 --> 00:00:12,800
+and then I was like, I'm going to make a video about it. So what you have to do is you have the download of software
+
+4
+00:00:12,800 --> 00:00:17,520
+called Android File Transfer from the Android website. I'll put the link in the comments below.
+
+5
+00:00:17,520 --> 00:00:22,480
+Once you have it on your Mac or your Windows, you can then connect the Oculus to your computer.
+
+6
+00:00:23,280 --> 00:00:26,720
+What's going to happen is the program's going to pop open right when you connect it,
+
+7
+00:00:26,720 --> 00:00:30,480
+and it's going to say it can't access the device storage. You don't worry about that because you
+
+8
+00:00:30,480 --> 00:00:35,280
+have to go in the Oculus to make it work. So let me put this on. It's going to say allow
+
+9
+00:00:35,280 --> 00:00:40,000
+access to data. The connected device will be able to access files on this headset. Yes, allow that.
+
+10
+00:00:40,000 --> 00:00:46,560
+Once you allow that, the program will then open back up again. It will say VR-head setup top and it's working.
+
+11
+00:00:46,560 --> 00:00:52,000
+So then all you have to do is go down to the folder called Oculus, open that up, and then in there,
+
+12
+00:00:52,000 --> 00:00:57,680
+there's a video shot and a screenshots folder. So then all you have to do is drag it onto your computer
+
+13
+00:00:57,680 --> 00:01:02,080
+and then you need your videos and screenshots. It is that easy. So there you go.
+
+14
+00:01:02,080 --> 00:01:07,280
+Go ahead and take some videos and screenshots and enjoy your Oculus Go. See you later.
+

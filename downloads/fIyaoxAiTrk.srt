@@ -1,0 +1,112 @@
+1
+00:00:00,000 --> 00:00:05,440
+I had a crazy situation with my Dex CompG7 sensors this week, and I needed to tell you about it.
+
+2
+00:00:05,440 --> 00:00:09,120
+The other day I was going to hop on a train, but before I did I had to put on a new
+
+3
+00:00:09,120 --> 00:00:14,800
+sensor, so I put it on, let it do its thing, was on my way to the train, and I realized that
+
+4
+00:00:14,800 --> 00:00:20,800
+the sensor never connected to the app after I put in the code. It just couldn't find the sensor,
+
+5
+00:00:20,800 --> 00:00:27,120
+so I had to go back, I wound up missing my train, got a new Dex CompG7, put it on,
+
+6
+00:00:27,120 --> 00:00:33,520
+and the same issue happened. It kept scanning for a sensor but never found one. So I had to call Dex
+
+7
+00:00:33,520 --> 00:00:39,920
+Comp, Dex Comp let me know that this is an issue people are having. Dex Comp had me find the number
+
+8
+00:00:39,920 --> 00:00:45,840
+on the box, that is under number 21, so make sure you take a picture of that and you have that.
+
+9
+00:00:45,840 --> 00:00:51,360
+It's on both the applicator and the box, you just have to have a picture of that and you can give them that code.
+
+10
+00:00:51,360 --> 00:00:56,640
+That way these replacements aren't part of their like three replacement policy. This is a failure
+
+11
+00:00:56,640 --> 00:01:00,480
+and they will replace it, and it's not part of that. This had me a little concern,
+
+12
+00:01:00,480 --> 00:01:06,800
+no, because what if I had taken these as my backups for vacation? And I would be out of luck. Also,
+
+13
+00:01:06,800 --> 00:01:12,400
+right now I'm traveling a lot outside the US. If this happened to me, I would have no idea what to do.
+
+14
+00:01:12,400 --> 00:01:16,640
+I would have to put something on social media asking if there's anyone around. I don't think that they
+
+15
+00:01:16,640 --> 00:01:21,760
+would be able to send them to me outside the US. Dex Comp correct me if I'm wrong. I learned a few things
+
+16
+00:01:21,760 --> 00:01:28,240
+here. First of all, if yours has a similar rev number or serial number as mine, make sure you bring
+
+17
+00:01:28,240 --> 00:01:33,440
+others that aren't part of that batch. Luckily, I had another sensor, my third sensor to put on,
+
+18
+00:01:33,440 --> 00:01:38,320
+and that was a different rev batch, and it worked just fine. So I'm only taking those with me to
+
+19
+00:01:38,320 --> 00:01:43,440
+live in later today. I have like five of those, and I'm like praying that there's no issues with that.
+
+20
+00:01:43,440 --> 00:01:49,440
+Are you having any Dex Comp failures? What is that situation? And if you are having a failure,
+
+21
+00:01:49,520 --> 00:01:54,880
+how long is it taking for you to get replacements? I've heard about shortages. I haven't necessarily
+
+22
+00:01:54,880 --> 00:02:01,280
+experienced that, but yeah, let me know in the comments. This experience really freaked me out and showed
+
+23
+00:02:01,280 --> 00:02:08,800
+me how tied we are to technology and how one little technical difficulty can make us miss a train,
+
+24
+00:02:09,360 --> 00:02:16,240
+freak us out and could theoretically put our treatment on pause and put us in a situation where we're just
+
+25
+00:02:16,240 --> 00:02:22,240
+not as ready to tackle our diabetes. I was nervous. I was off to go to the zoo and this really just
+
+26
+00:02:22,240 --> 00:02:27,360
+put a damper on my morning. Thank goodness. I got a sensor to work and I'm so thankful that I figured this
+
+27
+00:02:27,360 --> 00:02:31,280
+out before going to Europe. Let me know what you think in the comments and follow this page for more
+
+28
+00:02:31,280 --> 00:02:35,680
+diabetes tech tips and updates on this story.
+

@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:04,480
+With loop, you can log foods using different emojis.
+
+2
+00:00:04,480 --> 00:00:05,920
+There's like three main ones, right?
+
+3
+00:00:05,920 --> 00:00:08,240
+There's the lollipop, the taco, and the pizza.
+
+4
+00:00:08,240 --> 00:00:10,800
+And these are all for glycemic index.
+
+5
+00:00:10,800 --> 00:00:13,360
+The lollipop being the highest glycemic index,
+
+6
+00:00:13,360 --> 00:00:16,560
+meaning that food that you're eating will hit you the fastest
+
+7
+00:00:16,560 --> 00:00:20,640
+and pizza being the slowest, it will be an absorption time of five hours.
+
+8
+00:00:20,640 --> 00:00:23,760
+And the algorithm gets to know this information.
+
+9
+00:00:23,760 --> 00:00:26,720
+And I think that that's what I love so much about loop
+
+10
+00:00:26,720 --> 00:00:30,480
+is feeding it the information of the actual food I'm eating.
+
+11
+00:00:30,480 --> 00:00:34,160
+It has more info than any other systems able to take
+
+12
+00:00:34,160 --> 00:00:35,519
+that that's FDA cleared.
+
+13
+00:00:35,519 --> 00:00:40,239
+That was one of the biggest reasons why I was so interested in using the app
+
+14
+00:00:40,239 --> 00:00:42,720
+because of the way it integrates food.
+
+15
+00:00:42,720 --> 00:00:47,760
+Past just carb counting because carb counting is a science, but it's also not.
+
+16
+00:00:47,760 --> 00:00:51,840
+And I think that having more pieces of data to inform
+
+17
+00:00:51,840 --> 00:00:55,200
+how you're going to react to food, that was attractive to me.
+
+18
+00:00:55,200 --> 00:00:57,760
+What about favorite foods? Are you using that?
+
+19
+00:00:57,760 --> 00:01:03,120
+I am. I tend to have a cold brew with the Choco Milk every single morning.
+
+20
+00:01:03,120 --> 00:01:05,520
+And it's a very specific brand of Choco Milk.
+
+21
+00:01:05,520 --> 00:01:08,160
+So I always know what it's going to do to me.
+
+22
+00:01:08,160 --> 00:01:10,080
+I save that specifically as a favorite food.
+
+23
+00:01:10,080 --> 00:01:13,280
+There's a few other items from restaurants that are local that I've saved.
+
+24
+00:01:13,280 --> 00:01:14,560
+So yes, I do use it.
+

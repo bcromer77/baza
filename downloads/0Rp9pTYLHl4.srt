@@ -1,0 +1,2956 @@
+1
+00:00:00,000 --> 00:00:05,000
+Today, we are traveling back to a time before automated insulin pumps.
+
+2
+00:00:05,000 --> 00:00:11,000
+Before CGMs had follower apps, back when viewing glucose data remotely felt impossible.
+
+3
+00:00:11,000 --> 00:00:15,000
+Until a passionate group of developers and parents said,
+
+4
+00:00:15,000 --> 00:00:18,000
+we are not waiting and built the tools themselves.
+
+5
+00:00:18,000 --> 00:00:22,000
+Welcome to Diabetic. I'm Justin. I have Type 1 Diabetes and on here,
+
+6
+00:00:22,000 --> 00:00:27,000
+I talk all things Diabetes Tech, news and innovation, and the people behind it.
+
+7
+00:00:27,000 --> 00:00:33,000
+In this episode, we are diving into the open source movement that helped revolutionize diabetes care.
+
+8
+00:00:33,000 --> 00:00:36,000
+And specifically, we're focusing on night scout.
+
+9
+00:00:36,000 --> 00:00:41,000
+A platform that's become a staple in the community for uploading and tracking diabetes data.
+
+10
+00:00:41,000 --> 00:00:45,000
+Today, I'm speaking with James Wedding, the founder of the night scout foundation,
+
+11
+00:00:45,000 --> 00:00:51,000
+about the early days of night scout, the energy and the innovations coming out of the open source community,
+
+12
+00:00:52,000 --> 00:00:58,000
+what it was like raising a kid at a time before remote monitoring and how homegrown solutions
+
+13
+00:00:58,000 --> 00:01:03,000
+sparked a worldwide community and pushed industry players like Dexcom to work faster.
+
+14
+00:01:03,000 --> 00:01:08,000
+We get into how night scout enabled people to view their CGM data on smartwatches and tablets.
+
+15
+00:01:08,000 --> 00:01:14,000
+The taskbar on the Macbook and the rig behind the early day setup,
+
+16
+00:01:14,000 --> 00:01:17,000
+what people needed to carry around in order to use this,
+
+17
+00:01:17,000 --> 00:01:21,000
+and why night scout's work is still so important today.
+
+18
+00:01:21,000 --> 00:01:26,000
+This is an incredible story. It's one piece of the we are not waiting movement.
+
+19
+00:01:26,000 --> 00:01:32,000
+I've covered lots of areas of this, whether it be the origins of DIY loop and automated insulin system
+
+20
+00:01:32,000 --> 00:01:37,000
+for iPhone that's been around since before FDA cleared systems could automate insulin.
+
+21
+00:01:37,000 --> 00:01:42,000
+And I also just had episode recently with Amy Tendrich, a blogger in the early days,
+
+22
+00:01:42,000 --> 00:01:47,000
+who has held all of these conferences and events to streamline innovations.
+
+23
+00:01:47,000 --> 00:01:51,000
+All of these kind of connect, so I'll put those two episodes in the show notes.
+
+24
+00:01:51,000 --> 00:01:56,000
+Keep in mind that all of my episodes are not medical advice and educational purposes only.
+
+25
+00:01:56,000 --> 00:01:59,000
+Always consult with a physician before making changes to your healthcare.
+
+26
+00:01:59,000 --> 00:02:04,000
+And everything DIY you do at your own risk, they're not cleared by any government organization.
+
+27
+00:02:04,000 --> 00:02:06,000
+Let's get into it.
+
+28
+00:02:06,000 --> 00:02:09,000
+James, welcome to the show. It's good to have you here.
+
+29
+00:02:09,000 --> 00:02:10,000
+Thank you very much.
+
+30
+00:02:10,000 --> 00:02:13,000
+Appreciate the invitation and you're reaching out.
+
+31
+00:02:13,000 --> 00:02:18,000
+Yeah, of course. Well, this isn't the first time we've spoken. Actually, it was maybe two years ago,
+
+32
+00:02:18,000 --> 00:02:23,000
+a little over two years ago where you messaged me because I had posted one of my like,
+
+33
+00:02:23,000 --> 00:02:28,000
+fun, like loop intro video to a face some Facebook account.
+
+34
+00:02:28,000 --> 00:02:30,000
+And what did you say to me?
+
+35
+00:02:30,000 --> 00:02:38,000
+Something along the lines of, hey, this isn't this isn't an infotainment channel.
+
+36
+00:02:38,000 --> 00:02:42,000
+Keep it on topics up the wall and those lines, I'm sure.
+
+37
+00:02:42,000 --> 00:02:50,000
+Yeah, and it's funny. I feel like so much has changed on my end and my understanding of this community and what platforms,
+
+38
+00:02:50,000 --> 00:02:55,000
+like that that I had posted my video on, like these are all platforms that where people are helping each other.
+
+39
+00:02:55,000 --> 00:03:00,000
+And while I thought that this video, I think actually it was like an interview video.
+
+40
+00:03:00,000 --> 00:03:07,000
+While it was a good story in people in that, you know, Facebook group probably would have enjoyed it.
+
+41
+00:03:07,000 --> 00:03:13,000
+I understand you wanting to keep it like this is a place where people are helping each other and giving tips and, you know,
+
+42
+00:03:13,000 --> 00:03:21,000
+please don't use this as a promotion platform, you know. So I just think it's so funny because we are reconnected and I looked back at our messages on Facebook and I was like,
+
+43
+00:03:21,000 --> 00:03:25,000
+oh my goodness, I remember like you calling me out on that.
+
+44
+00:03:25,000 --> 00:03:33,000
+Yeah, I just for the record. I did not call you out on that. I had people message me to call you out. Oh wow.
+
+45
+00:03:33,000 --> 00:03:43,000
+I was, no, I, those groups are so big like K and West and I and other people who might write them, we can't police.
+
+46
+00:03:43,000 --> 00:03:53,000
+And so what we respond to are people saying, hey, somebody sent this message, somebody posted this junk for sale, somebody did whatever and we always go, okay, we'll go take a look and,
+
+47
+00:03:53,000 --> 00:03:59,000
+and again, I think if you insert the time was, hey, this isn't the right place, but here's the three other places.
+
+48
+00:03:59,000 --> 00:04:09,000
+It's in really well. Exactly. And you hit it there, and again, I know you talked with Stacey Sims that was like, hey, so, so give you the lay of the land and how we play
+
+49
+00:04:09,000 --> 00:04:17,000
+with with those sorts of podcast or new videos or new apps that people produce.
+
+50
+00:04:17,000 --> 00:04:25,000
+And yeah, we're, great. And you found a great audience. I know the loop and learn folks have have jumped on and subscribed. I'm sure.
+
+51
+00:04:25,000 --> 00:04:37,000
+Yeah, absolutely. And your name has come up a fair amount of time throughout past interviews and conversations. Like you have been around for some time in the whole open source DIY community.
+
+52
+00:04:37,000 --> 00:04:46,000
+And your story is so fascinating. I'm so excited for everyone to hear about it and ask you even more questions than I did in our like prior call.
+
+53
+00:04:46,000 --> 00:04:56,000
+But kind of just start us out with how you entered this world of diabetes. You don't have diabetes yourself, right? It was your child that was diagnosed.
+
+54
+00:04:56,000 --> 00:05:11,000
+Correct. My daughter is 22 now diagnosed 11. And really, my wife, like, like happens a lot of couples, honestly. My wife handled much of the diabetes responsibility for the first few years.
+
+55
+00:05:11,000 --> 00:05:23,000
+And I kind of flitted around the edges. Every time we get a new technology announcement or somebody would have a breathless new FDA posting, I kind of look at it and go, yeah, that's still garbage on now.
+
+56
+00:05:23,000 --> 00:05:36,000
+And then John Costa posted a picture of what I think was a double watch and showed a single blood glucose reading on it.
+
+57
+00:05:36,000 --> 00:05:48,000
+And my wife is like, okay, this is new. This is different. You need to figure this out. And I message them. And basically it was I'm still working on it. It's not ready for general consumption.
+
+58
+00:05:48,000 --> 00:06:04,000
+But watch this space. And you know, I actually went and looked back that that was 2014. So now 11 years and change Jason Adams started the CGM in the cloud group in April that year.
+
+59
+00:06:04,000 --> 00:06:16,000
+And by May, I was in there poking around and asking questions and trying to figure out how to get how to get this really, you know, first was clearly selfish. How do I get this from my daughter and from my wife and I said, we can sleep at night.
+
+60
+00:06:16,000 --> 00:06:20,000
+Yeah, and before you connected with them, this is 2014.
+
+61
+00:06:20,000 --> 00:06:23,000
+Right. How long had your daughter been diagnosed?
+
+62
+00:06:23,000 --> 00:06:26,000
+Uh, that was about three years in. If I remember. Okay. Got you.
+
+63
+00:06:26,000 --> 00:06:32,000
+Got you. February 2011. She's sitting right behind me. She'll tell me if I'm wrong. But it was about three years in.
+
+64
+00:06:32,000 --> 00:06:44,000
+And as a parent, what was managing diabetes like at that time at a time where there was no remote monitoring of right glucose numbers.
+
+65
+00:06:44,000 --> 00:06:56,000
+Uh, there was a whole lot of of of of hope and a prayer and a whole lot of phone calls and a whole lot of would you please keep an eye on this for me and and those sorts of things.
+
+66
+00:06:56,000 --> 00:07:02,000
+You know, you're talking about sending kids to our elementary school and even worse for kids who are preverbal.
+
+67
+00:07:02,000 --> 00:07:07,000
+Right. And and you're giving them a finger Pope. You're writing down a number.
+
+68
+00:07:07,000 --> 00:07:15,000
+If you're working with a school or a daycare, you're hoping that maybe they'll send you a text or they'll call you with a number and then you kind of go, okay, I've got one data point.
+
+69
+00:07:15,000 --> 00:07:20,000
+I don't know how much they're running around. I don't know if they actually ate everything. It was in the launch.
+
+70
+00:07:20,000 --> 00:07:24,000
+I don't know how they're feeling and you would just.
+
+71
+00:07:24,000 --> 00:07:31,000
+Yeah, it was it was a lot and and I think there's lots of parents who can tell you about the days of.
+
+72
+00:07:32,000 --> 00:07:38,000
+Every day picking a kid up from school from daycare and saying, how is it? How are you feeling? How's your number? You know, it just.
+
+73
+00:07:38,000 --> 00:07:41,000
+There were CGMs, but they were attached.
+
+74
+00:07:41,000 --> 00:07:49,000
+So even if you are on a CGM and a lot of people weren't because they were still fairly limited. It feels like in in access.
+
+75
+00:07:49,000 --> 00:07:58,000
+You are still depending on someone to get access to that data and share it with you as a parent, whether you were at school or work or traveling or whatever else.
+
+76
+00:07:58,000 --> 00:08:01,000
+What are the CGMs like?
+
+77
+00:08:01,000 --> 00:08:06,000
+I mean, it was a text come for G4 when we first got on.
+
+78
+00:08:06,000 --> 00:08:13,000
+Okay, so funny enough, I actually have like, and we'll talk about this whole box later, but I mean, it's this thing, right?
+
+79
+00:08:13,000 --> 00:08:21,000
+So this is an old G4, but you're talking about like a small cell phone, you know, like a candy bar size device that this kid has to walk around with.
+
+80
+00:08:21,000 --> 00:08:27,000
+And then you give it to a daycare provider or a teacher or whatever.
+
+81
+00:08:27,000 --> 00:08:31,000
+And you, again, you hope that communicated back with you.
+
+82
+00:08:31,000 --> 00:08:38,000
+The device itself worked fine, but the the information was only accessible about six feet away.
+
+83
+00:08:38,000 --> 00:08:43,000
+So so what, right, then what do you do?
+
+84
+00:08:43,000 --> 00:08:49,000
+I mean, that really makes me appreciate what we're working with now, which is Bluetooth 35 feet away.
+
+85
+00:08:49,000 --> 00:08:52,000
+The small little thing on me, it's connected to my phone.
+
+86
+00:08:52,000 --> 00:08:56,000
+So with the CGM your daughter was wearing the G4.
+
+87
+00:08:56,000 --> 00:09:01,000
+Right. What was it just like a little sensor on the skin?
+
+88
+00:09:01,000 --> 00:09:03,000
+It didn't have any wires or anything. It wasn't connected.
+
+89
+00:09:03,000 --> 00:09:05,000
+It was untethered from that.
+
+90
+00:09:05,000 --> 00:09:06,000
+Okay.
+
+91
+00:09:06,000 --> 00:09:09,000
+It was it was Bluetooth and it was about the size of.
+
+92
+00:09:09,000 --> 00:09:14,000
+Oh, I guess about half, you know, a half dollar and.
+
+93
+00:09:14,000 --> 00:09:15,000
+Okay.
+
+94
+00:09:15,000 --> 00:09:25,000
+Relatively small until you put it on a eight year old with skin yops or, you know, an infant, you know, think about some of these people who've been wearing these cents.
+
+95
+00:09:25,000 --> 00:09:33,000
+So the signs as it has shrunk over the years has been pretty dramatic, but that was never concerned.
+
+96
+00:09:33,000 --> 00:09:40,000
+It was just the limitation of the data and where you could access it that really drove all of this development, all this community.
+
+97
+00:09:40,000 --> 00:09:52,000
+All these parents, all these people affected by diabetes with the inability to remote monitor glucose levels, which is something that we so take for granted nowadays.
+
+98
+00:09:53,000 --> 00:09:58,000
+You enter this group, right? You enter this group on Facebook, CGM, the cloud.
+
+99
+00:09:58,000 --> 00:10:01,000
+Some work had already been going on when you had entered in.
+
+100
+00:10:01,000 --> 00:10:04,000
+What was the energy like in there?
+
+101
+00:10:04,000 --> 00:10:06,000
+Oh, wow.
+
+102
+00:10:06,000 --> 00:10:08,000
+Pure excitement.
+
+103
+00:10:08,000 --> 00:10:10,000
+A little bit of chaos.
+
+104
+00:10:10,000 --> 00:10:13,000
+A little bit of.
+
+105
+00:10:13,000 --> 00:10:18,000
+I can't believe we're actually doing this and I can't believe it's taking us to figure this out.
+
+106
+00:10:18,000 --> 00:10:20,000
+And I can't believe they're not giving this to us.
+
+107
+00:10:20,000 --> 00:10:34,000
+A lot of frustration because it was, wait a minute, why are we having to do this? Why is it this coming out of the box? Why isn't this something that, you know, I guess, you know, we were ducks come people.
+
+108
+00:10:34,000 --> 00:10:38,000
+So, you know, why is it ducks come doing this? Why? Why am I?
+
+109
+00:10:38,000 --> 00:10:47,000
+You know, and I think I told Stacy years ago on, you know, one of her initial conversations we had.
+
+110
+00:10:47,000 --> 00:10:53,000
+The day that DIY doesn't have to do development and diabetes, I'll be over the moment.
+
+111
+00:10:53,000 --> 00:10:58,000
+None of us really have, especially originally, none of us wanted to do this.
+
+112
+00:10:58,000 --> 00:11:00,000
+It was just something like, well, if you're not going to do what I will.
+
+113
+00:11:00,000 --> 00:11:03,000
+And I'll do it from my kid and I'll take care of my problems.
+
+114
+00:11:03,000 --> 00:11:07,000
+And then, you know, from then it became very quickly, I pay it forward.
+
+115
+00:11:07,000 --> 00:11:12,000
+Okay, I got it working for my kid. I got it working for myself and my loved ones can keep an eye on me, whatever.
+
+116
+00:11:12,000 --> 00:11:18,000
+How can I help other people? And really make it more accessible and make this.
+
+117
+00:11:18,000 --> 00:11:25,000
+So, you don't have to be a developer. I mean, that first month I go back and I look and it's been west and Kevin Lee and these guys.
+
+118
+00:11:25,000 --> 00:11:30,000
+And we can run through the names later. I can never thank them all enough.
+
+119
+00:11:30,000 --> 00:11:37,000
+But they were all really technologically savvy development side folks.
+
+120
+00:11:37,000 --> 00:11:43,000
+And so, you had to have sort of a fundamental either faith in your own ability to figure it out.
+
+121
+00:11:43,000 --> 00:11:46,000
+Or you needed to be able to read what they were writing and understand it.
+
+122
+00:11:46,000 --> 00:11:52,000
+And there was sort of this first pass evolution of when night scout became something that went from,
+
+123
+00:11:52,000 --> 00:11:57,000
+I really got to be a coder to, okay, clear instructions are step by step.
+
+124
+00:11:57,000 --> 00:12:00,000
+There's hardware to buy and we could spell it out.
+
+125
+00:12:00,000 --> 00:12:05,000
+And you can go back and look. I think that summer I put videos on YouTube on how to set this stuff up.
+
+126
+00:12:06,000 --> 00:12:17,000
+And that transition from a developer DIY, you know, hacker mentality to something on, okay, if you can put together a bookshelf from IKEA, you can do this.
+
+127
+00:12:17,000 --> 00:12:20,000
+And that was sort of that first big transition.
+
+128
+00:12:20,000 --> 00:12:26,000
+And that was excitement. I mean, there are, there are posts, you go back west, northern, one of the first things he would do.
+
+129
+00:12:26,000 --> 00:12:33,000
+Sort of his claim to fame is he would give everybody the little night scout wings meme.
+
+130
+00:12:34,000 --> 00:12:41,000
+When they would come in the group and say, I got it working. I got it working. And he would give them a little sort of wings because it was it was it was work.
+
+131
+00:12:41,000 --> 00:12:51,000
+But it was so exciting and it was so fulfilling the first time you were like, I see the numbers. I see this data. I see myself or my loved one or my kid.
+
+132
+00:12:51,000 --> 00:12:54,000
+It was, it was.
+
+133
+00:12:56,000 --> 00:12:59,000
+It's still get recledited. It was so exciting. It was great.
+
+134
+00:12:59,000 --> 00:13:04,000
+Why do you kind of just explain to everyone what night scout is exactly?
+
+135
+00:13:04,000 --> 00:13:14,000
+Sure. So night scout originally was designed as a way to get CGM data unlocked from that little candy bar device that we were looking at earlier.
+
+136
+00:13:14,000 --> 00:13:23,000
+It was a way to take the readings from a CGM and basically put them in a web service where you could access them whether through a web browser or again at the time.
+
+137
+00:13:23,000 --> 00:13:37,000
+It really was pebble watches. They had a very DIY Kickstarter figure out mentality and they had enough open API enough open programming resources for giving me for dripping in the text speak.
+
+138
+00:13:37,000 --> 00:13:42,000
+They made resources available so that you could put data on their watches.
+
+139
+00:13:42,000 --> 00:13:52,000
+And so John figure out how to get to that point and then it became okay. Now we've got remote monitoring whether it is on a laptop or watch another computer.
+
+140
+00:13:52,000 --> 00:13:55,000
+Another small Android tablet, whatever it might be.
+
+141
+00:13:55,000 --> 00:14:01,000
+And then it evolved again because people then said, okay, now I've got data. What else can I do with it?
+
+142
+00:14:01,000 --> 00:14:10,000
+And really now night scout has become sort of this default communication protocol for anybody who wants to talk about diabetes data.
+
+143
+00:14:10,000 --> 00:14:15,000
+Whether it is CGM, right? That's the first easy obvious stuff, right? That's where we started.
+
+144
+00:14:15,000 --> 00:14:25,000
+But then it became, I want to log insulin. I want to log my rapid acting. I want to log the overnight injection mixture. I got that.
+
+145
+00:14:25,000 --> 00:14:40,000
+I want to log snacks and meals and I'm going to go for a bike ride for 30 minutes and it became a logging tool that wasn't tied to either bad apps or were tied to apps produced by medical providers.
+
+146
+00:14:40,000 --> 00:14:48,000
+We're like, well, what are you going to do with my data? And now it's, it's the background for so many things.
+
+147
+00:14:48,000 --> 00:14:57,000
+And again, it's become sort of a default language. So if you want to build an app or want to build a resource that leverages data about type ones.
+
+148
+00:14:57,000 --> 00:15:08,000
+Night scout is a great place to start and it's not everything needs night scout, but almost everything can leverage night scout to extend whatever they're doing.
+
+149
+00:15:08,000 --> 00:15:23,000
+So, you know, I set up my own night scout. There's a link I go to that is a, there's some sort of platform, like, is someone running the night scout platform or is this some sort of self sustaining
+
+150
+00:15:24,000 --> 00:15:30,000
+Website you're able to get into. I know there are different platforms that you can pay in order to just host it.
+
+151
+00:15:30,000 --> 00:15:39,000
+But I mean, like, night scout as a platform is that being run by anyone or it kind of just like lives it exists that people can enter into.
+
+152
+00:15:39,000 --> 00:15:48,000
+A little bit of both. I mean, it is a open source project and people can make request to update and change that code base.
+
+153
+00:15:48,000 --> 00:15:55,000
+The challenge, honestly, at this point is worth 10 years in and it has been.
+
+154
+00:15:55,000 --> 00:16:03,000
+Essentially built from the ground up a couple of times by various developers who say, okay, support for older technologies has started to weigh us down.
+
+155
+00:16:03,000 --> 00:16:07,000
+When you need to refactor, we need to restart this code base.
+
+156
+00:16:07,000 --> 00:16:17,000
+The challenge now is because it's become sort of this link with Frank that everybody sort of scared to do that because you're afraid of what can break, right?
+
+157
+00:16:17,000 --> 00:16:20,000
+And it's not just what are you going to break in your world.
+
+158
+00:16:20,000 --> 00:16:26,000
+And so it's become a little heavy. It is it is self sustaining. It's a little bit.
+
+159
+00:16:26,000 --> 00:16:36,000
+There's still lots of work to be done. There's still lots of effort out there. You know, been west is constantly doing things to mainline to update and bring things up to.
+
+160
+00:16:36,000 --> 00:16:44,000
+You know, a more modern version, you know, he's done a lot of work. He's one of the hosting services you talk about, you know, he's done a lot of work to make it more scalable.
+
+161
+00:16:44,000 --> 00:16:52,000
+So that when you are looking at hosting services, you know, it's not quite as heavy on the back end for those people providing that.
+
+162
+00:16:52,000 --> 00:16:56,000
+So it can be a little bit more cost effective and do those sorts of things.
+
+163
+00:16:56,000 --> 00:17:04,000
+So it's certainly not, it's not moving as fast as it does, but it really doesn't have to because people are doing other stuff now with it.
+
+164
+00:17:04,000 --> 00:17:09,000
+It's become the common data environment that then other people go out and do other things with.
+
+165
+00:17:09,000 --> 00:17:19,000
+And that to me is pretty powerful. The fact that, you know, again, this is a loving year old tech that continues to resonate and ripple.
+
+166
+00:17:19,000 --> 00:17:31,000
+And people find creative ways to leverage that data and go out and do things that matter to them and not just necessarily to share holders of some massive medical device company.
+
+167
+00:17:31,000 --> 00:17:43,000
+This episode is sponsored by OmniPod. As someone with T1D and with an incredibly active lifestyle, it's important for me not to get tied up, especially with tubes on my insulin pump.
+
+168
+00:17:43,000 --> 00:17:47,000
+I love to go swimming, lift weights and play kickball with friends.
+
+169
+00:17:47,000 --> 00:17:51,000
+And with OmniPod 5, I never have to worry about tubes getting in the way.
+
+170
+00:17:51,000 --> 00:17:58,000
+Plus, not having to disconnect helps me to stay in range during all of my favorite physical activities. That includes sexy time too.
+
+171
+00:17:58,000 --> 00:18:11,000
+See, if you're eligible for a 30 day trial by visiting OmniPod.com slash dive attack on there, you'll see full safety and risk information and trial terms at OmniPod.com slash dive attack.
+
+172
+00:18:11,000 --> 00:18:16,000
+Yeah, tell me about those earlier days when you were in that group.
+
+173
+00:18:16,000 --> 00:18:22,000
+Tell me about some of those people that were in those chats and the projects that they were working on.
+
+174
+00:18:22,000 --> 00:18:39,000
+Sure, I mean, I go back and I think about, you know, sort of there was this this cohort of early developers Lane Desboro, you know, really sort of put out the rally cry of we are not waiting at one of the data that hosted by Amy Tindridge.
+
+175
+00:18:39,000 --> 00:18:45,000
+And that became the catalyst for early hands like, okay, we're not going to wait, we're going to do this ourselves.
+
+176
+00:18:45,000 --> 00:19:04,000
+And then you know, he was working with Ben West and Ross Nailer was was working on Ross and Kevin really worked on the first Android application that would plug into that CDM and send that data to the cloud because you had to get from that candy bar again somehow you had to get to the web.
+
+177
+00:19:04,000 --> 00:19:14,000
+So they were building an Android uploader is what it was just it was just called an uploader and you know, again, I'm trying not to forget anybody.
+
+178
+00:19:14,000 --> 00:19:22,000
+Jason Calabrecy and you know, all these folks that were really started and it's funny because Jason Adams first got into this news.
+
+179
+00:19:22,000 --> 00:19:24,000
+Like, okay, I'm not a techie.
+
+180
+00:19:24,000 --> 00:19:32,000
+He actually, he actually used I think it was Amazon, what's their service web services mechanical Turk.
+
+181
+00:19:32,000 --> 00:19:38,000
+No, you remember you used to build it like I have an idea, I don't know how to execute it, I'm going to pay some agencies for me.
+
+182
+00:19:38,000 --> 00:19:51,000
+And he he sent out a service that guy is guy named Raj and I was just thinking it's I haven't I haven't chat with Raj in years, I kind of wonder what he's up to Jason sent out this request.
+
+183
+00:19:51,000 --> 00:19:53,000
+I need someone to build a night scout site for me.
+
+184
+00:19:53,000 --> 00:19:55,000
+It's a little developer heavy at this point.
+
+185
+00:19:55,000 --> 00:20:00,000
+Raj came back and said, I don't feel like I can charge you in good faith through this, this was so simple.
+
+186
+00:20:00,000 --> 00:20:05,000
+And so he was running around people would come in and say, hey, I want to do this.
+
+187
+00:20:05,000 --> 00:20:07,000
+Excuse me.
+
+188
+00:20:07,000 --> 00:20:09,000
+Sorry.
+
+189
+00:20:09,000 --> 00:20:12,000
+People want to do this and he was like, okay, I'll set it up for you.
+
+190
+00:20:12,000 --> 00:20:18,000
+And he was just doing it for people out of the goodness of of his heart before he he I'm like.
+
+191
+00:20:18,000 --> 00:20:24,000
+He grew up and went to college and got a career and he's I'm sure he's out there doing something wonderful, but it was just.
+
+192
+00:20:25,000 --> 00:20:32,000
+This this environment of we're all for you in this out, we're all helping each other and.
+
+193
+00:20:32,000 --> 00:20:38,000
+We're just going to do it and at some point somebody will yell at us, but right now we're.
+
+194
+00:20:38,000 --> 00:20:39,000
+We're not waiting.
+
+195
+00:20:39,000 --> 00:20:43,000
+Yeah, and was it John Costa who.
+
+196
+00:20:43,000 --> 00:20:48,000
+Was it his childhood was the first person ever to to be running night scout.
+
+197
+00:20:48,000 --> 00:20:52,000
+I saw somewhere he's called the Mr. impatient.
+
+198
+00:20:53,000 --> 00:20:57,000
+That's probably the best way to describe it. You know, I think there are again.
+
+199
+00:20:57,000 --> 00:21:02,000
+Lane was doing something, you know, on is there were there were a lot of different things.
+
+200
+00:21:02,000 --> 00:21:06,000
+I think John was the one that everybody rallied around and he was the first person I saw.
+
+201
+00:21:06,000 --> 00:21:10,000
+I always hate to say, well, you know, was someone so the first.
+
+202
+00:21:10,000 --> 00:21:16,000
+Probably, you know, it was it was such an amazing team effort.
+
+203
+00:21:16,000 --> 00:21:21,000
+And all these people who had figured out various bits and pieces to come together.
+
+204
+00:21:21,000 --> 00:21:28,000
+You know, and I've heard stories that like some of the initial conversations, they were like we're not having this conversation.
+
+205
+00:21:28,000 --> 00:21:29,000
+Online.
+
+206
+00:21:29,000 --> 00:21:33,000
+Because there were so many concerns about.
+
+207
+00:21:33,000 --> 00:21:40,000
+What are we doing? What's the FDA going to say? What are these device manufacturers going to say are we going to, you know, are we going to Jay?
+
+208
+00:21:40,000 --> 00:21:42,000
+I mean, nobody knew.
+
+209
+00:21:42,000 --> 00:21:45,000
+Right? We're just sort of hacking this stuff together.
+
+210
+00:21:45,000 --> 00:21:52,000
+But there were people who were legitimately like are they going to assume me into oblivion for telling people how their stuff works.
+
+211
+00:21:52,000 --> 00:22:00,000
+Um, you know, and I think that was even even a little bit scarier for, again, folks like Ben and.
+
+212
+00:22:00,000 --> 00:22:06,000
+Dana and Scott Leibrand, you know, who were who were playing on the pop side of the equation and doing things there.
+
+213
+00:22:06,000 --> 00:22:10,000
+Right? You, you've now moved from taking a data point and putting on a TV.
+
+214
+00:22:10,000 --> 00:22:13,000
+I don't see any harm in that. That's, that's pretty easy.
+
+215
+00:22:13,000 --> 00:22:18,000
+To now, we're talking about algorithms for injecting insulin. That's a different game.
+
+216
+00:22:18,000 --> 00:22:24,000
+And so all of this stuff happening in this environment in these conversations, again, it was very exciting.
+
+217
+00:22:24,000 --> 00:22:31,000
+It was very wild west to the point and I still think a lot of us take a measure of pride in it.
+
+218
+00:22:31,000 --> 00:22:39,000
+There was an interview with the then CEO of Dexcom, who called us out as being a bunch of rogue cowboys.
+
+219
+00:22:39,000 --> 00:22:44,000
+And we were kind of like, yeah, that works.
+
+220
+00:22:44,000 --> 00:22:46,000
+That's amazing. I love that.
+
+221
+00:22:46,000 --> 00:22:50,000
+You showed us the little device earlier. I want you to show it to us again.
+
+222
+00:22:50,000 --> 00:22:56,000
+Can you kind of explain to us what that early night scout set up required?
+
+223
+00:22:56,000 --> 00:23:04,000
+Sure. Okay. So this is, you know, typically, I'm trying to, we have a clever name for this, but basically it's a box.
+
+224
+00:23:05,000 --> 00:23:07,000
+So, so about why this box is the box.
+
+225
+00:23:07,000 --> 00:23:14,000
+So night scout worked by connecting CTM device from Dexcom, right?
+
+226
+00:23:14,000 --> 00:23:18,000
+So this is a USB on the go cable.
+
+227
+00:23:18,000 --> 00:23:26,000
+This cable was designed originally to allow you to use things like external keyboard with an Android phone.
+
+228
+00:23:26,000 --> 00:23:29,000
+And going to do some pretty cool stuff with their phone devices.
+
+229
+00:23:29,000 --> 00:23:33,000
+And on the other end of it is sort of your standard USB jack.
+
+230
+00:23:34,000 --> 00:23:39,000
+And this actually had another dongle. I'm, I'm realizing I'm missing another piece of this puzzle.
+
+231
+00:23:39,000 --> 00:23:46,000
+But it had to go from that and it had to basically go through this dongle into an Android phone or Android tablet.
+
+232
+00:23:46,000 --> 00:23:49,000
+And it typically, that was another connection.
+
+233
+00:23:49,000 --> 00:23:58,000
+That device was running the upload that I referenced Jason and Kevin really working on quite a bit.
+
+234
+00:23:59,000 --> 00:24:11,000
+That device basically tricked the CTM into a constant download and then every five minutes it would upload that single data point to your night scout database in the cloud.
+
+235
+00:24:11,000 --> 00:24:19,000
+And so, at the bare minimum, you had a, the candy bar device and then you had, you know, and I'll just go my phone in here.
+
+236
+00:24:19,000 --> 00:24:22,000
+You had a phone plugged in.
+
+237
+00:24:23,000 --> 00:24:30,000
+This was the rig. That was what, because it was, yeah, to put all this stuff together. It was a night scout rig. I can't believe I forgot about that.
+
+238
+00:24:30,000 --> 00:24:43,000
+But once you come up with that and you see people again that are adults and are running around and you see them with, you know, a phone and the little candy bar and it's bell crowed on you're like, okay, that's, that's fine.
+
+239
+00:24:43,000 --> 00:24:47,000
+You were a grown adult, you were not going to abuse this stuff.
+
+240
+00:24:47,000 --> 00:24:52,000
+The fourth grader going to school with a backpack and books and pens and pencils and all the junk.
+
+241
+00:24:52,000 --> 00:24:57,000
+And so it became very much, okay, how do we protect these connections?
+
+242
+00:24:57,000 --> 00:25:00,000
+Because you can see mine is still taped on there.
+
+243
+00:25:00,000 --> 00:25:15,000
+Because this connection was so fragile that the first year I think we probably filed more broken USB connection complaints with Dexcom than they'd ever seen before.
+
+244
+00:25:16,000 --> 00:25:27,000
+And so we had to tell people, okay, so when you call in your busted USB connection, you tell them it happened why you were downloading at the doctor's office.
+
+245
+00:25:27,000 --> 00:25:31,000
+Because if you tell them you were doing it with this, they'd be like, get out.
+
+246
+00:25:31,000 --> 00:25:32,000
+Right.
+
+247
+00:25:32,000 --> 00:25:33,000
+Yeah.
+
+248
+00:25:33,000 --> 00:25:34,000
+Yeah.
+
+249
+00:25:34,000 --> 00:25:35,000
+It's void.
+
+250
+00:25:35,000 --> 00:25:38,000
+So you wind up taping these things together.
+
+251
+00:25:38,000 --> 00:25:43,000
+I came up with this, this is actually a Cabela's tackle box.
+
+252
+00:25:43,000 --> 00:25:51,000
+But it is foam padded and you could cut out the foam to do various things fairly bomb proof and then had another layer of foam.
+
+253
+00:25:51,000 --> 00:25:55,000
+Sorry, you can't see it there. Another layer of foam in the bottom for the phone.
+
+254
+00:25:55,000 --> 00:25:59,000
+So there's this whole thing, none of it moved.
+
+255
+00:25:59,000 --> 00:26:01,000
+Once the lid was shut and clamped.
+
+256
+00:26:01,000 --> 00:26:05,000
+And, and did you ever have to, when did you have to open it up?
+
+257
+00:26:06,000 --> 00:26:07,000
+To charge.
+
+258
+00:26:07,000 --> 00:26:08,000
+You still had to charge.
+
+259
+00:26:08,000 --> 00:26:13,000
+You know, at night when the kids came home or whatever, you would open this up.
+
+260
+00:26:13,000 --> 00:26:16,000
+You would, you would unplug, you would charge things.
+
+261
+00:26:16,000 --> 00:26:20,000
+Most of us again, once we get figured out this worked fairly well.
+
+262
+00:26:20,000 --> 00:26:24,000
+You would have a nighttime a second Android device.
+
+263
+00:26:24,000 --> 00:26:26,000
+And again, at the time.
+
+264
+00:26:26,000 --> 00:26:29,000
+I'm going to say this and then and I fully recognize it.
+
+265
+00:26:29,000 --> 00:26:34,000
+Like the amount of data and the number of cell phones that people went through was insane.
+
+266
+00:26:34,000 --> 00:26:42,000
+Like, I still have a stack of Android tablets because we were trying to figure out which tablet is stable.
+
+267
+00:26:42,000 --> 00:26:50,000
+And these were all just these cheap knock-off Android tablets that you were buying for anywhere between $49 and $100.
+
+268
+00:26:50,000 --> 00:26:52,000
+For nighttime, right?
+
+269
+00:26:52,000 --> 00:26:53,000
+They weren't cell phones.
+
+270
+00:26:53,000 --> 00:26:59,000
+And so you would plug that in while you were charging the phone that went with the kid during the day.
+
+271
+00:26:59,000 --> 00:27:01,000
+Wow, it was a whole production.
+
+272
+00:27:01,000 --> 00:27:03,000
+Oh, it was absolutely production.
+
+273
+00:27:04,000 --> 00:27:05,000
+Yeah.
+
+274
+00:27:05,000 --> 00:27:10,000
+And, you know, it ran for, I can't tell you how long we ran this.
+
+275
+00:27:10,000 --> 00:27:18,000
+Realistically, we ran, we never did move to the Dexcom share in the cradle.
+
+276
+00:27:18,000 --> 00:27:23,000
+Eventually, when it became cell phone directly, that was when we got rid of the candy bar and everything.
+
+277
+00:27:23,000 --> 00:27:27,000
+But that box went to school with her for years.
+
+278
+00:27:27,000 --> 00:27:32,000
+How long did it take from the creation of that say,
+
+279
+00:27:32,000 --> 00:27:40,000
+for that Dexcom share feature to come out that connected to a phone that allowed you to not.
+
+280
+00:27:40,000 --> 00:27:43,000
+You know, I guess I have to use this for that.
+
+281
+00:27:43,000 --> 00:27:48,000
+You'll have to, you'll have to go back and check their release dates.
+
+282
+00:27:48,000 --> 00:27:52,000
+It was faster than I think anybody thought it would be.
+
+283
+00:27:52,000 --> 00:27:59,000
+You know, I think one of the things that a lot of us take pride in is that night scout rolled out.
+
+284
+00:27:59,000 --> 00:28:02,000
+We basically said, this is safe.
+
+285
+00:28:02,000 --> 00:28:05,000
+This is dumb that it's not available.
+
+286
+00:28:05,000 --> 00:28:08,000
+We're going to do this whether you like it or not.
+
+287
+00:28:08,000 --> 00:28:13,000
+Again, I actually remember having a conversation with one of the C suite at Dexcom and saying,
+
+288
+00:28:13,000 --> 00:28:18,000
+Do you know how many Dexcom units we have sold for you?
+
+289
+00:28:18,000 --> 00:28:21,000
+Because people didn't want to pay for it.
+
+290
+00:28:21,000 --> 00:28:26,000
+And we're not going to fight about it with their insurance provider when the data was limited to six feet.
+
+291
+00:28:26,000 --> 00:28:29,000
+As soon as we could make that data accessible.
+
+292
+00:28:29,000 --> 00:28:38,000
+Kids went back on Dexcom's because now mom and dad did see adults went back on Dexcom's because now they could share that information with a spouse or a friend or something else.
+
+293
+00:28:38,000 --> 00:28:48,000
+I mean, I said it in jazz, but I was like, you should be giving us a cut for the number of Dexcom receivers that we are selling you because now people use them.
+
+294
+00:28:48,000 --> 00:28:53,000
+It was, it was, again, I can't tell you when the dates were.
+
+295
+00:28:53,000 --> 00:28:57,000
+It was when the next night scout rolled and share rolled.
+
+296
+00:28:57,000 --> 00:29:00,000
+But I will say it was a massive update.
+
+297
+00:29:00,000 --> 00:29:02,000
+They really realized, I think they knew.
+
+298
+00:29:02,000 --> 00:29:05,000
+The folks at Dexcom are not, are not foolish.
+
+299
+00:29:05,000 --> 00:29:08,000
+They knew remote monitoring mattered.
+
+300
+00:29:08,000 --> 00:29:16,000
+But other than they realized what a massive tightaway of demand was sitting behind the solution.
+
+301
+00:29:16,000 --> 00:29:24,000
+And as soon as we started doing it, you know, I think they actually called up the FDA and said, look, these people, these rogue cowboys.
+
+302
+00:29:24,000 --> 00:29:33,000
+Are doing this, would you please approve our version so that we can start understanding what the market is like and we can get this out there.
+
+303
+00:29:33,000 --> 00:29:43,000
+And a quote safe and I wrote my eyes pretty hard because I'm sure that was the conversation even though I see zero safety issues with sharing CGM data.
+
+304
+00:29:43,000 --> 00:29:52,000
+It was, it was definitely something that triggered conversations with Dexcom and at the FDA saying, you know, displaying data is not a inherent risk.
+
+305
+00:29:52,000 --> 00:29:58,000
+And we should, we should remove these barriers and get this in the hands of people who can leverage it and make their lives better.
+
+306
+00:29:58,000 --> 00:30:09,000
+Yeah, I mean, and now I could never imagine diabetes treatment without cloud uploads of data.
+
+307
+00:30:09,000 --> 00:30:17,000
+I mean, definitely for parents, but even for me for all of the connections I use with my devices and.
+
+308
+00:30:17,000 --> 00:30:25,000
+Especially with, you know, add automated algorithms to it like it's it's great that.
+
+309
+00:30:25,000 --> 00:30:31,000
+You all pushed them to come out with this sooner because had you not been around.
+
+310
+00:30:31,000 --> 00:30:38,000
+This easily could have taken much longer with just people saying, please do this, you know, like, yeah.
+
+311
+00:30:38,000 --> 00:30:44,000
+It was a, you know, we were a good bookie man to hold up to the FDA and say move this along.
+
+312
+00:30:44,000 --> 00:30:48,000
+Because otherwise it was yeah, we'll get to it and I think they would have.
+
+313
+00:30:48,000 --> 00:30:55,000
+I don't know if there's any malice or anything, but that's a massive bureaucracy that's got to be navigated and.
+
+314
+00:30:55,000 --> 00:31:01,000
+You know, Dexcom being able to have have us as a as a bookie man or as a stick to beat that drum with.
+
+315
+00:31:01,000 --> 00:31:09,000
+I think it worked out well for everybody. You know, and again, I, I their technology their team, they did great things.
+
+316
+00:31:09,000 --> 00:31:17,000
+Yeah, but their analysis second sort of twist and white night scout continues to exist is people want to own their data.
+
+317
+00:31:17,000 --> 00:31:22,000
+They don't want to necessarily, especially these days feed into.
+
+318
+00:31:22,000 --> 00:31:29,000
+Whatever giant data center that Dexcom is running, whatever giant center metronics is running with all this information.
+
+319
+00:31:29,000 --> 00:31:37,000
+They want to own their data and they, they don't want it necessarily, you know, I think there are still valid concerns that that data could be used against us at some point.
+
+320
+00:31:37,000 --> 00:31:44,000
+You know, oh, hey, your insurance stream is going up. We see you run an average of X. That's not healthy. You need to go on a diet.
+
+321
+00:31:44,000 --> 00:31:49,000
+You know, that sort of abuse is just way to happen.
+
+322
+00:31:49,000 --> 00:31:56,000
+And you ask a little dystopian. It's probably a little paranoid, but I certainly empathize with the folks were like, yeah, I'm never sharing my data with these companies.
+
+323
+00:31:56,000 --> 00:31:59,000
+They will run night scout because I own my data.
+
+324
+00:31:59,000 --> 00:32:03,000
+Yes, soon we'll be seeing a black mirror episode about it, maybe.
+
+325
+00:32:03,000 --> 00:32:05,000
+Inquiry. Somebody's right. Really?
+
+326
+00:32:05,000 --> 00:32:07,000
+Yeah, we already have.
+
+327
+00:32:07,000 --> 00:32:08,000
+Yeah.
+
+328
+00:32:08,000 --> 00:32:13,000
+It's not hard to see, right? I mean, they ask you if you smoke, they ask you if you drink too much.
+
+329
+00:32:13,000 --> 00:32:25,000
+You're giving them the data. It wouldn't just wouldn't be hard to see an insurance company or a state run health agency saying, hey, we, we can see you're not adhering to our rules.
+
+330
+00:32:25,000 --> 00:32:29,000
+That's scary. So I wanted to ask you one other thing.
+
+331
+00:32:29,000 --> 00:32:39,000
+I about when when you first started night scout, would kind of take us into that first night that you were working on it, right?
+
+332
+00:32:39,000 --> 00:32:42,000
+You were working with someone to get it going, right?
+
+333
+00:32:42,000 --> 00:32:43,000
+Yeah.
+
+334
+00:32:43,000 --> 00:32:45,000
+Yeah, I am.
+
+335
+00:32:45,000 --> 00:32:48,000
+And I actually, it may 2014.
+
+336
+00:32:48,000 --> 00:32:52,000
+I actually went back and found one of my last sort of, hey, this isn't working.
+
+337
+00:32:53,000 --> 00:32:55,000
+Help me figure this out.
+
+338
+00:32:55,000 --> 00:32:58,000
+And again, it's sort of a hoos who of all these people.
+
+339
+00:32:58,000 --> 00:33:02,000
+I posted, I had had Raj had built me a website.
+
+340
+00:33:02,000 --> 00:33:05,000
+We're great. I had built my own. It wasn't working.
+
+341
+00:33:05,000 --> 00:33:10,000
+I was like, hey, here's Raj. Here's mine. What did I miss? What have I not got working right?
+
+342
+00:33:10,000 --> 00:33:15,000
+And, you know, Lane is in there offering, you know, hey, did you test this? Did you check this?
+
+343
+00:33:15,000 --> 00:33:20,000
+Jason Calibase is in there. You know, few other, again, these all these people that I look back now.
+
+344
+00:33:20,000 --> 00:33:24,000
+And I'm like, these are these are absolutely heroes of this world, this community.
+
+345
+00:33:24,000 --> 00:33:29,000
+They are, they gave so much of themselves so much of their time to help.
+
+346
+00:33:29,000 --> 00:33:33,000
+So many thousands of people who probably don't even know they exist.
+
+347
+00:33:33,000 --> 00:33:38,000
+And that's, you know, that's probably all me and the rest of this world for not shouting their names a lot or not.
+
+348
+00:33:38,000 --> 00:33:47,000
+But sometimes, I want to say around 1230, and so my old place, I'm off this downstairs.
+
+349
+00:33:47,000 --> 00:33:53,000
+My Carson's room is right above me. And so I actually could sit at the desk and work on stuff and get readings.
+
+350
+00:33:53,000 --> 00:33:57,000
+A little little work, but it, it worked.
+
+351
+00:33:57,000 --> 00:34:01,000
+At some point, Ben actually, I think he actually picked up the phone and called me.
+
+352
+00:34:01,000 --> 00:34:07,000
+Or we figured out some way and he walked me through whatever the little step was.
+
+353
+00:34:07,000 --> 00:34:11,000
+And I think it was something I had just left out a dot in an IP address.
+
+354
+00:34:11,000 --> 00:34:17,000
+I mean, at the time, you were literally hard coding things into the application at a code level.
+
+355
+00:34:17,000 --> 00:34:23,000
+You would build it and install it onto your Android phone, reboot the phone and cross your fingers.
+
+356
+00:34:23,000 --> 00:34:27,000
+And I'm somewhere in there, I type something wrong.
+
+357
+00:34:27,000 --> 00:34:32,000
+Ben and I added, he's walking through it. And I guess we had some sort of share screen.
+
+358
+00:34:32,000 --> 00:34:38,000
+I don't know whether it was Zoom or what, but we sit and he's like, okay, go build.
+
+359
+00:34:38,000 --> 00:34:41,000
+And this takes about five, eight minutes to go through this.
+
+360
+00:34:41,000 --> 00:34:44,000
+And then you're waiting for the CGM to actually send something.
+
+361
+00:34:44,000 --> 00:34:46,000
+So there's that five minute interval.
+
+362
+00:34:46,000 --> 00:34:52,000
+And we're sitting there and I just, like, mid-sentence, one point popped up on my screen.
+
+363
+00:34:52,000 --> 00:34:57,000
+And I remember like, I stopped. I went, I went speechless.
+
+364
+00:34:57,000 --> 00:34:59,000
+And I was like, we got it.
+
+365
+00:34:59,000 --> 00:35:07,000
+And it was such a massive cathartic moment of being like, okay.
+
+366
+00:35:08,000 --> 00:35:10,000
+I can protect my kid now.
+
+367
+00:35:10,000 --> 00:35:14,000
+And, you know, I think I went back and looked.
+
+368
+00:35:14,000 --> 00:35:19,000
+So we had these, so for me, I get with such a personal moment.
+
+369
+00:35:19,000 --> 00:35:22,000
+And then what was amazing is that we could echo that.
+
+370
+00:35:22,000 --> 00:35:24,000
+And we could take that and make it grow.
+
+371
+00:35:24,000 --> 00:35:29,000
+And I don't remember when it was, I can go back and find the pictures.
+
+372
+00:35:29,000 --> 00:35:34,000
+One of our friends at Microsoft let us use their technology center to do a training and a setup.
+
+373
+00:35:34,000 --> 00:35:36,000
+Probably later in that year.
+
+374
+00:35:36,000 --> 00:35:39,000
+And we had, I think, about 20 people showed up and we built this.
+
+375
+00:35:39,000 --> 00:35:43,000
+And it was great, like, my own feeling of relief.
+
+376
+00:35:43,000 --> 00:35:48,000
+And, and excitement was, was amazing.
+
+377
+00:35:48,000 --> 00:35:56,000
+But then I think we got 16 or 17 people in that room at the same time and turned this on for them.
+
+378
+00:35:56,000 --> 00:35:57,000
+Wow.
+
+379
+00:35:57,000 --> 00:35:59,000
+Yeah.
+
+380
+00:36:00,000 --> 00:36:02,000
+I don't think I've, I've done a lot of them.
+
+381
+00:36:02,000 --> 00:36:04,000
+I think I've done a lot of approval things.
+
+382
+00:36:04,000 --> 00:36:08,000
+Like personally I've experienced a lot of incredible things.
+
+383
+00:36:08,000 --> 00:36:11,000
+I don't think I've ever seen that level of impact.
+
+384
+00:36:11,000 --> 00:36:16,000
+So many people in such a tight space in 90 minutes from the minute they walked in the door.
+
+385
+00:36:16,000 --> 00:36:20,000
+And then there they are and they're like, this change is everything.
+
+386
+00:36:20,000 --> 00:36:24,000
+And so that sort of momentum, that sort of built.
+
+387
+00:36:24,000 --> 00:36:26,000
+Yeah, it is why it's still out there.
+
+388
+00:36:26,000 --> 00:36:28,000
+You know, that's why I mean, I look this morning.
+
+389
+00:36:28,000 --> 00:36:30,000
+See even in the cloud is 40,000 people.
+
+390
+00:36:30,000 --> 00:36:32,000
+Lupin learn is thousands of people.
+
+391
+00:36:32,000 --> 00:36:36,000
+There's just don't continue to be this appetite for what can we do next.
+
+392
+00:36:36,000 --> 00:36:40,000
+And how can we make everybody's lives a little simpler?
+
+393
+00:36:40,000 --> 00:36:41,000
+No.
+
+394
+00:36:41,000 --> 00:36:46,000
+Nobody's like retiring and getting rich off of these ideas and this work.
+
+395
+00:36:46,000 --> 00:36:48,000
+And all of it is volunteers.
+
+396
+00:36:48,000 --> 00:36:50,000
+You know, the Lupin learn group.
+
+397
+00:36:50,000 --> 00:36:54,000
+You know, I, we helped from the night sky foundation.
+
+398
+00:36:54,000 --> 00:36:58,000
+We helped them with some funding and we helped them with access to technology things.
+
+399
+00:36:58,000 --> 00:37:06,000
+But it's still volunteers producing webcasts and newsletters and putting together links and translating things into,
+
+400
+00:37:06,000 --> 00:37:08,000
+I don't know how many languages.
+
+401
+00:37:08,000 --> 00:37:13,000
+And it's all just people who are like, holy cow, this changed my world.
+
+402
+00:37:13,000 --> 00:37:15,000
+How can I share that?
+
+403
+00:37:15,000 --> 00:37:20,000
+Today's episode is sponsored by T1D Exchange.
+
+404
+00:37:20,000 --> 00:37:24,000
+You can directly make an impact on diabetes health care, treatments,
+
+405
+00:37:24,000 --> 00:37:29,000
+and technology by participating in the T1D Exchange registry.
+
+406
+00:37:29,000 --> 00:37:34,000
+It starts with the simple survey about your life with T1D and it only takes about 15 minutes.
+
+407
+00:37:34,000 --> 00:37:39,000
+After that, you'll have a personal portal with ongoing T1D study and survey opportunities.
+
+408
+00:37:39,000 --> 00:37:43,000
+Plus, some of these studies even offer compensation.
+
+409
+00:37:43,000 --> 00:37:49,000
+Signing up with the link in the show notes helps support my channel and it allows me to continue putting out free content.
+
+410
+00:37:49,000 --> 00:37:57,000
+You can sign up at t1dxchange.org slash diabetic or click that link in today's show notes.
+
+411
+00:37:57,000 --> 00:38:07,000
+This community really is just so incredible and so supportive and loop and learn and all these other Facebook groups looped.
+
+412
+00:38:07,000 --> 00:38:19,000
+Are just people who spend their free time answering questions, helping guide people to similar experiences with what you had with Ben,
+
+413
+00:38:19,000 --> 00:38:27,000
+just through all these groups, whatever, maybe even hopping on calls to help people get on a system that will work for them,
+
+414
+00:38:27,000 --> 00:38:32,000
+whether it be maybe it's loop and the fact that with the open source loop,
+
+415
+00:38:32,000 --> 00:38:39,000
+parents can not only follow their kids but they can also believe they can make dosing decisions with that.
+
+416
+00:38:39,000 --> 00:38:48,000
+There are still a lot of features that people are gaining access to with these softwares, especially parents.
+
+417
+00:38:48,000 --> 00:38:52,000
+I mean, it's why I love doing what I do because,
+
+418
+00:38:52,000 --> 00:38:59,000
+yeah, even though it has, of course, it's become a business because, but it's what I do every single day.
+
+419
+00:38:59,000 --> 00:39:11,000
+The fact that I can create content that is helpful to people that makes their lives easier and allows them to understand like all of the devices that are available to them to better themselves.
+
+420
+00:39:11,000 --> 00:39:21,000
+It's so rewarding. I've never been so passionate about something and to have stumbled upon people like you who have pushed so hard already.
+
+421
+00:39:21,000 --> 00:39:25,000
+I mean, it's just been the coolest journey for me.
+
+422
+00:39:25,000 --> 00:39:34,000
+You know, and I want to make sure, you know, we talked about loop and learn because that's sort of a group that right now, I think is really sort of carrying the banner.
+
+423
+00:39:34,000 --> 00:39:41,000
+But I don't think, even to some extent, that exists without Kate and Katie and we talked a little bit about Kate Farmsworth.
+
+424
+00:39:41,000 --> 00:39:48,000
+Yeah, I don't know if you ever, and maybe you did just and I don't know if you didn't get to know Katie D. Simone.
+
+425
+00:39:48,000 --> 00:39:59,000
+She is probably, probably, you know, in the pantheon of diabetes open source, she's a giant. She can Kate released it up looped, right?
+
+426
+00:39:59,000 --> 00:40:11,000
+And again, it was moving it out of this isn't just about CGM access. Now we're talking about automated insulin delivery, excuse me, AIDs, you know, and made that accessible.
+
+427
+00:40:11,000 --> 00:40:19,000
+We talked a little bit about some of the legal concerns, the ramifications, right? And so when looping sort of became, alright, that's where the group is heavy.
+
+428
+00:40:19,000 --> 00:40:22,000
+Remote monitoring has become something you can buy off the shelf.
+
+429
+00:40:22,000 --> 00:40:33,000
+Looping is not off the shelf yet. Looping is still the same thing. A very conscientious decision was made to separate those conversations from the CGM in the cloud group.
+
+430
+00:40:33,000 --> 00:40:39,000
+Because again, we were anxious and, and, you know, I think Kate and Katie really, it was their baby.
+
+431
+00:40:39,000 --> 00:40:49,000
+You know, they were cognizant of the fact that this is now shredding again into new water that is legally a little treacherous.
+
+432
+00:40:49,000 --> 00:40:58,000
+And so, you know, I just assume that we can't have these conversations in CGM in the cloud group. We've got years and years and years of conversations and resources and everything else.
+
+433
+00:40:58,000 --> 00:41:06,000
+We're going to stand up looped and if that gets shut down by Facebook and Zuckerberg, okay, we're not losing the history.
+
+434
+00:41:06,000 --> 00:41:14,000
+I mean, again, these are real concerns because we did, you know, there were, there was, and there continue to be like, you can't, some medical equipment.
+
+435
+00:41:14,000 --> 00:41:19,000
+There's lots of limitations of what you can do in a space book world and they, they rightly control the sandbox.
+
+436
+00:41:19,000 --> 00:41:26,000
+But we had to be smart about how we played in the sandbox until Katie did the thing and made looped and that took off again.
+
+437
+00:41:27,000 --> 00:41:37,000
+And then the impact they are, and again, freely other on time and sometimes, you know, into this day you see people are like, okay, I had enough money to step away for a little while.
+
+438
+00:41:37,000 --> 00:41:51,000
+Most of the time they come back because of the, the reward and the enrichment and just just getting to see the ripple effect of this pay it forward mentality in this community is.
+
+439
+00:41:52,000 --> 00:42:07,000
+It's the best example I've ever seen of a do good community and it's global and it impacts something, you know, it's changing, I mean literally changing lives and how people approach what they can do with their own lives, what they can do with their kids.
+
+440
+00:42:07,000 --> 00:42:23,000
+So night scout was this fantastic innovation that allowed us to finally project and display glucose readings, but the next generation of that was automated insulin delivery, which came ahead of its time with this community.
+
+441
+00:42:23,000 --> 00:42:36,000
+And I know that you, you told me that your daughter did not want a to pump that first, right, any of those systems only worked with metronic but you were involved in kind of helping.
+
+442
+00:42:36,000 --> 00:42:44,000
+Crack the code for on the pod to be able to be connected to loop.
+
+443
+00:42:44,000 --> 00:42:47,000
+Tell us about that a little bit.
+
+444
+00:42:47,000 --> 00:43:02,000
+So there was a community here, like the loop application and people on the end and the folks on that side and I know I'm forgetting names, but Pete to me is still connected to the loop piece and the apple iOS application.
+
+445
+00:43:02,000 --> 00:43:09,000
+But it only worked with metronic and so they had an AID ran on iOS device, great accessible common.
+
+446
+00:43:09,000 --> 00:43:17,000
+But it ran with an older generation of metronic pumps that were somewhat hard to find.
+
+447
+00:43:17,000 --> 00:43:23,000
+It worked because they were inherently insecure to transmission.
+
+448
+00:43:23,000 --> 00:43:35,000
+And I say inherently insecure meaning that they could be cracked and been wasted over I think literally thousands of hours.
+
+449
+00:43:35,000 --> 00:43:43,000
+So when I say insecure, I mean it's like, yeah, it's secure in the same way that you can crack a bank vault if you've got all the time in the world and you have the patience.
+
+450
+00:43:43,000 --> 00:43:46,000
+Then has the patience and that diligence.
+
+451
+00:43:46,000 --> 00:43:51,000
+But it worked in a metronic world and we're from older devices. They were hard, they were expensive.
+
+452
+00:43:51,000 --> 00:44:04,000
+There was this weirdly stupidly expensive gray market of these devices that people were like, oh, now this piece of junk I've got in the drawers were something and there was a gross.
+
+453
+00:44:04,000 --> 00:44:10,000
+I still think there was this gross abuse of this community once people figured out, oh.
+
+454
+00:44:10,000 --> 00:44:14,000
+That piece of junk in my drawers were 250 dollars. I'm going to go.
+
+455
+00:44:14,000 --> 00:44:16,000
+Yeah.
+
+456
+00:44:16,000 --> 00:44:17,000
+Yeah.
+
+457
+00:44:17,000 --> 00:44:21,000
+And then there were people like my kid, you know, Carson was like, no, I'm not wearing tubes. Simple as that.
+
+458
+00:44:21,000 --> 00:44:23,000
+You know, she was heavily into dance.
+
+459
+00:44:23,000 --> 00:44:30,000
+Wasn't going to do the things that really tubeed pump required from a lifestyle change.
+
+460
+00:44:30,000 --> 00:44:36,000
+So figured out that, okay, there is a massive community. There is a massive demand.
+
+461
+00:44:36,000 --> 00:44:39,000
+There's a big part continues to have this growing market share.
+
+462
+00:44:39,000 --> 00:44:45,000
+And I think, you know, just and I don't remember who I was talking to.
+
+463
+00:44:45,000 --> 00:44:49,000
+But it was probably a late night and there were probably drinks involved.
+
+464
+00:44:49,000 --> 00:44:52,000
+But I was like, this is dump.
+
+465
+00:44:52,000 --> 00:44:54,000
+We should be able to figure out how to make this work on an omnipotent.
+
+466
+00:44:54,000 --> 00:44:59,000
+If Ben could figure out metronic, surely we can get there.
+
+467
+00:44:59,000 --> 00:45:03,000
+And whether it was a wager or whatever, I was like, you know what?
+
+468
+00:45:03,000 --> 00:45:06,000
+I'm going to, a thousand bucks as we can figure this out.
+
+469
+00:45:06,000 --> 00:45:08,000
+And it was like, hang on.
+
+470
+00:45:08,000 --> 00:45:13,000
+There's lots of technology problems have been solved with bounties, right?
+
+471
+00:45:13,000 --> 00:45:16,000
+People have been doing that in this heck world for a long time.
+
+472
+00:45:16,000 --> 00:45:21,000
+And so I emailed probably about 25 people and said, hey, I'm going to do this thing.
+
+473
+00:45:21,000 --> 00:45:26,000
+This is not the nice cut foundation because we are playing well into.
+
+474
+00:45:26,000 --> 00:45:29,000
+I mean, literally we're trying to crack a device, right?
+
+475
+00:45:29,000 --> 00:45:33,000
+So we're, we're, we're attacking a device at this point.
+
+476
+00:45:33,000 --> 00:45:35,000
+I said, I'm not doing this through the nonprofit.
+
+477
+00:45:35,000 --> 00:45:38,000
+This is, you know, this is personal out of pocket money.
+
+478
+00:45:38,000 --> 00:45:40,000
+But I want this.
+
+479
+00:45:40,000 --> 00:45:44,000
+And I think we can do this will you commit and pledge with me.
+
+480
+00:45:44,000 --> 00:45:46,000
+You know, I was like, don't send me a check.
+
+481
+00:45:46,000 --> 00:45:47,000
+I don't how long this is going to take.
+
+482
+00:45:47,000 --> 00:45:50,000
+But handshake deal.
+
+483
+00:45:50,000 --> 00:45:52,000
+Let's put this puck together.
+
+484
+00:45:52,000 --> 00:45:57,000
+And put up a, you know, a one page website, hey,
+
+485
+00:45:57,000 --> 00:45:59,000
+this is what we're going to do.
+
+486
+00:45:59,000 --> 00:46:00,000
+This is what the bounties were.
+
+487
+00:46:00,000 --> 00:46:03,000
+I'm staying in, you know, again, I think I, I stayed for 1,000 bucks out of mine.
+
+488
+00:46:03,000 --> 00:46:05,000
+My, my wife is like, what are you doing?
+
+489
+00:46:05,000 --> 00:46:06,000
+You have to pay it out.
+
+490
+00:46:06,000 --> 00:46:07,000
+I was like, I'll pay it.
+
+491
+00:46:07,000 --> 00:46:08,000
+And I'll smile about it.
+
+492
+00:46:08,000 --> 00:46:09,000
+And I will.
+
+493
+00:46:09,000 --> 00:46:12,000
+I mean, you know, for what you get back like.
+
+494
+00:46:12,000 --> 00:46:13,000
+Yeah.
+
+495
+00:46:13,000 --> 00:46:14,000
+Right.
+
+496
+00:46:14,000 --> 00:46:15,000
+But it's.
+
+497
+00:46:15,000 --> 00:46:16,000
+And so we put this out there.
+
+498
+00:46:16,000 --> 00:46:17,000
+We talked about it.
+
+499
+00:46:17,000 --> 00:46:20,000
+And we, I think at the end of the day,
+
+500
+00:46:20,000 --> 00:46:24,000
+we had someone in the ballpark of $45,000 in pledges.
+
+501
+00:46:24,000 --> 00:46:29,000
+For whoever figures this out and gets a working prototype.
+
+502
+00:46:29,000 --> 00:46:30,000
+Everybody took off.
+
+503
+00:46:30,000 --> 00:46:31,000
+Yes.
+
+504
+00:46:31,000 --> 00:46:32,000
+We're going to free this out.
+
+505
+00:46:32,000 --> 00:46:35,000
+And then, you know, and I, I, I share the link with you.
+
+506
+00:46:35,000 --> 00:46:36,000
+I think, again, peeps.
+
+507
+00:46:36,000 --> 00:46:39,000
+Well, we have probably that's right up with all the technical details.
+
+508
+00:46:39,000 --> 00:46:45,000
+And he's come on the show to share his story of the, everything in the Riley link and everything.
+
+509
+00:46:45,000 --> 00:46:46,000
+Yeah.
+
+510
+00:46:46,000 --> 00:46:47,000
+Yeah.
+
+511
+00:46:47,000 --> 00:46:48,000
+I mean, so much he was doing the writing.
+
+512
+00:46:48,000 --> 00:46:50,000
+Like he understood the radio part.
+
+513
+00:46:50,000 --> 00:46:53,000
+And so he was like, okay, I get it once we can figure out what the,
+
+514
+00:46:53,000 --> 00:46:57,000
+communication with a pod looks like.
+
+515
+00:46:57,000 --> 00:46:58,000
+I can send the chat.
+
+516
+00:46:58,000 --> 00:47:01,000
+But we had to figure out how to talk to a pod.
+
+517
+00:47:01,000 --> 00:47:05,000
+And that is a, again, you know, I hope you'll share the link for anybody who's really interested.
+
+518
+00:47:05,000 --> 00:47:07,000
+But it involved.
+
+519
+00:47:07,000 --> 00:47:08,000
+Sure.
+
+520
+00:47:08,000 --> 00:47:11,000
+Electron microscopes and involved.
+
+521
+00:47:11,000 --> 00:47:14,000
+I believe the Royal College outside of London.
+
+522
+00:47:14,000 --> 00:47:16,000
+It involved in the A's.
+
+523
+00:47:16,000 --> 00:47:20,000
+It involved a retired programmer from California.
+
+524
+00:47:20,000 --> 00:47:25,000
+Who's passion is reverse engineering, old electronics equipment.
+
+525
+00:47:25,000 --> 00:47:28,000
+And sniffing out how those things talk and work.
+
+526
+00:47:28,000 --> 00:47:34,000
+He actually, I believe volunteers are the docent as like the California computer museum.
+
+527
+00:47:34,000 --> 00:47:40,000
+All of these random connections and people who are like, you know, we're not really part of the diabetes world.
+
+528
+00:47:40,000 --> 00:47:45,000
+But this sounds like a fun challenge and let's break in.
+
+529
+00:47:46,000 --> 00:47:51,000
+And so we did and Thanksgiving 2018.
+
+530
+00:47:51,000 --> 00:47:56,000
+People had been testing off and on and I actually, again,
+
+531
+00:47:56,000 --> 00:48:00,000
+Katie D. Simone had figured out some of the antenna problems.
+
+532
+00:48:00,000 --> 00:48:06,000
+The, the, the length of the antenna that was in the original Riley was such,
+
+533
+00:48:06,000 --> 00:48:08,000
+and this is not a radio expert.
+
+534
+00:48:08,000 --> 00:48:10,000
+So forgive me if I get this wrong.
+
+535
+00:48:10,000 --> 00:48:12,000
+The length of the antenna.
+
+536
+00:48:12,000 --> 00:48:18,000
+And I think it's not a fire in the original Riley did not create a really good connection to omnipods.
+
+537
+00:48:18,000 --> 00:48:22,000
+And so we were going through omnipot failures like mad.
+
+538
+00:48:22,000 --> 00:48:27,000
+Because when that communication failed, it not only didn't send a message,
+
+539
+00:48:27,000 --> 00:48:32,000
+but the pot itself would say something's gone wrong and blow itself up.
+
+540
+00:48:32,000 --> 00:48:36,000
+You know, omnipot users will know you basically create screamers.
+
+541
+00:48:36,000 --> 00:48:39,000
+And oh yeah, I know a screamer.
+
+542
+00:48:40,000 --> 00:48:44,000
+And so you, we were going through these things at a insane rate.
+
+543
+00:48:44,000 --> 00:48:46,000
+And again, Katie.
+
+544
+00:48:46,000 --> 00:48:47,000
+Pete and figured it out.
+
+545
+00:48:47,000 --> 00:48:50,000
+Katie started doing the hardware piece all came together.
+
+546
+00:48:50,000 --> 00:48:54,000
+I put it on Carson in in Thanksgiving of 2018.
+
+547
+00:48:54,000 --> 00:48:58,000
+And we immediately did the smartest thing we could do,
+
+548
+00:48:58,000 --> 00:49:01,000
+which was packed everybody on a car drive to another city.
+
+549
+00:49:01,000 --> 00:49:04,000
+And he's all the worst holiday food you could think of including pizza and all the other things.
+
+550
+00:49:04,000 --> 00:49:08,000
+I mean, I started my whole journey started with the Riley link.
+
+551
+00:49:08,000 --> 00:49:13,000
+Well, like my first pump ever was the omnipod arrows six months after I was diagnosed.
+
+552
+00:49:13,000 --> 00:49:16,000
+And after a month, I got right on to loop.
+
+553
+00:49:16,000 --> 00:49:18,000
+And I had to carry around this Riley link.
+
+554
+00:49:18,000 --> 00:49:22,000
+Right little orange air pods, pro case size.
+
+555
+00:49:22,000 --> 00:49:27,000
+And I always had to carry that around in order for my devices to talk to my phone.
+
+556
+00:49:27,000 --> 00:49:32,000
+And I believe it was I don't know, maybe two and a half, three years ago,
+
+557
+00:49:32,000 --> 00:49:36,000
+that they cracked it so that you didn't need to Riley link anymore.
+
+558
+00:49:36,000 --> 00:49:39,000
+And that they were able to speak directly to an omnipod dash.
+
+559
+00:49:39,000 --> 00:49:42,000
+You know, my hopes are that omnipod dash will be around forever,
+
+560
+00:49:42,000 --> 00:49:44,000
+but the case is it won't.
+
+561
+00:49:44,000 --> 00:49:46,000
+It will one day go away.
+
+562
+00:49:46,000 --> 00:49:52,000
+And I hope hopefully not anytime soon, because I personally and many other people can't afford that to happen.
+
+563
+00:49:52,000 --> 00:49:55,000
+But, you know, then the next case would be like,
+
+564
+00:49:55,000 --> 00:49:58,000
+all right, well, how do we get these omnipod fives to communicate?
+
+565
+00:49:58,000 --> 00:50:00,000
+Because they're built differently.
+
+566
+00:50:00,000 --> 00:50:03,000
+So that I don't want to think about that though.
+
+567
+00:50:03,000 --> 00:50:08,000
+No, and that's, that's also one of the inherent things that keep this process.
+
+568
+00:50:08,000 --> 00:50:10,000
+Keep this project.
+
+569
+00:50:10,000 --> 00:50:16,000
+Moving is that what we get released in the US is different from what's released in Canada
+
+570
+00:50:16,000 --> 00:50:21,000
+is different from what's released in Romania or Australia or Brazil.
+
+571
+00:50:21,000 --> 00:50:27,000
+The night scout Brazil group for a long time was massive and active.
+
+572
+00:50:27,000 --> 00:50:30,000
+Because the access to the equipment was different,
+
+573
+00:50:30,000 --> 00:50:36,000
+and they weren't getting share and some of these other in remote monitoring options.
+
+574
+00:50:36,000 --> 00:50:39,000
+And so what does it look like in the future?
+
+575
+00:50:39,000 --> 00:50:45,000
+I don't know, maybe you know, maybe you'll be buying black market omnipod vives from,
+
+576
+00:50:45,000 --> 00:50:48,000
+you know, pick your country.
+
+577
+00:50:48,000 --> 00:50:49,000
+Yeah.
+
+578
+00:50:49,000 --> 00:50:54,000
+Well, and what you're saying, that's another reason why it is so important that night scout foundation
+
+579
+00:50:54,000 --> 00:50:58,000
+and all of these DIY abilities are available
+
+580
+00:50:58,000 --> 00:51:04,000
+because other people aren't always getting access to the devices we have here in the US.
+
+581
+00:51:04,000 --> 00:51:13,000
+So by creating these back doors to access a multitude of devices to get the best out there.
+
+582
+00:51:13,000 --> 00:51:16,000
+That opens access to everyone around the world.
+
+583
+00:51:16,000 --> 00:51:21,000
+And there are even devices like the meow meow, which is this device they're using all over India
+
+584
+00:51:21,000 --> 00:51:28,000
+and Latin America and beyond where you put like you put it on top of a libre one.
+
+585
+00:51:28,000 --> 00:51:31,000
+And it's constantly scanning it and sending it to your phone.
+
+586
+00:51:31,000 --> 00:51:34,000
+So you don't have to scan it yourself and allowing for automated insulin.
+
+587
+00:51:34,000 --> 00:51:44,000
+Like, unfortunately, we have all in our own ways had to not wait and do it ourselves
+
+588
+00:51:44,000 --> 00:51:50,000
+because companies don't always have the incentive to bring the latest and greatest.
+
+589
+00:51:50,000 --> 00:51:54,000
+They don't have the incentive to bring the latest and greatest to everyone.
+
+590
+00:51:54,000 --> 00:52:03,000
+So people like you and everyone else involved are able to create these systems that are open source that people could say,
+
+591
+00:52:03,000 --> 00:52:08,000
+Oh, well, you know, why don't I look at the tech that's available where I live.
+
+592
+00:52:08,000 --> 00:52:13,000
+How can I implement these open source platforms on a device like the Libre one?
+
+593
+00:52:13,000 --> 00:52:16,000
+And now that's being used for automated insulin.
+
+594
+00:52:16,000 --> 00:52:23,000
+So this work goes so far beyond the work that's already been done on the device.
+
+595
+00:52:23,000 --> 00:52:28,000
+And using it with the latest G7 and nominee pod dash, which is what I'm doing.
+
+596
+00:52:28,000 --> 00:52:33,000
+Like this is going, these software is being used in so many different ways.
+
+597
+00:52:33,000 --> 00:52:35,000
+It is.
+
+598
+00:52:35,000 --> 00:52:39,000
+And I can't foresee any future where it isn't.
+
+599
+00:52:39,000 --> 00:52:44,000
+Like you said, the state of healthcare throughout the world is dramatically different.
+
+600
+00:52:44,000 --> 00:52:54,000
+You know, I know there are devices in the EU, you know, some of the smaller pod style, right, the tubeless style.
+
+601
+00:52:54,000 --> 00:52:59,000
+There are other devices out there that are doing really cool things have good form factors.
+
+602
+00:52:59,000 --> 00:53:04,000
+And while we have a pod, you know, I won't say that I haven't looked at them.
+
+603
+00:53:04,000 --> 00:53:07,000
+That's kind of cool. That's kind of small.
+
+604
+00:53:07,000 --> 00:53:13,000
+You know, there's just going to be technology in different regulations and allow things to be put in different places.
+
+605
+00:53:13,000 --> 00:53:16,000
+Above and beyond the financial incentives.
+
+606
+00:53:16,000 --> 00:53:21,000
+And then I think, again, we talked a little bit about the personal choice and data and who controls that.
+
+607
+00:53:21,000 --> 00:53:26,000
+There will also be a need for people who want to dial this in.
+
+608
+00:53:26,000 --> 00:53:31,000
+You know, I am a massive fan of the of the work that beta has done.
+
+609
+00:53:31,000 --> 00:53:39,000
+And you know, having, you know, when everybody, you know, years ago thought was going to be the magical insulin,
+
+610
+00:53:39,000 --> 00:53:46,000
+AID device with with the isolate, you know, act, we, we bought into his the stock program again.
+
+611
+00:53:46,000 --> 00:53:49,000
+We tried to, okay, we want this, we want this to happen.
+
+612
+00:53:49,000 --> 00:53:55,000
+But because he's trying to satisfy a market demand, because he's trying to get through the FDA regulations, right?
+
+613
+00:53:55,000 --> 00:54:00,000
+The, the guardrails in the use case have to be both broad and narrow.
+
+614
+00:54:00,000 --> 00:54:04,000
+Yeah, it's, it's got to be, the guardrails have to be really broad.
+
+615
+00:54:04,000 --> 00:54:07,000
+You're going to give this out through the county health provider.
+
+616
+00:54:07,000 --> 00:54:10,000
+You're going to give this out through various insurance providers.
+
+617
+00:54:10,000 --> 00:54:13,000
+You've got to make it as idiot proof as possible.
+
+618
+00:54:13,000 --> 00:54:20,000
+I think there will always be a market and a demand for these devices that allow you to DIY dial in.
+
+619
+00:54:20,000 --> 00:54:25,000
+Really manage your data and your insulin and everything else about it for you.
+
+620
+00:54:25,000 --> 00:54:33,000
+And there will always be a market for, hey, we just want to make this better for people who are tired of thinking about it 24 hours a day.
+
+621
+00:54:33,000 --> 00:54:38,000
+Well, the, the night scout foundation just turned 10 years old.
+
+622
+00:54:38,000 --> 00:54:40,000
+That's amazing.
+
+623
+00:54:40,000 --> 00:54:43,000
+Why did you start the foundation?
+
+624
+00:54:43,000 --> 00:54:46,000
+What was kind of the, the reasoning behind that?
+
+625
+00:54:46,000 --> 00:54:51,000
+Um, really we talked about three things when we, when we started growing this thing up, right?
+
+626
+00:54:51,000 --> 00:54:54,000
+And there were, there were legitimately good concerns.
+
+627
+00:54:54,000 --> 00:55:01,000
+Are we going to be individually named for contributing to this work, being involved in this work?
+
+628
+00:55:01,000 --> 00:55:06,000
+I mean, I'm putting things on YouTube telling people how to hack into their DexCon device.
+
+629
+00:55:06,000 --> 00:55:09,000
+And I use the word hack there pretty, pretty loosely.
+
+630
+00:55:09,000 --> 00:55:12,000
+I don't think we really did much hacking on that side.
+
+631
+00:55:12,000 --> 00:55:14,000
+But there was some, there were some legal concerns.
+
+632
+00:55:14,000 --> 00:55:21,000
+There was also this idea of people who, who had made progress.
+
+633
+00:55:21,000 --> 00:55:23,000
+Had gotten this thing up and running.
+
+634
+00:55:23,000 --> 00:55:25,000
+And we're like, hey, how can we help?
+
+635
+00:55:25,000 --> 00:55:26,000
+We're not programmers.
+
+636
+00:55:26,000 --> 00:55:27,000
+We're not developers.
+
+637
+00:55:27,000 --> 00:55:28,000
+We're parents.
+
+638
+00:55:28,000 --> 00:55:29,000
+We're, whatever.
+
+639
+00:55:29,000 --> 00:55:30,000
+We're part of this community.
+
+640
+00:55:30,000 --> 00:55:32,000
+But we want to be able to give back.
+
+641
+00:55:32,000 --> 00:55:37,000
+And so we're like, well, how do you take, you know, a 50 dollar donation and spread it out amongst 72 people?
+
+642
+00:55:37,000 --> 00:55:39,000
+That doesn't, that doesn't make a lot of sense.
+
+643
+00:55:39,000 --> 00:55:40,000
+Um, you know, a tip jar.
+
+644
+00:55:40,000 --> 00:55:43,000
+How do you do a tip jar for a community?
+
+645
+00:55:43,000 --> 00:55:45,000
+Doesn't work there.
+
+646
+00:55:45,000 --> 00:55:48,000
+Um, and then some of the things that we were looking at even back then,
+
+647
+00:55:48,000 --> 00:55:52,000
+we were starting to run into one offer from the community.
+
+648
+00:55:52,000 --> 00:55:53,000
+You know, pebble.
+
+649
+00:55:53,000 --> 00:55:55,000
+Hey, we want to,
+
+650
+00:55:56,000 --> 00:56:01,000
+a range and work with you guys for a discount on our watches because we think what you're doing is really cool.
+
+651
+00:56:01,000 --> 00:56:06,000
+But it would be really great if you had like a legal entity that we could write this off to.
+
+652
+00:56:06,000 --> 00:56:08,000
+Okay, sure, interesting.
+
+653
+00:56:08,000 --> 00:56:09,000
+Uh, the same problem.
+
+654
+00:56:09,000 --> 00:56:14,000
+Anytime we looked at something like Microsoft Azure or even now, now people use AWS.
+
+655
+00:56:14,000 --> 00:56:21,000
+Any of these massive systems that we wanted to leverage and go, hey, these are low cost, but they're not no cost.
+
+656
+00:56:21,000 --> 00:56:24,000
+Can we figure out where to get that donated to the community?
+
+657
+00:56:24,000 --> 00:56:27,000
+Every one of those companies like, hey, this is great.
+
+658
+00:56:27,000 --> 00:56:32,000
+We think this is really cool, but we don't donate to seven people on the internet.
+
+659
+00:56:32,000 --> 00:56:34,000
+That's not how this works.
+
+660
+00:56:34,000 --> 00:56:35,000
+Yeah.
+
+661
+00:56:35,000 --> 00:56:40,000
+Um, and so I started looking around and again, I was, I was not really on the development side and I started,
+
+662
+00:56:40,000 --> 00:56:42,000
+but I was talking with Jason and Ben and Lionel.
+
+663
+00:56:42,000 --> 00:56:45,000
+It's like, hey, we should do something about this and they were like,
+
+664
+00:56:45,000 --> 00:56:51,000
+Yeah, that sounds really interesting, but let me get out this next bug fix because that's important and that's now.
+
+665
+00:56:51,000 --> 00:56:57,000
+And I was like, okay, that's not where I can contribute, but I can fill up paperwork.
+
+666
+00:56:57,000 --> 00:57:01,000
+And I can make phone calls and I have a friend who runs a nonprofit that I can ask.
+
+667
+00:57:01,000 --> 00:57:06,000
+And I emailed, you know, the original board of directors and said, hey, I'm going to submit this paperwork.
+
+668
+00:57:06,000 --> 00:57:10,000
+And right now I'm planning to put your name on it unless you object.
+
+669
+00:57:10,000 --> 00:57:14,000
+And a few people did like, hey, I've got connections in this world.
+
+670
+00:57:14,000 --> 00:57:17,000
+You know, I don't want to be straddling the fence.
+
+671
+00:57:17,000 --> 00:57:21,000
+I need to put some, you know, an air gap between me and this work.
+
+672
+00:57:21,000 --> 00:57:25,000
+But, but by and large everybody's like, yeah, that, that work.
+
+673
+00:57:25,000 --> 00:57:33,000
+You know, we sent people, we had people, hey, I've got this thing I want to see at the ATDD conference in Amsterdam.
+
+674
+00:57:33,000 --> 00:57:35,000
+Can you help subsidize?
+
+675
+00:57:35,000 --> 00:57:40,000
+And so when we put those sorts of things together now, it's really people like, hey, I've got this idea.
+
+676
+00:57:40,000 --> 00:57:43,000
+There's something I want to see, there's something I want to contribute.
+
+677
+00:57:43,000 --> 00:57:47,000
+I want to improve whatever kind of foundation help me out.
+
+678
+00:57:47,000 --> 00:57:49,000
+And we have a conversation behind the scenes.
+
+679
+00:57:49,000 --> 00:57:53,000
+And we honestly, we look at what people have brought to the table, right?
+
+680
+00:57:53,000 --> 00:57:55,000
+These are not.
+
+681
+00:57:55,000 --> 00:58:00,000
+You can't message me out of the blue and say, hey, can I get five grand to go to a conference in Amsterdam?
+
+682
+00:58:00,000 --> 00:58:02,000
+No.
+
+683
+00:58:02,000 --> 00:58:08,000
+But you've been involved with this community for work and have a track record of helping.
+
+684
+00:58:08,000 --> 00:58:12,000
+And you need some portion of that to cover hotels or to cover training.
+
+685
+00:58:12,000 --> 00:58:15,000
+Whatever that we can do, right?
+
+686
+00:58:15,000 --> 00:58:18,000
+Nobody is, nobody is getting a free trip to Amsterdam.
+
+687
+00:58:18,000 --> 00:58:21,000
+I had some people ask this, you know, Theresa, we helped with that.
+
+688
+00:58:21,000 --> 00:58:26,000
+We helped some of the developers like Tim and things that we like, yeah, we'll cover an Airbnb for work.
+
+689
+00:58:26,000 --> 00:58:31,000
+You know, five people sharing an Airbnb, that doesn't feel luxurious to be.
+
+690
+00:58:31,000 --> 00:58:33,000
+Yeah.
+
+691
+00:58:33,000 --> 00:58:36,000
+It gave them the ability to get there.
+
+692
+00:58:36,000 --> 00:58:45,000
+And they were able to all meet up at ATTD and share information and continue this legacy that is so important.
+
+693
+00:58:45,000 --> 00:58:50,000
+And so it's, you know, it's great that you're still supporting people like that to be able to.
+
+694
+00:58:50,000 --> 00:58:56,000
+Go and give, give these ideas to everyone and share and build, you know.
+
+695
+00:58:56,000 --> 00:58:59,000
+To me now the foundation is enablement.
+
+696
+00:58:59,000 --> 00:59:05,000
+Can we enable the next idea, the next breakthrough, the next conversation?
+
+697
+00:59:05,000 --> 00:59:12,000
+And so anytime somebody comes to us with those sorts of things and it's like, yeah, that sounds interesting or that sounds.
+
+698
+00:59:12,000 --> 00:59:13,000
+Yes.
+
+699
+00:59:13,000 --> 00:59:19,000
+And so, you know, I would absolutely encourage if you've got something you've been part of this community or you want to go and visit.
+
+700
+00:59:19,000 --> 00:59:22,000
+You know, I know Amy's doing this stuff in Chicago this summer.
+
+701
+00:59:22,000 --> 00:59:28,000
+You're in that neighborhood and you want to learn more because you've got a great idea, reach out to us.
+
+702
+00:59:29,000 --> 00:59:37,000
+And let's see how we can get you access to deliver on your great ideas to help this community.
+
+703
+00:59:37,000 --> 00:59:43,000
+Yeah, I will actually be at that D data at ADA in June in Chicago.
+
+704
+00:59:43,000 --> 00:59:47,000
+That's run by Amy and Amy was just on the show a few weeks ago.
+
+705
+00:59:47,000 --> 00:59:57,000
+So it's so cool to hear all these different sides and perspectives from these early days where she was out reporting on all the tech and asking for more than you had people like you.
+
+706
+00:59:57,000 --> 01:00:05,000
+That were deep in getting this stuff to work and helping people get on it.
+
+707
+01:00:05,000 --> 01:00:09,000
+And then Pete coming on the show that talking about all the tech behind it.
+
+708
+01:00:09,000 --> 01:00:16,000
+So I'm kind of building this whole catalog of what's going on and what happened in the DIY space.
+
+709
+01:00:16,000 --> 01:00:19,000
+I'm also talking about stuff now like trio and loop.
+
+710
+01:00:19,000 --> 01:00:24,000
+But there's such an incredible story that happened here and we're getting a taste of it today.
+
+711
+01:00:24,000 --> 01:00:28,000
+And I encourage everyone to go listen to those other episodes too to hear more.
+
+712
+01:00:28,000 --> 01:00:32,000
+Just this this community.
+
+713
+01:00:32,000 --> 01:00:36,000
+It's, you know, the people you've talked to.
+
+714
+01:00:36,000 --> 01:00:40,000
+I'm always like I'm flattered and a little embarrassed to be listed with them.
+
+715
+01:00:40,000 --> 01:00:44,000
+But, you know, it isn't an amazing group of folks.
+
+716
+01:00:44,000 --> 01:00:53,000
+So, you know, yeah, if you're listening to this by all means, please go listen to what Amy and Pete and some of these other folks have have brought to this table because it's.
+
+717
+01:00:53,000 --> 01:00:57,000
+It's, it's nothing, it's nothing sort of heroic.
+
+718
+01:00:57,000 --> 01:00:59,000
+Well, James, thank you so much for coming on the show.
+
+719
+01:00:59,000 --> 01:01:09,000
+This was so fascinating to hear and I'm glad that we got to hear your side of the story and and everyone can go and listen to those other episodes and get the other side of the story in the show notes.
+
+720
+01:01:09,000 --> 01:01:18,000
+And yeah, I hope that people can hear this and also if they have something that they're working on and they want to, you know.
+
+721
+01:01:18,000 --> 01:01:21,000
+Get the word out or get involved in some way.
+
+722
+01:01:21,000 --> 01:01:30,000
+How can they reach out to the night scout foundation and kind of in, you know, see what you can do together, I guess.
+
+723
+01:01:30,000 --> 01:01:35,000
+Yeah, I think probably the easiest night south night scout foundation.org.
+
+724
+01:01:35,000 --> 01:01:40,000
+And on that, there is an option for basically soliciting for support.
+
+725
+01:01:40,000 --> 01:01:44,000
+And it's a little short form. Hey, who are you?
+
+726
+01:01:44,000 --> 01:01:47,000
+What do you want to do and do you have a ballpark cost?
+
+727
+01:01:47,000 --> 01:01:54,000
+Well, James, thank you so much and I'm, I'm hopeful that some people reach out to you with their, their ideas.
+
+728
+01:01:54,000 --> 01:01:58,000
+I appreciate it. Justin, thanks for the advice. Good catching up.
+
+729
+01:01:58,000 --> 01:02:02,000
+What do you think of this story? What do you think of the we are not waiting community?
+
+730
+01:02:02,000 --> 01:02:15,000
+Let me know in the comments on YouTube and listen to those other episodes to get a taste of all of the different sides of these, this, this community that has worked so hard to make technology as good as it is today.
+
+731
+01:02:15,000 --> 01:02:25,000
+I want to produce maybe a five part documentary series 15 minute episode that get into all of these areas of this community.
+
+732
+01:02:25,000 --> 01:02:27,000
+What do you watch that? Do you want to hear it?
+
+733
+01:02:27,000 --> 01:02:32,000
+Let me know with the like on this video with a comment in the comments on YouTube.
+
+734
+01:02:32,000 --> 01:02:35,000
+I would love to do this. I think it would need a large budget.
+
+735
+01:02:35,000 --> 01:02:38,000
+Maybe the night scout foundation wants to to fund it.
+
+736
+01:02:38,000 --> 01:02:42,000
+And perhaps we crowdfund from all of you so we can make this happen.
+
+737
+01:02:42,000 --> 01:02:52,000
+I want it to be good. I want it to be even better than the community united documentary we did on the LA fires, which I'll also throw in the show notes because it's just a great piece that we did.
+
+738
+01:02:52,000 --> 01:03:01,000
+And yeah, I think that this story and all the facets of it and all the people deserve recognition and I'd love to put it down in like a multi part series.
+
+739
+01:03:01,000 --> 01:03:05,000
+So let me know if you want to see it in the comments. I'm Justin and I'll see you next week.
+

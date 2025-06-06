@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:04,160
+Hey, it's Justin Tech at CES in Vegas right now.
+
+2
+00:00:04,160 --> 00:00:08,480
+I'm outside the Amazon booth, I'm about to head in there because they have a bunch of products
+
+3
+00:00:08,480 --> 00:00:13,440
+on display showing off how Alexa has basically integrated everywhere now.
+
+4
+00:00:13,440 --> 00:00:15,160
+Let's go check it out.
+
+5
+00:00:15,160 --> 00:00:24,040
+2020 will be the year that your Rumi Alexa finally starts pulling their weight.
+
+6
+00:00:24,040 --> 00:00:28,000
+Alexa will help with cooking, cleaning, and even navigating from the passenger seat while
+
+7
+00:00:28,000 --> 00:00:29,520
+you run errands.
+
+8
+00:00:29,520 --> 00:00:32,040
+And now Alexa will be sharing your bed.
+
+9
+00:00:32,040 --> 00:00:33,800
+Let's go where the magic happens.
+
+10
+00:00:33,800 --> 00:00:37,840
+So right here we have a bed powered by Alexa.
+
+11
+00:00:37,840 --> 00:00:38,840
+What does that mean?
+
+12
+00:00:38,840 --> 00:00:42,920
+The Docs bed is a family owned Swedish company, 93 years old, some of the best beds in the
+
+13
+00:00:42,920 --> 00:00:43,920
+world.
+
+14
+00:00:43,920 --> 00:00:48,240
+So what we've done is we actually put an Alexa unit built into the mattress itself.
+
+15
+00:00:48,240 --> 00:00:54,120
+So it sits under the bed and uses the frame to work with the psychoacoustics of the
+
+16
+00:00:54,120 --> 00:00:55,920
+sound as in the room.
+
+17
+00:00:55,920 --> 00:01:03,480
+Safety features such as glass, breakage, baby crying, CO2 warnings, it's just the beginning
+
+18
+00:01:03,480 --> 00:01:04,480
+what you can do.
+
+19
+00:01:04,480 --> 00:01:07,320
+You're now sleeping with Alexa, don't tell your partner.
+
+20
+00:01:07,320 --> 00:01:13,040
+Okay, now I'm hungry, let's head to the kitchen.
+
+21
+00:01:13,040 --> 00:01:15,320
+Hey, welcome to the kitchen.
+
+22
+00:01:15,320 --> 00:01:17,440
+Check out this June oven right here.
+
+23
+00:01:17,440 --> 00:01:20,320
+The June smart oven has a comprehensive touch screen.
+
+24
+00:01:20,320 --> 00:01:23,400
+This enables you to scroll through the device's various options.
+
+25
+00:01:23,400 --> 00:01:27,280
+This range from standard oven functions to cooking recommendations on products that you may
+
+26
+00:01:27,280 --> 00:01:31,560
+have purchased at Whole Foods, which is owned by you guessed it, Amazon.
+
+27
+00:01:31,560 --> 00:01:33,560
+Love that for me.
+
+28
+00:01:33,560 --> 00:01:34,560
+Top.
+
+29
+00:01:34,560 --> 00:01:35,560
+Well, I made a mess.
+
+30
+00:01:35,560 --> 00:01:36,960
+Let's fix that.
+
+31
+00:01:36,960 --> 00:01:40,600
+Right over here, we have a really cool vacuum at the iRobot Roomba.
+
+32
+00:01:40,600 --> 00:01:44,120
+This one's even cooler because what it will do is, after it's a vacuum, it will come here
+
+33
+00:01:44,120 --> 00:01:48,000
+and dock and empty itself into this compartment right here.
+
+34
+00:01:48,000 --> 00:01:49,000
+It's full.
+
+35
+00:01:49,000 --> 00:01:55,000
+Just take this thing out, throw it out and put it in the new one.
+
+36
+00:01:55,000 --> 00:01:56,000
+There you go.
+
+37
+00:01:56,000 --> 00:01:57,000
+Hold on.
+
+38
+00:01:57,000 --> 00:01:58,600
+Did I just use my last vacuum bag?
+
+39
+00:01:58,600 --> 00:01:59,600
+Time to restock.
+
+40
+00:01:59,600 --> 00:02:01,960
+So what we have right here is the dash of smart shelves.
+
+41
+00:02:01,960 --> 00:02:06,640
+So what's really cool about this is that you put your products on these shelves and you scan
+
+42
+00:02:06,640 --> 00:02:12,400
+what the skew is and then the shelf knows what product it is and when it gets low, it's connected
+
+43
+00:02:12,400 --> 00:02:17,640
+to your Amazon account and it will order the product to restock.
+
+44
+00:02:17,640 --> 00:02:21,400
+So right here we have some printer paper and I guess low, it will order you some new printer
+
+45
+00:02:21,400 --> 00:02:22,400
+paper.
+
+46
+00:02:22,400 --> 00:02:26,400
+Alexa is also coming to a place they've never been before, your garage.
+
+47
+00:02:26,400 --> 00:02:31,080
+Amazon just announced a partnership with General Motors to bring Alexa to your car.
+
+48
+00:02:31,080 --> 00:02:35,560
+So we have Alexa who I shouldn't say that's allowed in the car so can you tell me what you have
+
+49
+00:02:35,560 --> 00:02:36,560
+going on today?
+
+50
+00:02:36,560 --> 00:02:41,440
+This is an integration with General Motors that will be launched in the first half of 2020 and we
+
+51
+00:02:41,440 --> 00:02:45,960
+are really focused on what helps drivers the most.
+
+52
+00:02:45,960 --> 00:02:50,200
+So I'll give you a quick demo here, we're tied into the vehicle with the push to talk
+
+53
+00:02:50,200 --> 00:03:00,960
+but it can be reassigned to Alexa and say Alexa find coffee shops in Las Vegas.
+
+54
+00:03:00,960 --> 00:03:08,400
+Alexa call the fourth one, so you're able to tap into all of your normal Alexa interactions.
+
+55
+00:03:08,400 --> 00:03:13,560
+My controller lights, I can read my oven, I can open my garage door all from using voice
+
+56
+00:03:13,560 --> 00:03:14,680
+in my car.
+
+57
+00:03:14,680 --> 00:03:19,080
+So it seems Alexa is taking over in all aspects of life and I'm okay with it.
+
+58
+00:03:19,080 --> 00:03:23,720
+Why don't you guys subscribe right down here for more CES content coming your way this week.
+
+59
+00:03:23,720 --> 00:03:28,040
+Give it a like if you enjoyed it, I'm Justin, Alexa, turn off this video.
+

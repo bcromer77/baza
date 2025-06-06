@@ -1,0 +1,360 @@
+1
+00:00:00,000 --> 00:00:10,000
+Hey guys, come on in. I want to show you iOS 13 CarPlay.
+
+2
+00:00:10,000 --> 00:00:16,000
+Oh, well hello people. Welcome to my old Fusion. Today I wanted to show you iOS 13 CarPlay
+
+3
+00:00:16,000 --> 00:00:21,000
+because it's really cool they added some new features and most importantly they added multi-tasking.
+
+4
+00:00:21,000 --> 00:00:24,000
+But before I show you that why don't you subscribe to this channel.
+
+5
+00:00:24,000 --> 00:00:27,000
+I'm a growing channel and I would love your support.
+
+6
+00:00:27,000 --> 00:00:30,000
+Anyway, iOS 13, let's do it. CarPlay, huh?
+
+7
+00:00:30,000 --> 00:00:34,000
+I just connected my phone and this is CarPlay right here.
+
+8
+00:00:34,000 --> 00:00:39,000
+So a few things that they did here, first thing is they changed the now playing button.
+
+9
+00:00:39,000 --> 00:00:41,000
+Should be more of like a play button.
+
+10
+00:00:41,000 --> 00:00:45,000
+Which I guess it makes it less like iTunes Z.
+
+11
+00:00:45,000 --> 00:00:52,000
+So we got that. Now when we go on now playing this is my Spotify account, which I really like the way they designed the Spotify
+
+12
+00:00:52,000 --> 00:00:58,000
+If you're a playlist browsing and you're library.
+
+13
+00:00:58,000 --> 00:01:01,000
+So right here, this is the tab that will take you to your apps.
+
+14
+00:01:01,000 --> 00:01:05,000
+But if you slide to the right, it will bring up the multi-tasking.
+
+15
+00:01:05,000 --> 00:01:08,000
+So right here, I'm able to see my maps and I'm able to see what's playing.
+
+16
+00:01:08,000 --> 00:01:11,000
+Right now, nothing. So let me play a song.
+
+17
+00:01:11,000 --> 00:01:17,000
+Let's play the five run playlist and I'm going to turn off the music right now.
+
+18
+00:01:17,000 --> 00:01:21,000
+But now, when I go here, you can see that Billy Isle is playing.
+
+19
+00:01:21,000 --> 00:01:27,000
+And then I have Apple Maps and a couple routes that it's asked me if I want to do it.
+
+20
+00:01:27,000 --> 00:01:32,000
+So unfortunately, you can't switch out this main map in the multi-tasking section for Google Maps.
+
+21
+00:01:32,000 --> 00:01:35,000
+It has to be Apple Maps at the moment.
+
+22
+00:01:35,000 --> 00:01:41,000
+I hope in the future that this is something that you can change because I am not a fan of Apple Maps.
+
+23
+00:01:41,000 --> 00:01:43,000
+Google Maps all the way.
+
+24
+00:01:43,000 --> 00:01:46,000
+Okay, so I really do love the multi-tasking here.
+
+25
+00:01:46,000 --> 00:01:48,000
+Let me put a destination in the map.
+
+26
+00:01:48,000 --> 00:01:54,000
+I'll put in my old work because it's not my home and you can't stop me.
+
+27
+00:01:54,000 --> 00:01:57,000
+And now that I have that, I can go back to the multi-tasking.
+
+28
+00:01:57,000 --> 00:02:02,000
+You can see my route right there and the music right there.
+
+29
+00:02:02,000 --> 00:02:05,000
+Also, when someone texts you, it's a little bit different.
+
+30
+00:02:05,000 --> 00:02:09,000
+So let me show you that actually what I'm going to do is I'm going to take the camera from you.
+
+31
+00:02:09,000 --> 00:02:10,000
+Brian, this is Brian.
+
+32
+00:02:10,000 --> 00:02:11,000
+Hi.
+
+33
+00:02:11,000 --> 00:02:12,000
+Hi.
+
+34
+00:02:12,000 --> 00:02:13,000
+And text me.
+
+35
+00:02:13,000 --> 00:02:14,000
+Oh, shit.
+
+36
+00:02:14,000 --> 00:02:15,000
+I have your phone.
+
+37
+00:02:15,000 --> 00:02:16,000
+Okay.
+
+38
+00:02:16,000 --> 00:02:17,000
+Text.
+
+39
+00:02:17,000 --> 00:02:20,000
+So watch what happens when Brian texts me.
+
+40
+00:02:20,000 --> 00:02:24,000
+They moved where the text message comes, which I kind of like.
+
+41
+00:02:24,000 --> 00:02:25,000
+There it is.
+
+42
+00:02:25,000 --> 00:02:26,000
+So the text message comes there.
+
+43
+00:02:26,000 --> 00:02:32,000
+Also, one really great thing is when I press the Siri button on my car.
+
+44
+00:02:32,000 --> 00:02:35,000
+Siri no longer takes up the whole screen.
+
+45
+00:02:35,000 --> 00:02:36,000
+It is right in the bottom.
+
+46
+00:02:36,000 --> 00:02:37,000
+Which is really nice.
+
+47
+00:02:37,000 --> 00:02:39,000
+You can still see your directions.
+
+48
+00:02:39,000 --> 00:02:42,000
+Which was a super big flaw in the last version.
+
+49
+00:02:42,000 --> 00:02:43,000
+So yeah.
+
+50
+00:02:43,000 --> 00:02:45,000
+I'm pumped about that.
+
+51
+00:02:45,000 --> 00:02:46,000
+All right.
+
+52
+00:02:46,000 --> 00:02:47,000
+Let me give you this back.
+
+53
+00:02:47,000 --> 00:02:50,000
+When did my text message say?
+
+54
+00:02:50,000 --> 00:02:51,000
+Brian Hanson said.
+
+55
+00:02:51,000 --> 00:02:52,000
+Pock you.
+
+56
+00:02:52,000 --> 00:02:53,000
+Pock you.
+
+57
+00:02:53,000 --> 00:02:54,000
+Can you reply?
+
+58
+00:02:54,000 --> 00:02:55,000
+No.
+
+59
+00:02:55,000 --> 00:02:57,000
+Oh, we got something that I didn't say.
+
+60
+00:02:57,000 --> 00:02:59,000
+This is the best feature of all.
+
+61
+00:02:59,000 --> 00:03:03,000
+So let's say I have Google Maps open on my car play.
+
+62
+00:03:03,000 --> 00:03:07,000
+If my friend takes my phone now and they want to open up Spotify and change a song.
+
+63
+00:03:07,000 --> 00:03:11,000
+If you use to have it as soon as they open that app, it would change on the dashboard.
+
+64
+00:03:11,000 --> 00:03:13,000
+Now that doesn't happen anymore.
+
+65
+00:03:13,000 --> 00:03:17,000
+I will have Google Maps still on the screen while my friend opens up Spotify.
+
+66
+00:03:17,000 --> 00:03:21,000
+So you really only can change the apps on here from this screen.
+
+67
+00:03:21,000 --> 00:03:27,000
+That is the hands down number one best feature of a iOS 13 car play.
+
+68
+00:03:27,000 --> 00:03:28,000
+And I'm super pumped about it.
+
+69
+00:03:28,000 --> 00:03:29,000
+So you should be too.
+
+70
+00:03:29,000 --> 00:03:32,000
+That's all I've got on iOS 13 car play.
+
+71
+00:03:32,000 --> 00:03:33,000
+Really excited about it.
+
+72
+00:03:33,000 --> 00:03:34,000
+It comes out in September.
+
+73
+00:03:34,000 --> 00:03:36,000
+I do have more iOS 13 videos coming out.
+
+74
+00:03:36,000 --> 00:03:37,000
+So stay tuned for that.
+
+75
+00:03:37,000 --> 00:03:38,000
+Now you do that.
+
+76
+00:03:38,000 --> 00:03:39,000
+Subscribe to this channel.
+
+77
+00:03:39,000 --> 00:03:40,000
+Which do it.
+
+78
+00:03:40,000 --> 00:03:42,000
+Also, why don't you like it if you like it.
+
+79
+00:03:42,000 --> 00:03:44,000
+Like it if you like it.
+
+80
+00:03:44,000 --> 00:03:45,000
+It makes sense.
+
+81
+00:03:45,000 --> 00:03:46,000
+It's in the word.
+
+82
+00:03:46,000 --> 00:03:47,000
+Like is in the word.
+
+83
+00:03:47,000 --> 00:03:48,000
+Like.
+
+84
+00:03:48,000 --> 00:03:49,000
+So.
+
+85
+00:03:49,000 --> 00:03:50,000
+That's.
+
+86
+00:03:50,000 --> 00:03:52,000
+That's me being smart.
+
+87
+00:03:52,000 --> 00:03:54,000
+Anyway, I'm Justin.
+
+88
+00:03:54,000 --> 00:03:55,000
+I'll take you later.
+
+89
+00:04:01,000 --> 00:04:03,000
+But I think that's honestly.
+
+90
+00:04:04,000 --> 00:04:06,000
+Back to be it.
+

@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:05,800
+And can you kind of explain to us what that early night scout set up required?
+
+2
+00:00:05,800 --> 00:00:06,800
+This was the rig.
+
+3
+00:00:06,800 --> 00:00:10,160
+That was what, because it was, yeah, to put all this stuff together, it was a night scout
+
+4
+00:00:10,160 --> 00:00:11,160
+rig.
+
+5
+00:00:11,160 --> 00:00:12,160
+I came up with this.
+
+6
+00:00:12,160 --> 00:00:16,920
+This is actually a Cabela's tackle box, foam padded, and you could cut out the foam to
+
+7
+00:00:16,920 --> 00:00:22,760
+do various things, fairly bomb proof, and then had another layer of foam in the bottom for
+
+8
+00:00:22,760 --> 00:00:23,760
+the foam.
+
+9
+00:00:23,760 --> 00:00:29,680
+So there's this whole thing, none of it moved once the lid was shut and clamped.
+
+10
+00:00:29,680 --> 00:00:33,920
+It's got worked by connecting CTM device from Dexcom, right?
+
+11
+00:00:33,920 --> 00:00:37,320
+So this is a USB on the go cable.
+
+12
+00:00:37,320 --> 00:00:43,000
+This cable was designed originally to allow you to use things like external keyboard with
+
+13
+00:00:43,000 --> 00:00:44,000
+an Android phone.
+
+14
+00:00:44,000 --> 00:00:48,879
+Android is doing some pretty cool stuff with their phone devices, and on the other end of it is
+
+15
+00:00:48,879 --> 00:00:52,160
+sort of your standard USB jack.
+
+16
+00:00:52,160 --> 00:00:57,080
+And this actually had another dongle, and I'm realizing I'm missing another piece of this puzzle.
+
+17
+00:00:57,080 --> 00:01:02,440
+I had to go from that, and it had to basically go through this dongle into an Android phone
+
+18
+00:01:02,440 --> 00:01:06,720
+or Android tablet, and it typically, that was another connection.
+
+19
+00:01:06,720 --> 00:01:12,080
+That device basically tricked the CTM into a constant download, and then every five minutes
+
+20
+00:01:12,080 --> 00:01:16,480
+it would upload that single data point to your night scout database in the cloud.
+
+21
+00:01:16,480 --> 00:01:18,640
+And so, at the bare minimum, you had it.
+
+22
+00:01:18,640 --> 00:01:22,840
+The candy bar device, and then you had, you know, and I'll just go my phone in here, you had
+
+23
+00:01:22,840 --> 00:01:24,720
+a foam plugged in.
+
+24
+00:01:24,720 --> 00:01:26,440
+I can't tell you how long we ran this.
+

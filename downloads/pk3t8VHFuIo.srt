@@ -1,0 +1,320 @@
+1
+00:00:00,000 --> 00:00:04,480
+I have to level with you.
+
+2
+00:00:04,480 --> 00:00:06,840
+The Samsung booth at CES was massive.
+
+3
+00:00:06,840 --> 00:00:11,960
+It came in around 50,000 square feet, so this video won't be covering everything.
+
+4
+00:00:11,960 --> 00:00:16,080
+Instead, let's keep on track with the future of smart homes from Samsung, which they have
+
+5
+00:00:16,080 --> 00:00:17,680
+redubbed intelligent homes.
+
+6
+00:00:17,680 --> 00:00:26,480
+Here I have Jason with Samsung.
+
+7
+00:00:26,480 --> 00:00:27,480
+What do we have back here?
+
+8
+00:00:27,480 --> 00:00:28,480
+What's up guys?
+
+9
+00:00:28,480 --> 00:00:32,759
+Right behind me, we're taking a look at Samsung's new lifestyle TV called the Sero.
+
+10
+00:00:32,759 --> 00:00:37,400
+Now we have the ability to connect a mobile device to our TV, and if we're watching a video
+
+11
+00:00:37,400 --> 00:00:42,360
+that may be better viewed in a landscape mode versus a portrait mode, I have the ability
+
+12
+00:00:42,360 --> 00:00:46,800
+to rotate my phone and then have my TV rotate along with it.
+
+13
+00:00:46,800 --> 00:00:50,640
+This is expected to launch later in 2020, and do you have any on display that we could
+
+14
+00:00:50,640 --> 00:00:51,640
+try out maybe?
+
+15
+00:00:51,640 --> 00:00:52,640
+We do.
+
+16
+00:00:52,640 --> 00:00:55,080
+We have a really cool display right behind me right here, and then behind that we've got
+
+17
+00:00:55,080 --> 00:00:58,240
+a couple more individual modular stations that we can go check out.
+
+18
+00:00:58,240 --> 00:01:02,680
+With the Sero, your friends will no longer be able to shame you for not filming an portrait mode.
+
+19
+00:01:02,680 --> 00:01:07,720
+At present, the automatic rotate function is only compatible with Galaxy devices.
+
+20
+00:01:07,720 --> 00:01:10,560
+Apple and others will need the Sero app to control the TV.
+
+21
+00:01:10,560 --> 00:01:12,520
+But think of the TikTok potential.
+
+22
+00:01:12,520 --> 00:01:13,839
+Oh, are you on TikTok?
+
+23
+00:01:13,839 --> 00:01:14,839
+Same.
+
+24
+00:01:14,839 --> 00:01:18,080
+It's just an underscored tech underscored talk, obviously.
+
+25
+00:01:18,080 --> 00:01:21,080
+That's flipping awesome.
+
+26
+00:01:21,080 --> 00:01:25,679
+Right back here, we have Rubin and Batschev giving off an awesome presentation, but this is all
+
+27
+00:01:25,679 --> 00:01:27,080
+conceptual, right?
+
+28
+00:01:27,080 --> 00:01:31,280
+This is conceptual, the Batschev is an AI-based kitchen assistant.
+
+29
+00:01:31,280 --> 00:01:35,000
+It can help you do everything from understanding what you're asking it or what you would like
+
+30
+00:01:35,000 --> 00:01:39,720
+to make, and it can access the database of what you have in the house in terms of inventory
+
+31
+00:01:39,720 --> 00:01:40,720
+of food.
+
+32
+00:01:40,720 --> 00:01:45,880
+They can do simple physical actions like setting the stove up and getting a pan out of
+
+33
+00:01:45,880 --> 00:01:49,640
+a drawer, and then it can help you prep what it is you want to make, whether it's cutting up
+
+34
+00:01:49,640 --> 00:01:53,920
+your produce or prepping the meats that you want to cook, like they say, everybody can use
+
+35
+00:01:53,920 --> 00:01:57,039
+extra set of hands in the kitchen, and that's what Batschev has.
+
+36
+00:01:57,039 --> 00:01:59,640
+Personally, I don't need that much help in the kitchen.
+
+37
+00:01:59,640 --> 00:02:03,720
+Here that voice, she cooks, but I could always use more intelligence.
+
+38
+00:02:03,720 --> 00:02:06,880
+Can you tell me a little bit about what an intelligent home is?
+
+39
+00:02:06,880 --> 00:02:11,040
+Yeah, so Samsung, we've been talking about the multi-device experience for quite some time.
+
+40
+00:02:11,040 --> 00:02:15,040
+It's a device that can act over a network, and they have the ability to communicate with
+
+41
+00:02:15,040 --> 00:02:16,040
+one another.
+
+42
+00:02:16,040 --> 00:02:20,600
+There are 150 different partners, Samsung is working with unsmarting certified devices.
+
+43
+00:02:20,600 --> 00:02:26,920
+This could be your Samsung TV and mobile device to certain manufacturers, thermostats, or door locks,
+
+44
+00:02:26,920 --> 00:02:30,800
+windowshades, everything else that could be in the house that could connect to one another, and
+
+45
+00:02:30,800 --> 00:02:36,200
+you can control from a simple device like your cell phone, or even your Samsung ULED TV.
+
+46
+00:02:36,200 --> 00:02:40,960
+Now for one of the coolest announcements from Samsung, Bolly, can you tell me about Bolly?
+
+47
+00:02:40,960 --> 00:02:45,600
+We're just going to get more intelligent than with robot personal assistance, and robots
+
+48
+00:02:45,600 --> 00:02:48,880
+that are able to help make your lifestyle, or your health a little bit better.
+
+49
+00:02:48,880 --> 00:02:55,120
+Bolly is a little ball that has the ability to move around with you or in a particular space, and
+
+50
+00:02:55,120 --> 00:02:58,200
+it gives you feedback as to what's going on in the room or take commands from you.
+
+51
+00:02:58,200 --> 00:03:00,440
+It could be literally your personal assistant.
+
+52
+00:03:00,440 --> 00:03:05,320
+If you walk past an area where maybe your dog or your kids made a little bit of a mess on the floor,
+
+53
+00:03:05,320 --> 00:03:09,079
+you can call Bolly to come over and assess the situation, and then Bolly has the ability
+
+54
+00:03:09,079 --> 00:03:14,320
+to command other smart connected devices in your home, like maybe your Samsung robot back, and
+
+55
+00:03:14,320 --> 00:03:19,000
+it can say, oh, this is a simple dirt mess, robot back, and clean it up, and Bolly can do the work
+
+56
+00:03:19,000 --> 00:03:20,000
+for you.
+
+57
+00:03:20,000 --> 00:03:23,519
+One is called Bot Air, which is a robotic air purifier.
+
+58
+00:03:23,519 --> 00:03:28,040
+Has the ability to move around, route a home, or a living space, and start filtering the air
+
+59
+00:03:28,040 --> 00:03:32,359
+until it deems it to be more breathable, or to a healthier spec.
+
+60
+00:03:32,360 --> 00:03:35,240
+And so are these also concepts, both of them?
+
+61
+00:03:35,240 --> 00:03:39,080
+These are both concepts, yes, whether or not we'll see them in 2020 is yet to be determined,
+
+62
+00:03:39,080 --> 00:03:41,760
+but I sure hope so, because they're pretty awesome.
+
+63
+00:03:41,760 --> 00:03:42,760
+Are you impressed?
+
+64
+00:03:42,760 --> 00:03:43,760
+Same time.
+
+65
+00:03:43,760 --> 00:03:47,920
+For more CES coverage, make sure you subscribe to this channel right down there, give it a like if you enjoyed
+
+66
+00:03:47,920 --> 00:03:48,920
+it.
+
+67
+00:03:48,920 --> 00:03:50,920
+I'm Justin, and I'll take you later.
+
+68
+00:03:50,920 --> 00:04:00,920
+Can I help you enjoy it?
+
+69
+00:04:00,920 --> 00:04:01,920
+No?
+
+70
+00:04:01,920 --> 00:04:02,920
+Same song.
+
+71
+00:04:02,920 --> 00:04:03,920
+Same song.
+
+72
+00:04:03,920 --> 00:04:04,920
+Same song.
+
+73
+00:04:04,920 --> 00:04:05,920
+Same song.
+
+74
+00:04:05,920 --> 00:04:06,920
+Same song.
+
+75
+00:04:06,920 --> 00:04:07,920
+Same song.
+
+76
+00:04:07,920 --> 00:04:08,920
+Same song.
+
+77
+00:04:08,920 --> 00:04:09,920
+Same song.
+
+78
+00:04:09,920 --> 00:04:10,920
+You're not addressing the song.
+
+79
+00:04:10,920 --> 00:04:11,920
+Okay.
+
+80
+00:04:11,920 --> 00:04:12,920
+Same song.
+

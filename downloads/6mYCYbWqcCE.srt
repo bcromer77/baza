@@ -1,0 +1,2396 @@
+1
+00:00:00,000 --> 00:00:11,000
+DIY Loop is one of the most powerful automated insulin delivery systems available, giving users a high level of control and customization over their diabetes management.
+
+2
+00:00:11,000 --> 00:00:18,000
+With features like overrides to adjust target ranges in insulin delivery, as well as retro-spective car adjustments,
+
+3
+00:00:18,000 --> 00:00:25,000
+Loop has helped many people with type 1 diabetes, achieve tighter glucose control, and greater confidence.
+
+4
+00:00:25,000 --> 00:00:31,000
+Welcome to the show, I'm Justin, I have type 1 diabetes, and on here I talk all things diabetes tech news and management,
+
+5
+00:00:31,000 --> 00:00:36,000
+and I have been using DIY Loop on and off for over three years now.
+
+6
+00:00:36,000 --> 00:00:37,000
+And I love it.
+
+7
+00:00:37,000 --> 00:00:43,000
+I've created countless videos on Loop Deep diving into it on YouTube, and I've also written about it on my blog.
+
+8
+00:00:43,000 --> 00:00:46,000
+I've put links to all of those in today's show notes.
+
+9
+00:00:46,000 --> 00:00:53,000
+And today, when you sign up for our bi-monthly newsletter, you'll get a DIY Loop introductory guide,
+
+10
+00:00:53,000 --> 00:00:57,000
+diving into the top features and drawbacks to consider when getting on Loop.
+
+11
+00:00:57,000 --> 00:01:00,000
+You can access that with the link in today's show notes.
+
+12
+00:01:00,000 --> 00:01:04,000
+Loop runs on an iPhone, it can also be controlled with an Apple Watch.
+
+13
+00:01:04,000 --> 00:01:07,000
+However, it is not cleared by the FDA.
+
+14
+00:01:07,000 --> 00:01:13,000
+You can't just download this on an app, and users must build the app themselves at their own risk.
+
+15
+00:01:14,000 --> 00:01:22,000
+There are detailed instructions on Loop.org, as well as a fantastic community on Facebook in the Loop Group.
+
+16
+00:01:22,000 --> 00:01:28,000
+And for my Android users out there, don't worry, there's also another system called Android APS, AAPS.
+
+17
+00:01:28,000 --> 00:01:31,000
+It's not the exact same algorithm, but it is similar.
+
+18
+00:01:31,000 --> 00:01:36,000
+It has tighter control, more customization, and I have spoken about that here on my YouTube.
+
+19
+00:01:36,000 --> 00:01:42,000
+And I also have a new episode coming out on the podcast soon with a user who is absolutely loving it.
+
+20
+00:01:42,000 --> 00:01:47,000
+And that is like 98% range at all times, so I'll let you know when that comes out.
+
+21
+00:01:47,000 --> 00:01:53,000
+Well, actually, why don't you subscribe on YouTube or subscribe on your podcast platform, so you know as soon as it comes out.
+
+22
+00:01:53,000 --> 00:02:00,000
+Today, we've got fellow T1D and Loop User Jake Giles joining me so that we can share our experiences getting on Loop,
+
+23
+00:02:00,000 --> 00:02:07,000
+the level of support or lack thereof from our doctors, and a deep dive into key features such as
+
+24
+00:02:07,000 --> 00:02:15,000
+Overrives, logging foods based on glycemic index, retroactive car adjustments, car suggestions, and a lot more.
+
+25
+00:02:15,000 --> 00:02:22,000
+Plus, we're answering your questions that you've set me on Instagram, giving you a little shout out in our Q&A section at the end.
+
+26
+00:02:22,000 --> 00:02:24,000
+So make sure you stick around for that.
+
+27
+00:02:24,000 --> 00:02:32,000
+Keep in mind that anything you hear on this podcast or content on all of my pages is not medical advice and is for educational purposes.
+
+28
+00:02:32,000 --> 00:02:36,000
+Only always consult with a physician before making changes to your healthcare.
+
+29
+00:02:36,000 --> 00:02:41,000
+Loop is experimental and not approved by the FDA or regulatory authorities.
+
+30
+00:02:41,000 --> 00:02:47,000
+You take full responsibility for building and using loop and you do so at your own risk.
+
+31
+00:02:47,000 --> 00:02:49,000
+Now for the conversation.
+
+32
+00:02:49,000 --> 00:02:51,000
+Jake, welcome back to the show.
+
+33
+00:02:51,000 --> 00:02:53,000
+It's so good to have you on again.
+
+34
+00:02:53,000 --> 00:02:54,000
+How have you been?
+
+35
+00:02:54,000 --> 00:02:56,000
+It's good to be here.
+
+36
+00:02:56,000 --> 00:02:57,000
+I've been great.
+
+37
+00:02:57,000 --> 00:03:02,000
+I'm so ready for winter to end in Chicago and today it was like 50 degrees and I feel removed.
+
+38
+00:03:02,000 --> 00:03:03,000
+That's amazing.
+
+39
+00:03:03,000 --> 00:03:04,000
+That's good for Chicago.
+
+40
+00:03:04,000 --> 00:03:05,000
+I've escaped winter.
+
+41
+00:03:05,000 --> 00:03:06,000
+I've just been traveling.
+
+42
+00:03:06,000 --> 00:03:08,000
+I'm in Medaging Columbia right now.
+
+43
+00:03:08,000 --> 00:03:11,000
+I just got back from Santa Marta, so I'm tan.
+
+44
+00:03:11,000 --> 00:03:15,000
+But yeah, my whole plan was to not not feel winter today and it's working.
+
+45
+00:03:15,000 --> 00:03:17,000
+And I go to Palm Springs next.
+
+46
+00:03:17,000 --> 00:03:18,000
+Oh gosh.
+
+47
+00:03:18,000 --> 00:03:20,000
+It's going to be gorgeous.
+
+48
+00:03:20,000 --> 00:03:22,000
+So you were on the podcast.
+
+49
+00:03:22,000 --> 00:03:23,000
+What?
+
+50
+00:03:23,000 --> 00:03:25,000
+Maybe a month ago.
+
+51
+00:03:25,000 --> 00:03:28,000
+And that episode was very different than this one.
+
+52
+00:03:28,000 --> 00:03:35,000
+That one was more talking about our kind of the relationship to being gay, coming out as having diabetes,
+
+53
+00:03:35,000 --> 00:03:39,000
+and those social experiences, relationships dating.
+
+54
+00:03:39,000 --> 00:03:43,000
+How did it feel when you listened back to that episode?
+
+55
+00:03:43,000 --> 00:03:44,000
+It felt great.
+
+56
+00:03:44,000 --> 00:03:50,000
+And honestly, the comments on your YouTube channel and just reading out everybody responded to it,
+
+57
+00:03:50,000 --> 00:03:54,000
+made me feel so satisfied with our decisions to talk about it.
+
+58
+00:03:54,000 --> 00:03:59,000
+It just reminded me that this is a valid conversation that we're not the only two people that feel this way.
+
+59
+00:03:59,000 --> 00:04:04,000
+And it also is just a moment to kind of center our experiences, especially with diabetes.
+
+60
+00:04:04,000 --> 00:04:08,000
+We don't get a lot of time to just pause and absorb how we feel about something.
+
+61
+00:04:08,000 --> 00:04:10,000
+So it was a really great way to reflect.
+
+62
+00:04:10,000 --> 00:04:11,000
+Yeah, it felt really raw.
+
+63
+00:04:11,000 --> 00:04:16,000
+I think things came out of me that I wasn't expecting even like emotion.
+
+64
+00:04:16,000 --> 00:04:23,000
+And I think it's great to have a moment to just kind of talk about the not so great parts of diabetes.
+
+65
+00:04:23,000 --> 00:04:24,000
+And how we handled them.
+
+66
+00:04:24,000 --> 00:04:27,000
+And so it was kind of cool to have that little therapy session.
+
+67
+00:04:27,000 --> 00:04:29,000
+And I hope it was helpful for people.
+
+68
+00:04:29,000 --> 00:04:30,000
+People want to go listen.
+
+69
+00:04:30,000 --> 00:04:31,000
+It came out a few months ago.
+
+70
+00:04:31,000 --> 00:04:40,000
+But today I want to talk about DIY loop and everything from both of us getting on it.
+
+71
+00:04:40,000 --> 00:04:43,000
+What kind of went into that decision making.
+
+72
+00:04:43,000 --> 00:04:45,000
+And then I guess what?
+
+73
+00:04:45,000 --> 00:04:46,000
+We've been using it.
+
+74
+00:04:46,000 --> 00:04:49,000
+I've been using it for on and off for what?
+
+75
+00:04:49,000 --> 00:04:54,000
+Three years now and you're about the same.
+
+76
+00:04:54,000 --> 00:04:56,000
+Yeah, about two and a half years now.
+
+77
+00:04:56,000 --> 00:04:57,000
+Okay.
+
+78
+00:04:57,000 --> 00:04:59,000
+And so we talked about this on the last episode.
+
+79
+00:04:59,000 --> 00:05:05,000
+But we met over like a dating app then connected on social media a few months later when I was diagnosed.
+
+80
+00:05:05,000 --> 00:05:07,000
+And then I started talking about loop.
+
+81
+00:05:07,000 --> 00:05:08,000
+I got on it.
+
+82
+00:05:08,000 --> 00:05:10,000
+And then you got interested.
+
+83
+00:05:10,000 --> 00:05:16,000
+So when did you kind of start thinking about loop?
+
+84
+00:05:16,000 --> 00:05:21,000
+And then what made you decide to start using it?
+
+85
+00:05:21,000 --> 00:05:23,000
+And you introduced me to loop.
+
+86
+00:05:23,000 --> 00:05:31,000
+So I was really excited when I discovered that there was something that could connect to a iPhone
+
+87
+00:05:31,000 --> 00:05:34,000
+without me having to use a PDF.
+
+88
+00:05:34,000 --> 00:05:39,000
+I think that was the most appealing aspect to me was not having to carry around two devices.
+
+89
+00:05:39,000 --> 00:05:44,000
+And so when I found out that loop could connect directly with Dexcom and I could do it all from my phone.
+
+90
+00:05:44,000 --> 00:05:46,000
+That's how I got interested in the concept.
+
+91
+00:05:46,000 --> 00:05:51,000
+When I realized I would have to build it myself, which we can talk about, I was a little intimidated.
+
+92
+00:05:51,000 --> 00:05:57,000
+But I think what you also showed me was that there's this huge community of people that have done this before.
+
+93
+00:05:57,000 --> 00:06:04,000
+A various ages and locations and that I wasn't alone in doing it and that made me feel confident about doing it.
+
+94
+00:06:04,000 --> 00:06:09,000
+Yeah, I myself found out about loop through my diabetes educator.
+
+95
+00:06:09,000 --> 00:06:15,000
+I did some research and I could just tell that it was something that I'd be into and want to do.
+
+96
+00:06:15,000 --> 00:06:24,000
+And also having a healthcare provider tell me about it and say that it's something I should consider.
+
+97
+00:06:24,000 --> 00:06:29,000
+I mean that gave me a lot of hope for it.
+
+98
+00:06:29,000 --> 00:06:33,000
+She couldn't get me set up on it.
+
+99
+00:06:33,000 --> 00:06:39,000
+Like, she couldn't build it. She couldn't officially recommend it and say, I am telling you to do this as your doctor, right?
+
+100
+00:06:39,000 --> 00:06:43,000
+And she said that she was like, why don't you go look at this? I think you'll like it.
+
+101
+00:06:43,000 --> 00:06:50,000
+You can build it and then if you come to me as my patient, I have no other option but to help you with it.
+
+102
+00:06:50,000 --> 00:06:53,000
+Because you are my patient and I need to make sure you're being safe.
+
+103
+00:06:53,000 --> 00:07:00,000
+So that's kind of like this beautiful environment that I had going into it, not everyone has that.
+
+104
+00:07:00,000 --> 00:07:07,000
+What was your experience getting onto it? Did you tell your doctor, hey, I heard about this DIY loop. It's not FDA cleared.
+
+105
+00:07:07,000 --> 00:07:11,000
+I'm going to do it. Can you help?
+
+106
+00:07:11,000 --> 00:07:15,000
+I mean, I love that you had that affirming experience.
+
+107
+00:07:15,000 --> 00:07:19,000
+I think we all want that when we go into an endocrinology office for any reason.
+
+108
+00:07:19,000 --> 00:07:22,000
+But yeah, my experience unfortunately was a little different.
+
+109
+00:07:23,000 --> 00:07:30,000
+I didn't have anybody recommending it per se, minus you, minus a community people who were telling me about it, not recommending it.
+
+110
+00:07:30,000 --> 00:07:37,000
+And when I eventually built it, I did talk to my doctor, my endocrinologist at the time.
+
+111
+00:07:37,000 --> 00:07:45,000
+And it was my first visit because I just moved back to Chicago and when I told him I was using it, he basically is like, well, I can't help you.
+
+112
+00:07:45,000 --> 00:07:50,000
+I can't tell you to adjust her settings. I can look at your Dexcom numbers.
+
+113
+00:07:50,000 --> 00:07:53,000
+I can tell you, we can talk about your car ratios.
+
+114
+00:07:53,000 --> 00:07:56,000
+But in terms of the settings of this app, I don't know how it works.
+
+115
+00:07:56,000 --> 00:07:58,000
+I can't really help you with it.
+
+116
+00:07:58,000 --> 00:08:01,000
+And that was really it.
+
+117
+00:08:01,000 --> 00:08:02,000
+Yes.
+
+118
+00:08:02,000 --> 00:08:05,000
+There are lots of doctors that act that way.
+
+119
+00:08:05,000 --> 00:08:10,000
+The thing is DIY loop is a very real system that many people are using.
+
+120
+00:08:10,000 --> 00:08:19,000
+And I feel like it's ignorant to it to be in that industry and not at least put some effort to understand it and get to know it.
+
+121
+00:08:19,000 --> 00:08:24,000
+But who am I to say, like, they should risk their license.
+
+122
+00:08:24,000 --> 00:08:28,000
+I don't even know what the, I don't even know what the risks are, right?
+
+123
+00:08:28,000 --> 00:08:33,000
+I don't, I don't, I mean, many people are very open about it and do help people.
+
+124
+00:08:33,000 --> 00:08:37,000
+So I feel like the risks aren't that bad.
+
+125
+00:08:37,000 --> 00:08:40,000
+But then again, you know, I'm not a doctor, right?
+
+126
+00:08:40,000 --> 00:08:46,000
+I would be really interested to hear more from endocrinologists about how they navigate that because like you said,
+
+127
+00:08:46,000 --> 00:08:48,000
+so many people are on it right now.
+
+128
+00:08:48,000 --> 00:08:54,000
+And I think especially with the integration between technology and this chronic illness,
+
+129
+00:08:54,000 --> 00:08:58,000
+they have almost a responsibility to be up to date on the technology.
+
+130
+00:08:58,000 --> 00:09:02,000
+Not necessarily recommending it or prescribing it, but they should at least know about it.
+
+131
+00:09:02,000 --> 00:09:07,000
+And they should at least be able to direct people to information that they can research on their own accord.
+
+132
+00:09:07,000 --> 00:09:13,000
+And there are services out there that help people get on loop and it can be done through telehealth.
+
+133
+00:09:13,000 --> 00:09:15,000
+I don't even know if it's always through insurance.
+
+134
+00:09:15,000 --> 00:09:20,000
+So oftentimes what happens is people who are dedicated to this.
+
+135
+00:09:20,000 --> 00:09:23,000
+They'll go and find someone who's willing to help them.
+
+136
+00:09:23,000 --> 00:09:26,000
+And the community often is very willing to help.
+
+137
+00:09:26,000 --> 00:09:31,000
+If you, if you connect, if you are kind and, and you reach out to people and you ask for help,
+
+138
+00:09:31,000 --> 00:09:36,000
+very often, you'll find someone who's like, hey, I'll take a look at this with you.
+
+139
+00:09:36,000 --> 00:09:39,000
+We can work on getting your settings together.
+
+140
+00:09:39,000 --> 00:09:40,000
+That's not the experience I had.
+
+141
+00:09:40,000 --> 00:09:47,000
+I had I luckily worked with a healthcare provider to kind of translate my settings from one system to this one.
+
+142
+00:09:47,000 --> 00:09:52,000
+But there is an incredible community which we'll probably get into a little bit.
+
+143
+00:09:52,000 --> 00:09:57,000
+What was your relationship to diabetes technology?
+
+144
+00:09:57,000 --> 00:10:01,000
+At like around the time that you were considering loop.
+
+145
+00:10:01,000 --> 00:10:05,000
+What were the, what were the last few things that you had been using?
+
+146
+00:10:05,000 --> 00:10:11,000
+Prior to loop, I was using the tandem T-Slim and desk comp G6.
+
+147
+00:10:11,000 --> 00:10:16,000
+I was finally, I finally got back on an insulin pump after taking about four years off.
+
+148
+00:10:16,000 --> 00:10:22,000
+Honestly, around the time COVID hit because I really want to make sure I had my numbers as good as I could.
+
+149
+00:10:22,000 --> 00:10:25,000
+So I could avoid getting COVID or avoid the complications from it.
+
+150
+00:10:25,000 --> 00:10:30,000
+And so that's when I got on the T-Slim and then maybe a couple years after that.
+
+151
+00:10:30,000 --> 00:10:35,000
+What I was really struggling with was just the amount of devices and things on me.
+
+152
+00:10:35,000 --> 00:10:40,000
+And I hated having something that I had to check in multiple places.
+
+153
+00:10:40,000 --> 00:10:43,000
+And the screen on the tandem, my phone screen.
+
+154
+00:10:43,000 --> 00:10:49,000
+And I realized that if I pursued loop, I could minimize the number of things I had on me.
+
+155
+00:10:49,000 --> 00:10:51,000
+So that was honestly the driver.
+
+156
+00:10:51,000 --> 00:10:56,000
+How could I make this as easy as possible so I don't have to pull multiple things out of my pocket?
+
+157
+00:10:56,000 --> 00:11:02,000
+Yeah, and at the time that you did that a few years ago, there was no tandem T-Slim app.
+
+158
+00:11:02,000 --> 00:11:06,000
+There was no mobi pump or app to control it.
+
+159
+00:11:06,000 --> 00:11:09,000
+There was no Omni-Pod iPhone app, right?
+
+160
+00:11:09,000 --> 00:11:13,000
+So this was a time when you decided I wanted less devices.
+
+161
+00:11:13,000 --> 00:11:15,000
+I want to use my phone.
+
+162
+00:11:15,000 --> 00:11:17,000
+And this was the only option for you.
+
+163
+00:11:17,000 --> 00:11:25,000
+Had there been an iPhone app at the time for your T-Slim or if you know Omni-Pod if you were going to use that one.
+
+164
+00:11:25,000 --> 00:11:31,000
+Would you have just stuck to one of those FDA cleared systems?
+
+165
+00:11:31,000 --> 00:11:33,000
+It's a really good question.
+
+166
+00:11:33,000 --> 00:11:36,000
+I honestly think that I at least would have tried them first.
+
+167
+00:11:36,000 --> 00:11:40,000
+I at least would have opted for an iPhone app for the T-Slim.
+
+168
+00:11:40,000 --> 00:11:46,000
+And if Omni-Pod 5 was ready for iPhone, I probably would have just migrated to that in the first place.
+
+169
+00:11:46,000 --> 00:11:51,000
+But without that, again, that problem of having to have multiple things in your pockets.
+
+170
+00:11:51,000 --> 00:11:56,000
+Honestly, I always think back to summer and having to wear my 5-inch and seam shorts.
+
+171
+00:11:56,000 --> 00:12:01,000
+I don't want to have all this stuff on me at all times.
+
+172
+00:12:01,000 --> 00:12:06,000
+And so maybe I would have tried it if there was more options, but there wasn't.
+
+173
+00:12:06,000 --> 00:12:07,000
+It's often the case.
+
+174
+00:12:07,000 --> 00:12:08,000
+It's funny.
+
+175
+00:12:08,000 --> 00:12:14,000
+The one thing I like about winter and having all of the coat pockets are all the diabetes supplies I can bring with me.
+
+176
+00:12:14,000 --> 00:12:18,000
+I can bring extra snacks sometimes because I have such a big pocket.
+
+177
+00:12:18,000 --> 00:12:19,000
+I'll bring an extra pod.
+
+178
+00:12:19,000 --> 00:12:24,000
+I typically don't travel around with an extra pod or a vial of insulin,
+
+179
+00:12:24,000 --> 00:12:28,000
+but if I have the luxury of a large pocket and it doesn't feel too big.
+
+180
+00:12:28,000 --> 00:12:34,000
+Because I can go check it in the coat checker with ever or at least in my friend's house, whatever.
+
+181
+00:12:34,000 --> 00:12:36,000
+Then I'll do it.
+
+182
+00:12:36,000 --> 00:12:37,000
+So that's really funny.
+
+183
+00:12:37,000 --> 00:12:41,000
+But yeah, in the summer, you want to have the least on you.
+
+184
+00:12:41,000 --> 00:12:46,000
+And as guys, we don't carry bags as often.
+
+185
+00:12:46,000 --> 00:12:52,000
+I mean, I love a fanny pack or a little thing over the shoulder bag.
+
+186
+00:12:52,000 --> 00:12:55,000
+But I also love going on a walk and not carrying things.
+
+187
+00:12:55,000 --> 00:13:01,000
+So yeah, I mean, for me also, it was a huge thing to just have the iPhone control my system.
+
+188
+00:13:01,000 --> 00:13:05,000
+And then I also was wearing the Apple Watch at the time when I first started loop.
+
+189
+00:13:05,000 --> 00:13:09,000
+And I loved that I could just not even take my phone out, but use the watch.
+
+190
+00:13:09,000 --> 00:13:13,000
+Of course, the watch is just really a controller for the iPhone app.
+
+191
+00:13:13,000 --> 00:13:16,000
+So you can't leave your phone behind and use the watch.
+
+192
+00:13:16,000 --> 00:13:21,000
+But if one community were to make that happen, it would be this community.
+
+193
+00:13:21,000 --> 00:13:23,000
+And maybe one day that will exist.
+
+194
+00:13:23,000 --> 00:13:26,000
+But for now, you have to use them together.
+
+195
+00:13:26,000 --> 00:13:32,000
+But yeah, just that ability to, and there's no other system on the market.
+
+196
+00:13:32,000 --> 00:13:34,000
+Currently, that can do that.
+
+197
+00:13:34,000 --> 00:13:35,000
+That can do that.
+
+198
+00:13:35,000 --> 00:13:39,000
+We do have the twist pump, that has an older version of loop that will have it.
+
+199
+00:13:39,000 --> 00:13:42,000
+And that's exciting.
+
+200
+00:13:42,000 --> 00:13:44,000
+Let's talk about like the research portion.
+
+201
+00:13:44,000 --> 00:13:47,000
+So like we said, you have to build this yourself.
+
+202
+00:13:47,000 --> 00:13:52,000
+What, or how did it feel when you were kind of, you went on loop docs.org.
+
+203
+00:13:52,000 --> 00:13:56,000
+That's where you go and look up all the information.
+
+204
+00:13:56,000 --> 00:13:58,000
+How did it feel as you were going through that?
+
+205
+00:13:58,000 --> 00:13:59,000
+Were you intimidated?
+
+206
+00:13:59,000 --> 00:14:01,000
+Did you understand it?
+
+207
+00:14:01,000 --> 00:14:03,000
+What was that like?
+
+208
+00:14:04,000 --> 00:14:09,000
+For me, it was like standing outside of a massive gate.
+
+209
+00:14:09,000 --> 00:14:12,000
+And just like looking up, being like, holy crap.
+
+210
+00:14:12,000 --> 00:14:13,000
+I'm about to do this.
+
+211
+00:14:13,000 --> 00:14:16,000
+I consider myself as someone who is tech savvy.
+
+212
+00:14:16,000 --> 00:14:18,000
+I work in technology.
+
+213
+00:14:18,000 --> 00:14:21,000
+And you know, I knew what something like GitHub was.
+
+214
+00:14:21,000 --> 00:14:23,000
+But I've never had to really use it myself.
+
+215
+00:14:23,000 --> 00:14:26,000
+So when I opened loop docs, I took what they said really seriously.
+
+216
+00:14:26,000 --> 00:14:30,000
+Like they, they instructed to read through things carefully because
+
+217
+00:14:30,000 --> 00:14:35,000
+it was even though we're talking about how much we enjoyed it and how excited we were about it.
+
+218
+00:14:35,000 --> 00:14:36,000
+It may not be for everyone.
+
+219
+00:14:36,000 --> 00:14:37,000
+And that's okay.
+
+220
+00:14:37,000 --> 00:14:44,000
+But you're not going to know unless you really, really through all of those pages to understand what it is and what it is not.
+
+221
+00:14:44,000 --> 00:14:49,000
+So I took it seriously almost like a student of a class.
+
+222
+00:14:49,000 --> 00:14:51,000
+Like I was like, I got a really study.
+
+223
+00:14:51,000 --> 00:14:54,000
+I got to really know what I'm doing because this is my health.
+
+224
+00:14:54,000 --> 00:14:55,000
+This is my life.
+
+225
+00:14:55,000 --> 00:14:58,000
+And I don't want to go down this road.
+
+226
+00:14:58,000 --> 00:15:03,000
+If I'm going to be putting myself in extra danger by doing that, I'm what you're really tech savvy.
+
+227
+00:15:03,000 --> 00:15:05,000
+How did you feel having to do this?
+
+228
+00:15:05,000 --> 00:15:07,000
+I was very intimidated.
+
+229
+00:15:07,000 --> 00:15:11,000
+But as I began to read through it, I also got very excited.
+
+230
+00:15:11,000 --> 00:15:13,000
+I don't read a ton.
+
+231
+00:15:13,000 --> 00:15:15,000
+I don't read as much as I would like to.
+
+232
+00:15:15,000 --> 00:15:18,000
+But it felt so cool to be reading through this site,
+
+233
+00:15:18,000 --> 00:15:24,000
+going through chapter from chapter to chapter and taking in all of this information.
+
+234
+00:15:24,000 --> 00:15:27,000
+And it's written so freaking well.
+
+235
+00:15:27,000 --> 00:15:32,000
+Like it's written in a way where they're like, we want you to be able to digest this.
+
+236
+00:15:32,000 --> 00:15:39,000
+We are going to speak in layman terms so that you can understand these big ideas.
+
+237
+00:15:39,000 --> 00:15:43,000
+They don't need to get into the nitty gritty of how the algorithm works.
+
+238
+00:15:43,000 --> 00:15:44,000
+That's very intense.
+
+239
+00:15:44,000 --> 00:15:53,000
+But they really get into it to how it works and how the settings work and building it.
+
+240
+00:15:53,000 --> 00:15:58,000
+And when it comes to the build, they lay it out.
+
+241
+00:15:58,000 --> 00:16:01,000
+The instructions very well.
+
+242
+00:16:01,000 --> 00:16:03,000
+There are two ways to build it as far as I know.
+
+243
+00:16:03,000 --> 00:16:07,000
+There's one that you can use a Mac computer and build it with X code,
+
+244
+00:16:07,000 --> 00:16:10,000
+which is the only way that I've ever done it.
+
+245
+00:16:10,000 --> 00:16:17,000
+But you could also do like a browser build a build through a web browser.
+
+246
+00:16:17,000 --> 00:16:18,000
+Have you done that?
+
+247
+00:16:18,000 --> 00:16:20,000
+What is the build that you've done?
+
+248
+00:16:20,000 --> 00:16:22,000
+Okay, tell us about that because I haven't done that.
+
+249
+00:16:22,000 --> 00:16:25,000
+What is that process like?
+
+250
+00:16:25,000 --> 00:16:27,000
+Yeah, I actually and I was the same.
+
+251
+00:16:27,000 --> 00:16:32,000
+I did the X code first and like you said the documentation is incredible.
+
+252
+00:16:32,000 --> 00:16:33,000
+It's super detailed.
+
+253
+00:16:33,000 --> 00:16:34,000
+There's screenshots.
+
+254
+00:16:34,000 --> 00:16:35,000
+There's literally lines of code.
+
+255
+00:16:35,000 --> 00:16:38,000
+You copy and paste like anybody can follow it.
+
+256
+00:16:38,000 --> 00:16:41,000
+But the benefit of the browser build and it's the exact same.
+
+257
+00:16:41,000 --> 00:16:47,000
+I should say it's still a very detailed how to tutorial on how to get the app on your phone.
+
+258
+00:16:47,000 --> 00:16:48,000
+That's the goal.
+
+259
+00:16:48,000 --> 00:16:53,000
+But the benefit of it is you don't have to install something separate on your Mac book.
+
+260
+00:16:53,000 --> 00:16:56,000
+And we do all through test flight, which you learn all about,
+
+261
+00:16:56,000 --> 00:16:58,000
+and you can install the updates there.
+
+262
+00:16:58,000 --> 00:17:00,000
+So you don't have to rebuild the app.
+
+263
+00:17:00,000 --> 00:17:03,000
+And if what we're saying doesn't make sense once people read the documentation,
+
+264
+00:17:03,000 --> 00:17:04,000
+it will.
+
+265
+00:17:04,000 --> 00:17:07,000
+But I found the browser build process easier.
+
+266
+00:17:07,000 --> 00:17:11,000
+And since doing it, I've not had to even really touch the app.
+
+267
+00:17:11,000 --> 00:17:12,000
+Which is great.
+
+268
+00:17:12,000 --> 00:17:17,000
+And the way that I've been getting looped the last few months is I have someone else's.
+
+269
+00:17:17,000 --> 00:17:21,000
+Like someone invited me to a test flight.
+
+270
+00:17:21,000 --> 00:17:26,000
+So I've been working off of someone else's loop and they keep updating it.
+
+271
+00:17:26,000 --> 00:17:34,000
+So I got to loop in a long time and thank you to that person for doing that.
+
+272
+00:17:34,000 --> 00:17:36,000
+And that does exist too.
+
+273
+00:17:36,000 --> 00:17:42,000
+But I think it's important for everyone who's starting to go through that process because
+
+274
+00:17:42,000 --> 00:17:46,000
+because anything can go wrong.
+
+275
+00:17:46,000 --> 00:17:51,000
+Like you could lose your phone and need to buy a new phone in a new country,
+
+276
+00:17:51,000 --> 00:17:52,000
+whatever.
+
+277
+00:17:52,000 --> 00:17:54,000
+And you may need to build it in that moment.
+
+278
+00:17:54,000 --> 00:17:57,000
+Because you can't get in touch with the person who's been giving it to you.
+
+279
+00:17:57,000 --> 00:18:00,000
+So while that exists and I'm doing it,
+
+280
+00:18:00,000 --> 00:18:04,000
+I know that if anything went wrong, I could go and build it.
+
+281
+00:18:04,000 --> 00:18:07,000
+But yeah, I say build it first.
+
+282
+00:18:07,000 --> 00:18:13,000
+Have you ever had like loop crash before or have or crashes?
+
+283
+00:18:13,000 --> 00:18:17,000
+I mean, but crashes like have you ever had an issue with loop where you were like,
+
+284
+00:18:17,000 --> 00:18:19,000
+Oh, this isn't working.
+
+285
+00:18:19,000 --> 00:18:20,000
+I need help.
+
+286
+00:18:20,000 --> 00:18:21,000
+There is an error.
+
+287
+00:18:21,000 --> 00:18:22,000
+Honestly.
+
+288
+00:18:22,000 --> 00:18:23,000
+No.
+
+289
+00:18:23,000 --> 00:18:25,000
+Which is crazy to think about.
+
+290
+00:18:25,000 --> 00:18:26,000
+Yeah.
+
+291
+00:18:26,000 --> 00:18:30,000
+Well, I have had a couple issues over the three years I've used it.
+
+292
+00:18:30,000 --> 00:18:31,000
+There were two times.
+
+293
+00:18:31,000 --> 00:18:33,000
+One of them.
+
+294
+00:18:33,000 --> 00:18:37,000
+What I was doing was I was filming a video for a company I was working at.
+
+295
+00:18:37,000 --> 00:18:41,000
+And I had to keep doing screen recordings on my phone.
+
+296
+00:18:41,000 --> 00:18:46,000
+And I needed the time in the corner to be the right time every time.
+
+297
+00:18:46,000 --> 00:18:50,000
+So I manually was changing the time of my phone.
+
+298
+00:18:50,000 --> 00:18:52,000
+To 10 o'clock 10 a.m.
+
+299
+00:18:52,000 --> 00:18:56,000
+Over the span of two hours that I crashed loop.
+
+300
+00:18:56,000 --> 00:19:01,000
+Because you can't be changing the time on your phone a hundred times.
+
+301
+00:19:02,000 --> 00:19:07,000
+So it crashed and this is the best part about loop though, and it's community.
+
+302
+00:19:07,000 --> 00:19:09,000
+I had this issue.
+
+303
+00:19:09,000 --> 00:19:15,000
+I go to the Facebook group looped and I type in, hey, I'm having this issue.
+
+304
+00:19:15,000 --> 00:19:20,000
+And within 30 seconds, people, multiple people are responding.
+
+305
+00:19:20,000 --> 00:19:22,000
+And saying, did you do this?
+
+306
+00:19:22,000 --> 00:19:23,000
+Did you do this?
+
+307
+00:19:23,000 --> 00:19:25,000
+Were you changing the time on your phone?
+
+308
+00:19:25,000 --> 00:19:28,000
+I was like, yes, they were like, okay, this is a common issue.
+
+309
+00:19:28,000 --> 00:19:32,000
+But when you change your time on your phone, what you shouldn't do, do this.
+
+310
+00:19:32,000 --> 00:19:38,000
+And then within 30 minutes of the 30 of the most stressful minutes, right?
+
+311
+00:19:38,000 --> 00:19:40,000
+Because I was on a shoot for work.
+
+312
+00:19:40,000 --> 00:19:42,000
+I got it.
+
+313
+00:19:42,000 --> 00:19:43,000
+I got it down.
+
+314
+00:19:43,000 --> 00:19:50,000
+And it was kind of cool because my coworker got to actually see like into the world of diabetes for a second.
+
+315
+00:19:50,000 --> 00:19:51,000
+But no, it was terrible.
+
+316
+00:19:51,000 --> 00:19:56,000
+But that's just a testament to how quick the community is.
+
+317
+00:19:56,000 --> 00:20:01,000
+And why I have no worries using this system because I know that they'll be there.
+
+318
+00:20:01,000 --> 00:20:07,000
+Also, the best thing to do is if you're in that Facebook group, there's a little search magnifying glass.
+
+319
+00:20:07,000 --> 00:20:08,000
+You can search in there.
+
+320
+00:20:08,000 --> 00:20:12,000
+The problem you're having someone's had the problem.
+
+321
+00:20:12,000 --> 00:20:14,000
+There's an answer for you.
+
+322
+00:20:14,000 --> 00:20:15,000
+Oh, right.
+
+323
+00:20:15,000 --> 00:20:19,000
+And then also just shows how stable reliable the app is.
+
+324
+00:20:19,000 --> 00:20:22,000
+That's one of the only issues you've had over the course of three years.
+
+325
+00:20:22,000 --> 00:20:23,000
+Like that's that's for.
+
+326
+00:20:23,000 --> 00:20:24,000
+Yeah.
+
+327
+00:20:24,000 --> 00:20:29,000
+And the other issue I don't even remember, it was it was like a simple little glitch or bug.
+
+328
+00:20:29,000 --> 00:20:33,000
+And someone just, you know, responded to me within a minute.
+
+329
+00:20:33,000 --> 00:20:34,000
+And it was solved.
+
+330
+00:20:34,000 --> 00:20:40,000
+And that's no more or less problems that you'd have on an FDA clear system.
+
+331
+00:20:40,000 --> 00:20:41,000
+I think.
+
+332
+00:20:41,000 --> 00:20:42,000
+You know, like, exactly.
+
+333
+00:20:42,000 --> 00:20:48,000
+I've had problems with one system where the pump wasn't connecting to my phone.
+
+334
+00:20:48,000 --> 00:20:51,000
+And I was like, well, what do I do now?
+
+335
+00:20:51,000 --> 00:20:53,000
+So yeah, it's really no different.
+
+336
+00:20:53,000 --> 00:20:56,000
+So yeah, this community's pretty amazing.
+
+337
+00:20:56,000 --> 00:20:59,000
+This episode is sponsored by OmniPod.
+
+338
+00:20:59,000 --> 00:21:05,000
+As someone with T1D and with an incredibly active lifestyle, it's important for me not to get tied up,
+
+339
+00:21:05,000 --> 00:21:08,000
+especially with tubes on my insulin pump.
+
+340
+00:21:08,000 --> 00:21:12,000
+I love to go swimming, lift weights, and play kickball with friends.
+
+341
+00:21:12,000 --> 00:21:16,000
+And with OmniPod 5, I never have to worry about tubes getting in the way.
+
+342
+00:21:16,000 --> 00:21:20,000
+Plus, not having to disconnect helps me to stay in range during all of my favorite
+
+343
+00:21:20,000 --> 00:21:21,000
+physical activities.
+
+344
+00:21:21,000 --> 00:21:23,000
+That includes 60 time too.
+
+345
+00:21:23,000 --> 00:21:28,000
+See if you're eligible for a 30 day trial by visiting OmniPod.com slash dive attack.
+
+346
+00:21:28,000 --> 00:21:32,000
+On there, you'll see full safety and risk information and trial terms.
+
+347
+00:21:32,000 --> 00:21:36,000
+That's OmniPod.com slash dive attack.
+
+348
+00:21:36,000 --> 00:21:39,000
+Let's get into the app itself.
+
+349
+00:21:39,000 --> 00:21:43,000
+And I want to start with the ways we are interacting with food.
+
+350
+00:21:43,000 --> 00:21:47,000
+Because that's, you know, one of the major things you have to manage with diabetes.
+
+351
+00:21:47,000 --> 00:21:50,000
+So let's talk about like logging food first.
+
+352
+00:21:50,000 --> 00:21:54,000
+With loop, you can log foods using different emojis.
+
+353
+00:21:54,000 --> 00:21:56,000
+There's like three main ones, right?
+
+354
+00:21:56,000 --> 00:21:58,000
+There's the lollipop, the taco, and the pizza.
+
+355
+00:21:58,000 --> 00:22:01,000
+And these are all for glycemic index.
+
+356
+00:22:01,000 --> 00:22:06,000
+The lollipop being the highest glycemic index, meaning that food that you're eating will hit you the fastest.
+
+357
+00:22:06,000 --> 00:22:08,000
+And pizza being the slowest.
+
+358
+00:22:08,000 --> 00:22:10,000
+It will be an absorption time of five hours.
+
+359
+00:22:10,000 --> 00:22:13,000
+And the algorithm gets to know this information.
+
+360
+00:22:13,000 --> 00:22:16,000
+And I think that that's what I love so much about loop.
+
+361
+00:22:17,000 --> 00:22:20,000
+Is feeding it the information of the actual food I'm eating.
+
+362
+00:22:20,000 --> 00:22:25,000
+It has more info than any other systems able to take that that's FDA cleared.
+
+363
+00:22:25,000 --> 00:22:29,000
+What has your experience been with the glycemic index ability?
+
+364
+00:22:29,000 --> 00:22:33,000
+Do you find that it works for you?
+
+365
+00:22:33,000 --> 00:22:35,000
+I definitely think it works.
+
+366
+00:22:35,000 --> 00:22:39,000
+And I also, I think it's one of those reminders for all of us.
+
+367
+00:22:39,000 --> 00:22:42,000
+You know, we're dealing with this 24 seven.
+
+368
+00:22:42,000 --> 00:22:48,000
+And certain aspects of the education that we've gotten over the time of having the illness just kind of go away.
+
+369
+00:22:48,000 --> 00:22:49,000
+Or you just forget.
+
+370
+00:22:49,000 --> 00:22:55,000
+So like having to think about the food you eat in that context of glycemic index is helpful.
+
+371
+00:22:55,000 --> 00:22:57,000
+Because it just makes you make better decisions.
+
+372
+00:22:57,000 --> 00:23:01,000
+And it also just makes you more aware of how something is going to impact you.
+
+373
+00:23:01,000 --> 00:23:09,000
+So that was one of the biggest reasons why I was so interested in using the app because of the way it integrates food.
+
+374
+00:23:09,000 --> 00:23:14,000
+Past just carb counting because carb counting it's a science, but it's also not.
+
+375
+00:23:14,000 --> 00:23:22,000
+And I think that having more pieces of data to inform how you're going to react to food that was attractive to me.
+
+376
+00:23:22,000 --> 00:23:31,000
+Yeah, I think that was a really good point that you brought up about how this feature also acts as a reminder of different foods.
+
+377
+00:23:31,000 --> 00:23:34,000
+In fact, you differently, like what are you eating?
+
+378
+00:23:34,000 --> 00:23:41,000
+And I find that not everyone is always accounting for the type of foods that they're eating.
+
+379
+00:23:41,000 --> 00:23:46,000
+And they're just they're really just simply carb counting, but carb counting is only half of the equation.
+
+380
+00:23:46,000 --> 00:23:55,000
+It's it's understand standing how foods will affect you whether you need some sort of extended bolus and loop because you're giving it this extra information.
+
+381
+00:23:55,000 --> 00:24:00,000
+It knows whether to give you a form of an extended bolus or how long these carbs are on both.
+
+382
+00:24:00,000 --> 00:24:10,000
+Which is amazing. Now you told me last time we spoke that you can also use words when you're plugging in the emoji or that area.
+
+383
+00:24:10,000 --> 00:24:18,000
+I had no idea, so you're are you doing that are you typing in words when you're logging in foods and if so why.
+
+384
+00:24:18,000 --> 00:24:28,000
+So yes, and it's again is one of those features that is especially helpful if you're trying to understand how specific foods impact your diet.
+
+385
+00:24:28,000 --> 00:24:34,000
+So I will say that I don't always use it sometimes if I'm if I'm going to eat a snack that is 15 carbs.
+
+386
+00:24:34,000 --> 00:24:38,000
+I'm not going to put exactly what it is. I'm just going to use the lollipop knowing it's going to hit me faster.
+
+387
+00:24:38,000 --> 00:24:48,000
+But I think something that people definitely could should consider using the emojis for if they ever get on loop is for sharing data with someone else, whether that be your healthcare provider or even yourself.
+
+388
+00:24:48,000 --> 00:24:56,000
+You can type in I had brown rice with coconut curry and then reference back what that did to your blood sugar.
+
+389
+00:24:56,000 --> 00:25:06,000
+It's harder to remember that exactly if you're just putting it in an emoji, especially if it's the default one and you're not going back and changing it to a rice emoji or whatever.
+
+390
+00:25:06,000 --> 00:25:15,000
+So being able to enter specific things is great for historical data and it's great for showing an educator hey, this is what I ate and this is why I skyrocketed to 300.
+
+391
+00:25:15,000 --> 00:25:20,000
+Yeah, and a lot of people who are using loop are also using night scout, which is this.
+
+392
+00:25:20,000 --> 00:25:36,000
+Yes, platform that acts as like a it's a website you at you at access on a web browser that tracks and logs all of your pump data and your CGM data and all of your entries for foods and stuff.
+
+393
+00:25:36,000 --> 00:25:52,000
+And it also acts as a conduit to different platforms whether that be display for your glucose levels like on the tidbit, which I have in the background of a lot of my episodes where I had a home and a set.
+
+394
+00:25:52,000 --> 00:26:11,000
+And then it just other apps and and and and and I think one big thing here and why I think that the food logging with words could be very interesting is the future of artificial intelligence in diabetes management and specifically L L M's learning language models.
+
+395
+00:26:12,000 --> 00:26:23,000
+AI that you speak to and say hey, what happens when I eat popcorn and if you've been logging popcorn whether it be the emoji or word.
+
+396
+00:26:23,000 --> 00:26:45,000
+The AI the L L M will be able to say hey well according to your historical data I found that every time you eat popcorn you tend to rise higher and stay higher or you know whatever it is right or what happened when I eat lasagna when I eat a time food whatever it is when I go to this restaurant.
+
+397
+00:26:45,000 --> 00:27:04,000
+And you can learn and interact with this AI and and and figure out kind of what your patterns and tendencies are because the one thing about loop that I that I wish it did differently is after 24 hours all of your carpentries disappear.
+
+398
+00:27:04,000 --> 00:27:18,000
+And then it adds it'll just add new ones and I guess I don't understand why there's no like back catalog in fact FDA cleared systems have a back catalog.
+
+399
+00:27:18,000 --> 00:27:40,000
+So so I could just be the way loop is built, but even what would even be cooler and I realized that people working on loop have day jobs, but even if there was like a loop clarity out where you can go back and well that's what nice got is, but it would be nice if it was just in that that phone, but I think that there's a lot of promise with AI when it comes with diabetes management.
+
+400
+00:27:40,000 --> 00:27:57,000
+Yeah, I love that idea, I think we've we're in that phase of AI technology integrate with diabetes where we're all trying to figure out like what is the best way to use this that is going to keep us safe but also inform us and help us make better decisions that's a great example when I first started on loop.
+
+401
+00:27:57,000 --> 00:28:11,000
+I didn't really I wasn't really using the food entry system I was just using the emojis but then when I realized like you know what I just want a little bit tighter control it was actually a diabetic educator who was like why don't you just enter all of your meals and type it out specifically and then we'll go over it together.
+
+402
+00:28:11,000 --> 00:28:21,000
+But she specifically had to tell me like take a screenshot at the end of the day because then it wipes out so it is a feature that I hope someday they they find a different way to address.
+
+403
+00:28:21,000 --> 00:28:29,000
+Yeah, even if it just you know you could create a series shortcut to open up the app go to that page take a screenshot and then there you go.
+
+404
+00:28:29,000 --> 00:28:44,000
+That's a good idea. There you go. One thing I also love about this system is the ability to retroactively adjust carb logging so that you can let the algorithm know just how many carbs you ate.
+
+405
+00:28:45,000 --> 00:29:00,000
+When this comes in clutch when I go to a restaurant I put in you know 75 grams of carbs in the food comes out and it's just like horrendous and I'm like I am not going to eat this or I'm getting nibble at this but I am not eating half of this plate.
+
+406
+00:29:00,000 --> 00:29:15,000
+But I'm like I just logged 75 grams of carbs got all of that insulin I don't want to drink a Coca-Cola to bring me up I don't want useless carbs when I I'm still going to need food.
+
+407
+00:29:15,000 --> 00:29:24,000
+Which is like the worst thing about like I feel like that happens a lot with diabetes is like so over anticipating carbs and then having to eat throw away carbs.
+
+408
+00:29:24,000 --> 00:29:39,000
+So what I'm able to do is I can go in a just hey I didn't have 75 grams I really only had 25 grams it will do it's best to bring you up and not have you go low.
+
+409
+00:29:39,000 --> 00:30:01,000
+odds are if you don't manage in some way to get some food or eat a snack in a certain period of time you probably will go low but I mean just the fact that you can do that you can adjust that and then in 15 minutes add the carbs that you're actually going to eat something like that has been amazing are you retroactively changing carbs at all.
+
+410
+00:30:01,000 --> 00:30:30,000
+Yes, I literally just did it an hour ago what happened forgot to enter this I've just giant as coffee I got from Dunkin doughnuts that has a few pumps of some sugary syrup sitting in and I saw myself going up I was like oh damn and so I got to retroactively add that and now I'm great will not too right so what you did was you went in you put in carbs and then you changed the time which you can also that's a whole other thing I mean it's all part of this the controls here though is you can go and add carbs.
+
+411
+00:30:31,000 --> 00:30:55,000
+at whatever time you want I don't know if that there there may be like a block for like how far back and how much forward you can go you can log that in and be adjusting which is just a control that when I've left loop and gone and tried other systems I didn't realize how helpful it was until I didn't have it and I was like oh wow I feel like I'm more on my own.
+
+412
+00:30:55,000 --> 00:31:10,000
+like you said at the start food is just such an important part of all of this that you would think that these apps would really optimize around it and have more features for customization and flexibility and there's some additional loop features around that but just the fact that.
+
+413
+00:31:10,000 --> 00:31:31,000
+things change when you're eating life happens I these apps need to do a better job of leaving space for those things to happen in documenting that the twist pump that has an older version of loop that's FDA cleared when that comes out that system will have the ability to retro retro actively change carbs within one hour which is.
+
+414
+00:31:31,000 --> 00:31:46,000
+fantastic and usually usually don't need more than one hour anyway what about meal recommendations so I use loop for years I stopped for maybe nine months to try out.
+
+415
+00:31:46,000 --> 00:31:57,500
+trio I APS and other systems that I came back to loop and all the sudden loop has this new feature that allows you to or that it will recommend.
+
+416
+00:31:57,500 --> 00:32:07,500
+carbs it will have the log the car blogging menu swipe up and say did you eat 15 grams of carbs or did you eat 25 grams of carbs.
+
+417
+00:32:07,500 --> 00:32:19,500
+and when I saw that I was like I don't know I don't think so that was kind of my first reaction when I saw it how have you interacted with meal recommendations.
+
+418
+00:32:19,500 --> 00:32:37,500
+to be honest not a lot and in those situations to it's it's another example of sometimes you are you don't exactly if you're to what you did for whatever reason for your carbs you either you enter 20 carbs initially and then you decided a crap and go for walk after that so that should have been.
+
+419
+00:32:37,500 --> 00:33:00,500
+but then guess what you didn't walk fast enough so you're still going high I that just doesn't happen to me enough however I still think it's a fantastic reminder because yes sometimes you do start going up a little more because you enter the carbs and wrong so yeah take that moment to ask yourself should I adjust so even if you don't use it exactly I think the fact that it is trying to like make you think about it is super helpful.
+
+420
+00:33:00,500 --> 00:33:17,500
+I think that once I got over the initial wire you doing this no I didn't need this I think that more often than not I'll agree with the recommendation the only time I won't is if I'm going to be working out soon.
+
+421
+00:33:17,500 --> 00:33:33,500
+because it doesn't know that and I think that that's important information sometimes I don't mind that I'm going up a little higher because I know I'll come down but I found that for the most part I have a good.
+
+422
+00:33:33,500 --> 00:33:51,500
+success rate with allowing not to go through confirming maybe I've gone low once from it I definitely have gone low once from it because that's why I still have a little on the ease with it but I kind of look at it with critical thinking and I'm like okay.
+
+423
+00:33:51,500 --> 00:33:57,500
+you know what yeah I probably did eat more there this is right and it's great to have that in.
+
+424
+00:33:57,500 --> 00:34:04,500
+Other systems even have their you know meal detection technology that's specifically for metronic and.
+
+425
+00:34:04,500 --> 00:34:10,500
+What about favorite foods this was also a newer feature that I've never used here but.
+
+426
+00:34:11,500 --> 00:34:37,500
+Are you using that I am I tend to have a cold brew with the chocolate milk every single morning and it's a very specific brand of chocolate milk so I I always know what it's going to do to me and I end up I saved that specifically as a favorite food there's a few other items from restaurants that are local that I've saved and I should mention that it's not a perfect science because of course there are other things that impact your your levels.
+
+427
+00:34:37,500 --> 00:35:03,500
+But it at least is a pretty damn good guess so if I enter that this 25 gram glass of cold brew chocolate milk that's what I had at nine o'clock in the morning if I'm going higher maybe there's something else that is is making that happen but that's a great baseline to start with so yes I do use it is is favorite foods are you using it because it's saving you time clicking where are you accessing those favorite foods that makes it a faster process for me it's the.
+
+428
+00:35:03,500 --> 00:35:33,300
+The favorite foods registry that when you're entering carbs that's at the bottom so like if you're going to end if I'm going to enter my chocolate milk and cold brew it's already there for me it already has the number of cards it already has the absorption time and so that's quicker to meet for me just a scroll down to that rather than entering that every and then it has the name of the food and then okay so I'm assuming what's awesome nice about that is when you go back and looked at all the food you've eaten that day you can distinctly see oh that was my breakfast because it's it's just something you can.
+
+429
+00:35:33,500 --> 00:35:51,500
+I call it morning brew so every time I scroll that automatically enters everything I can look back throughout the day and see that oh actually it was less than I thought and I don't always measure my chocolate milk so maybe sometimes there's more or less but it'll tell me earlier today you actually have more carbs and you expect it or less yeah maybe.
+
+430
+00:35:51,500 --> 00:36:06,500
+Another feature that I used to use all the time and I just haven't been using lately is the premium target so what this is there's a dedicated button to it on the phone right on the home screen also on the Apple watch app.
+
+431
+00:36:06,500 --> 00:36:19,500
+You tap that what it does is it brings your target your target range lower for one hour until you log carbs once you log carbs that range goes away you're back to normal.
+
+432
+00:36:20,500 --> 00:36:34,500
+I think I used to use it so often because of the accessibility of my watch on my wrist so I could instantly think oh I'm walking to lunch let me put this on and I think just the fact that I don't have that.
+
+433
+00:36:34,500 --> 00:36:45,500
+Control on my wrist that's why I haven't been using it because I do wish I was using it I love it what are your thoughts on it do you use it regularly or now.
+
+434
+00:36:45,500 --> 00:36:54,500
+I'm the same as you I feel like when I first got on loop I think the fact that it existed and was just readily available I did use it more.
+
+435
+00:36:54,500 --> 00:37:09,500
+But at the same time to it's it's just one of those things that either I forget to do it or I'm not exactly sure what's going to happen in between the time I set it and when I eat so in order to have more control for me I don't always turn on.
+
+436
+00:37:09,500 --> 00:37:31,500
+Well speaking of target ranges and that override there's also one of the most valuable parts of loop would be all of the controls and customization you get from overrides and there are so many reasons to use this and so many different ways to use it.
+
+437
+00:37:31,500 --> 00:37:36,500
+So I kind of want to get through all the ways yours using it and talk about the ways I'm using it.
+
+438
+00:37:36,500 --> 00:37:41,500
+Tell me about some of the overrides you have and and what you're using them for.
+
+439
+00:37:41,500 --> 00:37:54,500
+Yeah, like you said one of the best features another reason that I I wanted to migrate because of how accurate and easy it was to mirror what was happening in my real life so I would say that.
+
+440
+00:37:54,500 --> 00:38:06,500
+One of the ones I use the most is Aaron's that is like hey I'm going to be walking I'm going to be on a bus I'm going to be I'm just going to be moving more than I am what I'm at home.
+
+441
+00:38:06,500 --> 00:38:07,500
+It's so fun.
+
+442
+00:38:07,500 --> 00:38:12,500
+I don't want my blood sugar as soon as you said that I was like oh I know what you mean like I know what this is right.
+
+443
+00:38:13,500 --> 00:38:23,500
+Aaron's like everyone has their own version of what like busy looks like for them so that it's it's an extra level of peace it's a piece of mind it's like okay I know that if I have my errand setting on.
+
+444
+00:38:23,500 --> 00:38:32,500
+I'm not going to be I'm not going to go as low if I don't eat or if I do more walking than I anticipated it's really a safety blade so it is it is one of my what's it's doing.
+
+445
+00:38:32,500 --> 00:38:44,500
+So in the errands my errands override is specifically trying to get my blood sugar between one ten and one forty that range because like that is the comfortable range where I don't feel like I'm low because I'm doing too much activity.
+
+446
+00:38:44,500 --> 00:38:58,500
+But it's not going to go higher than that and therefore it's just a little bit more flexible so for that time I'm getting I think it's it's targeting one ten to one forty and that and no change in insulin delivery your insulin delivery staying the same.
+
+447
+00:38:59,500 --> 00:39:12,500
+Okay, I definitely have a couple settings that are in this that do the same thing where they change my range but they don't change my insulin delivery.
+
+448
+00:39:12,500 --> 00:39:21,500
+One of those is is something like errands I don't think it's called errands and I don't have my phone open but it's definitely just a higher target that.
+
+449
+00:39:21,500 --> 00:39:36,500
+Makes me feel more comfortable going into whatever activity I'm going into that I'm just going to be a little more strength US walking around going to the mall whatever it is another one that's similar and it may even be the same one that I use.
+
+450
+00:39:36,500 --> 00:39:54,500
+It's called it's called like bad low so what I learned from my educator was that once you have a pretty gnarly low once you go under 70 your your your your your your your liver already released all of the glucose that it had.
+
+451
+00:39:54,500 --> 00:40:15,500
+Meaning that you are much more likely to go low again because your liver is not helping you at all so because of that after I have a bad low I set my range to one ten to one forty for six hours after that and that.
+
+452
+00:40:15,500 --> 00:40:30,500
+guarantees me you know not a perfect science that I won't go low because I'm just setting a higher standard and that has been that's actually a newer thing over the last maybe year that I've been using that because I had no idea she told me about the.
+
+453
+00:40:30,500 --> 00:40:41,500
+The liver doing that I was like oh wow like I didn't know you don't have a backup supply so that's been a really key thing for me and and I like that ability to just do that.
+
+454
+00:40:41,500 --> 00:40:50,500
+Of course other systems have that ability and maybe I just help people out a little bit with being able to use their system to do that but I think what's.
+
+455
+00:40:50,500 --> 00:40:53,500
+the most exciting part of loop is not only.
+
+456
+00:40:53,500 --> 00:41:05,500
+The the ability to change your range but to change the amount of insulin that you're getting whether you want a little more insulin or a little less and I'm sure everyone listening can understand why but.
+
+457
+00:41:05,500 --> 00:41:10,500
+Let's get into do you have any overrides that that booster insulin.
+
+458
+00:41:11,500 --> 00:41:18,500
+The first one I have that I can think of and I actually I think I got this from you was it's a high override.
+
+459
+00:41:18,500 --> 00:41:36,500
+It's like if I am like stubbornly high for whatever day and reason like maybe I'm just being lazy on the couch maybe I just ate something that I did not properly count if I said the high it's giving me a 20% increase in the insulin that I'm getting for a certain amount of time I think the duration I've said for it is.
+
+460
+00:41:36,500 --> 00:41:51,500
+Four hours it might be less don't quote me on that yeah you may have gotten that from me maybe we talked about it because I have that to and and I use that when I have a stubborn high I don't put it on immediately right the stubborn high needs to stay.
+
+461
+00:41:51,500 --> 00:42:05,500
+Yeah up for at least an hour or two and once I have that I'll increase my insulin delivery by by up to 20% and have it go for about four hours typically and then I also set my range.
+
+462
+00:42:05,500 --> 00:42:16,500
+Not as low as it typically is maybe a little higher so that it safely brings me down and I find that I use this most often when I know that I won't be moving.
+
+463
+00:42:16,500 --> 00:42:27,500
+Because yes I'm unable to go on a walk and fix it myself because whenever I'm able to go on a walk and fix my level my levels myself I will because it's a much more.
+
+464
+00:42:27,500 --> 00:42:36,500
+Perhaps safe way or not safe you're just more in control I use this high override when I'm going to sleep.
+
+465
+00:42:36,500 --> 00:42:46,500
+It tends to be what I do it because I'm not going to be able to make any changes I'm not going to be able to get myself a little bullish and I will also say the thing with loop and me.
+
+466
+00:42:46,500 --> 00:42:50,500
+I rarely if never.
+
+467
+00:42:50,500 --> 00:42:51,500
+Rage bullish.
+
+468
+00:42:51,500 --> 00:42:56,500
+Rage policy isn't a thing that I ever do and maybe that's the power of loop.
+
+469
+00:42:56,500 --> 00:43:05,500
+Because I like to crazy things say I that's not to say I don't have stubborn highs but I am confident in loop.
+
+470
+00:43:05,500 --> 00:43:11,500
+That it will bring me down and I don't need to intervene in a rage and also rage.
+
+471
+00:43:11,500 --> 00:43:24,500
+I also rage bullises are very unsafe and I don't want to say it's not the right thing to do because I'm not a doctor but for me it doesn't feel like the right thing.
+
+472
+00:43:24,500 --> 00:43:26,500
+What about you do you do you?
+
+473
+00:43:26,500 --> 00:43:30,500
+Or do you do you rage bullise?
+
+474
+00:43:30,500 --> 00:43:31,500
+I did okay.
+
+475
+00:43:31,500 --> 00:43:33,500
+I used to be a big rage bulliser.
+
+476
+00:43:33,500 --> 00:43:43,500
+I think a lot of I think it's something that I'd be interested to hear more about in general from like a scientific perspective because the rage bullises are way of taking back control.
+
+477
+00:43:43,500 --> 00:43:46,500
+It's like I see these numbers going crazy.
+
+478
+00:43:46,500 --> 00:43:48,500
+I have this method in my pocket.
+
+479
+00:43:48,500 --> 00:43:59,500
+It's maybe it's an insulin pen maybe it's my pump but I have control to bring it down but like you just said we all know that can be really dangerous because if for some reason the insulin just hasn't hit yet.
+
+480
+00:43:59,500 --> 00:44:07,500
+And it does take a few hours then yeah you're going to crash and then you're in the opposite and then you find yourself in those spirals but with loop I do not have to rage bullise.
+
+481
+00:44:07,500 --> 00:44:20,500
+I probably have like entered a maybe a point to five here and there but not not because I was so high it was just because like I'm going to help this along but with the overrides and with the targets you just don't have to do it as much.
+
+482
+00:44:20,500 --> 00:44:36,500
+I think I'm the same to all all sometimes get myself anywhere from point to to one unit max and that really depends on what I'm seeing and if whether or not I even put on my high tempo for right sometimes I don't feel like I need it I just want that little boost.
+
+483
+00:44:36,500 --> 00:44:47,500
+And oftentimes I do a I do a calculation in my head of this is how much it's recommending let me add 20% whatever which is something that I picked up from my educator but that was.
+
+484
+00:44:47,500 --> 00:44:59,500
+There's more to it than that there's timing to it and everything another time that something that actually happened recently is I have an override set for when I'm sick.
+
+485
+00:44:59,500 --> 00:45:13,500
+But it's only a certain type of sickness I have found that viruses they do not affect my glucose levels unless it's like a stomach virus but that's different right like that's affecting your eating habits.
+
+486
+00:45:13,500 --> 00:45:37,500
+I overall like viruses in general have no effect on my glucose levels bacterial infections a hundred percent effect me and like time after time after time I'm like I've I can tell when I have a bacterial infection or a virus and I recently had some sort of bacterial infection my throat my levels just would not drop.
+
+487
+00:45:37,500 --> 00:45:47,500
+They were stuck they were stuck hugger covering around 180 for oh maybe four days before I finally saw doctor and got antibiotics.
+
+488
+00:45:47,500 --> 00:45:56,500
+And within like four days came down but this is not the first time like every time every time I make it COVID it's a virus no issues with blood sugar, but.
+
+489
+00:45:56,500 --> 00:46:08,500
+Yeah same bacterial it's something I find so what I did was I needed for almost two weeks total I boosted my insulin delivery by I don't know if it was like.
+
+490
+00:46:08,500 --> 00:46:15,500
+It was 15% I needed and even 15% wasn't perfect I maybe was hovering at one fifty the whole time.
+
+491
+00:46:15,500 --> 00:46:33,500
+But it was better than before do you do have a sick a sick override how do you how to use that I don't okay I don't and it's similar because I've noticed throughout my life of being diabetic and when I get sick like I don't see a massive change unless you know like if it's food related or some related that's a little bit different.
+
+492
+00:46:33,500 --> 00:46:40,500
+But otherwise yeah, I one other override I just thought of two that I definitely got from you was the drinking and dancing override.
+
+493
+00:46:40,500 --> 00:46:43,500
+Yeah, right.
+
+494
+00:46:43,500 --> 00:46:44,500
+Yeah, no that's.
+
+495
+00:46:44,500 --> 00:46:57,500
+Don't you definitely got that for me because I use little dancing girl with the dress and I mean that one's much and it's so true and the the reason that's different than errands is because alcohol's typically involved at least when I use it.
+
+496
+00:46:57,500 --> 00:47:06,500
+Yeah, so what I would do with my dance feature and I'm not sure how you're using it but I have a higher target and a lower insulin delivery.
+
+497
+00:47:06,500 --> 00:47:23,500
+I lower insulin by about 20% to account for movement and alcohol just to to lighten the the drops that you get and that's why I also have a higher target range so that if I do drop quickly I'm not dropping into the 70s or below.
+
+498
+00:47:24,500 --> 00:47:38,500
+Same I think we must I definitely got to have a YouTube video where I talk about my overrides and do a walkthrough and you 100% watch that and that's I'm glad you brought it up because people should go watch all my other loop videos and stuff that I can.
+
+499
+00:47:38,500 --> 00:47:40,500
+Row in the show notes.
+
+500
+00:47:40,500 --> 00:47:50,500
+Today's episode is sponsored by T1D Exchange you can directly make an impact on diabetes health care treatments and technology.
+
+501
+00:47:50,500 --> 00:48:04,500
+By participating in the T1D Exchange registry it starts with the simple survey about your life with T1D and it only takes about 15 minutes after that you'll have a personal portal with ongoing T1D study and survey opportunities.
+
+502
+00:48:04,500 --> 00:48:13,500
+Plus some of these studies even offer compensation signing up with the link in the show notes help support my channel and it allows me to continue putting out free content.
+
+503
+00:48:13,500 --> 00:48:21,500
+You can sign up at t1dxchange.org slash diabetic or click that link in today's show notes.
+
+504
+00:48:21,500 --> 00:48:25,500
+How are you using overrides with workouts? I mean that's huge.
+
+505
+00:48:25,500 --> 00:48:30,500
+This that is huge and to be honest it's been a journey trying to figure out which ones are.
+
+506
+00:48:30,500 --> 00:48:41,500
+The ones that work for me because for a while I was using a higher target override with like I want to say like 20 or 30% less insulin when I was lifting weights.
+
+507
+00:48:41,500 --> 00:48:54,500
+And I was kind of a journey because I realized that like all right when I'm lifting my blood sugar doesn't it doesn't really do anything it doesn't go down like I would expect from physical activity in fact it like stays up.
+
+508
+00:48:54,500 --> 00:49:02,500
+So it just was not working in the way I thought it was so I've actually I have a new override that is just strictly like all right I'm going to work out.
+
+509
+00:49:02,500 --> 00:49:09,500
+I want to have like 30% less insulin and I want my target to be in this and that has been great that is what I use every time I go to.
+
+510
+00:49:09,500 --> 00:49:12,500
+And are you also using that with weightlifting.
+
+511
+00:49:12,500 --> 00:49:17,500
+Yeah, everything it's every time I do any kind of physical activity at the gym specifically.
+
+512
+00:49:17,500 --> 00:49:33,500
+Because I think weightlifting I've heard many different things for me weightlifting not ab ab exercises different weightlifting doesn't affect my glucose levels it doesn't go up it doesn't go down but for a lot of people.
+
+513
+00:49:33,500 --> 00:49:48,500
+The cortisol release is big and that will raise your blood sugar and a lot of people who do weightlifting and maybe they're weightlifting like higher amounts you know maybe like because I'm toning a lot I'm not trying to like.
+
+514
+00:49:48,500 --> 00:50:00,500
+Do like body building as much it's more like a tone so it may may not release as much cortisol so but a lot of people do have that and I know a lot of people will use an override and increase the insulin.
+
+515
+00:50:00,500 --> 00:50:28,500
+For me though when running is involved and I think it's also important for us to say that whenever you're using these overrides they should be turned on one hour ahead of said event because insulin takes time to activate we already have insulin in our system so if you don't turn it on until right before it well there's all this insulin that just got released in your system and will activate so.
+
+516
+00:50:28,500 --> 00:50:33,500
+I never go low from running unless I turn on my override.
+
+517
+00:50:33,500 --> 00:50:44,500
+Thirty minutes or less before then I'm guaranteed to go low and I don't want to eat snacks I'm not going I'm sorry I'm not going to eat gummies before I go run what's the point of running.
+
+518
+00:50:44,500 --> 00:50:54,500
+But I mean I understand doing that but I just I hate having to combat my exercise with with gummies because it's like.
+
+519
+00:50:54,500 --> 00:50:57,500
+It erases the car loss anyway.
+
+520
+00:50:57,500 --> 00:51:03,500
+Where was I going oh yeah so when I run cardio I decreased my insulin.
+
+521
+00:51:03,500 --> 00:51:10,500
+The insulin dosage by 60 to 70% yeah an hour before that's.
+
+522
+00:51:10,500 --> 00:51:20,500
+And then my target range goes from it's typically around 90 to 100 ish I don't know the exact because I'm not holding my phone.
+
+523
+00:51:20,500 --> 00:51:31,500
+And I set it to 140 to 160 when I'm running so we're getting significantly less insulin a target that's very high and if I turn that on.
+
+524
+00:51:31,500 --> 00:51:43,500
+An hour before my run I never go low never and that also includes even if you want to snack in that hour because your system knows.
+
+525
+00:51:43,500 --> 00:51:53,500
+That your that that setting is in if you eat an apple it probably will say you don't need insulin for that or you need very little.
+
+526
+00:51:53,500 --> 00:52:01,500
+So it's accounting for that and that's also another big reason for for it right you want you want any snack to to not have an effect on.
+
+527
+00:52:01,500 --> 00:52:05,500
+On your system working out has been the number one thing for me.
+
+528
+00:52:05,500 --> 00:52:16,500
+Yeah that in one of the easiest ways to go low obviously and that's another good point to that you just maybe think of is that when you have an override on and you are entering cards like loop tells you like hey you have the system over right in place like.
+
+529
+00:52:16,500 --> 00:52:34,500
+Just think about that when you're making this decision like you probably know but that extra reminder is super well it's it will what it's doing is it's adjusting the insulin it's it's recommending right so like if I didn't have the override on it would say one unit but I have that override on it saying point zero five units because it's like.
+
+530
+00:52:35,500 --> 00:52:52,500
+Those cars will help us get to the range you want right so so that's that's just so powerful and it's something that I've missed when I've gone away from loop it's the number one thing I've missed I think that for the most part.
+
+531
+00:52:53,000 --> 00:53:03,500
+Everything else I can do without and and be happy but losing overrides and not even just overrides but losing an override for a workout.
+
+532
+00:53:03,500 --> 00:53:20,500
+Is a big must for me and it goes for going on a bike ride it goes for going on errands like any type of activity that is a speedy thing I do I try to set that override on ahead of time in it and it saves you that.
+
+533
+00:53:21,000 --> 00:53:32,500
+That drinking and dancing one two that we talked about that was that's one that I will leave on like all night like when I get home from drinking and dancing like I just leave it on because you just because you don't know how your.
+
+534
+00:53:32,500 --> 00:53:51,500
+It's just a really handy way to manage your life alongside that and I think people who are listening can understand why this system isn't FDA cleared.
+
+535
+00:53:51,500 --> 00:54:07,500
+Obviously you and I are you and so many others are using it in a very responsible manner that's allowing us to get results that are phenomenal and feel super comfortable in these activities we're doing but if used incorrectly.
+
+536
+00:54:07,500 --> 00:54:21,500
+Could easily result in a very bad hypoglycemia and potential death and has that happened I don't think so from loop and if it has it happens so little that no that it's not a thing.
+
+537
+00:54:21,500 --> 00:54:38,500
+You know it just any you know the same amount is anything else out there but this is why the FDA exists this is why loop is it cleared although like I said earlier a cleared version of loop very close to what it is now not exactly the same.
+
+538
+00:54:38,500 --> 00:54:50,500
+Is available it will be available with twist and so people who are listening we're like I don't know if I don't want to do a cleared system but I do want loop like there's something there's things about this then that could be a pump that they consider.
+
+539
+00:54:50,500 --> 00:55:01,500
+But but also I'd be remiss to not say that another reason I like using loop is because it works with omnipot and I like the forms of omnipot right.
+
+540
+00:55:02,500 --> 00:55:27,500
+Like it's just yeah I forget it's there it does never to it's comfortable and so easy to use and the best thing is like packing omnipots is so simple it's like it's this package and you don't have to worry about like boom boom boom boom yeah so I think another like the number one of the other things that are the best about loop is it's ability to work with omnipot and then.
+
+541
+00:55:27,500 --> 00:55:37,500
+seamlessly between dex comm sensors g6 or g7 I do know that the Android version a aps and a version of DIY.
+
+542
+00:55:37,500 --> 00:55:50,500
+It does allow for other cgms but I wouldn't be surprised if if loop one day you know allows for all those yeah I can't remember but yeah okay Jake before we go I did put out on instagram.
+
+543
+00:55:50,500 --> 00:56:03,500
+I asked for questions for a little Q and a segment that you and I could do at the end alright the first one I'm going to throw to you Jake it is from d Pedro 0 9 what is the best place to get started with this process.
+
+544
+00:56:03,500 --> 00:56:14,500
+I mean loop docs is the best place I think that I was I mean loop docs is the best way just to get the factual information about what you're about to do.
+
+545
+00:56:14,500 --> 00:56:30,500
+However I would also say and I was not paid to say this just in your pocket your channel is a great place to start because you talked to people who use it you talked to people who make it you talked to people who could benefit from it so even watching previous videos of.
+
+546
+00:56:30,500 --> 00:56:50,500
+I think that's a good way to start typing yourself up and preparing yourself for what you're about to do because you'll realize you're not alone you'll get excited about it too so then by the time you do start reading through that the nitty gritty of how to build it and get it on your phone you feel a little bit more confident which I think is really helpful.
+
+547
+00:56:50,500 --> 00:57:11,500
+Yeah and that's loop L-O-O-P docs D-O-C-S dot org which is where you can go to learn about it read how to build it get connected to the community and the Facebook group and like Jay said I have a ton of great resources on my page and my social media I'll put the links to like a bunch of videos in the show notes you can check those out after.
+
+548
+00:57:11,500 --> 00:57:19,500
+The next question I'll take from little cat 2021 would you suggest loop to someone as their first approach to pumps and closed loops.
+
+549
+00:57:19,500 --> 00:57:24,500
+It was mine it was my first closed loop system ever.
+
+550
+00:57:24,500 --> 00:57:30,500
+It didn't matter that I hadn't used any others you know I learned it.
+
+551
+00:57:31,500 --> 00:57:43,500
+I learned how the system worked I did my research I worked with a specialist to get my settings in and help me understand how it worked so.
+
+552
+00:57:44,500 --> 00:57:58,500
+I think that if you're going at this within the smartest way possible in a responsible way speaking working with others really trying to find a professional who can help you do it because I think that that's.
+
+553
+00:57:58,500 --> 00:58:27,500
+Was the key thing for me I don't see it being an issue go like starting with this I don't and what's the thing with loop is that it was designed to be simple to look like an app for iPhone it is it doesn't have a lot of settings it doesn't have have a lot of controls it does have more customization than other systems but they're very tangible and.
+
+554
+00:58:28,500 --> 00:58:32,500
+I think just doing the research it really lays it out well for you what what would you say Jake.
+
+555
+00:58:32,500 --> 00:58:41,500
+I think if I would have started with loop I would have been fine especially if you can start familiarizing yourself with the terms and how the app.
+
+556
+00:58:41,500 --> 00:58:48,500
+I've realized itself how it displays on your phone like starting to get to know those things I think we'll make it less intimidating.
+
+557
+00:58:48,500 --> 00:58:53,500
+This next question comes from loads of milk would you recommend for a little kid.
+
+558
+00:58:53,500 --> 00:59:08,500
+So I will first say that neither Jake and I are here medically recommending this to anyone we're just simply talking about our experiences answering your questions to help you better understand it what I will say is that many parents have.
+
+559
+00:59:09,000 --> 00:59:21,500
+built the app and are using them with their kids so if you want to connect with other people who have done that I think the community Facebook group loop is a great place to start to talk about it and and see if you're comfortable with it.
+
+560
+00:59:21,500 --> 00:59:23,500
+Children are using it.
+
+561
+00:59:23,500 --> 00:59:30,500
+But it is not FDA cleared so I can't I can't you know say that enough.
+
+562
+00:59:30,500 --> 00:59:35,500
+Next question from C Joe Anderson.
+
+563
+00:59:35,500 --> 00:59:42,500
+How does loop handle pizza Jake what do you think and you're in Chicago where the pizza's freaking thick.
+
+564
+00:59:42,500 --> 00:59:44,500
+Exactly.
+
+565
+00:59:44,500 --> 00:59:54,500
+Well I should also say two things one pizza's my favorite food two real Chicago pizza is tavern style and all Midwestern Chicago is watching this will be like yes.
+
+566
+00:59:54,500 --> 01:00:06,500
+But that's not to say I don't enjoy me some lo amount of ideas or geodonos on occasion so like we were talking about earlier you can enter specific foods with different glycemic indexes pizza has its own emoji.
+
+567
+01:00:06,500 --> 01:00:23,500
+I use that glycemic index the the the one that takes the more time for the carbs that I just anytime I eat something like pizza and so I enter the pizza I enter the cars with the amount of slices I think I'm going to eat it's usually more and I let it do what's thing and honestly.
+
+568
+01:00:23,500 --> 01:00:46,500
+I haven't had I can't remember any issues where it's I just stay too high because I eat pizza more than ever I mean I should say I have some of the best numbers of my entire life from using the system not advertising not paid to say that but pizza especially it just handles it better because it has that flexibility and knows to give you more insulin and if you know a few hours after you eat.
+
+569
+01:00:46,500 --> 01:00:56,500
+I will say pizzas pizza and no matter what system you're on pizzas the worst on blood sugar management you should eat it.
+
+570
+01:00:56,500 --> 01:01:06,500
+I eat it it's one of my favorite foods but it's just an annoying food to eat it's so high in fat and it's not a perfect science.
+
+571
+01:01:06,500 --> 01:01:28,500
+But loop does a fantastic job it does no worse than any other cleared system and I think that it does better a lot of the time is it perfect no do I get those stubborn highs yes do I have an override for that yes and that's what's really special about it right so.
+
+572
+01:01:28,500 --> 01:01:42,500
+If something does go wrong there are backup mechanisms for it but again pizza is tough and it always will be until it's not and we have tech that is even stronger.
+
+573
+01:01:42,500 --> 01:01:51,500
+We have you shun underscore cease saying can you talk about how loop other loop varieties loop AAPS trio etc.
+
+574
+01:01:51,500 --> 01:02:03,500
+I have on this channel I've got videos on trio where I'm talking to people to developers to people using it I used it myself I've got a video on YouTube explaining that.
+
+575
+01:02:03,500 --> 01:02:21,500
+AAPS I also have an interview with someone I have another one coming up with someone who's been using it for a couple months now he has like 98% in range like at all times for the most part on average whatever and he's very happy with it.
+
+576
+01:02:21,500 --> 01:02:34,500
+And I was and he wanted to talk about his experience so if you want to learn if you're an android user and you want to learn about AAPS stay tuned for that that's going to be a great conversation him and I just geeked out on our first call.
+
+577
+01:02:34,500 --> 01:02:50,500
+He had only used it for a month though so I said listen I need you to use this another month at least because he was super hyper critical looking at it all the time I was like I need you to get it to a point where you're not looking at it I need I needed to become background before we have that conversation.
+
+578
+01:02:50,500 --> 01:03:06,500
+So I'm excited for that it'll be it'll be fun and I have another one we have another one from C. Joe Anderson and Ausra T1D about the same type of question which is you know how did you find to your settings or get your settings on loop.
+
+579
+01:03:06,500 --> 01:03:24,500
+Like I said earlier I was very fortunate to work with the diabetes educator back when I first got on it she took my numbers from a non a ID system translated that and got me on it and then more recently we kind of did a refresh and she looked at everything again and we refined.
+
+580
+01:03:24,500 --> 01:03:33,500
+We refined some settings based off of a new FDA clear system that I was using prior and I will say since I did that like my settings on loop have been.
+
+581
+01:03:33,500 --> 01:03:45,500
+The nominal so fine tuning setting up settings if you can find a professional that can help you back up the communities out there but.
+
+582
+01:03:45,500 --> 01:03:55,500
+I think that you know finding a professional who's open and working with loop is the way to go Jake you've worked with some professionals right I think I connected you with one and then you found another one.
+
+583
+01:03:55,500 --> 01:04:08,500
+What is your experience been like working with professionals with refining loop like I know that the first one was to help you get on it or get your settings right but why did you choose to go to another person later.
+
+584
+01:04:09,500 --> 01:04:24,500
+Yeah for almost honestly for some of the reasons that you just mentioned that once you're on a system like loop for a while it does a great job of learning from you and you know you can stay at a certain level but if you really want to get to the next level of control or if you just kind of want to refresh yourself on.
+
+585
+01:04:24,500 --> 01:04:36,500
+How the app works and what some of these settings mean that is a good reason to seek out additional education and I actually connected with the integrated diabetes management I think they're based in the east coast.
+
+586
+01:04:36,500 --> 01:04:49,500
+That that was also really reaffirming because they had professionals who knew what the app was and they that did not exist in my under chronology office like people knew what it was but they couldn't help me find two minute.
+
+587
+01:04:49,500 --> 01:05:01,500
+I think it's just it's one of those things that if even if you're using it it's super helpful to check in with a professional who can just take an objective look at your settings and your numbers and recommend changes to help you get to that next level of control.
+
+588
+01:05:01,500 --> 01:05:03,500
+Yeah that's great.
+
+589
+01:05:03,500 --> 01:05:15,500
+And also Gary and a few of the people from integrated diabetes services have come on this show to talk about this stuff they're great super helpful and a great resource.
+
+590
+01:05:15,500 --> 01:05:28,500
+Jake I recommend thank you so much this was this is first of all so fun because I got I don't really often get to just geek out on loop and talk about strategy so I've learned a few things from this.
+
+591
+01:05:28,500 --> 01:05:34,500
+And it's always great having you on we'll have to we'll have to find another reason to get you over here.
+
+592
+01:05:34,500 --> 01:05:43,500
+Hey I'm ready yeah this was great you gave me some overrides to think about I actually now I want to go look at my settings and tweet them so yeah this is this is awesome.
+
+593
+01:05:43,500 --> 01:05:53,500
+Thanks for listening to the show let me know what you thought of the episode in the comments on YouTube are you a loop user do you want to be a loop user comment below with your thoughts.
+
+594
+01:05:53,500 --> 01:06:01,500
+If you are listening on podcast platforms why don't you go over to YouTube you can see some visuals of loop on this video you can watch it again and kind of study.
+
+595
+01:06:01,500 --> 01:06:05,500
+And you can also see all of my other loop content and I've also written about it on the blog.
+
+596
+01:06:05,500 --> 01:06:16,500
+The blog also has my newsletter so if you sign up you'll get that newsletter twice a month with updates on diabetic content as well as what is going on in diabetes technology news.
+
+597
+01:06:16,500 --> 01:06:28,500
+And don't forget when you sign up for our bi-monthly newsletter you'll get a DIY loop introductory guide diving into the top features and drawbacks to consider when getting on loop there's a link to that in today's show notes.
+
+598
+01:06:28,500 --> 01:06:38,500
+Jake came on the podcast a few weeks ago and we spoke about just like the social side of diabetes dating friends relationships bad lows at concerts.
+
+599
+01:06:38,500 --> 01:06:48,500
+It was a fantastic episode a very raw episode for both him and I if you want to check that out I've also thrown that in the show notes. Thanks for listening. I'm Justin and I'll take you later.
+

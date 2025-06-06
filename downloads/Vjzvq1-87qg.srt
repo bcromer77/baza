@@ -1,0 +1,1728 @@
+1
+00:00:00,000 --> 00:00:04,320
+Welcome to a very special episode of The Diabetic Podcast.
+
+2
+00:00:04,320 --> 00:00:07,440
+We are at ATTD in Amsterdam.
+
+3
+00:00:07,440 --> 00:00:09,520
+I am joined by Endocrinologist David On.
+
+4
+00:00:09,520 --> 00:00:11,600
+Thanks for coming back on the show.
+
+5
+00:00:11,600 --> 00:00:13,040
+Yeah, it's always great to talk to you.
+
+6
+00:00:13,040 --> 00:00:14,720
+It's always great to talk to you and Amsterdam.
+
+7
+00:00:14,720 --> 00:00:15,600
+How sweet is that?
+
+8
+00:00:15,600 --> 00:00:16,240
+Of course.
+
+9
+00:00:16,240 --> 00:00:19,440
+Yeah, we did this last year and it was a great conversation.
+
+10
+00:00:19,440 --> 00:00:23,200
+I knew I had to have you come back on to talk about all of the big announcements.
+
+11
+00:00:23,200 --> 00:00:25,840
+And this year felt really big.
+
+12
+00:00:25,840 --> 00:00:29,920
+There were so many big advancements this year that we do have a lot
+
+13
+00:00:29,920 --> 00:00:30,920
+to talk about.
+
+14
+00:00:30,920 --> 00:00:35,840
+Yeah, and some of that are directly relevant to you today with new software updates like Control
+
+15
+00:00:35,840 --> 00:00:36,840
+IQ Plus, for example.
+
+16
+00:00:36,840 --> 00:00:37,840
+Yeah.
+
+17
+00:00:37,840 --> 00:00:38,840
+Well, let's start with that.
+
+18
+00:00:38,840 --> 00:00:39,840
+Let's do it.
+
+19
+00:00:39,840 --> 00:00:45,360
+So, tandem announced their Control IQ Plus, well, that it will release to everyone
+
+20
+00:00:45,360 --> 00:00:47,160
+in the U.S.
+
+21
+00:00:47,160 --> 00:00:52,040
+I think one of the biggest things with this is just access to who can use it.
+
+22
+00:00:52,040 --> 00:00:56,840
+Well, we're some of the changes to, I mean, some of the ranges or the people that could use
+
+23
+00:00:56,840 --> 00:00:57,840
+it.
+
+24
+00:00:57,840 --> 00:01:02,480
+So, for some background context, at the same time that they announced approval of the
+
+25
+00:01:02,480 --> 00:01:08,680
+Control IQ Plus software update, it also got FDA approved for type 2 diabetes.
+
+26
+00:01:08,680 --> 00:01:13,560
+So that means the T-Slim and Moby now are FDA approved for type 2 diabetes.
+
+27
+00:01:13,560 --> 00:01:20,800
+So some of the software features of the Control IQ Plus upgrade are more tailored to expanding
+
+28
+00:01:20,800 --> 00:01:23,160
+the use of Control IQ for people with type 2 diabetes.
+
+29
+00:01:23,160 --> 00:01:28,740
+So for example, the maximum weight range is a lot higher now, because sometimes people
+
+30
+00:01:28,740 --> 00:01:31,520
+type 2 diabetes have higher body weights.
+
+31
+00:01:31,520 --> 00:01:35,320
+Also, the maximum total daily dose as well is much higher.
+
+32
+00:01:35,320 --> 00:01:38,120
+That goes all the way up to 200 units a day now.
+
+33
+00:01:38,120 --> 00:01:39,120
+Right, correct.
+
+34
+00:01:39,120 --> 00:01:42,240
+So, the total max total daily dose now is 200 units a day.
+
+35
+00:01:42,240 --> 00:01:46,920
+And that also will help people that are heavier, more insulin resistant type 2 diabetes.
+
+36
+00:01:46,920 --> 00:01:51,320
+And similarly, I think on the low end, the numbers got lower as well to be a little bit more
+
+37
+00:01:51,320 --> 00:01:55,120
+friendly towards younger patients and the pediatric population.
+
+38
+00:01:55,120 --> 00:01:57,800
+Yeah, it's two years and older can use it.
+
+39
+00:01:57,800 --> 00:01:58,800
+Right.
+
+40
+00:01:58,800 --> 00:02:01,360
+And the weight, I think, goes as low as 20 pounds.
+
+41
+00:02:01,360 --> 00:02:02,360
+I think so.
+
+42
+00:02:02,360 --> 00:02:03,360
+Yeah.
+
+43
+00:02:03,360 --> 00:02:04,600
+And I think total daily dose might be 10 units.
+
+44
+00:02:04,600 --> 00:02:08,760
+There were also some big features that come to everyone who's using it and everyone who will
+
+45
+00:02:08,760 --> 00:02:09,760
+use it.
+
+46
+00:02:09,760 --> 00:02:12,160
+There was first extended bolus.
+
+47
+00:02:12,160 --> 00:02:16,520
+So this allows users to, I think, before it was two hours that you could extend a bolus.
+
+48
+00:02:16,520 --> 00:02:17,520
+That's right.
+
+49
+00:02:17,520 --> 00:02:18,840
+Now it's eight hours.
+
+50
+00:02:18,840 --> 00:02:19,840
+I think it's six hours.
+
+51
+00:02:19,840 --> 00:02:20,840
+No, it's eight hours.
+
+52
+00:02:20,840 --> 00:02:21,840
+I did it yesterday.
+
+53
+00:02:21,840 --> 00:02:22,840
+All right.
+
+54
+00:02:22,840 --> 00:02:23,840
+Oh, yeah.
+
+55
+00:02:23,840 --> 00:02:24,840
+By the way.
+
+56
+00:02:24,840 --> 00:02:25,840
+Look at that.
+
+57
+00:02:25,840 --> 00:02:26,840
+Look at that.
+
+58
+00:02:26,840 --> 00:02:27,840
+That's pretty cool.
+
+59
+00:02:27,840 --> 00:02:28,840
+Yeah, no, it's eight hours.
+
+60
+00:02:28,840 --> 00:02:29,840
+I did it last night.
+
+61
+00:02:29,840 --> 00:02:30,840
+I believe it's funny.
+
+62
+00:02:30,840 --> 00:02:35,840
+So it's funny because I feel like two hours felt like not enough time to extend a bolus.
+
+63
+00:02:35,840 --> 00:02:36,840
+Yeah.
+
+64
+00:02:36,840 --> 00:02:37,840
+And eight hours.
+
+65
+00:02:37,840 --> 00:02:38,840
+I was like, wow, that's a long time you have.
+
+66
+00:02:38,840 --> 00:02:41,840
+How will people benefit from an eight hour extended bolus?
+
+67
+00:02:41,840 --> 00:02:42,840
+Yeah.
+
+68
+00:02:42,840 --> 00:02:44,440
+So there's a few different types of patients.
+
+69
+00:02:44,440 --> 00:02:45,440
+I think that would benefit.
+
+70
+00:02:45,440 --> 00:02:48,840
+So gastroperresis is, that's when your digestion is slowed.
+
+71
+00:02:48,840 --> 00:02:51,840
+It's an unfortunate complication of diabetes sometimes.
+
+72
+00:02:51,840 --> 00:02:55,840
+So people are, some people are a lot slower to digest their food.
+
+73
+00:02:55,840 --> 00:03:06,840
+So the typical scenario where that happens is if you bolus for a meal, some people will actually go low and then come up later because their body just takes so long to digest and process that food into carbohydrates.
+
+74
+00:03:06,840 --> 00:03:10,840
+So those people benefit from extending their bolus.
+
+75
+00:03:10,840 --> 00:03:16,840
+Also certain foods like pizza, for example, is kind of renowned for having a double spike.
+
+76
+00:03:16,840 --> 00:03:17,840
+Right.
+
+77
+00:03:17,840 --> 00:03:23,840
+You get that initial spike from like the bread, but then there's a lot of cheese and fats and oils that also will have a delayed spike.
+
+78
+00:03:23,840 --> 00:03:27,840
+So it can be very helpful for foods that have like that dual spike pattern.
+
+79
+00:03:27,840 --> 00:03:28,840
+Yeah.
+
+80
+00:03:28,840 --> 00:03:37,840
+And if in case it wasn't clear what an extendable is does is not it extends that bolus for the set amount of time, but you set a percentage of how much you want immediately.
+
+81
+00:03:37,840 --> 00:03:41,840
+And then what percentage you want delivered over that time period.
+
+82
+00:03:41,840 --> 00:03:42,840
+So yeah.
+
+83
+00:03:42,840 --> 00:03:52,840
+So when you eat pizza or something that's super fatty, you'll get that initial amount and then work with your doctor to, you know, based off of how that will affect you, you know, initially.
+
+84
+00:03:52,840 --> 00:03:57,840
+And then what time period it will take to be released into the bloodstream for me.
+
+85
+00:03:57,840 --> 00:04:00,840
+Maybe it's about four to five hours for those high fatty foods.
+
+86
+00:04:00,840 --> 00:04:01,840
+Totally.
+
+87
+00:04:01,840 --> 00:04:05,840
+So a lot of people will do like half of it right up front and then half of it over say four hours or so.
+
+88
+00:04:05,840 --> 00:04:06,840
+Yeah.
+
+89
+00:04:06,840 --> 00:04:10,840
+And what you said about gastroperiesus, people who were taking GLP ones, that's something that they,
+
+90
+00:04:10,840 --> 00:04:12,840
+that's what they deal with, right?
+
+91
+00:04:12,840 --> 00:04:13,840
+Yeah.
+
+92
+00:04:13,840 --> 00:04:14,840
+So can yes.
+
+93
+00:04:14,840 --> 00:04:20,840
+So GLP ones, like things like Ozenpek or Mount Jarrow, it can delay gastric emptying, which slows down your digestion.
+
+94
+00:04:20,840 --> 00:04:21,840
+So yes.
+
+95
+00:04:21,840 --> 00:04:26,840
+And those situations, if you're struggling with low blood sugar after a bolus, extending that bolus might help.
+
+96
+00:04:26,840 --> 00:04:28,840
+Next, there is temp basal.
+
+97
+00:04:28,840 --> 00:04:30,840
+So tell us about that update.
+
+98
+00:04:30,840 --> 00:04:31,840
+Yeah.
+
+99
+00:04:31,840 --> 00:04:34,840
+So temp basals, I think, are a really cool feature that you're going to love.
+
+100
+00:04:34,840 --> 00:04:36,840
+So temp basals are not a new concept.
+
+101
+00:04:36,840 --> 00:04:39,840
+A lot of pumps had the ability to do temporary basals where you reduce or
+
+102
+00:04:39,840 --> 00:04:43,840
+increase your basal rate by a percentage for a set amount of time.
+
+103
+00:04:43,840 --> 00:04:49,840
+But what's neat about this new update is now you can do a temp basal while control like you is running.
+
+104
+00:04:49,840 --> 00:04:51,840
+So you still get the benefits of automation.
+
+105
+00:04:51,840 --> 00:04:55,840
+It will still increase or decrease your basal if necessary.
+
+106
+00:04:55,840 --> 00:05:02,840
+But say you're feeling sick or you're going through a part of your menstrual cycle where you're more resistant to insulin and you need more.
+
+107
+00:05:02,840 --> 00:05:06,840
+What you can do is you can set a temp basal for up to 72 hours.
+
+108
+00:05:06,840 --> 00:05:11,840
+And that means your baseline insulin delivery is going to go up by a percentage that you specify.
+
+109
+00:05:11,840 --> 00:05:14,840
+So it can go up to 250% of your normal basal rate.
+
+110
+00:05:14,840 --> 00:05:17,840
+And it can go as low as 0% of your normal basal rate.
+
+111
+00:05:17,840 --> 00:05:22,840
+But on top of that, the control like you algorithm will still adjust your insulin if necessary.
+
+112
+00:05:22,840 --> 00:05:23,840
+Yeah.
+
+113
+00:05:23,840 --> 00:05:25,840
+This is a really powerful feature.
+
+114
+00:05:25,840 --> 00:05:34,840
+One that I, myself and many people who are on open source systems and DIY systems have been using.
+
+115
+00:05:34,840 --> 00:05:35,840
+Right.
+
+116
+00:05:35,840 --> 00:05:38,840
+And benefiting from since like 2016.
+
+117
+00:05:38,840 --> 00:05:44,840
+But it's so great to see that a temp basal within automated insulin has come to an FDA clear systems.
+
+118
+00:05:44,840 --> 00:05:51,840
+I hope others other companies follow suit and not just when you're sick and not just during the menstrual cycle, which is amazing.
+
+119
+00:05:51,840 --> 00:05:53,840
+But also for workouts.
+
+120
+00:05:53,840 --> 00:05:57,840
+And I found that, you know, I've used FDA clear systems recently.
+
+121
+00:05:57,840 --> 00:06:02,840
+Many of them, including movie before control like you plus I have it now.
+
+122
+00:06:02,840 --> 00:06:11,840
+But for workouts, being able to lower your basal needs an hour before working out is what I need, especially when I'm doing cardio.
+
+123
+00:06:11,840 --> 00:06:13,840
+So being able to do that's amazing for me.
+
+124
+00:06:13,840 --> 00:06:14,840
+Totally.
+
+125
+00:06:14,840 --> 00:06:18,840
+And you can still use exercise activity mode and then do the temp basal on top.
+
+126
+00:06:18,840 --> 00:06:19,840
+So that's really helpful.
+
+127
+00:06:19,840 --> 00:06:25,840
+And I actually first learned about this concept by one of my patients who basically was doing what Justin was talking about.
+
+128
+00:06:25,840 --> 00:06:26,840
+But he was doing it manually.
+
+129
+00:06:26,840 --> 00:06:30,840
+So he had he'd create a separate profile for when he would go running.
+
+130
+00:06:30,840 --> 00:06:33,840
+And then he would have to switch to that profile and then turn on control like you.
+
+131
+00:06:33,840 --> 00:06:37,840
+But now you can just turn on the temp basal and it should be pretty cool.
+
+132
+00:06:37,840 --> 00:06:38,840
+Yeah.
+
+133
+00:06:38,840 --> 00:06:40,840
+That's what I was doing with my systems as well.
+
+134
+00:06:40,840 --> 00:06:42,840
+I had to make all these changes.
+
+135
+00:06:42,840 --> 00:06:44,840
+But now it's just a quick little change.
+
+136
+00:06:44,840 --> 00:06:45,840
+And then that's interesting.
+
+137
+00:06:45,840 --> 00:06:48,840
+I mean, I haven't worked out since I updated to control like you plus.
+
+138
+00:06:48,840 --> 00:06:54,840
+But I will probably do a temp basal and go to activity feature because that raises the target.
+
+139
+00:06:54,840 --> 00:06:57,840
+And then there are I think there are some changes to the object.
+
+140
+00:06:57,840 --> 00:07:00,840
+I think it makes it algorithm a little bit less aggressive as well.
+
+141
+00:07:00,840 --> 00:07:01,840
+Okay.
+
+142
+00:07:01,840 --> 00:07:03,840
+Next, there is the twist pump.
+
+143
+00:07:03,840 --> 00:07:04,840
+Right.
+
+144
+00:07:04,840 --> 00:07:06,840
+And that is only coming to the US.
+
+145
+00:07:06,840 --> 00:07:09,840
+It is a brand new insulin pump that should be releasing quarter two.
+
+146
+00:07:09,840 --> 00:07:14,840
+They announced that the pump will be given through pharmacy benefit.
+
+147
+00:07:14,840 --> 00:07:15,840
+Right.
+
+148
+00:07:15,840 --> 00:07:17,840
+Can you tell us a little bit about what that looks like?
+
+149
+00:07:17,840 --> 00:07:18,840
+Yeah.
+
+150
+00:07:18,840 --> 00:07:21,840
+So quick background is most of the hardware pumps.
+
+151
+00:07:21,840 --> 00:07:24,840
+All the tube pumps before the sequel twist have gone through.
+
+152
+00:07:24,840 --> 00:07:25,840
+It's called DME.
+
+153
+00:07:25,840 --> 00:07:27,840
+It's sensor durable medical equipment.
+
+154
+00:07:27,840 --> 00:07:32,840
+And that's why you get it from a company like advanced diabetes supply or buy room or something like that.
+
+155
+00:07:32,840 --> 00:07:35,840
+And you can't just go to CVS and pick it up.
+
+156
+00:07:35,840 --> 00:07:39,840
+So when you're insurance looks at covering these types of things.
+
+157
+00:07:39,840 --> 00:07:43,840
+They view pharmacy benefit and hardware benefit as completely different silos.
+
+158
+00:07:43,840 --> 00:07:46,840
+And hardware benefit the downside to that.
+
+159
+00:07:46,840 --> 00:07:48,840
+And when I said hardware, I mean DME.
+
+160
+00:07:48,840 --> 00:07:51,840
+Is that that's when you get locked into these four-year pump contracts.
+
+161
+00:07:51,840 --> 00:07:52,840
+Right.
+
+162
+00:07:52,840 --> 00:07:59,840
+So with Ventronic and tandem, when you're on the pump, you can't get any other DME pump until your four-year warranty is up.
+
+163
+00:07:59,840 --> 00:08:05,840
+But Omnipod kind of blaze the way here in getting their Omnipod covered solely through pharmacy benefit,
+
+164
+00:08:05,840 --> 00:08:07,840
+which means that you don't have to worry about DME.
+
+165
+00:08:07,840 --> 00:08:10,840
+So you could have just gotten a Metronic pump yesterday.
+
+166
+00:08:10,840 --> 00:08:15,840
+And if you want to switch to Omnipod, you can walk into the pharmacy and get an Omnipod covered by your insurance.
+
+167
+00:08:16,840 --> 00:08:20,840
+So what SQL twist is doing is they're going to be the first DME pump that I know of.
+
+168
+00:08:20,840 --> 00:08:22,840
+Or I should say tube pump that I know of.
+
+169
+00:08:22,840 --> 00:08:25,840
+That is going to get be had through the pharmacy channel.
+
+170
+00:08:25,840 --> 00:08:26,840
+So same thing.
+
+171
+00:08:26,840 --> 00:08:34,840
+If you're even if you just got a tandem or a Metronic pump one year ago, you would be able to try out the twist immediately once it's out through pharmacy benefit.
+
+172
+00:08:34,840 --> 00:08:35,840
+Yes.
+
+173
+00:08:35,840 --> 00:08:43,840
+And at least with tandem, one thing I'm taking advantage of right now is they have a 90-day return policy.
+
+174
+00:08:43,840 --> 00:08:44,840
+Correct.
+
+175
+00:08:44,840 --> 00:08:47,840
+But it's not working for you within 90 days.
+
+176
+00:08:47,840 --> 00:08:50,840
+You can send it back and you'll you'll get your money back.
+
+177
+00:08:50,840 --> 00:08:54,840
+And I like at least what what tandem's doing and what Omnipod and Twister doing.
+
+178
+00:08:54,840 --> 00:08:57,840
+They're making it very easy to at least just start on it.
+
+179
+00:08:57,840 --> 00:08:58,840
+Yes.
+
+180
+00:08:58,840 --> 00:08:59,840
+Right out.
+
+181
+00:08:59,840 --> 00:09:02,840
+And then you know make a decision from there.
+
+182
+00:09:02,840 --> 00:09:07,840
+Of course on tandem after those 90 days if you decide to keep it you are stuck in that four year.
+
+183
+00:09:07,840 --> 00:09:08,840
+Yeah.
+
+184
+00:09:08,840 --> 00:09:12,840
+Another big thing with Twister or a big announcement came was their CGM.
+
+185
+00:09:12,840 --> 00:09:18,840
+That is the Libre 3 Plus that will be available or be the go to CGM on launch.
+
+186
+00:09:18,840 --> 00:09:26,840
+Now when I heard that news my first thought was the Libre 3 Plus can only connect to one device at a time.
+
+187
+00:09:26,840 --> 00:09:27,840
+Right.
+
+188
+00:09:27,840 --> 00:09:36,840
+So that means that that will go right to the pump and you won't have share function through an Abbott Libre app.
+
+189
+00:09:36,840 --> 00:09:43,840
+So I asked him my interview with Alan Lott then the CEO which you can go watch later this week.
+
+190
+00:09:43,840 --> 00:09:50,840
+I asked him you know how will parents be able to to view this because the pump is cleared for six years enough.
+
+191
+00:09:50,840 --> 00:09:53,840
+Well they're going to have a follow up on launch.
+
+192
+00:09:53,840 --> 00:09:54,840
+Yeah.
+
+193
+00:09:54,840 --> 00:10:01,840
+And that's really important because obviously yeah being able to follow your child or have your spouse follow you is a huge deal.
+
+194
+00:10:01,840 --> 00:10:07,840
+And like Justin said that was that's one of the biggest limitations to using Libre in an AID system.
+
+195
+00:10:07,840 --> 00:10:13,840
+So right now the burden is on the pump companies to build in that sharing because the sensor can only share data to the pump.
+
+196
+00:10:13,840 --> 00:10:16,840
+It can't share it on its own to the phone.
+
+197
+00:10:16,840 --> 00:10:23,840
+So so beta bionic says something called bionic circle which kind of recreates that sharing capability.
+
+198
+00:10:23,840 --> 00:10:26,840
+And I believe tandem's working on something like that too.
+
+199
+00:10:26,840 --> 00:10:30,840
+Well that's exciting because yeah they work with Libre to plus.
+
+200
+00:10:30,840 --> 00:10:35,840
+And then so does Omni pod and hopefully Omni pod also comes with with a share.
+
+201
+00:10:35,840 --> 00:10:39,840
+Yeah I don't yeah I'm not quite sure they may already have a share feature.
+
+202
+00:10:39,840 --> 00:10:41,840
+I'm not sure like right at the second.
+
+203
+00:10:41,840 --> 00:10:45,840
+Okay we're going to take a quick break because this show floor is officially closing.
+
+204
+00:10:45,840 --> 00:10:46,840
+It's getting a little crazy.
+
+205
+00:10:46,840 --> 00:10:47,840
+I close it down.
+
+206
+00:10:47,840 --> 00:10:49,840
+Yeah let's find another spot to be in.
+
+207
+00:10:49,840 --> 00:10:51,840
+So yeah we'll see you in a little bit.
+
+208
+00:10:51,840 --> 00:10:54,840
+This episode is sponsored by Omni pod.
+
+209
+00:10:54,840 --> 00:10:58,840
+You guys know that staying connected to the tech world is important to me.
+
+210
+00:10:58,840 --> 00:11:01,840
+But what's also important to me is my insulin pump.
+
+211
+00:11:01,840 --> 00:11:04,840
+Omni pod 5 is tubeless and waterproof.
+
+212
+00:11:04,840 --> 00:11:08,840
+Which means I never have to disconnect from automated insulin delivery.
+
+213
+00:11:08,840 --> 00:11:12,840
+Even when I take a shower, go swimming or go to the gym.
+
+214
+00:11:12,840 --> 00:11:16,840
+Staying connected to my insulin pump means I'm spending more time in automated mode.
+
+215
+00:11:16,840 --> 00:11:19,840
+Which ultimately helps me spend more time in range.
+
+216
+00:11:19,840 --> 00:11:23,840
+See if you're eligible for a 30 day trial by visiting Omni pod.com
+
+217
+00:11:23,840 --> 00:11:25,840
+slash diabetic on there.
+
+218
+00:11:25,840 --> 00:11:28,840
+You'll see full safety and risk information in trial terms.
+
+219
+00:11:28,840 --> 00:11:32,840
+Again that's Omni pod.com slash diabetic.
+
+220
+00:11:32,840 --> 00:11:34,840
+Let's get back into twist.
+
+221
+00:11:34,840 --> 00:11:39,840
+So I also asked the CEO about other CGM compatibility.
+
+222
+00:11:39,840 --> 00:11:45,840
+Because the loop algorithm that powers it comes from the we are not waiting community that wants interoperability.
+
+223
+00:11:45,840 --> 00:11:48,840
+Like so I kind of framed it that way.
+
+224
+00:11:48,840 --> 00:11:50,840
+I was like well what about other CGMs?
+
+225
+00:11:50,840 --> 00:11:51,840
+Why just wanted?
+
+226
+00:11:51,840 --> 00:11:56,840
+And he really said that it came down to the bandwidth that they have right now.
+
+227
+00:11:56,840 --> 00:11:57,840
+So he did say that.
+
+228
+00:11:57,840 --> 00:12:00,840
+Libre 3 plus now but they want to bring other CGMs.
+
+229
+00:12:00,840 --> 00:12:02,840
+He did specifically say Dexcom.
+
+230
+00:12:02,840 --> 00:12:07,840
+So I wouldn't be surprised if we did see that in the near future for the system.
+
+231
+00:12:07,840 --> 00:12:10,840
+Yeah and in my conversations with a sequel as well.
+
+232
+00:12:10,840 --> 00:12:13,840
+I think it's a big priority to them which is really exciting.
+
+233
+00:12:13,840 --> 00:12:17,840
+Many of the people as part of the team actually came from the we are not waiting movement.
+
+234
+00:12:17,840 --> 00:12:19,840
+So I think it is interoperability is a huge deal.
+
+235
+00:12:19,840 --> 00:12:25,840
+I actually see that as kind of a win by bringing Libre first because so many other systems started with Dexcom.
+
+236
+00:12:25,840 --> 00:12:30,840
+It's kind of nice to see for the first time as a system start with Libre and then add Dexcom later.
+
+237
+00:12:30,840 --> 00:12:38,840
+But I agree I think it's going to come to that they're going to bring Dexcom into the fold and I hope other sensors like ever since and other sensors down the road.
+
+238
+00:12:38,840 --> 00:12:48,840
+Speaking of Dexcom you went to their symposium and you mentioned they brought back data of the 15 day CGM that is now with the FDA.
+
+239
+00:12:49,840 --> 00:12:51,840
+What were the findings there?
+
+240
+00:12:51,840 --> 00:13:01,840
+Yeah so it was kind of hot off the press one of the big announcements at this conference was Dexcom shared the results of their trial data that where they get the 15 day sensor approved.
+
+241
+00:13:01,840 --> 00:13:04,840
+So they had to show that it was accurate that it was reliable things like that.
+
+242
+00:13:04,840 --> 00:13:12,840
+And one of the things that I learned from that talk was they actually have an updated algorithm that's powering the G715 day.
+
+243
+00:13:12,840 --> 00:13:20,840
+And they shared that in that study the Mard which is the most commonly accepted measurement of accuracy was actually even better than the 10 day sensor.
+
+244
+00:13:20,840 --> 00:13:27,840
+So it had a Mard of 8.0% the traditional G7 has a Mard of 8.2%.
+
+245
+00:13:27,840 --> 00:13:32,840
+So they actually improved their accuracy metric presumably because of the updated algorithm.
+
+246
+00:13:32,840 --> 00:13:35,840
+So that's kind of I didn't know that was coming so that was cool.
+
+247
+00:13:35,840 --> 00:13:43,840
+It's funny you don't really think algorithm that often when you think just CGM you think algorithm it's my automated insulin system and how it uses those numbers.
+
+248
+00:13:43,840 --> 00:13:54,840
+But CGMs you were telling these CGMs have their own algorithm that they're using to clean up data that's going on in the background things that we don't see and we don't need to see really.
+
+249
+00:13:54,840 --> 00:14:08,840
+Yeah, what I'm wondering here is though it sounds like when they were testing the Mard of the new 15 day that it's really it could be just that new algorithm that helps make the the Mard better.
+
+250
+00:14:08,840 --> 00:14:20,840
+But I'd be curious to know if they put the new algorithm on the 10 day sensor and truly could tell us if there was any difference in accuracy when it comes to hardware.
+
+251
+00:14:20,840 --> 00:14:29,840
+And the length that you're wearing the CGM right right so a couple things I can think of from there so one I agree I kind of have the same question it's like wait.
+
+252
+00:14:29,840 --> 00:14:47,840
+Like is this a software upgrade is this a hardware upgrade and as far as I can tell it's a pure software upgrade in the sense that I think the hardware of the G7 and the G7 15 day are going to be the exact same but it's like the software layer on top that we don't interact with right that algorithm that just and I were talking about.
+
+253
+00:14:47,840 --> 00:14:53,840
+Where it kind of cleans up the data and presents you with a number I think that part of it is cleaned up and is going to be a little bit more precise.
+
+254
+00:14:53,840 --> 00:15:01,840
+So yeah, but a part of me was like I remember sitting in my chair thinking wait like why don't they just bring the new updated algorithm to the 10 day G7.
+
+255
+00:15:01,840 --> 00:15:08,840
+Yeah, but at the same time to be fair I think they're going to transition probably everybody over I would think to the 15 day.
+
+256
+00:15:08,840 --> 00:15:22,840
+Yeah and I believe first of all that algorithm must be what is with the FDA right and can just put out a new algorithm update I think for for this medical device it needs to be cleared because it's such an important.
+
+257
+00:15:22,840 --> 00:15:24,840
+Yeah, it's a little bit outside of.
+
+258
+00:15:24,840 --> 00:15:30,840
+Yeah, it's definitely but but you know I think they're trying to move forward and they're going to bring into their latest product.
+
+259
+00:15:30,840 --> 00:15:50,840
+So one other thing that surprised me at the conference when it comes to Dexcom was their collaboration with Novo Nordisk on a connection between Novo Nordisk smart hands and the Dexcom G7 now this is Europe only it just brings another smart pen into the market that works with this major CGM but also.
+
+260
+00:15:50,840 --> 00:16:02,840
+The information from the smart pen goes directly into the G7 so I'm not as familiar with the Novo pen Dexcom partnership but I agree with Justin I think he's connected insulin pens.
+
+261
+00:16:02,840 --> 00:16:10,840
+They do prevent present a unique opportunity for people who aren't yet ready to go on a ID maybe they can't afford it maybe they don't want to go on a pump.
+
+262
+00:16:10,840 --> 00:16:18,840
+But they still want some benefits of automation or not automation but you know so they do want some benefits of having calculations done for them.
+
+263
+00:16:18,840 --> 00:16:29,840
+So you can take advantage of these smart pens or connected pens combine CGM data and then put like a bullish calculator on top and you can get some of the features of an insulin pump in a pen.
+
+264
+00:16:29,840 --> 00:16:44,840
+And it's cool to have other options because Metronic has done something similar with the Simplera CGM and the In Pen which they make so it's nice to have like different ecosystems and more alternative more alternatives in that space.
+
+265
+00:16:44,840 --> 00:16:55,840
+Another device that surprised me this year that I was not expecting was new generation of pump from Calado the company is Vescentra and it's Calado 2.
+
+266
+00:16:55,840 --> 00:17:09,840
+So this pump that was already pretty small it's worn like a tandem movie it's adhered to the body and then a little tube coming out of it with the infusion site is one way to where you could also just you know put it in your pocket and have a longer tube.
+
+267
+00:17:09,839 --> 00:17:33,840
+And this new pump is like about 10% smaller it comes in a bunch of colors six colors and I like these new ones have a more matte finish the current Calado are very shiny a lot of the colors I mean they're pretty but they're like hot pink and like very bright blue and these are really a bit tone down like the pink is almost like a pearl pink with a nice matte finish so they look much more elevated.
+
+268
+00:17:33,840 --> 00:17:53,840
+They use the same in infusion sets and the company was saying that because this pump there are changes to it but because there are a lot of similarities that it could streamline the the process of submission for CE mark and currently it's only available in three countries France Netherlands and Germany.
+
+269
+00:17:53,840 --> 00:18:05,840
+They are planning to get CE mark and bring it to those but then their next phase is really getting it into the US through FDA clearance so that was exciting was everything that like stuck out to you with this pump.
+
+270
+00:18:05,840 --> 00:18:18,840
+I think the Calado just like as someone who's on you know on social media and the type one diabetes space like the Calado was the pump that I always get jealous about you know it's like you look and you see people sharing it from you know you're up and you're like that's a pretty cool looking pump.
+
+271
+00:18:18,840 --> 00:18:33,840
+So I agree with Justin I was telling him before we went on camera it's kind of like a blend of the omnipot five and the tandem movie it has like the versatility of the movie but it's a little bit more sleek and it's in its patch option than the movie so.
+
+272
+00:18:33,840 --> 00:18:42,840
+I love options so bring it on yeah it's a very sleek look similar to omnipot where omnipot doesn't have any.
+
+273
+00:18:42,840 --> 00:18:52,840
+Chris is in it you can't see like multiple parts it's an all in one right yeah whereas like something like the movie which I'm wearing has the what is that.
+
+274
+00:18:52,840 --> 00:19:00,840
+The cartridge yeah the cartridge that's like one color then you've got the pump that's another color it's a little more medical looking calado kind of looks like.
+
+275
+00:19:00,840 --> 00:19:06,840
+Yeah piece of jewelry in in some ways and funny enough I'm wearing the colado adhesive right now.
+
+276
+00:19:06,840 --> 00:19:10,840
+Oh cool. So did you notice I'm wearing the movie and I'm not using.
+
+277
+00:19:10,840 --> 00:19:12,840
+Oh yeah.
+
+278
+00:19:12,840 --> 00:19:16,840
+I'm using a colado adhesive.
+
+279
+00:19:16,840 --> 00:19:28,840
+Yeah I found I found some yeah and it's it's a perfect size and also look at it look how it looks when I have my pump off it's not this like huge piece with like a plastic tray.
+
+280
+00:19:28,840 --> 00:19:42,840
+And then you know a whole piece of cloth that goes around it it's very simple so I do really like that and if you can find colado adhesive patches in your movies or I highly recommend of course you can wear mobile and your pockets well or clip it.
+
+281
+00:19:42,840 --> 00:19:49,840
+But business opportunity if you live in one of those three countries you can just start you know black market shipping amount to the United States.
+
+282
+00:19:49,840 --> 00:20:00,840
+And I spoke to tandem and I asked them I said is your adhesive patch like an FDA thing did you need to get clearance and they said no it's not a medical piece of their product yeah.
+
+283
+00:20:00,840 --> 00:20:09,840
+So I said maybe like I understand that adhesive patches so great for physical activity especially when you're running like that thing is not going anywhere.
+
+284
+00:20:09,840 --> 00:20:24,840
+This one your pump will probably fall off but there are so many different you know aspects of our lives that maybe you know one time I want to wear this maybe when if I'm running American I'll wear the other one first maybe they can have a few different options of adhesive patches.
+
+285
+00:20:24,840 --> 00:20:37,840
+Today's episode is sponsored by T one D exchange you can directly make an impact on diabetes health care treatments and technology by participating in the T one D exchange registry.
+
+286
+00:20:37,840 --> 00:20:57,840
+It starts with the simple survey about your life with T one D and it only takes about 15 minutes after that you'll have a personal portal with ongoing T one D study and survey opportunities plus some of these studies even offer compensation signing up with the link in the show notes help support my channel and it allows me to continue putting out free content.
+
+287
+00:20:57,840 --> 00:21:05,840
+You can sign up at t one D exchange dot org slash diabetic or click that link in today's show notes.
+
+288
+00:21:05,840 --> 00:21:11,840
+Let's get back to colito a couple things that they told me was the new pump has an accelerometer in it.
+
+289
+00:21:11,840 --> 00:21:19,840
+Oh, okay. What do you think of that that is cool I mean potentially you could use that for like algorithm stuff like if you're if it notices physical activity.
+
+290
+00:21:19,840 --> 00:21:21,840
+Not as pretty cool.
+
+291
+00:21:21,840 --> 00:21:34,840
+Yeah, that was that was a surprise they said that what they're doing is whether or not it's used on launch is in there so that it's this pump can last longer and they can continue to make upgrades to algorithm and things like that and incorporate it.
+
+292
+00:21:34,840 --> 00:21:54,840
+Because yeah, if you're running really fast that accelerometer will pick that up there's also a temperature sensor in there that's cool now the temperature sensor it's not like for your human body to sense what your temperature is and they said that because like people where they're pumping all different areas and you can't really control that but it's really a temperature sensor for the insulin.
+
+293
+00:21:54,840 --> 00:21:57,840
+Yeah, and to let you know hey your insulin's a little warm.
+
+294
+00:21:57,840 --> 00:22:01,840
+You need to leave where you are or change your pods soon.
+
+295
+00:22:01,840 --> 00:22:08,840
+I always wonder if you could like combine those two and like detect when you're sleeping right because like less movement but they're still warm.
+
+296
+00:22:08,840 --> 00:22:11,840
+Right and then maybe it changes the algorithm in a certain way.
+
+297
+00:22:11,840 --> 00:22:16,840
+That would be so if you're running and you're really hot.
+
+298
+00:22:16,840 --> 00:22:23,840
+Yeah, yeah, like odds are there's there's impact when you're running in the heat right or your or your body heat that's coming off of your skin.
+
+299
+00:22:24,840 --> 00:22:29,840
+There's something there so it's exciting to see that they're putting these you know sensors in there.
+
+300
+00:22:29,840 --> 00:22:30,840
+That is really cool.
+
+301
+00:22:30,840 --> 00:22:31,840
+Yeah, I didn't know that.
+
+302
+00:22:31,840 --> 00:22:39,840
+Yeah, a couple other things for colito two was that app control will come on launch for Android and iPhone currently you need a PDM for the device.
+
+303
+00:22:39,840 --> 00:22:40,840
+Nice.
+
+304
+00:22:40,840 --> 00:22:42,840
+It's running the Diabolube G1 algorithm.
+
+305
+00:22:42,840 --> 00:22:47,840
+Although the colito two will most likely have the G2 algorithm of that.
+
+306
+00:22:47,840 --> 00:22:52,840
+And USB-C in the charger, which is probably will definitely because Europe made them.
+
+307
+00:22:52,840 --> 00:22:57,840
+And as made everyone in Europe have USB-C, which I'm I'm all for.
+
+308
+00:22:57,840 --> 00:22:58,840
+Yes.
+
+309
+00:22:58,840 --> 00:22:59,840
+I'll for it.
+
+310
+00:22:59,840 --> 00:23:00,840
+Love the iPhone being USB-C.
+
+311
+00:23:00,840 --> 00:23:01,840
+That's great.
+
+312
+00:23:01,840 --> 00:23:06,840
+Yeah, let's talk about this new terminology that's been spoken about at this conference.
+
+313
+00:23:06,840 --> 00:23:11,840
+So one term we actually talked about it last year on the podcast was Time and Tight Range,
+
+314
+00:23:11,840 --> 00:23:14,840
+which is also time and pregnancy range.
+
+315
+00:23:14,840 --> 00:23:15,840
+Right.
+
+316
+00:23:15,840 --> 00:23:16,840
+It's 70 to 140.
+
+317
+00:23:16,840 --> 00:23:17,840
+Is that?
+
+318
+00:23:17,840 --> 00:23:20,840
+Yeah. Well, technically pregnancy is 63 to 140.
+
+319
+00:23:20,840 --> 00:23:22,840
+Time and Tight Range, I've seen it defined differently.
+
+320
+00:23:22,840 --> 00:23:24,840
+But the most conventional is 70 to 140.
+
+321
+00:23:24,840 --> 00:23:27,840
+Sometimes I'll see 65 to 140 just to make it on par with pregnancy.
+
+322
+00:23:27,840 --> 00:23:28,840
+But yeah.
+
+323
+00:23:28,840 --> 00:23:29,840
+Okay.
+
+324
+00:23:29,840 --> 00:23:30,840
+And that's milligrams per desolator.
+
+325
+00:23:30,840 --> 00:23:31,840
+Do you know millimals on that?
+
+326
+00:23:31,840 --> 00:23:32,840
+No.
+
+327
+00:23:32,840 --> 00:23:33,840
+But quick trick.
+
+328
+00:23:33,840 --> 00:23:34,840
+You just divided by 18.
+
+329
+00:23:34,840 --> 00:23:35,840
+I didn't know that.
+
+330
+00:23:35,840 --> 00:23:37,840
+First I had a patient encounter and I was like,
+
+331
+00:23:37,840 --> 00:23:39,840
+Calculator or like going to Google.
+
+332
+00:23:39,840 --> 00:23:41,840
+And then later I learned I just had to divide by 18.
+
+333
+00:23:41,840 --> 00:23:43,840
+Yeah, I learned that this week.
+
+334
+00:23:43,840 --> 00:23:47,840
+And I mean the easiest way to do it at least my the top of my range is 180.
+
+335
+00:23:47,840 --> 00:23:49,840
+So I know 180's at least 10.
+
+336
+00:23:49,840 --> 00:23:50,840
+Yep.
+
+337
+00:23:50,840 --> 00:23:51,840
+And I just used that.
+
+338
+00:23:51,840 --> 00:23:52,840
+Because dividing things by 18's not that easy.
+
+339
+00:23:52,840 --> 00:23:53,840
+Yeah.
+
+340
+00:23:53,840 --> 00:23:54,840
+And then four on the floor.
+
+341
+00:23:54,840 --> 00:23:56,840
+72 is low blood sugar.
+
+342
+00:23:56,840 --> 00:23:57,840
+Okay.
+
+343
+00:23:57,840 --> 00:23:58,840
+So that's time and tight range.
+
+344
+00:23:58,840 --> 00:24:00,840
+But there's this new terminology that's being spoken about,
+
+345
+00:24:00,840 --> 00:24:02,840
+which is 10.
+
+346
+00:24:02,840 --> 00:24:04,840
+Time in normal glucose.
+
+347
+00:24:04,840 --> 00:24:05,840
+Right.
+
+348
+00:24:05,840 --> 00:24:09,840
+This new terminology was created because there was controversy over time and
+
+349
+00:24:09,840 --> 00:24:11,840
+tight range being.
+
+350
+00:24:11,840 --> 00:24:15,840
+To intensive and ask or tell us more about why time and tight range.
+
+351
+00:24:15,840 --> 00:24:17,840
+Why people felt like that needed a new name.
+
+352
+00:24:17,840 --> 00:24:18,840
+Yeah.
+
+353
+00:24:18,840 --> 00:24:22,840
+So the funny thing is I don't even think the name was the huge issue.
+
+354
+00:24:22,840 --> 00:24:25,840
+But the concept of it is somewhat controversial.
+
+355
+00:24:25,840 --> 00:24:26,840
+Yeah.
+
+356
+00:24:26,840 --> 00:24:29,840
+Because, you know, I think we talked about this last year.
+
+357
+00:24:29,840 --> 00:24:34,840
+But the general fear is that basically by moving the yard posts.
+
+358
+00:24:34,840 --> 00:24:35,840
+Right.
+
+359
+00:24:35,840 --> 00:24:36,840
+By moving the goal posts and saying like, oh, no.
+
+360
+00:24:36,840 --> 00:24:39,840
+We're no longer shooting for time and range from 70 to 180.
+
+361
+00:24:39,840 --> 00:24:42,840
+Now we're actually wanting you to go to 70 to 140.
+
+362
+00:24:42,840 --> 00:24:47,840
+But we know that with type and diabetes, especially, that's really hard to do.
+
+363
+00:24:47,840 --> 00:24:49,840
+And we don't want to discourage people.
+
+364
+00:24:49,840 --> 00:24:51,840
+And we don't want people to feel like they're falling short.
+
+365
+00:24:51,840 --> 00:24:54,840
+Because we know that the data is very good behind time and range.
+
+366
+00:24:54,840 --> 00:25:00,840
+And if you maintain that 70% time and range, it really reduces your risk of having complications.
+
+367
+00:25:01,840 --> 00:25:06,840
+So I think a lot of people, especially those of us who are clinicians or patients or people with diabetes,
+
+368
+00:25:06,840 --> 00:25:13,840
+that are very, you know, protective of kind of the emotional burden and mental state of people with diabetes.
+
+369
+00:25:13,840 --> 00:25:16,840
+I think we've been very resistant to kind of adopting time and tight range.
+
+370
+00:25:16,840 --> 00:25:19,840
+Because we don't want people to feel like that's where they need to be.
+
+371
+00:25:19,840 --> 00:25:21,840
+And that they should really be focusing on 70 and 140.
+
+372
+00:25:21,840 --> 00:25:26,840
+Now, if you can get there or if you're that type of patient and some people are that type of patient who really,
+
+373
+00:25:26,840 --> 00:25:34,840
+really wants to kind of be on that edge of normal blood or of tight blood trigger control,
+
+374
+00:25:34,840 --> 00:25:36,840
+it's fine to have that metric.
+
+375
+00:25:36,840 --> 00:25:42,840
+But the controversy is just how much we want to push that and how much we want to standardize that and make that kind of the goal,
+
+376
+00:25:42,840 --> 00:25:44,840
+rather than talking about time and range.
+
+377
+00:25:44,840 --> 00:25:48,840
+And there's a lot of controversy because some people are very excited about it.
+
+378
+00:25:48,840 --> 00:25:53,840
+Personally, I think a lot of the companies are very excited about it because they want,
+
+379
+00:25:53,840 --> 00:25:57,840
+they kind of want tighter metrics to be able to prove that their algorithms are better.
+
+380
+00:25:57,840 --> 00:26:02,840
+And, you know, we're serving people with diabetes better because we have a better time and tight range than other companies.
+
+381
+00:26:02,840 --> 00:26:03,840
+Interesting.
+
+382
+00:26:03,840 --> 00:26:10,840
+So there are some companies we're able to say, wow, we have a really high percentage in this even more so than all these other companies.
+
+383
+00:26:10,840 --> 00:26:15,840
+Whereas when you're using that larger range, well, it's not as high a bracket and everyone kind of fits it.
+
+384
+00:26:15,840 --> 00:26:19,840
+Yeah, I think they're just trying to find ways to differentiate and make their system sound better,
+
+385
+00:26:20,840 --> 00:26:23,840
+which is great. Like we want, of course, the best control we can.
+
+386
+00:26:23,840 --> 00:26:28,840
+But we also don't want to, you know, set standards that are very difficult to achieve that could be discouraging.
+
+387
+00:26:28,840 --> 00:26:30,840
+And that's, that's the delicate balance.
+
+388
+00:26:30,840 --> 00:26:35,840
+So they had a big group meeting here at this conference to kind of talk about it, the pros and cons.
+
+389
+00:26:35,840 --> 00:26:39,840
+And I guess one of the things that came up was, can they come up with a better name for it?
+
+390
+00:26:39,840 --> 00:26:45,840
+And the name that they landed on was Ting, which is time in normal glucose or time in normal glycine.
+
+391
+00:26:45,840 --> 00:26:50,840
+As soon as I heard it, the word normal struck me the wrong way.
+
+392
+00:26:50,840 --> 00:26:52,840
+I'm the same as you.
+
+393
+00:26:52,840 --> 00:26:57,840
+Yeah, especially because I feel like when we've tried to come up with terminology in the diabetes space,
+
+394
+00:26:57,840 --> 00:27:02,840
+I feel like we're so sensitive to, to, to, to verbage and no one glacier that I agree.
+
+395
+00:27:02,840 --> 00:27:11,840
+Like hearing that word normal kind of like, you know, like my, I twitch a little bit because then it implies that if you're not there, you're abnormal, right?
+
+396
+00:27:11,840 --> 00:27:18,840
+Which, which is not the purpose of time and time range. So I think that's like hopefully that name is not the final name.
+
+397
+00:27:18,840 --> 00:27:25,840
+Yeah, so let us know what you think of those two. I'll be putting a poll on Instagram and I want to hear from you.
+
+398
+00:27:25,840 --> 00:27:33,840
+And if you don't like either of those, you'll have to let us know in the comments on here or on Instagram of what you think it should be.
+
+399
+00:27:33,840 --> 00:27:40,840
+Give us some ideas and maybe we can send those over to the powers that be and let them, you know, choose between one of those.
+
+400
+00:27:40,840 --> 00:27:42,840
+Yeah, maybe if they have a third, better suggestion.
+
+401
+00:27:42,840 --> 00:27:46,840
+Yeah, or we'll just make it happen. We can make that happen and we will.
+
+402
+00:27:46,840 --> 00:27:52,840
+Well, that's really everything I had on my list was if you took one thing from this whole week.
+
+403
+00:27:52,840 --> 00:27:57,840
+What would you say, what was something you were most excited about? It could be big, it could be small.
+
+404
+00:27:57,840 --> 00:28:02,840
+I mean, I just being the nerd I am, I was just really excited about learning about the 15 day sensor.
+
+405
+00:28:02,840 --> 00:28:08,840
+I think hearing that it has an updated algorithm gives me excitement and just knowing that things are,
+
+406
+00:28:08,840 --> 00:28:14,840
+there are other things coming around the corner. Like, I think this could be an opportunity for Dexcom to really, you know,
+
+407
+00:28:14,840 --> 00:28:20,840
+make a really strong impression and to kind of write some of the wrongs. You know, the G7 launch was was pretty rocky.
+
+408
+00:28:20,840 --> 00:28:27,840
+I think most of us would agree that is was the case. It sounds like they're actually very being very purposeful about the 15 day launch.
+
+409
+00:28:27,840 --> 00:28:32,840
+They're going to kind of wait until they have really good supply until it has more pump integrations.
+
+410
+00:28:32,840 --> 00:28:36,840
+So I think they're going to really try to make sure that the 15 day launch goes smoothly.
+
+411
+00:28:36,840 --> 00:28:39,840
+And so that's what I'm excited about.
+
+412
+00:28:39,840 --> 00:28:44,840
+I think I was most excited about twist and it's well,
+
+413
+00:28:44,840 --> 00:28:49,840
+Libra III because I would love to use a pump with Libra III. I've never done that before,
+
+414
+00:28:49,840 --> 00:28:57,840
+but also the pharmacy benefit manager ability to get that pump so easily and just try it four a month, try it for three months
+
+415
+00:28:57,840 --> 00:29:03,840
+and then not be held to it. My goal this year is to try every insulin pump available in the U.S.
+
+416
+00:29:03,840 --> 00:29:10,840
+That's awesome. I've tried OmniPot Dash, Loop, Trio, OmniPot V, MonMovie right now,
+
+417
+00:29:10,840 --> 00:29:15,840
+which you could just say I use tandem T-Slim kind. I mean, it's the same algorithm,
+
+418
+00:29:15,840 --> 00:29:20,840
+so I'm not rushing to use that one, but I want to use twist. I want to use metronic beta bionics.
+
+419
+00:29:20,840 --> 00:29:26,840
+That's my goal this year and hearing from twist that that is a possibility. So simple.
+
+420
+00:29:26,840 --> 00:29:31,840
+I mean, we know insurance companies is not always that simple, but I will let you know how simple it is,
+
+421
+00:29:31,840 --> 00:29:40,840
+but that's that excited to me. I mean, this is an awesome pump with a cool algorithm that that's from the open source community originally and we call to use it.
+
+422
+00:29:40,840 --> 00:29:45,840
+Yeah, and just hearing you lay out all those different pumps. I think it's so exciting, right? Like even just three years ago,
+
+423
+00:29:45,840 --> 00:29:51,840
+it was like X2, metronic and OmniPot, right? But now we have beta bionics. Now we have the sequel twist.
+
+424
+00:29:51,840 --> 00:29:58,840
+We have Moby, we have Potentially Colito, and all these different things we have, and we have more sensors before it was just DexComb versus metronic.
+
+425
+00:29:58,840 --> 00:30:07,840
+Now we have Sensionics. Now we have Sensionics ever since. Now we have Libre, it's really exciting and we get so excited about interoperability.
+
+426
+00:30:07,840 --> 00:30:13,840
+You guys deserve to have a choice in your algorithm. You choose your pump. You choose your sensor and I think we're slowly getting there.
+
+427
+00:30:13,840 --> 00:30:22,840
+And it's really exciting. It is slow. It is a slow process. And I always say I chose the wrong industry to be an influencer.
+
+428
+00:30:22,840 --> 00:30:31,840
+There's also so much red tape, but I think going to these conferences every year, quarterly, we at least get to see the progress.
+
+429
+00:30:31,840 --> 00:30:37,840
+The micro-progress that means a lot. So I'm glad that we could do this here, David. Thank you so much.
+
+430
+00:30:37,840 --> 00:30:44,840
+We want to hear what is the technology or anything that you heard about ATTD. What are you most excited about?
+
+431
+00:30:44,840 --> 00:30:50,840
+Let us know in the comments and also subscribe to the podcast wherever you listen or on YouTube for video form.
+
+432
+00:30:50,840 --> 00:30:53,840
+I'm Justin, this is David, and we'll take you later.
+

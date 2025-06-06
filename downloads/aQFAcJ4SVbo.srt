@@ -1,0 +1,1400 @@
+1
+00:00:00,000 --> 00:00:05,280
+Sernova is one of the many companies working on a cure for type 1 diabetes.
+
+2
+00:00:05,280 --> 00:00:11,520
+Its unique approach in plants insulin producing cells into a bio-engineered cell pouch,
+
+3
+00:00:11,520 --> 00:00:17,520
+and in early studies, has helped some people with diabetes achieve full insulin independence
+
+4
+00:00:17,520 --> 00:00:18,880
+for years.
+
+5
+00:00:18,880 --> 00:00:24,520
+But with challenges like immunosuppressants and scaling the technology for widespread use,
+
+6
+00:00:24,520 --> 00:00:26,600
+there's still a long road ahead.
+
+7
+00:00:26,600 --> 00:00:31,640
+Welcome to the show, I'm Justin, I have Type 1 Diabetes and I hope for it to be cured one day.
+
+8
+00:00:31,640 --> 00:00:35,080
+On here I talk off things diabetes tech news and management.
+
+9
+00:00:35,080 --> 00:00:43,400
+Last week we did an entire episode on the landscape of the cure research going into a cure for Type 1 Diabetes.
+
+10
+00:00:43,400 --> 00:00:49,320
+Today we've got fellow T1D and the CEO of Sernova, Jonathan Rigby.
+
+11
+00:00:49,320 --> 00:00:54,040
+He's joining me to share his personal journey in the diabetes and cure space.
+
+12
+00:00:54,040 --> 00:01:00,920
+Why this mission is so close to his heart and how Sernova's decade-long pursuit of a cure is evolving.
+
+13
+00:01:00,920 --> 00:01:07,160
+We get into the technology behind its cell pouch, the clinical trials that have already changed lives,
+
+14
+00:01:07,160 --> 00:01:15,000
+and the exciting next steps, including advances in stem cell derived isles and gene edited cells that could
+
+15
+00:01:15,000 --> 00:01:18,440
+eventually eliminate the need for immunosuppressants.
+
+16
+00:01:18,440 --> 00:01:23,960
+Keep in mind that anything here on the show is for educational purposes only, it is not medical advice,
+
+17
+00:01:24,280 --> 00:01:28,040
+always consult with a physician before making changes to your health care.
+
+18
+00:01:28,040 --> 00:01:29,160
+Now for the conversation.
+
+19
+00:01:31,000 --> 00:01:33,960
+Jonathan, welcome to the show, it's so great to have you on.
+
+20
+00:01:33,960 --> 00:01:37,640
+Thank you for having me, Justin, it's great to see you.
+
+21
+00:01:37,640 --> 00:01:44,200
+Of course, yeah, I've heard a lot about your research, your studies, your approach.
+
+22
+00:01:44,200 --> 00:01:47,960
+In fact, I had someone on the show who was kind of giving me the landscape of cures,
+
+23
+00:01:47,960 --> 00:01:53,800
+but getting a deeper dive in what Sernova's doing is exciting and I can't wait for everyone to hear
+
+24
+00:01:54,119 --> 00:02:00,440
+what's going on, but before we dive into that, I want to understand how you got involved in all this.
+
+25
+00:02:00,440 --> 00:02:04,840
+What's your background? How did you get into research for a cure?
+
+26
+00:02:05,479 --> 00:02:16,280
+Oh my word, I miss being a long journey to be honest, Justin, so I grew up in the UK and I'm a biologist,
+
+27
+00:02:16,360 --> 00:02:24,440
+but when I was at the ripe old age of 18 years old, I was diagnosed with type 1 diabetes.
+
+28
+00:02:25,720 --> 00:02:33,000
+I'm highly sure that I was type 1 for many years before I was diagnosed, so I guess most of my life
+
+29
+00:02:33,000 --> 00:02:39,960
+I've been diabetic and so it's something very close to my heart and even close to my pancreas.
+
+30
+00:02:40,920 --> 00:02:51,400
+I've been working in the pharmaceutical biotech field for just over 30 years now and I started
+
+31
+00:02:51,400 --> 00:02:58,120
+my career with big pharmaceutical companies and I really enjoyed that and then I figured I
+
+32
+00:02:58,120 --> 00:03:06,440
+maybe better suited to smaller companies where my efforts could yield a meaningful impact because I
+
+33
+00:03:06,440 --> 00:03:13,960
+got a great deal of satisfaction from working with fantastic teams that get drug products approved
+
+34
+00:03:13,960 --> 00:03:19,720
+for serious medical diseases. So when I was in the UK we got a couple of products approved for
+
+35
+00:03:19,720 --> 00:03:27,000
+pulmonary arterial hypertension and for cystic fibrosis. But I had my very keen eye
+
+36
+00:03:27,880 --> 00:03:35,480
+open scanning the horizon in the San Francisco Bay area where I was fascinated by the entrepreneurial
+
+37
+00:03:35,560 --> 00:03:41,960
+spirit. The finance things that were going on a lot of these scientific developments and I
+
+38
+00:03:41,960 --> 00:03:47,960
+particularly had an interest in a company called Aradam Corporation that were developing
+
+39
+00:03:47,960 --> 00:03:54,600
+inhaled insulin for the treatment of type 1 diabetes in collaboration with normal Nordisk.
+
+40
+00:03:55,480 --> 00:04:03,800
+And so a long story short I for the angle of myself a job and relocated the family from the UK to
+
+41
+00:04:03,800 --> 00:04:11,240
+California and that's where a lot of this began. How did you get involved with Sernova?
+
+42
+00:04:11,800 --> 00:04:20,680
+When did that start? Yeah okay so you know I moved out from Aradam and I co-founded my first
+
+43
+00:04:20,680 --> 00:04:28,120
+biotech company with a friend of the colleague called Sogenics. It was a CNS company and you know we
+
+44
+00:04:28,200 --> 00:04:35,080
+find us the company we grew the company we got a drug product approved and marketed for migraine
+
+45
+00:04:35,720 --> 00:04:42,600
+which is that company public and it went on to develop a drug for a rare disease called drove a syndrome
+
+46
+00:04:42,600 --> 00:04:48,920
+which is a terrible form of epileptic effects in children. So that that company was acquired
+
+47
+00:04:49,800 --> 00:04:56,920
+and then I went on to found a company called steady-med in the bay area to develop a drug product for pulmonary
+
+48
+00:04:56,920 --> 00:05:04,040
+arterial hypertension which with that company public and that company was also acquired. So in between
+
+49
+00:05:04,040 --> 00:05:11,640
+these things there were some pretty prestigious investors in New York and the Bay Area that invested
+
+50
+00:05:11,640 --> 00:05:18,440
+their capital into a company called Zeris Pharmaceuticals that at the time were developing the world's first
+
+51
+00:05:18,440 --> 00:05:26,120
+liquid-stable glucogon to treat severe hyperglycemia for type 1 diabetes and they asked me to
+
+52
+00:05:26,120 --> 00:05:31,880
+represent them on the board of Zeris which I was happy to do and then the company had a technical
+
+53
+00:05:31,880 --> 00:05:38,200
+setback and so they asked me to work on that and fix it and with again surrounded by a great team
+
+54
+00:05:38,920 --> 00:05:46,760
+we fixed the problem and that company went on to do a public offering as well and the product is approved
+
+55
+00:05:46,760 --> 00:05:53,000
+it sits on my bedside cabinet in the room behind me hoping that I never need to use it to
+
+56
+00:05:53,000 --> 00:06:01,160
+get a wife use it to get out of it to get out of it to be a happy glycemic. So I also on the board
+
+57
+00:06:01,160 --> 00:06:09,160
+of a company called IMtheraputix, they are developing a drug product to delay the onset of type 1 diabetes
+
+58
+00:06:10,280 --> 00:06:16,840
+I was on the board of a company called Thermaline that was developing a liquid a thermostable insulin
+
+59
+00:06:16,840 --> 00:06:25,160
+for countries that don't have called supply chain mechanism systems in place and then a few other
+
+60
+00:06:25,160 --> 00:06:31,800
+things but middle of last year I decided to look for something new and exciting to do
+
+61
+00:06:32,680 --> 00:06:38,920
+and a colleague of mine who I sit on a board with a cancer company board told me about Sermilva
+
+62
+00:06:40,360 --> 00:06:45,160
+frankly I haven't heard of the company but you know I started to look at the technology
+
+63
+00:06:46,040 --> 00:06:54,840
+this vision of developing a functional cure for type 1 diabetes and and I was sold you know I
+
+64
+00:06:54,840 --> 00:07:00,440
+looked at the data I looked at the technology and they asked me to join as a member of the board of
+
+65
+00:07:00,440 --> 00:07:08,360
+director's arranging to live last year and happily did so with the short period of time they asked me
+
+66
+00:07:08,360 --> 00:07:13,240
+to become the executive chairman and help capitalise the company so I said yes
+
+67
+00:07:14,200 --> 00:07:19,160
+that a little bit after that asked me to be the CEO and of course I joined
+
+68
+00:07:19,720 --> 00:07:25,560
+again because this is something very very personal for me and I believe in the future of the company
+
+69
+00:07:26,520 --> 00:07:33,800
+wow well thank you for telling me all of that because it's it's so interesting here people like
+
+70
+00:07:33,800 --> 00:07:41,880
+use your background and and all the work you've done in this field it it does sound personal to you and
+
+71
+00:07:41,880 --> 00:07:48,680
+it gives me hope every time I have someone like you on my show who lives with this disease
+
+72
+00:07:48,680 --> 00:07:56,600
+understands the struggle and genuinely wants to make it better in some way and to get to work on something
+
+73
+00:07:56,600 --> 00:08:03,880
+that can do that is is incredible so thank you for all the work you've done so far I'm I'm excited about
+
+74
+00:08:03,880 --> 00:08:13,560
+the work you're doing here and I think what that what someone like you also helps give me hope with
+
+75
+00:08:13,560 --> 00:08:21,159
+is you know so many people are jaded that there will ever be a cure you know people have been told for
+
+76
+00:08:21,159 --> 00:08:27,000
+years five to ten years there will be a cure and at this point people are over it they don't think it's
+
+77
+00:08:27,080 --> 00:08:35,480
+coming but when I hear about people who live with this disease working on that cure that gives me hope
+
+78
+00:08:35,480 --> 00:08:41,080
+because these people people like you want to see the cure because it will better your life too right that's a big
+
+79
+00:08:41,080 --> 00:08:47,720
+investment what are your thoughts on this fact that you know everyone's heard five to ten years there will
+
+80
+00:08:47,720 --> 00:08:54,840
+be a cure I mean have you been hearing that your whole life and do you think that we're actually at a
+
+81
+00:08:54,840 --> 00:09:03,000
+point where maybe that's true now just in first of all thank you for the thanks but I also thank
+
+82
+00:09:03,000 --> 00:09:11,320
+yourself for the great exposure of development stage technologies should products etc that you make
+
+83
+00:09:11,880 --> 00:09:19,240
+because that contribute significantly to the knowledge base of people in the field of diabetes
+
+84
+00:09:19,320 --> 00:09:24,680
+and for parents children caregivers who are frightened to death because of the disease that
+
+85
+00:09:24,680 --> 00:09:31,160
+their friends, their relatives, their husbands, wives, children have so a fact thanks to you and yes my father
+
+86
+00:09:32,200 --> 00:09:39,160
+ever since I became diabetic would send me newspaper articles you know three mice in the laboratory
+
+87
+00:09:39,160 --> 00:09:47,800
+and Liverpool hospital are no longer diabetic or you know there's a cure around the corner and I think back
+
+88
+00:09:47,880 --> 00:09:57,160
+to when you know literally a hundred years ago and before then diabetes was a death sentence
+
+89
+00:09:57,160 --> 00:10:04,600
+you were you are certain to die pretty darn quickly and I think of the scientists in Canada in London
+
+90
+00:10:04,600 --> 00:10:12,920
+Ontario and Toronto, Bunting and Baston and Colip you know they probably thought they could never do anything about this
+
+91
+00:10:13,000 --> 00:10:18,839
+but they did you know the breakthrough was made insulin was discovered it went sounds to be purified
+
+92
+00:10:19,719 --> 00:10:29,079
+and in fact when I was diagnosed I was injecting myself with porcelain insulin from a glass syringe
+
+93
+00:10:29,079 --> 00:10:36,839
+that was I would reuse over and over every single day terribly blunt and nasty thick needles
+
+94
+00:10:37,640 --> 00:10:44,200
+and no way to measure my blood sugar so you think about where we've come since then to where we are today
+
+95
+00:10:45,640 --> 00:10:52,280
+so now you know I'm the the benefactor of I use an insulin pump I use a continuous glucose meter
+
+96
+00:10:53,000 --> 00:11:01,720
+like a new you do and it's a it's a millennia of progress from where where I used to be and obviously
+
+97
+00:11:01,720 --> 00:11:08,440
+now we're injecting a recombinant human insulin which is very very similar to where we are now
+
+98
+00:11:09,720 --> 00:11:15,960
+to normal instant but we've got a long way to go and so I have absolutely no a day to my mind
+
+99
+00:11:16,520 --> 00:11:22,840
+that one day people will say do you remember that disease called diabetes you know it's it's gone
+
+100
+00:11:23,400 --> 00:11:29,800
+and there'll be a lot of people responsible for fixing this disease, curing this disease and
+
+101
+00:11:30,600 --> 00:11:38,200
+you know helping people live the lives of a daily basis yeah I really do hope for a day when we can say that
+
+102
+00:11:38,840 --> 00:11:43,240
+and I hope it's during my lifetime because I think that would just be so incredible to see
+
+103
+00:11:43,880 --> 00:11:49,480
+it would feel like a payoff I think to your work even to my work I think to so many people's work it would
+
+104
+00:11:49,480 --> 00:11:55,800
+feel really gratifying and then I guess just to be able to have my diabetes cared would be quite nice
+
+105
+00:11:57,240 --> 00:12:04,200
+this episode is sponsored by OmniPod as someone with T1D and with an incredibly active lifestyle it's
+
+106
+00:12:04,200 --> 00:12:10,120
+important for me not to get tied up especially with tubes on my insulin pump I love to go swimming,
+
+107
+00:12:10,120 --> 00:12:15,800
+lift weights and play kickball with friends and with OmniPod 5 I never have to worry about tubes
+
+108
+00:12:15,800 --> 00:12:20,920
+getting in the way plus not having to disconnect helps me to stay in range during all of my
+
+109
+00:12:20,920 --> 00:12:26,120
+favorite physical activities that includes sexy time too see if you're eligible for a 30 day
+
+110
+00:12:26,120 --> 00:12:32,040
+trial by visiting OmniPod.com slash dive tech on there you'll see full safety and risk information
+
+111
+00:12:32,040 --> 00:12:40,520
+and trial terms that's OmniPod.com slash dive tech let's get into Sernova tell us a little bit about
+
+112
+00:12:40,520 --> 00:12:51,800
+the company is the cure for diabetes what Sernova's always been focused on? Yes it has it's mainly focused
+
+113
+00:12:51,800 --> 00:12:59,560
+on type one diabetes we are doing some work in thyroid disease and hemophilia as well but the main focus is
+
+114
+00:12:59,560 --> 00:13:12,280
+always being type one diabetes the concept of replacing dysfunctional cells that are normal
+
+115
+00:13:12,280 --> 00:13:19,080
+pankers would have so the alpha cells are beta cells and the delta cells and so the company
+
+116
+00:13:19,080 --> 00:13:27,800
+going back in history developed what you can see here on the screen we call this our cell poached technology
+
+117
+00:13:28,440 --> 00:13:37,160
+and it literally is a poached and it's made from implantable, playable, surgical mesh so what
+
+118
+00:13:37,160 --> 00:13:45,160
+the physician does right now in our clinical trial is the physician will surgically implant this beneath
+
+119
+00:13:45,160 --> 00:13:52,360
+the skin of your abdomen but above the muscle fascia of your abdomen then what happens your blood vessels
+
+120
+00:13:52,360 --> 00:14:00,200
+grow around this they grow in it and they grow through it and we call it a bio hybrid organ so it
+
+121
+00:14:00,200 --> 00:14:08,040
+literally turns into what we call a bio hybrid organ we can see these horizontal channels there are plastic
+
+122
+00:14:08,040 --> 00:14:16,280
+rods essentially so when this has become vascularized the surgeon will go into under your skin again
+
+123
+00:14:16,280 --> 00:14:23,720
+it will pull these rods out leaving these cylindrical cylinders inside the pouch into which
+
+124
+00:14:23,720 --> 00:14:31,959
+he will then now she will then impregnate this with functional eyelet cells and so that's the technology
+
+125
+00:14:31,959 --> 00:14:40,520
+and we've been working on this for several years now and we are partly through the phase one to clinical
+
+126
+00:14:40,520 --> 00:14:46,840
+trial which means your evaluating principle is safety and also you're looking for efficacy
+
+127
+00:14:47,560 --> 00:14:55,880
+and the efficacy that we've been looking for is patients becoming insulin independent and what that
+
+128
+00:14:55,880 --> 00:15:02,439
+means it means that you no longer have to rely on your insulin pump, on your auto injector, on your vials and so
+
+129
+00:15:02,440 --> 00:15:09,240
+inches and you can go back your daily life without that as you know is a burden of some
+
+130
+00:15:10,440 --> 00:15:17,800
+way of treating T one day at the moment and in the first call hot we are six patients and all of those
+
+131
+00:15:17,800 --> 00:15:24,760
+six patients achieved insulin independence for varying lengths of time I don't want to over promise
+
+132
+00:15:24,760 --> 00:15:29,800
+and over stay where we are you know we are still very much in the research and development stage
+
+133
+00:15:30,600 --> 00:15:37,080
+but we have more patients in the study now and then next year we'll be moving to a different kind of
+
+134
+00:15:37,080 --> 00:15:43,160
+cell cells that I'd be happy to talk to you about it. Yeah a few of the things that you've mentioned I want
+
+135
+00:15:43,160 --> 00:15:51,480
+to dig deeper into but before we do where did the idea for a cell pouch come from it it seems so different
+
+136
+00:15:52,040 --> 00:15:58,200
+and unique compared to a lot of the other research out there why was this approach important for
+
+137
+00:15:58,200 --> 00:16:06,600
+certain of it to to focus on. Yeah so the scientific founders of the organisation you know
+
+138
+00:16:06,600 --> 00:16:15,000
+understood the debut going to try and cure human diseases that are related to dysfunctional cells
+
+139
+00:16:15,720 --> 00:16:24,520
+you need to have a mechanism or vehicle into which you can put the cells that you take them from
+
+140
+00:16:24,520 --> 00:16:31,800
+external you put them inside and one of the things that they've used being critical was retrievability
+
+141
+00:16:32,520 --> 00:16:41,400
+so if you put the cells into an organ into a muscle just into your skin have an preventeness but
+
+142
+00:16:41,400 --> 00:16:48,600
+should there be a problem it's preferable to be able to remove them so the cell pouch does a few things it
+
+143
+00:16:48,600 --> 00:16:57,000
+allows this containment system that can be retrieved of necessary but it also turns into this
+
+144
+00:16:57,000 --> 00:17:03,800
+vascularised organ so these cells need to live then you do oxygen they need nutrients and if they are
+
+145
+00:17:03,800 --> 00:17:11,480
+in something that isn't porous and in contact with the circulatory system and the chance that they will die
+
+146
+00:17:11,480 --> 00:17:17,640
+so that's where the idea came from and that's what we're diligently working on today. When someone gets the
+
+147
+00:17:17,720 --> 00:17:23,080
+pouch inserted is it on the outside like is it something you can see through see and feel through the
+
+148
+00:17:23,080 --> 00:17:33,480
+skin or is it like behind the muscles is so you have your muscles then on top of that you have the skin
+
+149
+00:17:34,200 --> 00:17:41,160
+and there's kind of a gap between so it goes into that gap so it sits on top of the muscles but underneath
+
+150
+00:17:41,240 --> 00:17:48,840
+your skin which allows for this prolific vascularisation and when the patients have these
+
+151
+00:17:48,840 --> 00:17:56,680
+implanted they don't feel anything you can't see it you can't feel it and they they forget about it
+
+152
+00:17:57,960 --> 00:18:05,240
+okay I mean I'm just so if I was you know had a six pack I don't right now because I'm you know
+
+153
+00:18:05,320 --> 00:18:09,320
+I just haven't been on my routine I I've never had a six pack but I've been toned anyway
+
+154
+00:18:09,880 --> 00:18:15,400
+if and when I have a six pack if I had this I wouldn't be able to see it like it wouldn't be over my
+
+155
+00:18:15,400 --> 00:18:23,800
+abs if I like was that cut or what it I'm just curious. No you wouldn't be able to see it it's incredibly
+
+156
+00:18:23,800 --> 00:18:31,080
+thin and incredibly malleable and it literally gets surrounded by blood vessels so you you can't see it
+
+157
+00:18:31,720 --> 00:18:39,000
+I know that this approach requires immunosuppressants. Can you explain to us why they are needed in this approach
+
+158
+00:18:39,720 --> 00:18:50,520
+currently? Yes well it's an interesting question because you and I are diabetic because of our
+
+159
+00:18:50,520 --> 00:18:56,600
+immune system. Not a lot of people know that so your immune system is your best friend
+
+160
+00:18:57,480 --> 00:19:03,480
+where it's fighting off millions and millions of bacteria viruses and cancer cells every single day
+
+161
+00:19:04,600 --> 00:19:11,160
+but it can it can turn around and attack the body's own cells and there are lots of diseases
+
+162
+00:19:11,960 --> 00:19:18,280
+caused by the immune system we call them autoimmune diseases and type one diabetes is an autoimmune disease
+
+163
+00:19:18,920 --> 00:19:26,840
+so once upon a time the immune system decided to draw a destroyer pancreas and one day decided to
+
+164
+00:19:26,840 --> 00:19:35,000
+destroy my pancreas and so what we need to do if you introduce a foreign object into a body be
+
+165
+00:19:35,000 --> 00:19:43,080
+there in this case obviously a cell a biological cell your immune system has the propensity to
+
+166
+00:19:43,080 --> 00:19:50,280
+recognize that it's not natural it's not native to your body and it will attack them so you know if
+
+167
+00:19:50,280 --> 00:19:57,399
+you have a heart transplant a kidney transplant any kind of transplant where you're introducing a foreign
+
+168
+00:19:58,679 --> 00:20:05,480
+cell or a foreign article into your body we need to tap that immune system down to stop at attacking
+
+169
+00:20:05,480 --> 00:20:11,560
+the organ or in our case the cells that have been implanted so there's a fine balance there between
+
+170
+00:20:12,200 --> 00:20:18,040
+suppressing immune system to a point where it's not attacking the cells but it's still able to fight
+
+171
+00:20:18,040 --> 00:20:25,080
+off the bacteria and the viruses that I mentioned we know there is a ongoing science
+
+172
+00:20:26,840 --> 00:20:33,879
+where people are looking at coating these cells with various matrices so that they essentially become
+
+173
+00:20:33,880 --> 00:20:40,680
+invisible to your immune system other our company is looking at gene editing the cells so what's
+
+174
+00:20:40,680 --> 00:20:47,480
+again they become I'm using the word invisible but they are not recognized by the immune system
+
+175
+00:20:48,440 --> 00:20:53,880
+there was a company that recently put out a little bit of good data on these gene editing cells
+
+176
+00:20:54,600 --> 00:21:01,720
+being implanted but that's quite a way into the phara rising let's get into the clinical trials
+
+177
+00:21:02,440 --> 00:21:11,720
+so far so I know there there was that first study when was that conducted and what were the
+
+178
+00:21:11,720 --> 00:21:19,320
+qualifications for the patients who took part in it? I'm sure there were many but I kind of want to have
+
+179
+00:21:19,320 --> 00:21:25,880
+a good idea of who these people were. No problem so this study's actually been going on for a number of years
+
+180
+00:21:26,760 --> 00:21:34,520
+what's been rate limiting to the progress the cells that we are putting in the cell approach right now
+
+181
+00:21:34,520 --> 00:21:43,480
+the isle cells which are the cells that you how in your pancreas we are obtaining those from human donors
+
+182
+00:21:44,200 --> 00:21:51,000
+so these are kind of very cells and so we know we can control how many of those we can get access to
+
+183
+00:21:51,000 --> 00:21:57,480
+we're waiting for donors and not can we control the quality and consistency of those cells
+
+184
+00:21:58,360 --> 00:22:03,800
+so the study's been going on for a number of years now but we also signed a collaboration
+
+185
+00:22:04,600 --> 00:22:13,000
+with a company in Germany called Evil Tech and they are using induced pleuriportive stem cells
+
+186
+00:22:13,720 --> 00:22:22,760
+to manufacture human isle clusters so these are cells that are biologically made from stem cells
+
+187
+00:22:22,760 --> 00:22:29,960
+they differentiate into isle cells so that is a program that we have going on at the moment and our
+
+188
+00:22:29,960 --> 00:22:39,240
+hope and expectation is that next year in 2026 will be in the clinic with these stem cells so that
+
+189
+00:22:39,320 --> 00:22:45,560
+does a number of things for us you know we have then have an abundant supply of cells we know that
+
+190
+00:22:45,560 --> 00:22:52,760
+they are all consistent in quality and there is no limit to how many cells we can make so in power
+
+191
+00:22:52,760 --> 00:22:59,720
+of that we've been doing our trial and looking to optimize and understand how many cells we need to put in
+
+192
+00:22:59,720 --> 00:23:06,200
+these approaches depending on the on the on the on the weight of the patient principally and we've been
+
+193
+00:23:06,200 --> 00:23:12,600
+optimizing the immune suppression regime and we're making good progress and we are very
+
+194
+00:23:12,600 --> 00:23:18,360
+confident that next year we'll be in the clinic with these eyelet-like clusters managed
+
+195
+00:23:18,360 --> 00:23:24,760
+actually by Evil Tech so that's an exciting day that I'm looking forward to so I want to
+
+196
+00:23:25,400 --> 00:23:28,920
+let people know also you know a lot of people are going to listen to this and be like well when
+
+197
+00:23:28,920 --> 00:23:35,800
+how can I sign up I want to be part of these trials but I know that when you're when you're
+
+198
+00:23:35,800 --> 00:23:40,360
+taking on people for these clinical trials it's a very specific type of patient that you want to
+
+199
+00:23:40,360 --> 00:23:46,919
+bring on it's not your everyday person who's got a pretty good A1C and is managing pretty well right
+
+200
+00:23:46,919 --> 00:23:53,240
+like you need to be pretty specific who are these people that are part of these trials what what is
+
+201
+00:23:53,240 --> 00:24:00,120
+their situation often like yeah so just in your your correct we we call it inclusion criteria
+
+202
+00:24:00,680 --> 00:24:07,800
+so we and the investigators and the trials specify what kind of patients are eligible to enter
+
+203
+00:24:07,800 --> 00:24:14,040
+into the trial and some of the things that I can disclose you know these patients have to be
+
+204
+00:24:14,600 --> 00:24:24,840
+over 18 years of age after have a body mass index that is reasonably in control and in range
+
+205
+00:24:25,480 --> 00:24:33,480
+but importantly they need to have demonstrated a history of severe hypoglycemia and
+
+206
+00:24:33,480 --> 00:24:41,320
+nocturnal hypoglycemia so these are pretty sick people however was fascinating you know people are
+
+207
+00:24:41,320 --> 00:24:47,800
+diligent a lot of the time a lot of the time they're absolutely not so we have a mix of people in the
+
+208
+00:24:47,800 --> 00:24:56,680
+trial some with high HBA1Cs which you know is a is a mechanism is a test for
+
+209
+00:24:57,639 --> 00:25:03,320
+seeing how well controlled your diabetes is over the last three months so we have some people who were in
+
+210
+00:25:03,320 --> 00:25:11,480
+the normal range which is less than 6.5% of the glycated hemoglobin and then there were patients that
+
+211
+00:25:11,480 --> 00:25:19,640
+were 10, 12, 13 which you will know that's a very very high number and what we saw in those trials
+
+212
+00:25:19,640 --> 00:25:25,960
+so the patients that had their A1Cs already controlled even though it's tremendous burden for
+
+213
+00:25:25,960 --> 00:25:32,760
+them to control the diabetes they have a controlled A1C over period of time this when they were on the
+
+214
+00:25:32,760 --> 00:25:39,800
+cell post therapy they maintained that good glycemic control but without having to do all of the
+
+215
+00:25:39,879 --> 00:25:45,399
+million things that you and I have to do every day to control our blood sugar and then the people
+
+216
+00:25:45,399 --> 00:25:53,560
+that had high A1Cs in the 910 11 range those came down into the normal range so from 10 to
+
+217
+00:25:53,560 --> 00:26:01,480
+below 6 to 6 and to put that into perspective because it doesn't sound like very much there are many
+
+218
+00:26:01,480 --> 00:26:12,360
+many studies showing that if you reduce your A1C by 1% you reduce the incidence of cardiovascular
+
+219
+00:26:12,360 --> 00:26:22,040
+problems, myocardial infarction by about 14%. So bringing that A1C is critical to the long term
+
+220
+00:26:22,040 --> 00:26:27,800
+control of cold morbidities associated with type 1 diabetes that a lot of people frankly forget about
+
+221
+00:26:28,600 --> 00:26:37,560
+these patients of with this study I know that there was one who became insulin independent for over
+
+222
+00:26:37,560 --> 00:26:43,720
+five years. Where's that patient now? How are they doing? Are they still insulin dependent?
+
+223
+00:26:43,720 --> 00:26:51,320
+Independent? How long has it been? What's what's going on with them? Yes so that was actually the first
+
+224
+00:26:51,320 --> 00:27:00,120
+patient in the trial and this lady whose name I can't mention she became insulin independent
+
+225
+00:27:00,120 --> 00:27:05,800
+the beginning of the trial and she was still insulin independent after four and a half years.
+
+226
+00:27:06,760 --> 00:27:11,960
+Unfortunately and there were no additional surgeries, no additional transplants,
+
+227
+00:27:11,960 --> 00:27:18,040
+or implants of cells after four and a half years she developed another condition which meant
+
+228
+00:27:18,280 --> 00:27:25,240
+unrelated to what the study that we were conducting and she had to stop her immune suppression.
+
+229
+00:27:25,960 --> 00:27:33,320
+So that meant that she had to commit a trial so we had the opportunity then to retrieve the cell
+
+230
+00:27:33,399 --> 00:27:43,960
+pouches and we retrieved them and we showed that the cell pouches were at no fibrosis,
+
+231
+00:27:44,679 --> 00:27:51,720
+the structural integrity was a hundred percent intact and then we went on to do histological analysis
+
+232
+00:27:51,720 --> 00:28:00,520
+of cell analysis of the eyelet cells in the pouches and we showed at abundance of fully functional cells
+
+233
+00:28:01,160 --> 00:28:08,120
+producing the three hormones that you need to control diabetes. So you know people when you
+
+234
+00:28:08,120 --> 00:28:11,960
+you talk about type one diabetes they said oh you just need insulin what's the problem?
+
+235
+00:28:13,240 --> 00:28:20,200
+But the normal person on the street the pancreas makes three hormones. So you have insulin that's
+
+236
+00:28:20,200 --> 00:28:27,800
+razor blood sugar down but in a normal pancreas you also decrease a hormone called glucone
+
+237
+00:28:28,440 --> 00:28:34,840
+which raises your blood sugar to prevent you going high pole glycemic which is as you know is
+
+238
+00:28:34,840 --> 00:28:40,600
+not a pleasant thing and is life threatening but then also a hormone called somatostatic that controls
+
+239
+00:28:40,600 --> 00:28:46,840
+insulin and glucocone and keeps your blood sugar in the normal range. So what we're doing here
+
+240
+00:28:46,840 --> 00:28:53,480
+we're not just providing patients with replacements of their insulin we're providing them with normal glycemic
+
+241
+00:28:53,560 --> 00:29:01,480
+control associated with all three hormones that are secreted by pancreas. Okay and I know that
+
+242
+00:29:01,480 --> 00:29:08,680
+there were another what five or six patients that became insulin independent. What what's the status
+
+243
+00:29:08,680 --> 00:29:16,520
+of those patients? So some of them are still going on so they're still you know they're still being
+
+244
+00:29:16,520 --> 00:29:22,120
+monitored by the clinical trial site and still insulin independent and some of them had to stop
+
+245
+00:29:22,120 --> 00:29:29,000
+three before various reasons. Again let's be realistic here you know this is a an early stage
+
+246
+00:29:29,880 --> 00:29:36,360
+proof of concept clinical trial upon which we will build year on year until we get this approved.
+
+247
+00:29:37,080 --> 00:29:45,080
+How long are you going to monitor all of these patients? We monitor if they're still on the therapy we
+
+248
+00:29:45,080 --> 00:29:51,320
+monitor them all the time you know these patients they're still used continuously cosmeters
+
+249
+00:29:52,280 --> 00:29:58,200
+so they can see every every minute of everyday what the blood sugar is. In fact our
+
+250
+00:29:58,200 --> 00:30:06,520
+principal investigator he has the continuously cos graphs and charts on his phone as well. So these
+
+251
+00:30:06,520 --> 00:30:13,080
+people have been monitored very safe then we there are obviously safety measures in place for when you're
+
+252
+00:30:13,080 --> 00:30:19,560
+running a clinical trial and those we take those very seriously and we monitor these people all the time.
+
+253
+00:30:20,360 --> 00:30:27,240
+Okay and I know that some people failed with this treatment. What were you seeing there? What was
+
+254
+00:30:27,240 --> 00:30:32,360
+what did you come up with the reason as to why some people you know it wasn't taking for them?
+
+255
+00:30:33,320 --> 00:30:42,919
+Yeah so in the second part of this trial we call it cohort B. What we were trying to do was put more
+
+256
+00:30:42,920 --> 00:30:53,320
+cells in but also try to reach a immune suppression regime that is well tolerated these these
+
+257
+00:30:53,320 --> 00:31:01,080
+regimes can be polluted by people but it gets to that level where we're not causing the immune system
+
+258
+00:31:01,080 --> 00:31:08,920
+to allow your immune sort of the immune suppressants allowing your immune system to attack the cells.
+
+259
+00:31:09,640 --> 00:31:15,720
+So you know in very late months term we've been turning knobs on the cooker head to try and
+
+260
+00:31:15,720 --> 00:31:21,720
+balance all of this out. So in some of those patients we have some of them ongoing that are insulin
+
+261
+00:31:21,720 --> 00:31:27,960
+independent in this second cohort and then we have others that failed and you know that's what we need to
+
+262
+00:31:27,960 --> 00:31:33,320
+know we need to know what works and we need to know what doesn't work so that when we move into the next
+
+263
+00:31:33,320 --> 00:31:42,760
+cohort we'll you know you take a big step forward each time you do these these trials.
+
+264
+00:31:43,399 --> 00:31:49,639
+Are you recruiting at all right now for for any trials or are you kind of working with what you have for now?
+
+265
+00:31:49,639 --> 00:31:57,159
+No okay yeah if you want to learn where this you know this contact information on our website
+
+266
+00:31:58,120 --> 00:32:03,640
+Feel free to send us an email yeah I'll put that I'll put a link to that in the show notes
+
+267
+00:32:04,920 --> 00:32:12,680
+Today's episode is sponsored by T1D Exchange you can directly make an impact on diabetes health care
+
+268
+00:32:12,680 --> 00:32:20,040
+treatments and technology by participating in the T1D Exchange registry it starts with the simple survey about your
+
+269
+00:32:20,040 --> 00:32:26,040
+life with T1D and it only takes about 15 minutes after that you'll have a personal portal with ongoing
+
+270
+00:32:26,040 --> 00:32:31,879
+T1D study and survey opportunities plus some of these studies even offer compensation
+
+271
+00:32:31,879 --> 00:32:37,000
+signing up with the link in the show notes help support my channel and it allows me to continue putting
+
+272
+00:32:37,000 --> 00:32:45,240
+out free content you can sign up at t1dxchange.org slash diabetic or click that link in today's show notes
+
+273
+00:32:45,720 --> 00:32:53,480
+So let's talk about kind of what's next for Sernova you mentioned the stem cell derived
+
+274
+00:32:53,480 --> 00:33:01,320
+Islet cells can you kind of explain that to us a little more deeply as to why that will be helpful right like right now
+
+275
+00:33:01,320 --> 00:33:10,280
+You're relying on donations of cells right so this could be an opportunity to just mass produced is that what this is
+
+276
+00:33:10,920 --> 00:33:20,440
+It's a certainly mass production and but when you obtain a donor cell so unfortunately these
+
+277
+00:33:21,000 --> 00:33:27,879
+poor people are deceased and they are on the organ donor list and the pancreas and other organs are
+
+278
+00:33:29,000 --> 00:33:35,399
+retrieved and you know thank the law of four people willing to do this and so when the cells are
+
+279
+00:33:35,720 --> 00:33:39,800
+harvested from one to the best phrase they are not always the same
+
+280
+00:33:40,680 --> 00:33:46,440
+you know taking cells from a deceased organ and putting it into a healthy
+
+281
+00:33:47,640 --> 00:33:54,680
+human being it is miraculous and you know we've been able to achieve that and you know organ transplantation
+
+282
+00:33:54,680 --> 00:34:01,720
+there's been able to achieve that but there are limitations on quantity as you said but also on quality
+
+283
+00:34:02,360 --> 00:34:09,800
+so deriving these Islet cells from stem cells allows us to address the quantity issue
+
+284
+00:34:10,360 --> 00:34:17,800
+because they're made in a in a GMP laboratory facility so you can make as many as as you like
+
+285
+00:34:18,600 --> 00:34:26,520
+and and they are all will be the same consistency and quality and the cells that we have so far we've
+
+286
+00:34:27,080 --> 00:34:33,320
+done them in pre clinical studies and they two produce insulin glucogram and somatic statin
+
+287
+00:34:34,199 --> 00:34:42,520
+and we've done some animal models where these animals are induced to be diabetic and of course
+
+288
+00:34:42,520 --> 00:34:49,960
+their blood sugar flies sky high and then you know they are the other recipients of transplants of these cells
+
+289
+00:34:50,600 --> 00:34:58,680
+and then that blood sugar comes into the normal range we see a very flat line just in a
+
+290
+00:34:58,680 --> 00:35:04,360
+unit I could show our curves and our phones now we we don't have flat lines but these high quality
+
+291
+00:35:04,360 --> 00:35:11,560
+highly functioning cells are in the normal range for the duration of the study and even when you give the
+
+292
+00:35:11,880 --> 00:35:21,640
+the animals a high glucose diet you know a high carbohydrate diet to see of the blood sugar spikes
+
+293
+00:35:21,640 --> 00:35:31,880
+it doesn't it stays controlled so it's the future and when we get there we can say we we had a functional
+
+294
+00:35:31,880 --> 00:35:38,520
+cure will it work for everybody who knows I don't know these stem cell derived Islet cells are these one
+
+295
+00:35:38,520 --> 00:35:45,000
+step toward the gene edited cells that you're working on that would that wouldn't require immunosuppressants
+
+296
+00:35:45,000 --> 00:35:54,520
+kind of are there some phases that you have to go on before you get to a cell that evades immunosystem
+
+297
+00:35:55,320 --> 00:36:03,560
+yes you're absolutely correct so the the stem cell derived Islet cells will be our first entry into the
+
+298
+00:36:04,279 --> 00:36:11,160
+into the marketplace if you like and then in power law we will continue to work on these gene edited cells
+
+299
+00:36:11,880 --> 00:36:20,600
+and then the expectations that one day the stem cells would be surpassed by the gene edited cells
+
+300
+00:36:20,600 --> 00:36:26,360
+well they're still stem cells but they edit the genes so that the the surface of the cells is it's not
+
+301
+00:36:26,360 --> 00:36:34,600
+recognizable by the by the immune system so that's the I'm not sure this is an appropriate phrase but
+
+302
+00:36:34,600 --> 00:36:44,280
+that would be the holy grail yeah what would you say is the big obstacle here the big obstacle is science
+
+303
+00:36:44,280 --> 00:36:51,080
+it takes a lot of time to validate the science scale up the manufacturing to make sure that everything is
+
+304
+00:36:51,720 --> 00:36:57,960
+at a very very high level of quality and that the cells are very very safe you have to prove that
+
+305
+00:36:58,840 --> 00:37:06,360
+in many many studies so it is a time under money candidly it just takes a long time to do this work
+
+306
+00:37:06,920 --> 00:37:13,080
+so um recently a company sent a biotechnology they put out research that their approach
+
+307
+00:37:13,960 --> 00:37:20,680
+for a cure doesn't require immunosuppressants what did you find interesting about their approach
+
+308
+00:37:21,560 --> 00:37:29,400
+I was fascinating um they implanted these cells into the four muscle of the patient with type one
+
+309
+00:37:29,400 --> 00:37:37,880
+diabetes and they monitored their insulin use and their glucose control over a month of a 28 days
+
+310
+00:37:38,680 --> 00:37:46,920
+and at the end of the 28 days they didn't see anything of safety concern and they did see
+
+311
+00:37:46,920 --> 00:37:53,800
+insulin independence so the patients was wasn't not needing to give themselves exogenous insulin
+
+312
+00:37:54,600 --> 00:38:01,640
+so that's that's wonderful news but we also have to put it into some kind of perspective it was one
+
+313
+00:38:01,640 --> 00:38:09,319
+patient over 28 days so ultimately you're going to need data on many many patients for a long
+
+314
+00:38:09,319 --> 00:38:18,359
+long time so great news but it's very early is there some form of crowdsourcing of information
+
+315
+00:38:18,920 --> 00:38:25,240
+like you have Santa biotech coming out saying they did this you have vertex building a factory for
+
+316
+00:38:25,240 --> 00:38:34,040
+their derived stem cells I'm sure you're not trading super secret stuff but is there some form of
+
+317
+00:38:34,040 --> 00:38:39,160
+when you hear a company do something oh maybe that's a direction we kind of go into or or is there
+
+318
+00:38:39,160 --> 00:38:45,800
+some form of communication going on between these companies there is I mean there's definitely
+
+319
+00:38:45,800 --> 00:38:51,080
+communication and we communicate with people in the field they're interested in what we are doing
+
+320
+00:38:51,080 --> 00:38:58,520
+they're interested in what they're doing and you're all of these clinical trials particularly
+
+321
+00:38:58,520 --> 00:39:05,960
+in countries like the United States you have to get permission to do them by the US FDA the food and
+
+322
+00:39:05,960 --> 00:39:12,920
+drug administration so those drug applications the protocols for doing the trials they are public
+
+323
+00:39:13,720 --> 00:39:21,720
+so you can go on to pubmed.gov is called and you can read our clinical trial design you can read
+
+324
+00:39:21,720 --> 00:39:27,560
+vertex is clinical trial designs what kind of patients they're looking exactly how that that
+
+325
+00:39:27,560 --> 00:39:34,920
+I can do up to these studies and then there's an obligation when you get the data when you the trial
+
+326
+00:39:34,920 --> 00:39:41,480
+completes that you have to disclose the good the button the indifference and each trial especially
+
+327
+00:39:41,480 --> 00:39:49,080
+early there's good sometimes bad and indifference data so it's very very transparent what people are doing
+
+328
+00:39:49,800 --> 00:39:56,040
+and then people like to publish their their information and have peers review their information and
+
+329
+00:39:56,040 --> 00:40:02,600
+present them a conference is so it's a very transparent organization actually Jonathan thank you so much
+
+330
+00:40:02,600 --> 00:40:08,839
+for coming on the show I'm so glad that we got a deep dive on what Cernova's going on it's very unique
+
+331
+00:40:08,839 --> 00:40:16,440
+and I'm excited to see you know how it evolves I'm glad to hear that it won't affect people six packs so that's
+
+332
+00:40:16,440 --> 00:40:23,560
+great but yeah this was this was super enlightening it's great to hear that someone like you is working on it
+
+333
+00:40:23,560 --> 00:40:29,160
+is very close to the project and and I'm hopeful for for the future trials that you have going on
+
+334
+00:40:30,120 --> 00:40:36,359
+well thank you Justin and I I don't need our deserve any praise because I'm surrounded by
+
+335
+00:40:37,399 --> 00:40:44,839
+great teams great scientists people that curb it this and I'm just one of the one of the
+
+336
+00:40:44,839 --> 00:40:51,560
+little cogs and the big mechanical clock but thank you and again thank you for the exposure that you give
+
+337
+00:40:52,120 --> 00:40:57,799
+because it's important that people know that we are working on this it's important for people who
+
+338
+00:40:58,120 --> 00:41:05,000
+the reality I'm doing this it's not an easy task but look at Ryan there are many many diseases
+
+339
+00:41:05,000 --> 00:41:12,520
+that have been cured many many diseases were years ago we were also death sentences but the farmer
+
+340
+00:41:12,520 --> 00:41:20,760
+farmer and biotech industry are fixing them in a pretty rapid succession so all good what do you think
+
+341
+00:41:20,760 --> 00:41:25,960
+about Cernova's approach let me know in the comments on YouTube and what do you think of the landscape
+
+342
+00:41:25,960 --> 00:41:31,240
+of diabetes cures did you watch last weeks episode if you didn't you gotta check that out I'll throw
+
+343
+00:41:31,240 --> 00:41:35,960
+that in the show notes and if there are any cures out there that you want me to speak with someone from
+
+344
+00:41:35,960 --> 00:41:42,200
+that company I will do my best Cernova reached out to me I think and luckily we could get something down
+
+345
+00:41:42,760 --> 00:41:48,440
+but vertex I've been trying they're they're not they're not into it but maybe there are some other
+
+346
+00:41:48,440 --> 00:41:53,560
+companies so let me know who you want to hear from in the comments and if you aren't already subscribed to
+
+347
+00:41:53,560 --> 00:41:59,400
+our blog and newsletter I've got articles going up every week on there as well as a newsletter coming
+
+348
+00:41:59,400 --> 00:42:06,120
+out every other week on diabetic.behive.com there's a link to that in the show notes you can click that and you
+
+349
+00:42:06,120 --> 00:42:11,720
+can subscribe to our newsletter that way you know what is going on in diabetic content as well as the latest
+
+350
+00:42:11,720 --> 00:42:16,920
+and greatest in diabetes technology news until next week I'm Justin I'll take you later
+

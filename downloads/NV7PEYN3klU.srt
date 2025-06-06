@@ -1,0 +1,420 @@
+1
+00:00:00,000 --> 00:00:03,360
+Hey guys, it's Justin Tech, welcome back to my channel.
+
+2
+00:00:03,360 --> 00:00:05,760
+Today I'm going to show you how to use your iPad
+
+3
+00:00:05,760 --> 00:00:08,320
+as a second display for your Mac.
+
+4
+00:00:08,320 --> 00:00:10,720
+This is a super helpful tool,
+
+5
+00:00:10,720 --> 00:00:12,280
+especially when you're on the go.
+
+6
+00:00:12,280 --> 00:00:15,480
+And you need the extra space to get your work done.
+
+7
+00:00:15,480 --> 00:00:18,600
+I'm a producer and I'm constantly video editing on the go.
+
+8
+00:00:18,600 --> 00:00:22,600
+So I've been using this lately and I absolutely love it.
+
+9
+00:00:22,600 --> 00:00:23,880
+So here it goes.
+
+10
+00:00:23,880 --> 00:00:30,520
+So what I'm going to show you today is how to use your iPad
+
+11
+00:00:30,520 --> 00:00:33,120
+as a second display using sidecar,
+
+12
+00:00:33,120 --> 00:00:35,680
+which is ingrained in the new OS.
+
+13
+00:00:35,680 --> 00:00:37,840
+I'm going to show you how to use sidecar wirelessly.
+
+14
+00:00:37,840 --> 00:00:41,800
+And then you can also use a USB-C to Thunderbolt cable.
+
+15
+00:00:41,800 --> 00:00:43,519
+As well before we get started,
+
+16
+00:00:43,519 --> 00:00:47,280
+there are some requirements that you'll need to meet in order to do this.
+
+17
+00:00:47,280 --> 00:00:52,080
+So you'll need the correct Mac and an iPad that works with the iPad pencil.
+
+18
+00:00:52,080 --> 00:00:54,640
+So here is a list of the ones that you can use.
+
+19
+00:00:54,640 --> 00:00:55,800
+For this demonstration,
+
+20
+00:00:55,800 --> 00:00:59,600
+I'm using a MacBook Pro late 2016 model
+
+21
+00:00:59,600 --> 00:01:02,360
+and iPad 7th generation.
+
+22
+00:01:02,360 --> 00:01:04,920
+Just got it and I absolutely love it.
+
+23
+00:01:04,920 --> 00:01:07,920
+You'll also need your Mac OS system to be updated
+
+24
+00:01:07,920 --> 00:01:09,759
+to the Catalina OS.
+
+25
+00:01:09,759 --> 00:01:13,560
+And you'll need your iPad to be on iOS 13.
+
+26
+00:01:13,560 --> 00:01:15,160
+If you meet all of those requirements,
+
+27
+00:01:15,160 --> 00:01:17,080
+you are ready to go.
+
+28
+00:01:17,080 --> 00:01:18,440
+Here's how you do it.
+
+29
+00:01:18,440 --> 00:01:19,320
+First things first,
+
+30
+00:01:19,320 --> 00:01:22,840
+you need the same iPad account signed in on both devices
+
+31
+00:01:22,840 --> 00:01:24,600
+and hand-off turned on.
+
+32
+00:01:24,600 --> 00:01:27,400
+On your Mac, go to the Apple in the top left corner
+
+33
+00:01:27,400 --> 00:01:28,960
+and go to System Settings.
+
+34
+00:01:28,960 --> 00:01:31,040
+From there, you can sign into your iPad account.
+
+35
+00:01:31,040 --> 00:01:34,000
+Next, go to General and click the Allow Hand-Off
+
+36
+00:01:34,000 --> 00:01:36,720
+between this Mac and your iPad devices.
+
+37
+00:01:36,720 --> 00:01:39,120
+On your iPad, go to Settings and right up top,
+
+38
+00:01:39,120 --> 00:01:41,160
+you should be able to sign into your iPad.
+
+39
+00:01:41,160 --> 00:01:44,160
+Next, go to General, hand-off, and turn it on.
+
+40
+00:01:44,160 --> 00:01:46,560
+You also need to make sure Wi-Fi and Bluetooth
+
+41
+00:01:46,560 --> 00:01:48,840
+are both on in your settings for your Mac
+
+42
+00:01:48,840 --> 00:01:50,200
+and iPad.
+
+43
+00:01:50,200 --> 00:01:51,440
+Now you're all set.
+
+44
+00:01:51,440 --> 00:01:54,480
+Click that Airplay button in the top right corner of your Mac,
+
+45
+00:01:54,480 --> 00:01:56,880
+click iPad, and you should be connected.
+
+46
+00:01:58,040 --> 00:02:00,640
+While we're here, let me show you some cool features real quick.
+
+47
+00:02:00,640 --> 00:02:01,880
+I have my YouTube page up.
+
+48
+00:02:01,880 --> 00:02:03,920
+Sorry, shameless plug, but while we're here,
+
+49
+00:02:03,920 --> 00:02:04,960
+why don't you subscribe?
+
+50
+00:02:04,960 --> 00:02:05,800
+It's free.
+
+51
+00:02:05,800 --> 00:02:07,040
+Click the button right down there
+
+52
+00:02:07,040 --> 00:02:08,400
+and click the bell for alerts.
+
+53
+00:02:08,400 --> 00:02:10,360
+Also, you should totally like this video
+
+54
+00:02:10,360 --> 00:02:11,480
+if you found it helpful.
+
+55
+00:02:11,480 --> 00:02:13,400
+It helps me with the algorithm.
+
+56
+00:02:13,400 --> 00:02:15,320
+Anyway, if you click the green button
+
+57
+00:02:15,320 --> 00:02:17,560
+in the top left corner of an application,
+
+58
+00:02:17,560 --> 00:02:19,520
+you can quickly move it to your iPad
+
+59
+00:02:19,520 --> 00:02:21,000
+or set it to one side.
+
+60
+00:02:21,000 --> 00:02:23,000
+You can also drag it over manually.
+
+61
+00:02:23,000 --> 00:02:25,800
+You can't use the iPad as a touch screen for mouse,
+
+62
+00:02:25,800 --> 00:02:29,120
+but what you can do is scroll to fingers or pinch and zoom.
+
+63
+00:02:29,120 --> 00:02:32,600
+You can go back and forth from second to play to normal iPad,
+
+64
+00:02:32,600 --> 00:02:34,360
+just by swiping up from the bottom.
+
+65
+00:02:34,360 --> 00:02:37,560
+When you want to go back, just hit the side car app.
+
+66
+00:02:37,560 --> 00:02:39,200
+To rearrange the iPad screen,
+
+67
+00:02:39,200 --> 00:02:41,480
+just click the iPad button in the top right corner
+
+68
+00:02:41,480 --> 00:02:43,640
+and click Open Display Preferences.
+
+69
+00:02:43,640 --> 00:02:45,440
+From there, go to the arrangement tab
+
+70
+00:02:45,440 --> 00:02:47,360
+and drag it to where you want it located.
+
+71
+00:02:47,360 --> 00:02:49,240
+This was all done wirelessly.
+
+72
+00:02:49,240 --> 00:02:50,800
+If you want to keep your iPad charged,
+
+73
+00:02:50,800 --> 00:02:52,400
+you can also connect it directly
+
+74
+00:02:52,400 --> 00:02:53,720
+with a Thunderbolt cable.
+
+75
+00:02:53,720 --> 00:02:56,480
+For my setup, I needed a USB-C cable.
+
+76
+00:02:56,480 --> 00:02:58,520
+I threw a link to it in the description below
+
+77
+00:02:58,520 --> 00:02:59,560
+if you want to buy one.
+
+78
+00:02:59,560 --> 00:03:02,120
+This connection will also be a bit more stable.
+
+79
+00:03:02,120 --> 00:03:05,200
+I've been using my iPad as a second display for a little while now
+
+80
+00:03:05,200 --> 00:03:07,280
+and I've got to say it's a really great tool,
+
+81
+00:03:07,280 --> 00:03:10,040
+but sometimes I do have some lag
+
+82
+00:03:10,040 --> 00:03:11,640
+between the two displays,
+
+83
+00:03:11,640 --> 00:03:14,400
+especially when I'm video editing on Final Cut 10.
+
+84
+00:03:14,400 --> 00:03:18,400
+So I recommend not editing in 4K.
+
+85
+00:03:18,400 --> 00:03:20,640
+I noticed that there was a lot of lag when I did that,
+
+86
+00:03:20,640 --> 00:03:23,640
+so I went back to 1080p and it was much better.
+
+87
+00:03:23,640 --> 00:03:25,760
+Also, I have another display.
+
+88
+00:03:25,760 --> 00:03:28,920
+If you want more space to work in, I have this.
+
+89
+00:03:31,520 --> 00:03:34,880
+So this right here is an Aces Travel Monitor.
+
+90
+00:03:34,880 --> 00:03:36,480
+This thing is really awesome.
+
+91
+00:03:36,480 --> 00:03:40,960
+It's 21 and a half inches and it's really pretty
+
+92
+00:03:40,960 --> 00:03:43,520
+that connects via USB-C to your computer.
+
+93
+00:03:43,520 --> 00:03:45,480
+And there is absolutely zero lag.
+
+94
+00:03:45,480 --> 00:03:48,680
+I'm going to put a link to this product in the comments below.
+
+95
+00:03:48,680 --> 00:03:50,520
+This is a really great alternative.
+
+96
+00:03:50,520 --> 00:03:54,400
+If you want a little more working space than your iPad gives you,
+
+97
+00:03:54,400 --> 00:03:57,760
+I've edited with this a lot on the road and I absolutely love it.
+
+98
+00:03:57,760 --> 00:04:03,120
+This goes for about $250 and it is so worth it.
+
+99
+00:04:03,120 --> 00:04:05,280
+So I hope this video was helpful for you guys.
+
+100
+00:04:05,280 --> 00:04:07,760
+If you enjoyed it, why don't you give it a like right down there?
+
+101
+00:04:07,760 --> 00:04:09,960
+And if you guys want to see more videos like this
+
+102
+00:04:09,960 --> 00:04:12,000
+and some awesome tech adventures,
+
+103
+00:04:12,000 --> 00:04:13,760
+hit that subscribe button down there.
+
+104
+00:04:13,760 --> 00:04:15,280
+That's all I've got for you today.
+
+105
+00:04:15,280 --> 00:04:17,399
+I'm Justin and I'll take you later.
+

@@ -1,0 +1,784 @@
+1
+00:00:00,000 --> 00:00:05,520
+Hey, what's up? I'm Justin and welcome to Diabetic. Today we are getting into the
+
+2
+00:00:05,520 --> 00:00:12,880
+tandem Moby app for iOS. I have got it on my phone. I've been using the pump for about
+
+3
+00:00:13,840 --> 00:00:20,480
+almost two months now and I want to walk through kind of the entire app. What it can do and how you can
+
+4
+00:00:20,480 --> 00:00:26,000
+use it. This is the first time I've ever worn a tube pump and the interesting thing about this one is
+
+5
+00:00:26,080 --> 00:00:32,320
+there is no screen on it. It is completely controlled with the app although there is a button on it
+
+6
+00:00:32,320 --> 00:00:36,560
+that allows you to bowl this and I'll kind of get into that because you can set that up through the app
+
+7
+00:00:36,560 --> 00:00:41,680
+and I'll show you what I did with it. It's a really cool feature. If you're new here on the channel
+
+8
+00:00:41,680 --> 00:00:47,280
+I talk all things diabetes tech news and innovation. I have a podcast that comes out on Mondays
+
+9
+00:00:47,280 --> 00:00:52,640
+on YouTube and video or on podcast platforms if you just want to listen to it and I also have videos
+
+10
+00:00:52,640 --> 00:00:59,280
+come out on Fridays like this where I talk about my experience using technology and do reviews.
+
+11
+00:00:59,280 --> 00:01:04,720
+Today I'm walking you through the app how to bowl this with the home screen looks like the different modes
+
+12
+00:01:04,720 --> 00:01:09,920
+you give it in from activity to sleep mode and a bunch of other stuff. If you have questions I'm going to
+
+13
+00:01:09,920 --> 00:01:15,120
+be reviewing this. I also have a lot of other content coming out across socials and on here. So drop your
+
+14
+00:01:15,120 --> 00:01:21,040
+questions in the comments. Maybe someone else can answer and if they don't I will include that answer
+
+15
+00:01:21,040 --> 00:01:27,360
+in my review that will come out in a few weeks. Also be sure to check out diabetech.info over there.
+
+16
+00:01:27,360 --> 00:01:33,760
+I'm dropping the latest in diabetes tech and research news. We've got articles coming out every week. We've
+
+17
+00:01:33,760 --> 00:01:41,120
+also got all access where you'll get access to premium content including a brand new video all about travel.
+
+18
+00:01:41,120 --> 00:01:46,560
+Where I answer follow-up questions all about traveling with diabetes whether it be at the airport
+
+19
+00:01:46,640 --> 00:01:51,440
+keeping my insulin cool how I navigate different scenarios. It's got some great info and I'll
+
+20
+00:01:51,440 --> 00:01:57,360
+put a link in the show notes. All right let's get into it. All right let's start this bad boy up.
+
+21
+00:01:57,360 --> 00:02:03,840
+First I use the action button to open up this app it's super easy you just edit that in your settings
+
+22
+00:02:03,840 --> 00:02:08,320
+for your phone if you have that button. I also have a whole article about cool ways to use your iPhone
+
+23
+00:02:08,320 --> 00:02:13,520
+which I'll throw in the show notes. So yes it's open with the action button and here we are this is the
+
+24
+00:02:13,520 --> 00:02:20,000
+home screen. So let me kind of walk you through what is here. You've got in the top left the battery life
+
+25
+00:02:20,000 --> 00:02:26,480
+of the movie you have to recharge this pump on a charging pad. It's at 100% I just charged it on the right
+
+26
+00:02:26,480 --> 00:02:32,080
+side you've got how many units of insulin are left on board. So if I actually tap that it will take me down
+
+27
+00:02:32,080 --> 00:02:38,000
+and it will show me all of the information of like my insulin treatment at the moment. So my basil rate
+
+28
+00:02:38,080 --> 00:02:43,600
+currently is zero because I was going low just before filming of course my last bowl is
+
+29
+00:02:43,600 --> 00:02:49,040
+if control IQ is on which is like the automated insulin delivery system that algorithm
+
+30
+00:02:49,760 --> 00:02:55,440
+then the profile that's on and it even gives you like all of the details on what that profile is
+
+31
+00:02:56,080 --> 00:03:03,920
+etc. So that is on the home screen you've got your glucose level I'm 84 in steady thank goodness let's get
+
+32
+00:03:03,920 --> 00:03:10,880
+through this video and then the insulin on board 0.63 units. So yeah that is the the home screen
+
+33
+00:03:10,880 --> 00:03:16,400
+what I love there's this cool touch if you like scroll down to refresh there's like clouds it's cute they
+
+34
+00:03:16,400 --> 00:03:22,960
+did a good job here then you've got the main graph so as you can see there is a lot of information here.
+
+35
+00:03:22,960 --> 00:03:29,200
+First of all you're seeing these tear drops at the bottom or just drops I think they're insulin drops
+
+36
+00:03:29,920 --> 00:03:37,520
+not tear drops anyway these drops at the bottom represent two different types of
+
+37
+00:03:37,520 --> 00:03:43,440
+bowluses so the blue ones the light blue ones if I tap on the last one that is the last bowlis that I
+
+38
+00:03:43,440 --> 00:03:50,720
+gave the gave 17 grams bowlis and then they calculated 1.42 grams. I like that it also gives you
+
+39
+00:03:50,720 --> 00:03:55,360
+some other information that like tells you you know how much insulin was on board prior
+
+40
+00:03:55,840 --> 00:04:00,880
+bowlis and glucose so the cool thing is you can actually swipe through to like the last few
+
+41
+00:04:00,880 --> 00:04:06,320
+bowluses or just the last information so if I swipe to the left it shows me the glucose the glucose again
+
+42
+00:04:06,320 --> 00:04:11,040
+and then an automatic correction bowlis so you see all that's like a darker blue go back in here
+
+43
+00:04:11,840 --> 00:04:17,360
+that darker blue one wasn't auto correction bowlis and that's one of like the powerful features of
+
+44
+00:04:17,440 --> 00:04:24,640
+tandem's control IQ is that it will automatically bowlis you once every hour if needed
+
+45
+00:04:25,600 --> 00:04:31,760
+without you needing to like go in and do it yourself it is a nice way to you know have your diabetes
+
+46
+00:04:31,760 --> 00:04:37,920
+managed without having to really think about it so that is what the darker blue is again the light blue
+
+47
+00:04:37,920 --> 00:04:44,240
+is my or my bowlis says then you see how you have all of these numbers on the graph so for a while
+
+48
+00:04:44,240 --> 00:04:50,800
+I was trying to figure out like why are these so sporadic and happening at like the most random times
+
+49
+00:04:50,800 --> 00:04:58,000
+and I found out that those numbers come up when you open up the bowlis but menu so you see how I opened
+
+50
+00:04:58,000 --> 00:05:05,440
+up the bowlis menu and then look on the graph you will see a number up here right there you've got the
+
+51
+00:05:05,440 --> 00:05:12,080
+84 just appeared that was me I did that yeah I had no idea that was me doing that until someone told me
+
+52
+00:05:12,240 --> 00:05:17,120
+and then along the bottom you could see the the basil rate how it's fluctuating currently again at zero
+
+53
+00:05:17,120 --> 00:05:23,359
+because I'm going lower and you can kind of swipe through and see when it's getting you you know more of a basil
+
+54
+00:05:23,359 --> 00:05:28,960
+and then holding back and then your bowlis is so that's kind of all the information you're seeing on the
+
+55
+00:05:28,960 --> 00:05:36,479
+main screen and of course like that bracket is my target glucose range that I've set that app is always
+
+56
+00:05:36,480 --> 00:05:43,840
+going to try to get you to one 10 or like one 12 and then there are other features that will kind of maybe
+
+57
+00:05:43,840 --> 00:05:51,440
+raise that target for you which I'll get into so next up let's get into the bowlis menu so let's go into
+
+58
+00:05:51,440 --> 00:05:56,800
+bowlis and it's going to ask me if I want to reduce my bowlis calculation right now because I'm going low
+
+59
+00:05:56,800 --> 00:06:04,080
+so look you can see it is reducing my bowlis by 0.63 units at the moment and it's also saying that I
+
+60
+00:06:04,080 --> 00:06:09,919
+have insulin on board 0.5 so it's going to reduce that from whatever I put so let's say I put in like 50 grams
+
+61
+00:06:09,919 --> 00:06:17,599
+of carbs it's doing all of this math to and it shows you which is pretty cool it shows you what it's doing so
+
+62
+00:06:17,599 --> 00:06:22,799
+that is a correction ball is oh you can turn off correction ball is you know I don't do that because I want
+
+63
+00:06:22,799 --> 00:06:30,640
+to make sure that like the algorithms doing it's thing next you can do an extended bowlis now up to
+
+64
+00:06:30,640 --> 00:06:35,520
+eight hours which is so cool with control like you plus so not everyone has it's currently in the
+
+65
+00:06:35,520 --> 00:06:41,760
+U.S. you have it so here's where I can adjust the percentage of insulin I want immediately and then a
+
+66
+00:06:41,760 --> 00:06:46,479
+percentage of insulin that I want delivered over span of time so when I'm eating fatty your foods what
+
+67
+00:06:46,479 --> 00:06:54,159
+I do here is I give myself around 70 to 80 percent immediately and then 20 to 30 percent of the insulin
+
+68
+00:06:54,160 --> 00:07:00,640
+over time to take into account a slower intake into my glucose because it was a fatter your food
+
+69
+00:07:00,640 --> 00:07:06,640
+a fatter your high protein food so in this case I would go let's say you know 80 percent now 20 percent
+
+70
+00:07:06,640 --> 00:07:14,000
+later and then I would change the extension to four hours do I say up to eight hours earlier it's up to six hours
+
+71
+00:07:14,000 --> 00:07:19,520
+if I said up to eight hours I think it is up to eight hours actually I think that just sometimes it limits you
+
+72
+00:07:19,599 --> 00:07:25,599
+so anyway there you go that is up to four hours I'm not gonna bowlis now because I will go low on camera
+
+73
+00:07:25,599 --> 00:07:31,680
+and that wouldn't be a pretty sight so that was the bowlis screen now let's go to the actions menu so here
+
+74
+00:07:31,680 --> 00:07:37,039
+in the middle you've got action so on top you've got stop insulin this is where I can stop my insulin
+
+75
+00:07:37,039 --> 00:07:42,880
+and you see how when I tap that it's asking me to authenticate with my face with face ID so one thing I
+
+76
+00:07:42,880 --> 00:07:49,440
+like about this app is that unlike others you don't need to use face ID to open the app to quickly
+
+77
+00:07:49,440 --> 00:07:58,000
+view information but anytime you're adjusting something related to insulin treatment it will require face
+
+78
+00:07:58,000 --> 00:08:02,880
+ID it will only require face ID that one time while the apps open and you'll be able to you know do a
+
+79
+00:08:02,880 --> 00:08:08,320
+bunch of things I really like that feature because oftentimes you just want to open the app real quick to see
+
+80
+00:08:08,320 --> 00:08:12,560
+something on the home screen and you don't want to have to use your face ID and I hope that other
+
+81
+00:08:12,560 --> 00:08:19,840
+companies like omnipot introduce kind of that reversal of use with face ID on their app so then you've
+
+82
+00:08:19,840 --> 00:08:27,120
+got a few options here first you've got exercise so exercise is a feature you want to use when you are
+
+83
+00:08:27,120 --> 00:08:32,799
+going to be working out you want to put it on at least an hour before that workout and this will raise
+
+84
+00:08:32,799 --> 00:08:38,559
+your target to 140 to 160 milligrams per desoliter sorry I don't know the millimoles at the moment I'll put
+
+85
+00:08:38,559 --> 00:08:46,079
+them on screen you will it will also change up the algorithm a bit to be a little less aggressive to taking to
+
+86
+00:08:46,079 --> 00:08:50,640
+count that you're working out I also have to do something else if I'm doing heavy cardio which I'll get into
+
+87
+00:08:50,640 --> 00:08:56,240
+in just a moment but that's exercise then there's sleep mode in sleep mode what that does is it
+
+88
+00:08:56,240 --> 00:09:04,160
+narrows your target range to just 1 12.5 to 120 milligrams per desoliter so it's a tighter range
+
+89
+00:09:04,160 --> 00:09:09,920
+than it's bringing you to but it's only using basal insulin adjustments it turns off auto corrections
+
+90
+00:09:09,920 --> 00:09:14,480
+this is good for when you're sleeping when you don't need those auto corrections and it will just do
+
+91
+00:09:14,480 --> 00:09:20,320
+a good job of getting you down to your range and then keeping you flat over the night I've seen a lot of
+
+92
+00:09:20,320 --> 00:09:26,240
+flat nights thanks to sleep mode what I did was and you could see sleep schedules below it and which
+
+93
+00:09:26,240 --> 00:09:32,960
+you have to set I set my sleep schedules to start at 3 a.m. which some people may say like that's a little
+
+94
+00:09:32,960 --> 00:09:42,000
+late in the evening or morning the reason it works well for me is I tend to have meals late in the night
+
+95
+00:09:42,000 --> 00:09:47,840
+and I found that I wasn't getting the auto correction pulses I needed the strong auto correction
+
+96
+00:09:47,840 --> 00:09:53,760
+pulses that I needed to cover those meals so I decided to move my sleep mode to 3 a.m. that way
+
+97
+00:09:53,760 --> 00:10:00,160
+I have a little longer after those meals for the auto corrections to bring me down lower and then have sleep
+
+98
+00:10:00,160 --> 00:10:04,640
+mode activate so you could actually turn on you can create a couple schedules and then turn one off
+
+99
+00:10:04,640 --> 00:10:13,760
+turn one on the other so that's sleep schedules then you've got temporary which is 10 basil so prior to the
+
+100
+00:10:13,760 --> 00:10:18,720
+current algorithm you couldn't have this on during automated mode but now with control like you
+
+101
+00:10:18,720 --> 00:10:24,720
+plus you can that algorithms not out everywhere yet currently just in the US as of when I'm making this video
+
+102
+00:10:24,720 --> 00:10:31,200
+what this temp basil rate helps with is when you have different insulin needs for a certain period of time
+
+103
+00:10:31,200 --> 00:10:37,840
+this setting can be turned on for up to 72 hours which is for like if you're sick or you're having your
+
+104
+00:10:37,840 --> 00:10:46,320
+menstrual cycle and you need a different insulin treatment for that period of time so you can set
+
+105
+00:10:46,320 --> 00:10:53,200
+how much insulin you want so if you want you know 30% of your insulin needs which means you'll get a reduced
+
+106
+00:10:53,200 --> 00:11:03,200
+you know 70% or if you want you know over all the way up to 250% so you can get 150% more insulin
+
+107
+00:11:03,280 --> 00:11:08,720
+if needed for a certain period of time it gives you that ability then you can set the time so again
+
+108
+00:11:08,720 --> 00:11:16,240
+like I said it can go up to 72 hours specifically what I'm using this a lot for is working out I said it to
+
+109
+00:11:17,280 --> 00:11:24,160
+when I'm doing like a heavy cardio I said it to 30% and then I go in and I said it to
+
+110
+00:11:25,040 --> 00:11:30,080
+three hours which is basically one hour before I work out one hour during I work out and then one hour
+
+111
+00:11:30,080 --> 00:11:36,560
+after I work out what I do in combination to this and let's just see when I start it if it does anything on the
+
+112
+00:11:36,560 --> 00:11:43,200
+main screen it does have a little yellow tontop when you tap there it says temporary so let me also go and
+
+113
+00:11:43,200 --> 00:11:49,360
+turn that off what I do in addition to that for workouts that are cardio heavy as I turn on exercise mode again
+
+114
+00:11:49,360 --> 00:11:56,480
+in hour before my workout so in combination those two things have kept me in my range during workouts
+
+115
+00:11:56,720 --> 00:12:00,800
+and then lastly at the bottom you've got load cartridge this is when you want to switch out the
+
+116
+00:12:00,800 --> 00:12:06,640
+cartridge need to fill tubing fill your canula it gives you everything there it also gives you a site
+
+117
+00:12:06,640 --> 00:12:15,440
+reminder I didn't realize like it doesn't alert you if you have had your site in for over three days you
+
+118
+00:12:15,440 --> 00:12:20,080
+have to set a reminder so if you set a reminder you can say remind me and you know anywhere from one
+
+119
+00:12:20,080 --> 00:12:26,080
+to three days what time it is and then set that reminder I needed to set that because otherwise I was
+
+120
+00:12:26,080 --> 00:12:32,080
+forgetting like you know when did I load my cartridge and there is a way to find that which we'll get into in just a
+
+121
+00:12:32,080 --> 00:12:39,680
+second so that is the action step next notification tab luckily I don't have any notifications at the moment
+
+122
+00:12:39,680 --> 00:12:45,280
+but this is where notifications for if you have low insulin there's a CGM alert like you have a low or high
+
+123
+00:12:45,839 --> 00:12:53,120
+battery is low any notification you get will be here and your pump will continue to alert you until you
+
+124
+00:12:53,120 --> 00:13:00,319
+acknowledge that notification and swipe it and turn it off so that is the notifications tab and next we've
+
+125
+00:13:00,319 --> 00:13:06,160
+got the settings tab so here you have a bunch of different tabs to click on first we'll go into pump
+
+126
+00:13:06,160 --> 00:13:11,120
+here you've got on the first thing is personal profile so this is where you put all of your information for
+
+127
+00:13:11,120 --> 00:13:17,120
+your basil your bolus needs your insulin card ratio your insulin sensitivity factor all that jazz here in time
+
+128
+00:13:17,120 --> 00:13:23,520
+brackets and so as you can see I have a lot of time brackets I've been you know finagling a lot with this
+
+129
+00:13:23,520 --> 00:13:30,720
+system to to get it to work for me then you've got control IQ this is turning on automated insulin mode
+
+130
+00:13:30,720 --> 00:13:37,120
+you put your weight and your total daily insulin needs and you've got the quick bolus setting so like I said
+
+131
+00:13:37,200 --> 00:13:44,160
+earlier you can bolus from the device there is a button on it that allows you to dose insulin
+
+132
+00:13:44,160 --> 00:13:49,360
+if you don't have your phone on you which is great because I don't want to always have my phone on me when
+
+133
+00:13:49,360 --> 00:13:54,560
+I you know want to have a quick insulin dose and I'm you know in the pool whatever it is although
+
+134
+00:13:54,560 --> 00:13:59,280
+probably won't be wearing this in the pool because it's not supposed to like be submerged for too long
+
+135
+00:14:00,000 --> 00:14:06,000
+you can learn more about that in my review so stay tuned for that anyway the quick bolus button screen
+
+136
+00:14:06,080 --> 00:14:13,200
+so here you can choose whether you want it to be dosing you like in grams or units I use grams
+
+137
+00:14:13,200 --> 00:14:19,920
+because I card count when I you know treat myself for insulin other people think of it more of like in
+
+138
+00:14:19,920 --> 00:14:27,040
+in a unit's way I think of it in grams so you can set that in increments for grams from 2 5 10 to 15
+
+139
+00:14:27,040 --> 00:14:35,120
+I have 15 so 15 30 or 45 grams increments that's the most you can do is like three doses of this let's just
+
+140
+00:14:35,120 --> 00:14:41,440
+say it was units though just so you can see it you can do anywhere from 0.5 to 5 units per button
+
+141
+00:14:41,440 --> 00:14:48,800
+press which I get more into in my other tandem videos my like to switching to a two pump video and then
+
+142
+00:14:48,800 --> 00:14:54,080
+my review I'll also you know get deeper into that but yeah you can use the button right on the pump to
+
+143
+00:14:54,080 --> 00:14:59,600
+dose yourself insulin and it is really a lifesaver because you don't want to always you know
+
+144
+00:14:59,680 --> 00:15:05,360
+I have to go get your phone when you want to take insulin to that point I also wish that the
+
+145
+00:15:05,360 --> 00:15:10,560
+button allowed you to suspend insulin because what I do have to do is every time I wanted to attach my
+
+146
+00:15:10,560 --> 00:15:15,680
+pump and take a shower I have to go run for my phone to suspend insulin which was on that actions tab
+
+147
+00:15:16,640 --> 00:15:21,280
+that's not fun and I wish that there was a way to use that button to suspend insulin so
+
+148
+00:15:21,920 --> 00:15:28,720
+tandem please introduce that back to the settings though so then you've got delivery limits pump time and date
+
+149
+00:15:28,800 --> 00:15:34,320
+pump info and then software updates so there recently was a big update that's where I you know did
+
+150
+00:15:34,320 --> 00:15:39,440
+all that so let me go back to the main screen cgm so the main thing I wanted to talk about here is the fact
+
+151
+00:15:39,440 --> 00:15:46,000
+that what I love about moby and tandem pumps it seems is that you're able to switch out the cgm
+
+152
+00:15:46,000 --> 00:15:54,320
+within a session so I went from g7 the g6 to g7 while my pump was on and that was fine and that is all
+
+153
+00:15:54,320 --> 00:15:59,920
+done through this tab whereas on other systems specifically I know on omnipod you need to activate
+
+154
+00:15:59,920 --> 00:16:06,880
+a brand new pump when you switch sensors I really wish there was a way and I hope that they that insulin
+
+155
+00:16:06,880 --> 00:16:11,840
+builds away for omnipod to be able to do that in the middle because that's that was frustrating for me
+
+156
+00:16:12,400 --> 00:16:17,200
+it's not very often you're switching between you know types of sensors but it did happen in that case
+
+157
+00:16:17,920 --> 00:16:24,160
+and I wish that they would fix it but this video is not about omnipod anyway let's go back to alert
+
+158
+00:16:24,240 --> 00:16:30,640
+and sounds now so this is a pretty important thing to get right I think because one thing I've had with
+
+159
+00:16:30,640 --> 00:16:38,480
+moby that I didn't have with omnipod or DIY systems like use is I've had alert fatigue there are so
+
+160
+00:16:38,480 --> 00:16:45,199
+many alerts that you can get with this and more than I did with a tubeless pump because then there's like
+
+161
+00:16:45,199 --> 00:16:51,360
+the charging it and there's other alerts I can't think of right now but so here's where you can set them
+
+162
+00:16:51,680 --> 00:16:55,680
+so the first one is where you can set like a low insulin alert I have it set to 20 units
+
+163
+00:16:56,560 --> 00:17:01,120
+then you've got pump reminders so these are reminders you can have like for when you're having low or
+
+164
+00:17:01,120 --> 00:17:08,160
+highs you can set it to like remind you so let's say this low you can set it to remind me like after 15 minutes
+
+165
+00:17:08,160 --> 00:17:15,120
+remind me again the thing is I don't want to be reminded of my cgm alerts on my pump right I'm getting
+
+166
+00:17:15,120 --> 00:17:21,360
+up with my cgm so I have those turned off then you've got pump sounds here's where you can switch things
+
+167
+00:17:21,360 --> 00:17:26,560
+from vibrate to beep I've been finagling with this a little bit figuring out you know what do I want to
+
+168
+00:17:26,560 --> 00:17:31,920
+be what do I want to vibrate so yeah you've got all that information you can also have like a snooze on
+
+169
+00:17:31,920 --> 00:17:41,760
+as well then you've got cgm alerts which is you know having highlights and and low alerts here you've
+
+170
+00:17:41,760 --> 00:17:47,120
+gotten out an out of range alert which oh yeah that's been another alert that I get a lot to it
+
+171
+00:17:47,120 --> 00:17:53,280
+is like that my cgm's on range so just a lot of alerts let me know what you think of alerts by the way if
+
+172
+00:17:53,280 --> 00:18:00,800
+you're already using the system what's your alert experience like on mobile or any tandem pump or any
+
+173
+00:18:00,800 --> 00:18:04,879
+pump for that matter I want to hear from you let me know in the comments all right back to the main settings
+
+174
+00:18:04,879 --> 00:18:11,600
+then you've got app so the main thing in here that has been necessary for me to look at is history
+
+175
+00:18:11,920 --> 00:18:15,760
+so the history tabs where you can find out you know the history of what's been going on with your
+
+176
+00:18:15,760 --> 00:18:23,840
+pump specifically for me if I go to pump history which by the way pump history being in the app tab
+
+177
+00:18:23,840 --> 00:18:29,120
+always confuses me because I feel like it should be in the pump tab your pump history should be in the
+
+178
+00:18:29,120 --> 00:18:35,120
+pump tab and your cgm history should be in the cgm tab but you know perhaps there's a reason why you'd be
+
+179
+00:18:35,120 --> 00:18:38,720
+looking at both at the same time and maybe that's why they're in here together I don't know
+
+180
+00:18:39,280 --> 00:18:43,280
+anyway when they go to pump history what I'm looking at a lot is like the load when I've loaded a
+
+181
+00:18:43,280 --> 00:18:49,440
+cartridge so my last one was April 18th and I'm set to you know do one three days after that so
+
+182
+00:18:49,440 --> 00:18:54,720
+that is the history tab you can see like a bunch of things here your boluses over time like look at all
+
+183
+00:18:54,720 --> 00:19:00,560
+that which leads me to like another thing which is I wish instead of having to go to like pump history
+
+184
+00:19:01,520 --> 00:19:07,520
+which is great to have all that information I just wish on the dashboard that when you scroll back it didn't
+
+185
+00:19:07,600 --> 00:19:17,040
+stop at 24 hours we have the technology and the capabilities to scroll back at least seven days
+
+186
+00:19:17,040 --> 00:19:21,680
+of data like there are times when I'm on the phone my educator and I just want to look back like oh
+
+187
+00:19:21,680 --> 00:19:29,040
+what was Tuesday like and I think that I want this with all systems is more than one day of data and this
+
+188
+00:19:29,040 --> 00:19:36,160
+is like true for so many systems out there there's a very short amount of time you can look back
+
+189
+00:19:36,160 --> 00:19:43,280
+up on the graphs simpler a CGM from electronic did this really well you could like go back for for ages
+
+190
+00:19:43,280 --> 00:19:51,280
+which was great so if we can see that on here that would be that would be super nice so yeah that is the
+
+191
+00:19:51,280 --> 00:19:58,160
+tandem app I've got a lot more tandem content coming out I've got a site change video that's already out
+
+192
+00:19:58,160 --> 00:20:04,000
+where I you know walk through the entire site change process I've got a review coming for movie and I've
+
+193
+00:20:04,000 --> 00:20:10,880
+also got a bunch of videos on social with using tandem and omnipot and just I mean so many videos so
+
+194
+00:20:10,880 --> 00:20:15,440
+make sure to subscribe to this channel and if you want to get alerted to new videos click that bell
+
+195
+00:20:15,440 --> 00:20:21,440
+and give this video like so other people can find it I've got a podcast on Mondays these videos on Fridays
+
+196
+00:20:21,440 --> 00:20:27,360
+I hope you follow for more I'm Justin and I'll take you later
+

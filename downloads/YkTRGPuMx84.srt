@@ -1,0 +1,236 @@
+1
+00:00:00,000 --> 00:00:04,800
+Hello and welcome to my fourth episode of my Magic Leap series.
+
+2
+00:00:04,800 --> 00:00:09,680
+Today I partnered up with Magic Leap to show you the office of the future using spatial computing.
+
+3
+00:00:09,680 --> 00:00:16,800
+This technology has already transformed the way we see a typical office, replacing our physical tools with projections.
+
+4
+00:00:16,800 --> 00:00:20,000
+One day we're going to look back at our old offices and desks and be like,
+
+5
+00:00:20,000 --> 00:00:23,760
+do we really use to look at all those monitors and notes and calendars?
+
+6
+00:00:23,760 --> 00:00:28,160
+Oh grandma, what clutter you had. In this episode I'm going to build the ultimate
+
+7
+00:00:28,160 --> 00:00:33,040
+ad home office using spatial computing and show you some of the possibilities we have at our disposal.
+
+8
+00:00:33,040 --> 00:00:37,200
+And this home office is even more appealing right now when travel for work is difficult
+
+9
+00:00:37,200 --> 00:00:42,640
+or when you'd rather work from home than risk office germs. Oh, when I put that there,
+
+10
+00:00:43,360 --> 00:00:49,040
+make sure you guys do this. Like this video if you enjoyed it and subscribe to my channel for more videos
+
+11
+00:00:49,040 --> 00:00:54,800
+like this and click that bell right down there for alerts. Let's head over to my new and improved office.
+
+12
+00:00:58,240 --> 00:01:12,800
+Oh, oh, oh, oh, hello, welcome to my spatial computing office. Before I hop on in and show you
+
+13
+00:01:12,800 --> 00:01:18,960
+what I'm seeing, I do want to show you this Logitech K600 keyboard that allows me to type and search
+
+14
+00:01:18,960 --> 00:01:23,520
+the web quickly and easily on the Magic Leap headset and there's a built-in track pad which allows
+
+15
+00:01:23,520 --> 00:01:27,920
+me to control the mouse on whatever browser I'm looking at. It will automatically switch between
+
+16
+00:01:27,920 --> 00:01:31,680
+the windows. You know what, I've been all talk, but I want to be all tech. So let's hop on it.
+
+17
+00:01:32,880 --> 00:01:36,960
+I build a home office that caters to all of my needs, whether it's photo editing,
+
+18
+00:01:36,960 --> 00:01:41,840
+planning out my Instagram feed, referencing YouTube videos, or writing a script. This home office
+
+19
+00:01:41,840 --> 00:01:47,200
+will fulfill everything I need. First off, one of the very cool things about working in Helio on
+
+20
+00:01:47,200 --> 00:01:52,960
+Magic Leap is having the ability of connecting to a desktop. Here I'm using Nutanix frame to log
+
+21
+00:01:52,960 --> 00:01:59,760
+into a desktop environment, and I can use the resize option to set this desktop window to any size.
+
+22
+00:01:59,760 --> 00:02:04,080
+It really helps this feel like a computer of your dreams sitting right in front of you,
+
+23
+00:02:04,080 --> 00:02:08,800
+especially in the age of giant curved screens. These are really compelling ways to uplevel your home
+
+24
+00:02:08,800 --> 00:02:14,320
+office using spatial computing. I have access to the entire Adobe Creative Suite, but for now,
+
+25
+00:02:14,320 --> 00:02:19,120
+I'll open Photoshop. In addition to this, I've got a script over here on writing. It's actually
+
+26
+00:02:19,120 --> 00:02:23,680
+this script, and then I also have music playing in the background with Spotify, and I have my drop
+
+27
+00:02:23,680 --> 00:02:28,400
+box open where I'm looking at pictures I want to post on Instagram. I also have a huge monitor over there
+
+28
+00:02:28,400 --> 00:02:33,920
+with my YouTube video playing, so I can reference it for the script I'm working on. With the next software
+
+29
+00:02:33,920 --> 00:02:39,040
+update, you'll be able to download the desktop companion app, where you can easily move files or images
+
+30
+00:02:39,040 --> 00:02:44,880
+from your laptop to your device. I uploaded some photos and I created a vision board for what I want my
+
+31
+00:02:44,880 --> 00:02:49,680
+Instagram feed to look like over the next few weeks. I can totally imagine people putting pictures
+
+32
+00:02:49,680 --> 00:02:54,320
+of their friends and family all over their desk. Look at all my friends and family I have. It's funny,
+
+33
+00:02:54,320 --> 00:02:59,920
+they all look the same. I've only concentrated on one workflow with this setup, but it's really just
+
+34
+00:02:59,920 --> 00:03:04,480
+scratching the surface. You can imagine how this setup lends itself to use in finance, being able to
+
+35
+00:03:04,480 --> 00:03:10,160
+have stock data present, have new services streaming while also being able to access a dozen or so monitors
+
+36
+00:03:10,160 --> 00:03:15,600
+laid out around you, and all with simpler tasks switching between screens. You can also imagine how
+
+37
+00:03:15,600 --> 00:03:20,560
+designers can use this to have persistent data like models and reference images present or provide
+
+38
+00:03:20,560 --> 00:03:25,840
+context around them for other designs will live in the physical world. And you can imagine how really
+
+39
+00:03:25,840 --> 00:03:32,320
+anyone at home can use it to switch between research like planning a trip, shopping, or news, and music.
+
+40
+00:03:32,320 --> 00:03:36,960
+And with the growth of co-working spaces, think of the potential for devices like this to enable
+
+41
+00:03:36,960 --> 00:03:42,400
+a broad set of functionality while also keeping the physical setup needs ultra minimal.
+
+42
+00:03:42,400 --> 00:03:49,200
+Also, do you have a co-worker that you just can't stand? I have a hack for that. Hey Justin, um, so there
+
+43
+00:03:49,200 --> 00:03:53,280
+was a yogurt in the fridge that had your name written on it, but I eat it. Also, I think in the start
+
+44
+00:03:53,280 --> 00:03:58,880
+kind of gym, the gym, the gym. Also, is reading a nasterological news article in it. Justin, it's
+
+45
+00:03:58,880 --> 00:04:06,400
+snacks from work. The future of the workplace is bright. So this is really just the early stages of
+
+46
+00:04:06,400 --> 00:04:12,400
+spatial computing, and what we can do already is really amazing. The home office is definitely limited
+
+47
+00:04:12,400 --> 00:04:16,959
+by the number of apps, but since there's a fully functioning browser with Helio and Magic Leaf,
+
+48
+00:04:16,959 --> 00:04:22,000
+there's plenty you can do in your home office today. There's actually a really cool app coming out soon
+
+49
+00:04:22,000 --> 00:04:27,680
+called Bar. It's basically a customizable search bar where you can quickly access website bookmarks.
+
+50
+00:04:27,680 --> 00:04:32,480
+When I think of the future of what apps we're going to have, I think of like a weather app where you put
+
+51
+00:04:32,480 --> 00:04:38,000
+a window on your wall, and you can see outside to what the weather is, or putting a projection of a
+
+52
+00:04:38,000 --> 00:04:42,640
+calculator on your desk and typing it with your fingers. There are so many possibilities, and we've
+
+53
+00:04:42,640 --> 00:04:47,440
+really just scratched the surface. But what I can tell you is that the future of the home office is
+
+54
+00:04:47,440 --> 00:04:53,760
+three dimensional, clutter free, ever evolving, and powered by spatial computing. What apps do you want
+
+55
+00:04:53,760 --> 00:04:58,560
+to see in your home office with spatial computing? Let me know in the comments below. And guess what
+
+56
+00:04:58,560 --> 00:05:02,400
+guys, more magically videos are coming your way. Stay tuned for that. How do you do that? You
+
+57
+00:05:02,400 --> 00:05:06,960
+subscribe right down there. Click the bell for alerts. And if you enjoyed the video, you can give it a
+
+58
+00:05:06,960 --> 00:05:10,960
+like. I'd love that. That's all I've got for you guys today. I'm Justin, and I'll take you later.
+
+59
+00:05:16,400 --> 00:05:23,600
+Glad I put that there. Don't make sure to do that. Make sure you guys do this.
+

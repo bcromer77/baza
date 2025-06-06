@@ -1,0 +1,1412 @@
+1
+00:00:00,000 --> 00:00:08,000
+There is a major shift going on in the diabetes technology world in the US, and it's changing how we access our tech.
+
+2
+00:00:08,000 --> 00:00:15,000
+For years, getting an insulin pump in the US meant going through durable medical equipment, or DME,
+
+3
+00:00:15,000 --> 00:00:23,000
+a convoluted, expensive process that often locked people into four-year contracts and required paying a lump sum upfront.
+
+4
+00:00:23,000 --> 00:00:26,000
+But that model is starting to change.
+
+5
+00:00:26,000 --> 00:00:32,000
+More and more insulin pumps are moving to pharmacy benefits, just like we've seen with CGMs.
+
+6
+00:00:32,000 --> 00:00:41,000
+That means more flexibility for users, easier access, and a shift of risk going from the insurance company to the manufacturer.
+
+7
+00:00:41,000 --> 00:00:45,000
+Today we're getting into what this looks like and how it will affect you.
+
+8
+00:00:45,000 --> 00:00:47,000
+Welcome to Diabetic.
+
+9
+00:00:47,000 --> 00:00:49,000
+I'm Justin, I have Type 1 Diabetes.
+
+10
+00:00:49,000 --> 00:00:53,000
+On here, I talk all things diabetes tech, news, and innovation.
+
+11
+00:00:53,000 --> 00:00:59,000
+I've got episodes of this podcast every Monday on YouTube and podcast platforms, and videos coming out on Friday,
+
+12
+00:00:59,000 --> 00:01:03,000
+and on social media at Diabet, underscore tech.
+
+13
+00:01:03,000 --> 00:01:06,000
+OmniPod is currently only available through the pharmacy.
+
+14
+00:01:06,000 --> 00:01:14,000
+The upcoming twist pump will be two and beta bionics is working to roll out its eyelet pump in the same way.
+
+15
+00:01:14,000 --> 00:01:16,000
+Today I'm joined by Jeff Delverne.
+
+16
+00:01:16,000 --> 00:01:23,000
+The mind behind the healthcare economy, Substack, where he breaks down the complexities of the US healthcare system.
+
+17
+00:01:23,000 --> 00:01:31,000
+He's also the director of pay-or-relations at beta bionics, where he is leading the charge to transition the eyelet pump to pharmacy benefits.
+
+18
+00:01:31,000 --> 00:01:39,000
+Jeff and I get into what the transition will look like from the benefits of being able to switch pumps without a year-long contract.
+
+19
+00:01:39,000 --> 00:01:48,000
+To how this new model might push companies to innovate faster in order to retain these patients who are essentially month to month.
+
+20
+00:01:48,000 --> 00:01:57,000
+I also push Jeff on potential challenges, like the risk of insurance companies introducing tiered pump coverage, similar to drug formularies.
+
+21
+00:01:57,000 --> 00:02:05,000
+If you haven't heard it, Jeff came on the podcast a few months back to talk about how PBMs are making record profits.
+
+22
+00:02:05,000 --> 00:02:15,000
+They are making 60% year over year, and we get into all of the complexities there and how these companies are owned by insurance companies.
+
+23
+00:02:15,000 --> 00:02:18,000
+It is a great episode. Go listen to that.
+
+24
+00:02:18,000 --> 00:02:23,000
+Link is in the show notes. Keep in mind that anything you hear on this podcast or any of my channels is not medical advice.
+
+25
+00:02:23,000 --> 00:02:30,000
+It is for educational purposes only. Always consult with a physician before making changes to your healthcare.
+
+26
+00:02:30,000 --> 00:02:33,000
+Jeff, welcome back to the show. It's good to have you here.
+
+27
+00:02:33,000 --> 00:02:47,000
+Yeah, thanks for having me back on. It's good to be on after kind of more of a little bit more of a downer show with the health insurance and community economics after the death of the UHC CEO.
+
+28
+00:02:47,000 --> 00:02:52,000
+Yeah. PBMs are making 60% profits year over year.
+
+29
+00:02:52,000 --> 00:02:54,000
+Love that as patients don't really get much more.
+
+30
+00:02:54,000 --> 00:03:01,000
+So yeah, be sure to listen to that episode. But today we are talking all things pharmacy benefits when it comes to insulin pumps.
+
+31
+00:03:01,000 --> 00:03:10,000
+There's a big shift going on in the industry. And I'm excited to kind of hear about your work and what you're doing at beta bionics because you're playing an integral role there.
+
+32
+00:03:10,000 --> 00:03:13,000
+Shifting from DMA to pharmacy benefits.
+
+33
+00:03:13,000 --> 00:03:20,000
+So first, kind of tell me a little bit about the work that you're doing at beta bionics.
+
+34
+00:03:20,000 --> 00:03:28,000
+Yeah. We're transitioning into the pharmacy channel from the DMA or the medical benefit.
+
+35
+00:03:28,000 --> 00:03:38,000
+Similar to kind of how you saw with CGMs over the last five or six years with with Dexcom moving in the pharmacy and then Abbott really starting in pharmacy.
+
+36
+00:03:38,000 --> 00:03:49,000
+And it's kind of a change to the paradigm, the revenue model and just how you know type one patients that use these pieces of technology.
+
+37
+00:03:49,000 --> 00:04:08,000
+We'll engage with their healthcare. And really it's a paradigm shift from DMA, which is seen as more of like a chronic ongoing patient engaged more touch points needed versus, you know, the pharmacy, which is really more of a dispensing arena or channel.
+
+38
+00:04:08,000 --> 00:04:14,000
+And as these things automate and get smarter and smarter. I guess is a good way to put it.
+
+39
+00:04:14,000 --> 00:04:18,000
+You're going to see them move more and more towards the pharmacy channel.
+
+40
+00:04:18,000 --> 00:04:29,000
+Tell me a little bit more about what you're specifically doing at beta bionics as it relates to getting pumps from DMA to the benefits to the pharmacy.
+
+41
+00:04:30,000 --> 00:04:49,000
+It's a bit of a payment model shift like historically DME sits in the medical benefit and so the cost for the patient out of pocket is is very high and I think most people that have gotten a pump through DME kind of see that they feel that.
+
+42
+00:04:49,000 --> 00:05:02,000
+And the main reason is that initial cost of the hardware upfront and then the patient's portion of that is usually 10, 20% of the overall cost of the device.
+
+43
+00:05:02,000 --> 00:05:16,000
+And so it can create a barrier for patients and one of the things when I came to beta bionics was we wanted to put this in the hands of as many folks as possible so that they have access to it.
+
+44
+00:05:16,000 --> 00:05:35,000
+The biggest barriers we saw were you know ease of use and out of pocket expenses and so we feel like the island is the you know easiest to use of you enter your weight and then kind of follow your meals and then you know this kind of helps us then move to how do we get the out of pocket down.
+
+45
+00:05:35,000 --> 00:05:54,000
+In the pharmacy we're going at risk we're rebating the hardware and then we're earning it through taking great care of the beneficiary through monthly pharmacy installments to get ourselves whole so we look at it more of like a value based type of arrangement where we say to the health plan.
+
+46
+00:05:55,000 --> 00:06:07,000
+We believe in the island to the effect that we're willing to go at risk for that money upfront we're going to take great care of your your beneficiaries your members your patients to earn.
+
+47
+00:06:07,000 --> 00:06:12,000
+Our keep and so it is a paradigm shift I think our goal is really.
+
+48
+00:06:12,000 --> 00:06:21,000
+To get that out of pocket for the patients as low as possible so that everyone can get on and pump therapy in the island.
+
+49
+00:06:21,000 --> 00:06:31,000
+Yeah, I mean I just experienced the whole DME thing myself I was testing out movies so I got this pump to try it out they have a return policy.
+
+50
+00:06:31,000 --> 00:06:44,000
+90 day return policy so I tried this out I had to pay a little over nine hundred dollars to to get it right that's my my and not only just that money but I'm now I would then be.
+
+51
+00:06:44,000 --> 00:06:57,000
+stuck with this or I'd be under warranty for four years in the DME space right I couldn't just try another pump like beta bionics or or others over DME for four years.
+
+52
+00:06:57,000 --> 00:07:11,000
+I could see that being a lot of money for people especially since insurance already is so much for people you're paying these premiums you're paying co-pays you're paying prescriptions then you're telling me that none of that includes a pump.
+
+53
+00:07:12,000 --> 00:07:26,000
+So so this shift to pharmacy benefits which is something that I've been enjoying for three years with my omnipot just paying co-pays monthly which sure if you added all up maybe over four years it's about the same amount of money but that.
+
+54
+00:07:26,000 --> 00:07:37,000
+initial cost of a thousand dollars could be too much for many people so I think that when it comes to accessibility it seems like.
+
+55
+00:07:37,000 --> 00:07:44,000
+pumps could get into the hands of more people with this model.
+
+56
+00:07:44,000 --> 00:07:49,000
+Why does the work you're doing feel important to you.
+
+57
+00:07:49,000 --> 00:08:04,000
+Great question I am of rare breed so I started in the field it calling on positions and families so I had to sit in front of a lot of those families and have those difficult conversations where they would say.
+
+58
+00:08:04,000 --> 00:08:11,000
+I don't know that I can afford twelve hundred dollars or nine hundred dollars and I know my daughter needs this.
+
+59
+00:08:11,000 --> 00:08:20,000
+So how do we make that happen and a lot of times we didn't right or maybe we would say maybe we'll try later in the year and then that patient would.
+
+60
+00:08:20,000 --> 00:08:29,000
+But ultimately never getting on pump there because they were motivated at the time but maybe not later in the year whatever it may be right so.
+
+61
+00:08:29,000 --> 00:08:39,000
+Sitting in front of positions families and hearing their story about how I mean that it nine hundred dollars is a significant investment for something.
+
+62
+00:08:39,000 --> 00:08:54,000
+That you don't know if you're going to love you know how it's going to work and so I think you know being on that end of it really showed me like this is important I always drove me crazy having to have those conversations and so when I'd heard.
+
+63
+00:08:54,000 --> 00:09:06,000
+What what they were doing at beta by odds I had worked a lot with these folks in the past having been at tandem and then knowing a lot of these colleagues through Dexcom and through.
+
+64
+00:09:06,000 --> 00:09:14,000
+In pen I kind of knew that this was a rare opportunity to do something good with my career and so.
+
+65
+00:09:14,000 --> 00:09:24,000
+I really jumped on the opportunity to to make this move so that we can get the out of pockets a little more affordable for people to try pump therapy.
+
+66
+00:09:24,000 --> 00:09:36,000
+This episode is sponsored by OmniPod as someone with T1D and with an incredibly active lifestyle it's important for me not to get tied up especially with tubes on my insulin pump.
+
+67
+00:09:36,000 --> 00:09:44,000
+I love to go swimming, lift weights and play kickball with friends and with OmniPod 5 I never have to worry about tubes getting in the way.
+
+68
+00:09:44,000 --> 00:09:52,000
+Plus not having to disconnect helps me to stay in range during all of my favorite physical activities that include 60 time too.
+
+69
+00:09:52,000 --> 00:10:04,000
+See if you're eligible for a 30 day trial by visiting OmniPod.com slash dive tech on there you'll see full safety and risk information and trial terms that's OmniPod.com slash dive tech.
+
+70
+00:10:05,000 --> 00:10:16,000
+Explain to us a little better what the landscape has been so far whether that's you know the trend maybe the transition that CGMs already kind of went through.
+
+71
+00:10:16,000 --> 00:10:19,000
+What what did that kind of look like.
+
+72
+00:10:19,000 --> 00:10:30,000
+Yeah, I think that was a slow process and I think you're seeing it play out here as well because driving change in the healthcare industry can be.
+
+73
+00:10:30,000 --> 00:10:34,000
+You know, it just it takes time because it is a paradigm shift so.
+
+74
+00:10:34,000 --> 00:10:49,000
+You know from the changes right I'd see the biggest like change that that tax time probably saw as they got some pdn contracts and then they had to go to downstream health plans to talk through.
+
+75
+00:10:49,000 --> 00:10:59,000
+Why it made sense to move it from medical benefit to pharmacy benefit and those are two totally different benefit designs and I told you a little bit.
+
+76
+00:10:59,000 --> 00:11:12,000
+You know when you think about medical benefits usually not cash on delivery they're not designed for you to pay upon getting the services so if you think about.
+
+77
+00:11:12,000 --> 00:11:21,000
+You know most of those medical benefit claims it's a hospital claim or physician claim where you go see your doctor and then.
+
+78
+00:11:21,000 --> 00:11:35,000
+You pay the bill later right so you're not having to pay the bill before they'll see you versus the pharmacy benefit was really designed for low copays because it's cash on delivery year not getting the medicine unless you.
+
+79
+00:11:35,000 --> 00:11:56,000
+You know pay the bill and so the benefit design you know if you look at the national like healthcare expenditures that Medicare releases every year what is the average on a pocket for DME it it's going to be 47 to 40% of the patient is paying that portion of it right versus.
+
+80
+00:11:56,000 --> 00:12:09,000
+Pharmacy is going to be 10 to 13% out of pocket right and the reason is is because it's designed for you to have to pay the cash around as soon as you get the services so.
+
+81
+00:12:09,000 --> 00:12:19,000
+The design of the benefit is lower copays because you are having to pay it like for instance you don't walk in and say hey I need.
+
+82
+00:12:19,000 --> 00:12:28,000
+You know my my sleep needs a you know attention I need to do surgery and they say well we're not going to work on you until you.
+
+83
+00:12:28,000 --> 00:12:35,000
+Pay us cash today and then in the pharmacy that is kind of what happens right they say just and.
+
+84
+00:12:35,000 --> 00:12:46,000
+It's 400 dollar copay and if you say well I can't pay it all the day they say you can't pick up the meds so it's a little bit of a different benefit design.
+
+85
+00:12:46,000 --> 00:12:50,000
+One's designed for medical you know medical claims.
+
+86
+00:12:50,000 --> 00:12:58,000
+One's for pharmacy prescription drugs and lower copays and so the move for CGMs.
+
+87
+00:12:58,000 --> 00:13:02,000
+And pumps really makes a lot of sense to be able to get that out of pocket down.
+
+88
+00:13:02,000 --> 00:13:06,000
+How does it work on like an insurance company side.
+
+89
+00:13:06,000 --> 00:13:12,000
+Specifically like with yeah with DME how we're insurance companies.
+
+90
+00:13:12,000 --> 00:13:17,000
+Paying for that differently than with for pharmacy benefits.
+
+91
+00:13:17,000 --> 00:13:27,000
+Yeah so in the DME space typically what happens is there's what's called hectic codes and those are medical billing codes and.
+
+92
+00:13:27,000 --> 00:13:37,000
+The additional insulin pumps would fall under any code EO seven eight four and then the monthly supplies would be.
+
+93
+00:13:37,000 --> 00:13:42,000
+You know a four two three zero a four two three one a four three.
+
+94
+00:13:42,000 --> 00:13:50,000
+Three two yeah a four two three two which is those are like the infusion sets and cartridges basically and you would bill those monthly.
+
+95
+00:13:50,000 --> 00:14:01,000
+To the insurance company or the pump once every four years so the paradigm shift was you would get you know say four or five thousand dollars upfront for the pump.
+
+96
+00:14:01,000 --> 00:14:07,000
+And then we'll say a hundred to a hundred and fifty dollars a month thereafter for supplies.
+
+97
+00:14:07,000 --> 00:14:11,000
+This is basically saying to the insurance company.
+
+98
+00:14:11,000 --> 00:14:17,000
+You're holding all the risk in that original four to five thousand dollar payment.
+
+99
+00:14:17,000 --> 00:14:20,000
+Actually for go that.
+
+100
+00:14:20,000 --> 00:14:28,000
+Get it to your patient and then we'll earn it back through monthly installments for the supplies through taking great care of it.
+
+101
+00:14:28,000 --> 00:14:42,000
+So if we lose if the patient hates insulin you know from the therapy and one to three but if we went we went if they are long term adopters of the technology.
+
+102
+00:14:42,000 --> 00:14:50,000
+And you you explained to me last time we spoke that that reason exactly right there could affect.
+
+103
+00:14:50,000 --> 00:14:56,000
+Innovation in the space right tell me about why that is.
+
+104
+00:14:56,000 --> 00:15:03,000
+Yeah I think you're going to see competition really in that space that the PBM space is.
+
+105
+00:15:03,000 --> 00:15:16,000
+You know there's three that control 80% of the market there's four that control 90% of the market so there's a lot of compression for us to bid against each other for for better pricing.
+
+106
+00:15:16,000 --> 00:15:20,000
+Because there's not a warranty in place yet.
+
+107
+00:15:20,000 --> 00:15:26,000
+You could get people switching from one brand to the next and so it's going to force.
+
+108
+00:15:26,000 --> 00:15:34,000
+Everyone to to constantly drive more and more innovation to the customer in order to earn their business and earn that reimbursement.
+
+109
+00:15:34,000 --> 00:15:41,000
+So kind of back to my take great care of the beneficiary in order to continue to get their business.
+
+110
+00:15:41,000 --> 00:15:52,000
+Now there are some companies that still remain on DME and haven't to my knowledge made an effort to move toward pharmacy benefits.
+
+111
+00:15:52,000 --> 00:15:56,000
+Why what is the incentive for companies to remain on DME.
+
+112
+00:15:56,000 --> 00:16:02,000
+You know I think there's it in pharmacy as I said because.
+
+113
+00:16:02,000 --> 00:16:11,000
+You know there's such hierarchy control consolidation that there is going to be price compression and so I think initially.
+
+114
+00:16:11,000 --> 00:16:20,000
+Price is will be good for the manufacturers but pinning us against one another and making us negotiate for or military positioning I think is.
+
+115
+00:16:20,000 --> 00:16:24,000
+Is scary to some right so think about.
+
+116
+00:16:24,000 --> 00:16:29,000
+DME channel right those those codes that e code and those a code.
+
+117
+00:16:29,000 --> 00:16:36,000
+They've relatively been the same for 25 years so there's not a lot of price compression.
+
+118
+00:16:36,000 --> 00:16:38,000
+The same token there's not a lot of price.
+
+119
+00:16:38,000 --> 00:16:47,000
+You know inflation so it's kind of a double edged sword but I think you're seeing some of the manufacturers.
+
+120
+00:16:47,000 --> 00:16:53,000
+Maybe taking away to see approach maybe at some point they will come in to date.
+
+121
+00:16:53,000 --> 00:16:59,000
+I think you're seeing more and more embrace kind of the pharmacy model of page you go.
+
+122
+00:16:59,000 --> 00:17:14,000
+Yeah, you know that news just came out recently of metronics new CGM simpler a sink getting cleared and coming out to 70G users in the US this fall.
+
+123
+00:17:14,000 --> 00:17:18,000
+But in the fine print it says that.
+
+124
+00:17:18,000 --> 00:17:33,000
+Only new users can get access to it they need to get a new pump which means a new four year warranty in order to get the new CGM that is a huge leap over the last one.
+
+125
+00:17:33,000 --> 00:17:43,000
+All other users you know if you're one year in you still have three years left with the pump you're on before you can start this huge advancement.
+
+126
+00:17:43,000 --> 00:17:46,000
+I mean what are your thoughts on that really.
+
+127
+00:17:46,000 --> 00:17:50,000
+Like all the companies I've worked for are.
+
+128
+00:17:50,000 --> 00:17:57,000
+You know with tandem was you know started for you know a reason and a lot of the folks there.
+
+129
+00:17:57,000 --> 00:18:05,000
+You know think highly of patient choice and being able to keep patients you know happy and what they want to do because.
+
+130
+00:18:05,000 --> 00:18:12,000
+The old saying is you know the device that they'll do the best on is the one the patient chooses and I think.
+
+131
+00:18:12,000 --> 00:18:22,000
+At beta baronics we believe that as well so for me I'm never like a huge fan of like a lock in on one piece of technology or being.
+
+132
+00:18:22,000 --> 00:18:27,000
+You know married to one piece and I think that was the innovation behind.
+
+133
+00:18:27,000 --> 00:18:34,000
+You know if you're thinking about it you know the T slim was software of dateable right and then you're seeing us is the first.
+
+134
+00:18:34,000 --> 00:18:42,000
+You know you're going to want to make an insolent pump to ever make you know make it in pharmacy to give optionality and local pay so.
+
+135
+00:18:42,000 --> 00:18:49,000
+For me that that's not like something that I love but at the end of the day you know each company is going to have kind of their.
+
+136
+00:18:49,000 --> 00:18:54,000
+Sacred cows and I would say ours is more drive innovation.
+
+137
+00:18:54,000 --> 00:19:00,000
+Try to wrap ourselves around the customer and try to continue to innovate towards what they're looking for.
+
+138
+00:19:00,000 --> 00:19:14,000
+Yeah I mean the T slim just came out with a new like an algorithm update like a huge update just you know over the air and the the fact that with a metronic pump that users would have to.
+
+139
+00:19:14,000 --> 00:19:20,000
+You know sign a new for your contract or have to wait you know anywhere from.
+
+140
+00:19:20,000 --> 00:19:24,000
+One to three years in order to do that just sounds.
+
+141
+00:19:24,000 --> 00:19:29,000
+Really tough as innovation continues.
+
+142
+00:19:29,000 --> 00:19:33,000
+With this model of foreign pharmacy benefits.
+
+143
+00:19:33,000 --> 00:19:38,000
+Let's say metronic was pharmacy benefits and this is hypothetical but do you think that.
+
+144
+00:19:38,000 --> 00:19:43,000
+Things like this wouldn't happen as often that.
+
+145
+00:19:43,000 --> 00:19:46,000
+Patients with this model could.
+
+146
+00:19:46,000 --> 00:19:50,000
+Get upgrade sooner because they're essentially month to month.
+
+147
+00:19:50,000 --> 00:19:53,000
+Yeah absolutely I think you're going to like.
+
+148
+00:19:53,000 --> 00:20:03,000
+When you zoom out right like the the pharmacy benefit managers in America have a lot of leverage and a lot of power right given.
+
+149
+00:20:03,000 --> 00:20:11,000
+The companies that they're involved with whether it be signal whether it be CDS you know whether it be not you know united health group.
+
+150
+00:20:11,000 --> 00:20:22,000
+They're all market caps of you know several hundred billion dollars so they they have a lot of leverage right and so they're going to force the manufacturers.
+
+151
+00:20:22,000 --> 00:20:26,000
+To do what they want right like I think it would take a huge.
+
+152
+00:20:26,000 --> 00:20:28,000
+Innovation.
+
+153
+00:20:28,000 --> 00:20:37,000
+In the space that to be able to get enough leverage on a pdm to say here's the rules will come in the pdm I just.
+
+154
+00:20:37,000 --> 00:20:44,000
+Typically that's that's not something I've seen right even in GLP one space that's really hot and.
+
+155
+00:20:44,000 --> 00:20:49,000
+I don't even see them having that kind of leverage to say.
+
+156
+00:20:49,000 --> 00:21:00,000
+Mr. pdm you know if you do this you're going to have to do that they they still kind of need to get access to the pdm's beneficiary so.
+
+157
+00:21:00,000 --> 00:21:08,000
+I don't know that a pump manufacturer given like house side you know what you know because we're pretty small compared to GLP one spend.
+
+158
+00:21:08,000 --> 00:21:13,000
+I don't know that they'll bend or break for one of us to be honest with you.
+
+159
+00:21:13,000 --> 00:21:26,000
+How does this shift if at all relate to the systems outside of the US if someone in Europe is you know deciding between say like a pump on.
+
+160
+00:21:26,000 --> 00:21:30,000
+How how's that work between like omnipod or say.
+
+161
+00:21:30,000 --> 00:21:36,000
+Metronic is do they have similar options as we do just in like a way that their.
+
+162
+00:21:36,000 --> 00:21:48,000
+Government pays for it. Yeah, they usually kind of more mirror like our traditional like DME model so they don't have access to this type of you know system where.
+
+163
+00:21:48,000 --> 00:21:55,000
+You know we need to have like a pharmacy benefit or move in the pharmacy at least at this time that I'm aware of most of them.
+
+164
+00:21:55,000 --> 00:21:58,000
+Do not and I don't know.
+
+165
+00:21:58,000 --> 00:22:10,000
+Given where they're at in their healthcare life cycle if that's anything in the near future but through domestic that's I think where things are had I'd you're going to see more more of these things.
+
+166
+00:22:10,000 --> 00:22:19,000
+Moving to that space and I believe omnipod at least in the pump space was kind of the first to really move in this direction.
+
+167
+00:22:19,000 --> 00:22:24,000
+How did that go or how has that gone since they they started.
+
+168
+00:22:24,000 --> 00:22:31,000
+Yeah, I think initially everybody was like, oh, you know, this is not going to work well, but it has worked really well for them.
+
+169
+00:22:31,000 --> 00:22:51,000
+Essentially they know Jim just moved to more of a subscription model where they're getting X amount per five pod packs and it's worked out really well for them frankly there you know gross margins are very strong they've had some of the best quarters of their.
+
+170
+00:22:51,000 --> 00:23:02,000
+In their company's history over the last you know eight ten quarters so for them it's worked amazing and frankly in the in the zoom out you know someone who's been in the space for a decade.
+
+171
+00:23:02,000 --> 00:23:17,000
+I think it's now going to be really really good for patients as we move from kind of this high copay into this lower lower out of pocket to get access I think that's really the biggest thing is.
+
+172
+00:23:17,000 --> 00:23:24,000
+You know, twenty five dollars out of pocket for someone to try pump therapy I think that's fantastic.
+
+173
+00:23:24,000 --> 00:23:33,000
+Yeah, I mean you've got omnipod doing this twist is coming out soon that will be through pharmacy benefits beta bionics is actively.
+
+174
+00:23:33,000 --> 00:23:39,000
+Transitioning or or opening those doors up and has had success.
+
+175
+00:23:39,000 --> 00:23:55,000
+Is there a lot of pressure on these other companies that haven't quite made that switch to do this switch I mean tandem has their 90 day return policy which is something I mean try it for 90 days essentially for free which is actually pretty good.
+
+176
+00:23:55,000 --> 00:24:03,000
+But then you're stuck to that four years right like I am returning my movie so I did essentially get to use this for free for three months which.
+
+177
+00:24:03,000 --> 00:24:05,000
+Yeah me.
+
+178
+00:24:05,000 --> 00:24:14,000
+But outside of that like are these companies feeling like okay well maybe instead of that 90 day return policy we actually do pharmacy benefits.
+
+179
+00:24:15,000 --> 00:24:30,000
+Yeah, I think so you know I'm not I don't know how it's all going to play out but I would say at one you know at some point you know traditional utilization management like in a health insurance company they want to.
+
+180
+00:24:30,000 --> 00:24:38,000
+You know bring all the class in one channel and try to drive down price and so I would imagine at some point.
+
+181
+00:24:38,000 --> 00:24:46,000
+You see everybody kind of pushed into the pharmacy channel down the road you know where it sits today right like.
+
+182
+00:24:46,000 --> 00:24:56,000
+You know I'm a pot is say it's 100% through pharmacy and they've got 75% coverage right of the covered lives in the US.
+
+183
+00:24:56,000 --> 00:25:11,000
+You know if you look you know with us we've been the most successful to pump I think we started you know the year mid single digits and we're guiding to you know mid twice you know above 20% here for.
+
+184
+00:25:11,000 --> 00:25:25,000
+For this year we're having quite a bit of success and then twist is early right there maybe a week or two here on the market you know how much success so they're going to have you know driving it into into the pharmacy I think.
+
+185
+00:25:25,000 --> 00:25:41,000
+It will be seen but you know tandem movie is now on some formularies I know they're trying to move into the pharmacy as well so it's not on okay it is on everybody's radar.
+
+186
+00:25:41,000 --> 00:25:51,000
+That is a move and I think to my earlier point I think we're going to be violent told in some respects so insurance companies are essentially paying less.
+
+187
+00:25:51,000 --> 00:25:57,000
+Immediately and just over time right that's like the scheme on what they're seeing on their end.
+
+188
+00:25:57,000 --> 00:26:03,000
+So in the current model they they're they're bearing most of the risk right because they're paying for that.
+
+189
+00:26:03,000 --> 00:26:15,000
+See it's a five thousand dollar claim and the patient has to come up with a thousand they pay there are the employer right pay the four thousand dollars well if the patient doesn't love it.
+
+190
+00:26:15,000 --> 00:26:23,000
+And you know uses it for two or three months and then doesn't return it right like they've now buried that risk.
+
+191
+00:26:23,000 --> 00:26:35,000
+Bruce is in the new model we're saying we will go at risk and and rebate the hardware and then earn it through monthly.
+
+192
+00:26:35,000 --> 00:26:49,000
+Supply orders through the pharmacy okay so that makes sense so you're saying someone gets a tube pump they try it they don't love it so then they put that on pause they put it in their closet and then they start getting a pump over.
+
+193
+00:26:49,000 --> 00:26:57,000
+Pharmacy benefits and they're using that so essentially the insurance company has not only paid for that to pump but now they continue to pay for these.
+
+194
+00:26:57,000 --> 00:27:03,000
+Pumps that are coming through pharmacy which is totally a thing right now that's what I've done.
+
+195
+00:27:03,000 --> 00:27:16,000
+Now instead it would be a company like beta bionics that says no will lay out the money that give this device to that person and then if they decided to put it in their closet whatever.
+
+196
+00:27:16,000 --> 00:27:30,000
+We'll not whatever but you're essentially out that money would there and would there or why wouldn't there be a system in place where beta bionics says alright if you didn't like it.
+
+197
+00:27:30,000 --> 00:27:36,000
+You know give us just give you can just give us back the pump no charges here but like I mean.
+
+198
+00:27:37,000 --> 00:27:44,000
+I mean couldn't you use it like why wouldn't you want it back oh I guess that there's incentive if they still have it to go back on it.
+
+199
+00:27:44,000 --> 00:27:50,000
+Yeah I think in pharmacy there's no returns right so it's again that CME.
+
+200
+00:27:50,000 --> 00:28:06,000
+Yeah so yeah so it's kind of a catch 22 as it sits today that we wouldn't get it right back but maybe there's a situation where it's really the core thing of it is like does the manufacturer believe in the product.
+
+201
+00:28:06,000 --> 00:28:21,000
+Do they think you're going to fall in love with it and if you do you'll go at risk and if you don't maybe you know maybe it's not a product issue maybe it's a cost of goods issue so for us we kind of look at it and say.
+
+202
+00:28:21,000 --> 00:28:37,000
+I mean a lot of the folks end up loving it so we're going to earn our money back and today that's what has borne out so for us we we feel like it's good value we think don't be more and more that that emulate.
+
+203
+00:28:38,000 --> 00:28:57,000
+Yeah and correct me from wrong like the pump itself isn't necessarily worth like $8000 the money that you're paying is going toward the R&D right or like all of the money that's gone into making this device but like you can't tell me that these mechanics are worth you know $9000.
+
+204
+00:28:57,000 --> 00:29:07,000
+I don't know what everyone's tags are right like and I don't know that I would want to like disclose it but at the end of the day you want to be really thoughtful.
+
+205
+00:29:07,000 --> 00:29:20,000
+Every manufacturer does around how we build these things make sure they we can get the best technology into them at a cost of the issue of way so that we can get more and more people.
+
+206
+00:29:20,000 --> 00:29:28,000
+You know it with great time and range that's really like kind of the credo of being here at that bit of a annex so.
+
+207
+00:29:28,000 --> 00:29:41,000
+Today's episode is sponsored by T1D Exchange. You can directly make an impact on diabetes health care treatments and technology by participating in the T1D Exchange registry.
+
+208
+00:29:41,000 --> 00:29:52,000
+It starts with the simple survey about your life with T1D and it only takes about 15 minutes after that you'll have a personal portal with ongoing T1D study and survey opportunities.
+
+209
+00:29:52,000 --> 00:30:09,000
+Plus some of these studies even offer compensation signing up with the link in the show notes help support my channel and it allows me to continue putting out free content you can sign up at t1dxchange dot org slash diabetic or click that link in today show notes.
+
+210
+00:30:09,000 --> 00:30:19,000
+I do want to get into how patients will see this on their end because I do see the benefits here but I also see potential downfalls.
+
+211
+00:30:19,000 --> 00:30:25,000
+First of all the benefit is accessibility right we kind of covered that a bit but.
+
+212
+00:30:25,000 --> 00:30:41,000
+This will be a much more accessible system in the sense that someone doesn't have to lay out five plus thousand dollars whatever it is or nine hundred bucks in my case immediately but they could just you know pay twenty five bucks a month and then.
+
+213
+00:30:41,000 --> 00:30:51,000
+Put a pause on it they want to go to MDI for a second go back to pumps whatever are there other.
+
+214
+00:30:51,000 --> 00:30:58,000
+Are there areas that this is opening up accessibility wise other than kind of that.
+
+215
+00:30:58,000 --> 00:31:06,000
+Yeah, I mean I think with with obviously with with type two's that's always been what you hear about with.
+
+216
+00:31:07,000 --> 00:31:17,000
+When you listen to an army pot earnings call as they're really dead set on on attacking that market because of the size so I think if you're asking.
+
+217
+00:31:17,000 --> 00:31:26,000
+A primary care to work with the DNA for an order it can be challenging that's just not a primary care physicians not really equipped they don't.
+
+218
+00:31:26,000 --> 00:31:29,000
+The staff that the paperwork faxing.
+
+219
+00:31:29,000 --> 00:31:45,000
+And when you think about how quickly claims are adjudicated through pharmacy, it's usually an EHR script and then it comes and it's pretty much within a few days you're going to get the product versus you know the DMA which is going to be.
+
+220
+00:31:45,000 --> 00:31:50,000
+Yeah, you know one two five six week or deal.
+
+221
+00:31:50,000 --> 00:32:03,000
+Yeah, and then I'm sure if you think about it like you know many type ones feel that the pump is so necessary for their everyday life but I can imagine that there are a lot of people with type two that.
+
+222
+00:32:03,000 --> 00:32:13,000
+Don't feel that way necessarily so their ability to say oh sure I'll pay a copay of twenty five fifty bucks to try something out.
+
+223
+00:32:13,000 --> 00:32:22,000
+They're much more willing to do that than oh yeah sure I'll throw out nine hundred dollars for something I'm not really sure I want to use and yes there's return policy but.
+
+224
+00:32:22,000 --> 00:32:29,000
+The idea of laying out that money immediately is not the most exciting thing for people.
+
+225
+00:32:29,000 --> 00:32:36,000
+You know it and when you zoom out and look at like the diabetes like wallet right so.
+
+226
+00:32:36,000 --> 00:32:48,000
+In the US the average person costs about fifteen thousand dollars a year for care someone with type one is going to be in that twenty five thousand dollar range right and so.
+
+227
+00:32:48,000 --> 00:32:57,000
+Then think about like your super user so people that are highly engaged use a CGM use a pump are all like all and on taking care of themselves.
+
+228
+00:32:57,000 --> 00:33:02,000
+It can be forty or fifty five thousand dollars a year right and.
+
+229
+00:33:02,000 --> 00:33:10,000
+How much spendable income do they have so if you think about forty thousand dollars a year spending taking care of yourself.
+
+230
+00:33:10,000 --> 00:33:19,000
+In your responsibility of that is seventy two hundred dollars you know you're out of pockets roughly eighteen percent of that.
+
+231
+00:33:19,000 --> 00:33:28,000
+That's that's pretty expensive that's an extra you know six hundred dollars a month on care and I'm sure you feel that right like it's.
+
+232
+00:33:28,000 --> 00:33:35,000
+And so in CGM supplies and then that does include your appointments right so.
+
+233
+00:33:35,000 --> 00:33:45,000
+How much more money is there in your wallet to extract and I think we think a lot about that at beta bionics is.
+
+234
+00:33:45,000 --> 00:33:49,000
+How do we bring these technologies.
+
+235
+00:33:49,000 --> 00:33:54,000
+To market in a way that we can get them to the people without.
+
+236
+00:33:54,000 --> 00:34:06,000
+Kind of adding to that burden so it's a very weird space when you think about nine hundred twelve hundred eighteen dollars out of pocket.
+
+237
+00:34:06,000 --> 00:34:15,000
+That that does not help the case to just to kind of make sure those folks have more spendable income with this new model.
+
+238
+00:34:15,000 --> 00:34:18,000
+Does it affect people.
+
+239
+00:34:19,000 --> 00:34:22,000
+You know who don't have insurance.
+
+240
+00:34:22,000 --> 00:34:30,000
+Does it affect their kind of out of pocket any differently does it make it any easier for someone who.
+
+241
+00:34:30,000 --> 00:34:38,000
+Maybe they just kind of lost their health insurance and they they go three months without it but still want to get three months supplies.
+
+242
+00:34:38,000 --> 00:34:40,000
+How would this look.
+
+243
+00:34:40,000 --> 00:34:43,000
+For them or would it look any differently.
+
+244
+00:34:43,000 --> 00:34:53,000
+Because they wouldn't have health insurance they're not going to have like pdm coverage but they still may be able and I don't know for for sure but they would have to check to see.
+
+245
+00:34:53,000 --> 00:34:58,000
+Is there like a pdm card that they can get access to that would.
+
+246
+00:34:58,000 --> 00:35:04,000
+You know allow them whether it be like a good or X card to get access to.
+
+247
+00:35:04,000 --> 00:35:10,000
+Kind of the pdm rates I think the cash pays are still going to be.
+
+248
+00:35:10,000 --> 00:35:25,000
+You know pretty high but it would probably be the best way to go because there are no generics of all these products got you and you mentioned earlier you said so you said tiered and when you said it I cringe because I experienced.
+
+249
+00:35:25,000 --> 00:35:37,000
+I experienced tears in my own health insurance where I have a preferred insulin that my insurance company told me I needed to switch to it doesn't work for me.
+
+250
+00:35:37,000 --> 00:35:47,000
+It actually causes burning and then the other one they offered doesn't work either right so I got a prior off for a different insulin and.
+
+251
+00:35:47,000 --> 00:35:55,000
+They approved it but when I got the bill for the new insulin instead of the normal.
+
+252
+00:35:55,000 --> 00:36:01,000
+$155 for three months it went to $255 for three months.
+
+253
+00:36:01,000 --> 00:36:18,000
+I I guess I'm ignorant I didn't realize that that could even happen that something I am approved for by my doctor saying that your insolence don't work for me this one does that they can charge me so much more money for that insulin.
+
+254
+00:36:19,000 --> 00:36:31,000
+Could we see that with insulin pumps if all the insulin pumps go you know pharmacy benefits are we going to see oh that's the one you want actually that's going to cost you three times more like that almost sounds worse.
+
+255
+00:36:31,000 --> 00:36:40,000
+Yeah I think you you could see that down the road I know that all the manufacturers are really pushing against that to try to keep it.
+
+256
+00:36:40,000 --> 00:36:54,000
+You know similar parity today it's looking more you know like tier two versus tier three which is not significant you know it might be a 20 dollar out of pocket a month.
+
+257
+00:36:55,000 --> 00:37:07,000
+I think that the hope would be to try to keep that I think the fear is exactly what you said where you have kind of.
+
+258
+00:37:07,000 --> 00:37:17,000
+One company really goes after it for a preferred and then there's you got to try one pump to get to the next I think that would that's something we all.
+
+259
+00:37:17,000 --> 00:37:33,000
+Certainly want to avoid just because most of the manufacturers that I meet with I talked to really want pump choice back to the original what's you know which patient what do they do passed on it's the one that they choose so I don't.
+
+260
+00:37:33,000 --> 00:37:50,000
+You know as it's today I would say you know hopefully that's not the case but in a historical utilization management within the pharmacy channel that is kind of typically I would say the downsides of this move.
+
+261
+00:37:50,000 --> 00:38:11,000
+Yeah I mean choosing an insurance already feels like one of the most difficult tasks because there's this list of questions you need to ask oftentimes you don't even realize the questions you have to ask and I feel like so many of these companies run in a way that's oh well you can find that answer out once you have the insurance.
+
+262
+00:38:11,000 --> 00:38:18,000
+There's like no I want to know how much everything's going to cost so to me it sounds like there's there could be a new question.
+
+263
+00:38:18,000 --> 00:38:24,000
+In the future of oh and what pumps do you cover and what tiers are they which.
+
+264
+00:38:24,000 --> 00:38:34,000
+Honestly hurts a little bit because this whole insurance this whole insulin thing kind of hurt I was like whoa I'm paying an extra $200 every three months now for this insurance.
+
+265
+00:38:34,000 --> 00:38:42,000
+For my insulin I'd hate to see you know the pumps kind of go in that way and I'd hope that pump companies aren't having like.
+
+266
+00:38:42,000 --> 00:38:47,000
+Back door conversations with insurance companies creating deal like is that what's happening.
+
+267
+00:38:47,000 --> 00:38:51,000
+Is that how like how did tiers even happen.
+
+268
+00:38:51,000 --> 00:38:56,000
+Why do certain insurance companies have a tier one and tier three are they having like.
+
+269
+00:38:56,000 --> 00:39:02,000
+Conversations with these companies like oh we'll we'll support you tier one make it the cheapest option but.
+
+270
+00:39:02,000 --> 00:39:05,000
+Like in some sort of back door conversation.
+
+271
+00:39:05,000 --> 00:39:10,000
+It's not really even back door it's like you put in your bids you know and then.
+
+272
+00:39:10,000 --> 00:39:15,000
+I didn't auction now yeah our health is now is an auction I'm happy about that.
+
+273
+00:39:15,000 --> 00:39:27,000
+Yeah so everybody each manufacturer is going to put it in their bid and then have some discussions around like where you know you want to be or where you could potentially be I think you'll see.
+
+274
+00:39:27,000 --> 00:39:36,000
+Most of the manufacturers say you know we don't really want to be like a jerk on the end I think most people remember.
+
+275
+00:39:36,000 --> 00:39:39,000
+I was at tandem when metronic.
+
+276
+00:39:39,000 --> 00:39:42,000
+Did that exclusive deal with united healthcare and that was.
+
+277
+00:39:42,000 --> 00:39:46,000
+You know an outrage because you had 44 million.
+
+278
+00:39:46,000 --> 00:39:50,000
+You know UHC customers that could now I might get.
+
+279
+00:39:50,000 --> 00:39:59,000
+Metronic insulin pump and that went on for you know several years before that that was removed and what happened.
+
+280
+00:39:59,000 --> 00:40:04,000
+Well you know tandem eventually you know got coverage I think it was.
+
+281
+00:40:04,000 --> 00:40:08,000
+You know a few years later but it was just.
+
+282
+00:40:08,000 --> 00:40:13,000
+You know it was it was not good for anyone I was a lot of outrage in the community.
+
+283
+00:40:14,000 --> 00:40:24,000
+People that used UHC or employer groups and so I I would hope that after that experiment I think that was 2016.
+
+284
+00:40:24,000 --> 00:40:27,000
+I'm I'm an optimist by.
+
+285
+00:40:27,000 --> 00:40:34,000
+By you know by nature so I'm going to choose to say we're we're going to continue to have some sort of choice that's still affordable.
+
+286
+00:40:35,000 --> 00:40:44,000
+Someone told me and I I'd have to double check this that united healthcare was like dropping coverage for omnipot dash and focusing only on omnipot five.
+
+287
+00:40:44,000 --> 00:40:51,000
+A lot of people are still using dash with their you know DIY systems some people are just on dash and want to stay on it.
+
+288
+00:40:51,000 --> 00:40:55,000
+Do you think they've learned their lesson like what happened there you think.
+
+289
+00:40:55,000 --> 00:41:00,000
+Well I think from the last time to this time.
+
+290
+00:41:00,000 --> 00:41:10,000
+The the demand for demand for dash may not be as large as you know at that time when the UHC did that with metronica.
+
+291
+00:41:10,000 --> 00:41:15,000
+I think metronics maybe had 45 40% of the market so.
+
+292
+00:41:15,000 --> 00:41:21,000
+In this case I don't know that dash is getting that much utilization and so with a.
+
+293
+00:41:21,000 --> 00:41:27,000
+Somebody in the modeling department probably it after this is true probably looked at it and said.
+
+294
+00:41:27,000 --> 00:41:36,000
+We put those dashes in the omnipot five we can get more units and then get more utilization and maybe get better pricing.
+
+295
+00:41:36,000 --> 00:41:39,000
+Per unit right so.
+
+296
+00:41:39,000 --> 00:41:47,000
+That's kind of how they think it in modeling turns to be able to get a cheaper rate for.
+
+297
+00:41:47,000 --> 00:41:51,000
+For the number for the downstream customer yeah as a patient.
+
+298
+00:41:51,000 --> 00:41:56,000
+That frustrates me to hear right because it's just profits over care like.
+
+299
+00:41:56,000 --> 00:42:05,000
+The patients that are using dash are using it for reason many of them may be using it for DIY systems that give them the best outcomes so.
+
+300
+00:42:05,000 --> 00:42:10,000
+For the decision like that to be made without consulting your patients is.
+
+301
+00:42:10,000 --> 00:42:12,000
+As a gut punch and.
+
+302
+00:42:12,000 --> 00:42:14,000
+I hope that.
+
+303
+00:42:14,000 --> 00:42:20,000
+Isn't true that they're doing that but I mean that's it's what I heard or what could be happening so.
+
+304
+00:42:20,000 --> 00:42:26,000
+You know what to be completely transparent with all of the people that you made at a pdn are.
+
+305
+00:42:26,000 --> 00:42:38,000
+Very clinical their pharmacists and so like they would have to feel really strongly to to do it meaning like they must have looked at some clinical battle to say all right like.
+
+306
+00:42:38,000 --> 00:42:50,000
+Typically this is going to make more sense and so they kind of balance like I heard a clinician from one of the big pdm speak and she was like we look at everything clinically first.
+
+307
+00:42:50,000 --> 00:43:04,000
+And then we started making evaluations on either economics thereafter and so it had to have been a situation where they weren't getting much in terms of like utilization and then.
+
+308
+00:43:04,000 --> 00:43:14,000
+I get it like the their ability to know the nuances of the DIY and where people might be married to that technology I think is probably a different case right so.
+
+309
+00:43:14,000 --> 00:43:16,000
+No they would probably argue like.
+
+310
+00:43:16,000 --> 00:43:23,000
+They were driving down price right and that gives you a lower copay or gives you employer better.
+
+311
+00:43:23,000 --> 00:43:24,000
+Whatever it may be.
+
+312
+00:43:24,000 --> 00:43:27,000
+I don't care what the price my employer's paying.
+
+313
+00:43:28,000 --> 00:43:39,000
+I care the copay staying the same it you know that all the prices are in the background it's just I see the the front facing copay of course that affects premium so maybe I do care.
+
+314
+00:43:39,000 --> 00:43:42,000
+It all you know it all come back.
+
+315
+00:43:42,000 --> 00:43:50,000
+Are there any benefits to this whole shift of pharmacy benefits that we didn't quite cover that you know because we got kind of depressing a little bit.
+
+316
+00:43:50,000 --> 00:43:54,000
+Are there any other benefits that we didn't get that we didn't cover.
+
+317
+00:43:55,000 --> 00:44:05,000
+Yeah, I think just briefly covering you touched on as you know the technology piece of it's going to force everyone to be better and I think that's better for patients.
+
+318
+00:44:05,000 --> 00:44:18,000
+Lower copays again that's spendable wallet for the for people living with T1 days is important and then being able to continue to drive you know innovation so.
+
+319
+00:44:19,000 --> 00:44:23,000
+I'm really optimistic about it's really the reason I'm here.
+
+320
+00:44:23,000 --> 00:44:25,000
+It's the kind of.
+
+321
+00:44:25,000 --> 00:44:30,000
+I would say put a bow on and really the diabetes career for me I.
+
+322
+00:44:30,000 --> 00:44:43,000
+You know, you know, had to sit in front of families and positions and then I've set in front of health plans and then now I'm really on the PB on PBM and trying to to drive this through and.
+
+323
+00:44:43,000 --> 00:44:47,000
+But a lot of us are CEO Sean saint is a.
+
+324
+00:44:47,000 --> 00:44:52,000
+You know, a type one and, you know, for him.
+
+325
+00:44:52,000 --> 00:44:55,000
+I think he looks at this is as a calling as well.
+
+326
+00:44:55,000 --> 00:44:57,000
+So it's like.
+
+327
+00:44:57,000 --> 00:45:03,000
+Is it easy to use how much easier can we get it to you know, how and then is it affordable.
+
+328
+00:45:03,000 --> 00:45:06,000
+So being here at this time.
+
+329
+00:45:06,000 --> 00:45:10,000
+I think it's exciting times for for diabetes tech.
+
+330
+00:45:10,000 --> 00:45:19,000
+Yeah, I'm hopeful for it. I mean, there there are so many benefits to it and I think the innovation part of it and making all of the pumps so easily accessible.
+
+331
+00:45:19,000 --> 00:45:24,000
+In a way that all the companies feel like, oh, we got to work faster.
+
+332
+00:45:24,000 --> 00:45:35,000
+To, you know, make ourselves more desirable. We even had an episode with beta bionics about all the innovations that have been coming in moving quickly because.
+
+333
+00:45:35,000 --> 00:45:51,000
+You are doing a lot over there and I'd love to see that speed of innovation happen as quickly at other companies. So the idea of, you know, more, you know, fire under each of you and to to encourage you to be better.
+
+334
+00:45:51,000 --> 00:45:54,000
+You know, I'd love to see that.
+
+335
+00:45:54,000 --> 00:46:00,000
+For any patients or providers that are listening.
+
+336
+00:46:00,000 --> 00:46:10,000
+To as like the landscape changes, how can they know what is available to them via pharmacy benefits.
+
+337
+00:46:10,000 --> 00:46:17,000
+Yeah, I would reach out to their manufacturer or if they're interested in a manufacturer and want to try something else.
+
+338
+00:46:17,000 --> 00:46:22,000
+I would reach out to them and have them run your pharmacy benefits.
+
+339
+00:46:22,000 --> 00:46:27,000
+As it sits today, right, like you can kind of move around, you may see.
+
+340
+00:46:27,000 --> 00:46:32,000
+You know, we're at turns into like a year commitment. That's not really going to be anything from us.
+
+341
+00:46:32,000 --> 00:46:36,000
+It's probably just more as the channel muchers.
+
+342
+00:46:36,000 --> 00:46:47,000
+But as it sits today, I would reach out to your manufacturer and say, will you run my pharmacy benefits? I'd like to try the island or I'd like to try this device.
+
+343
+00:46:47,000 --> 00:46:53,000
+Thanks, Jeff. This was this was an awesome conversation. I'm hopeful. I'm cautiously optimistic.
+
+344
+00:46:53,000 --> 00:47:03,000
+I see a lot of good here, and I'm excited to kind of, I'm excited for myself to have more options to be able to switch around and make more fun videos.
+
+345
+00:47:03,000 --> 00:47:05,000
+So thanks again for coming on.
+
+346
+00:47:05,000 --> 00:47:11,000
+Yeah, thanks for having me and always reach out with any questions. I love what you're doing.
+
+347
+00:47:11,000 --> 00:47:19,000
+I obviously now I'm a loyal follower, and so it's my family. So my family. So my family.
+
+348
+00:47:19,000 --> 00:47:22,000
+Yeah, no, we enjoy it. Thank you for doing the work.
+
+349
+00:47:22,000 --> 00:47:24,000
+I love it. Of course.
+
+350
+00:47:24,000 --> 00:47:30,000
+Thanks for listening. I hope you enjoyed the episode. Let me know what your thoughts are on this shift in the comments.
+
+351
+00:47:30,000 --> 00:47:33,000
+What is your experience been with DME and Pharmacy benefits?
+
+352
+00:47:33,000 --> 00:47:38,000
+I want to hear your pros and cons. Maybe that even becomes like this bigger video where I shared your comments.
+
+353
+00:47:38,000 --> 00:47:45,000
+New episode to this release every Monday on podcast platforms and on YouTube and video. I'm Justin, and I'll see you next week.
+
