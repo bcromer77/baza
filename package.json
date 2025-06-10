@@ -1,14 +1,17 @@
 {
   "name": "creator-torch-unzipped",
   "version": "1.0.0",
+  "type": "module",
   "description": "**The world's first audience-first intelligence engine.**",
-  "main": "match.js",
+  "main": "server.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -22,6 +25,27 @@
   },
   "homepage": "https://github.com/bcromer77/baza#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "@radix-ui/react-icons": "^1.3.2",
+    "@radix-ui/react-slot": "^1.2.3",
+    "class-variance-authority": "^0.7.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "framer-motion": "^12.16.0",
+    "lucide-react": "^0.513.0",
+    "mongodb": "^6.17.0",
+    "openai": "^5.1.1",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.6",
+    "autoprefixer": "^10.4.21",
+    "next": "^15.3.3",
+    "postcss": "^8.5.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.1.8",
+    "typescript": "5.8.3"
   }
 }

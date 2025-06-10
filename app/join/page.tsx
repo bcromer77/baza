@@ -5,12 +5,15 @@ import { useRouter } from "next/navigation";
 import PhylloConnect from "@/components/phyllo-connect";
 
 export default function JoinPage() {
-  const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [persona, setPersona] = useState<"creator" | "brand">("creator");
+  const router = useRouter();
+
+  const [username, setUsername] = useState("");
+  const [phoneNumber, setPhoneNumber] = useState("");
+  const [instagram, setInstagram] = useState("");
+  const [tiktok, setTiktok] = useState("");
+  const [youtube, setYoutube] = useState("");
   const [sdkToken, setSdkToken] = useState("");
   const [phylloReady, setPhylloReady] = useState(false);
-  const router = useRouter();
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -18,10 +21,14 @@ export default function JoinPage() {
     try {
       const res = await fetch("http://localhost:5000/api/auth/signup", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ name, email, persona })
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          username,
+          phoneNumber,
+          instagram,
+          tiktok,
+          youtube,
+        }),
       });
 
       const data = await res.json();
@@ -35,11 +42,11 @@ export default function JoinPage() {
           router.push(`/creator-studio?user_id=${data.userId}`);
         }, 3000);
       } else {
-        alert(data.message || "Signup failed");
+        alert(data.message || "Signup failed.");
       }
     } catch (err) {
       console.error("Signup error:", err);
-      alert("Something went wrong while signing up.");
+      alert("Something went wrong.");
     }
   };
 
@@ -54,29 +61,44 @@ export default function JoinPage() {
         <input
           type="text"
           placeholder="Your name"
-          value={name}
-          onChange={(e) => setName(e.target.value)}
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
           required
           className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
         />
 
         <input
-          type="email"
-          placeholder="you@example.com"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
+          type="text"
+          placeholder="Phone number"
+          value={phoneNumber}
+          onChange={(e) => setPhoneNumber(e.target.value)}
           required
           className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
         />
 
-        <select
-          value={persona}
-          onChange={(e) => setPersona(e.target.value as any)}
-          className="w-full p-3 rounded bg-zinc-800 text-white"
-        >
-          <option value="creator">I'm a Creator</option>
-          <option value="brand">I'm a Brand</option>
-        </select>
+        <input
+          type="url"
+          placeholder="Instagram URL"
+          value={instagram}
+          onChange={(e) => setInstagram(e.target.value)}
+          className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
+        />
+
+        <input
+          type="url"
+          placeholder="TikTok URL"
+          value={tiktok}
+          onChange={(e) => setTiktok(e.target.value)}
+          className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
+        />
+
+        <input
+          type="url"
+          placeholder="YouTube URL"
+          value={youtube}
+          onChange={(e) => setYoutube(e.target.value)}
+          className="w-full p-3 rounded bg-zinc-800 text-white placeholder-zinc-500"
+        />
 
         <button
           type="submit"
@@ -89,7 +111,7 @@ export default function JoinPage() {
       {phylloReady && (
         <PhylloConnect
           sdkToken={sdkToken}
-          onSuccess={() => console.log("Phyllo success")}
+          onSuccess={() => console.log("✅ Phyllo onboarding complete")}
         />
       )}
     </div>

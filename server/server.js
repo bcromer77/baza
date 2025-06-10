@@ -2,9 +2,8 @@ const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
-const mentionsIndexRoute = require("./routes/mentionsIndex");
 
-// Load environment variables
+// ✅ Load environment variables
 dotenv.config();
 
 const app = express();
@@ -23,12 +22,17 @@ mongoose.connect(MONGO_URI, {
 .then(() => console.log('✅ MongoDB connected'))
 .catch(err => console.error('❌ MongoDB error:', err));
 
-// ✅ Routes
-app.use("/api/suggested-event", require("./routes/suggestedEvent"));
-app.use("/api", mentionsIndexRoute);
-app.use("/api/image-card", require("./routes/imageCard"));
-app.use("/api/match-retreats", require("./routes/matchRetreat")); // ✅ Dream Matchmaker
-app.use("/api/matches", require("./routes/match")); // ✅ Only once
+// ✅ Import Routes
+const authRoute = require('./routes/authRoute');
+const mentionsIndexRoute = require('./routes/mentionsIndex');
+
+// ✅ Use Routes
+app.use('/api/auth', authRoute); // 🔑 Sign-up & onboarding
+app.use('/api/suggested-event', require('./routes/suggestedEvent'));
+app.use('/api', mentionsIndexRoute);
+app.use('/api/image-card', require('./routes/imageCard'));
+app.use('/api/match-retreats', require('./routes/matchRetreat')); // ✅ Dream Matchmaker
+app.use('/api/matches', require('./routes/match')); // ✅ Only once
 
 // ✅ Test Route
 app.get('/', (req, res) => {

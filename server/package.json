@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -31,3 +32,4 @@
     "ts-node": "^10.9.2"
   }
 }
+

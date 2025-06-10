@@ -13,8 +13,8 @@ router.post('/', async (req, res) => {
     topic: "travel",
     suggestion: "Why not host a sunset supper club on Nazaré’s beach?",
     sentiment: "positive",
-    matchedBrands: ["GoPro", "Patagonia", "Visit Portugal"],
-    earnings: "Potential Earnings: $18,000 (after 10% commission)"
+    matchedTags: ["adventure", "retreats", "Portugal"],
+    earnings: "Potential Earnings: €1,800 (estimate after fees)"
   });
 });
 

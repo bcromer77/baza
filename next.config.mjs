@@ -1,12 +1,5 @@
-let userConfig = undefined
-try {
-  userConfig = await import('./v0-user-next.config')
-} catch (e) {
-  // ignore error
-}
-
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+let nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -17,32 +10,33 @@ const nextConfig = {
     unoptimized: true,
   },
   experimental: {
-    webpackBuildWorker: true,
-    parallelServerBuildTraces: true,
-    parallelServerCompiles: true,
+    webpackBuildWorker: true
+    // Do NOT include parallelServerBuildTraces or parallelServerCompiles – they are invalid
   },
+};
+
+// Optional: attempt to import a user override config (for custom builds)
+let userConfig;
+try {
+  userConfig = await import('./v0-user-next.config.mjs');
+  userConfig = userConfig.default || userConfig; // ESM default export support
+  mergeConfig(nextConfig, userConfig);
+} catch (e) {
+  // No override, safe to ignore
 }
 
-mergeConfig(nextConfig, userConfig)
-
-function mergeConfig(nextConfig, userConfig) {
-  if (!userConfig) {
-    return
-  }
-
-  for (const key in userConfig) {
-    if (
-      typeof nextConfig[key] === 'object' &&
-      !Array.isArray(nextConfig[key])
-    ) {
-      nextConfig[key] = {
-        ...nextConfig[key],
-        ...userConfig[key],
-      }
+function mergeConfig(base, override) {
+  for (const key in override) {
+    if (typeof base[key] === 'object' && !Array.isArray(base[key])) {
+      base[key] = {
+        ...base[key],
+        ...override[key],
+      };
     } else {
-      nextConfig[key] = userConfig[key]
+      base[key] = override[key];
     }
   }
 }
 
-export default nextConfig
+export default nextConfig;
+

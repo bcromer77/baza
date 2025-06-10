@@ -1,85 +1,33 @@
-.env
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
 # Node
 node_modules/
-.env.local
 .next/
-dist/
-build/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+out/
+npm-debug.log
 
-# OS
-.DS_Store
-
-# Docker / Whisper / Model files
-*.whl
-*.pt
-*.pkl
-*.h5
-*.ckpt
-*.mp4
-*.wav
-*.webm
-*.m4a
-*.zip
-*.tar.gz
-*.model
-Docker.raw
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Vercel
-.vercel/
-
-node_modules/
-.DS_Store
-*.log
-__pycache__/
-*.pyc
-.cache/
-*.weights
-Docker.raw
-*.pkg
-audiantix-codebase.zip
-audiantix-clean.zip
-.next
-# Node / Backend
-node_modules/
-.env
-.env.local
-
-# Logs
-logs/
-*.log
-
-# Data & Cache
-.cache/
-.next/
-dist/
-.DS_Store
-
-# Whisper / AI Assets
+# Audio + transcript output
+downloads/
+uploads/
 *.mp3
 *.wav
-*.mp4
-*.m4a
-whisper-models/
-scripts/__pycache__/
-__pycache__/
-
-# MongoDB / Dump files
-*.bson
-*.gz
+*.srt
+*.csv
+*.json
+*.log
 *.zip
 
-# Editor & OS junk
-*.swp
-*.swo
-.idea/
-.vscode/
+# Env + secrets
+.env
+.env.local
+process.env
 
-venv/
-*.mkv
+# System files
+.DS_Store
+.vscode/
+.idea/
+
