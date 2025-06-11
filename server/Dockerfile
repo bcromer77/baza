@@ -1,13 +1,23 @@
-# Dockerfile for Audiantix Express backend
+# Use official Node.js 18 base image
 FROM node:18
 
-WORKDIR /usr/src/app
+# Set working directory
+WORKDIR /app
 
-COPY . .
+# Copy package.json and lock file
+COPY package*.json ./
 
+# Install dependencies
 RUN npm install
 
+# Copy all other files
+COPY . .
+
+# Set environment variable for port
+ENV PORT=8080
+
+# Expose the port Cloud Run will listen on
 EXPOSE 8080
 
-CMD ["node", "index.js"]
-
+# Start the app (changed from index.js to server.js)
+CMD [ "node", "server.js" ]
